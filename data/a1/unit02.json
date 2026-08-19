@@ -1,0 +1,122 @@
+{
+  "id": "a1-u02",
+  "title": "Numbers, age, and telling time",
+  "objectives": [
+    "Count from 1 to 100 using native Tagalog numbers",
+    "Recognize and use the Spanish-derived numbers for time and everyday counting",
+    "Say your age and ask someone else's",
+    "Tell the time with alas- and ask Anong oras na?",
+    "Use classroom survival phrases: paki-, hindi ko maintindihan"
+  ],
+  "grammar": [
+    {
+      "title": "Native numbers 1 to 100",
+      "explanation": "The native Tagalog numbers 1–10 are: isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu. Learn these ten cold — everything else is built from them.\n\nThe teens add labing- in front: labing-isa (11), labindalawa (12), labintatlo (13) ... labinsiyam (19). (The spelling shifts slightly: labing- before vowels and l/w, labin- before d/t/s.)\n\nTens use -mpu: dalawampu (20), tatlumpu (30), apatnapu (40), limampu (50), animnapu (60), pitumpu (70), walumpu (80), siyamnapu (90), and sandaan or isang daan (100). To combine tens and ones, join them with 't (a shortened at, 'and'): dalawampu't isa (21), limampu't lima (55).\n\nWhen a number describes a noun, it takes the little linker -ng or na: isang guro (one teacher), dalawang estudyante (two students), sampung taon (ten years). For now just copy this pattern — the linker gets its own lesson in Unit 5.",
+      "examples": [
+        {"tl": "isa, dalawa, tatlo, apat, lima", "en": "one, two, three, four, five"},
+        {"tl": "labing-isa, labindalawa", "en": "eleven, twelve"},
+        {"tl": "dalawampu't isa", "en": "twenty-one"},
+        {"tl": "dalawang estudyante", "en": "two students"}
+      ]
+    },
+    {
+      "title": "Spanish numbers — and when Filipinos use which set",
+      "explanation": "Because of 300 years of Spanish rule, Tagalog has a second, Spanish-derived number set: uno, dos, tres, kuwatro, singko, sais, siyete, otso, nuwebe, diyes. Real Manila speech mixes the two sets by habit, not by rule of grammar but by topic.\n\nUse the SPANISH set for: clock time (alas-dos = two o'clock), prices in the market (dose pesos is heard alongside labindalawang piso), and often for age in casual speech.\n\nUse the NATIVE set for: counting objects (tatlong mansanas), and in more formal or written Tagalog.\n\nYou don't have to master big Spanish numbers at this level — but you must recognize uno to diyes, plus dose (12), because clocks only go to twelve.",
+      "examples": [
+        {"tl": "uno, dos, tres, kuwatro, singko", "en": "one, two, three, four, five (Spanish set)"},
+        {"tl": "alas-singko", "en": "five o'clock"},
+        {"tl": "sais, siyete, otso, nuwebe, diyes, onse, dose", "en": "six, seven, eight, nine, ten, eleven, twelve (Spanish set)"}
+      ]
+    },
+    {
+      "title": "Telling time with alas-",
+      "explanation": "Clock time uses alas- plus a Spanish number: alas-dos (2 o'clock), alas-otso (8 o'clock). One o'clock is special: ala-una (from Spanish 'a la una').\n\nTo ask the time: Anong oras na? — 'What time is it (already)?' The particle na means 'already/now' and is almost always included. A typical answer: Alas-tres na po — 'It's three o'clock.'\n\nTo say morning/afternoon/evening, add ng + part of day: alas-otso ng umaga (8 a.m.), ala-una ng hapon (1 p.m.), alas-siyete ng gabi (7 p.m.). Half past uses y medya: alas-dos y medya (2:30).\n\nDon't translate 'it is' — Tagalog just states the time: Alas-dos na. Literally 'Two o'clock already.'",
+      "examples": [
+        {"tl": "Anong oras na po?", "en": "What time is it? (polite)"},
+        {"tl": "Alas-dos na po.", "en": "It's two o'clock (polite)."},
+        {"tl": "Ala-una ng hapon.", "en": "One o'clock in the afternoon."},
+        {"tl": "Alas-otso y medya ng umaga.", "en": "Eight thirty in the morning."}
+      ]
+    },
+    {
+      "title": "Survival phrases: paki- requests and 'I don't understand'",
+      "explanation": "Stick paki- in front of an action word and you get a polite request — Tagalog's built-in 'please': pakiulit (please repeat), pakibagal (please slow down). Add po and lang ('just') to soften further: Pakiulit po. Pakibagalan lang po.\n\nThe most important learner sentence in this whole course is Hindi ko maintindihan — 'I don't understand.' Learn it as a fixed chunk; the word ko means 'I/my' in a second pronoun set you'll study properly in Unit 4.\n\nIts partners: Hindi ko alam — 'I don't know', and Sandali lang po — 'Just a moment, please.' With these plus pakiulit, you can survive any conversation that runs ahead of you.",
+      "examples": [
+        {"tl": "Pakiulit po.", "en": "Please repeat that (polite)."},
+        {"tl": "Hindi ko po maintindihan.", "en": "I don't understand (polite)."},
+        {"tl": "Hindi ko alam.", "en": "I don't know."},
+        {"tl": "Sandali lang po.", "en": "Just a moment, please."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "isa", "en": "one", "pos": "number", "example": {"tl": "Isang guro siya.", "en": "He is one (a) teacher."}},
+    {"tl": "dalawa", "en": "two", "pos": "number", "example": {"tl": "Dalawang estudyante sila.", "en": "They are two students."}},
+    {"tl": "tatlo", "en": "three", "pos": "number", "example": {"tl": "Tatlo kami.", "en": "There are three of us."}},
+    {"tl": "apat", "en": "four", "pos": "number", "example": {"tl": "Apat sila.", "en": "There are four of them."}},
+    {"tl": "lima", "en": "five", "pos": "number", "example": {"tl": "Limang taon na siya.", "en": "He is five years old."}},
+    {"tl": "anim", "en": "six", "pos": "number", "example": {"tl": "Anim na estudyante sila.", "en": "They are six students."}},
+    {"tl": "pito", "en": "seven", "pos": "number", "example": {"tl": "Pito kami sa bahay.", "en": "There are seven of us at home."}},
+    {"tl": "walo", "en": "eight", "pos": "number", "example": {"tl": "Walong taon na ang kapatid ko.", "en": "My sibling is eight years old."}},
+    {"tl": "siyam", "en": "nine", "pos": "number", "example": {"tl": "Siyam na taon na siya.", "en": "She is nine years old."}},
+    {"tl": "sampu", "en": "ten", "pos": "number", "example": {"tl": "Sampung taon na ako noon.", "en": "I was ten years old then."}},
+    {"tl": "labing-isa", "en": "eleven", "pos": "number", "note": "Teens = labing-/labin- + number: labindalawa 12, labintatlo 13", "example": {"tl": "Labing-isang taon na siya.", "en": "She is eleven years old."}},
+    {"tl": "dalawampu", "en": "twenty", "pos": "number", "note": "Tens end in -mpu/-napu: tatlumpu 30, apatnapu 40, limampu 50", "example": {"tl": "Dalawampung taon na ako.", "en": "I am twenty years old."}},
+    {"tl": "dalawampu't isa", "en": "twenty-one", "pos": "number", "note": "'t joins tens and ones: limampu't lima = 55", "example": {"tl": "Dalawampu't isang taon na siya.", "en": "He is twenty-one years old."}},
+    {"tl": "sandaan", "en": "one hundred", "pos": "number", "note": "Also isang daan", "example": {"tl": "Sandaan ang estudyante sa eskuwela.", "en": "There are a hundred students at the school."}},
+    {"tl": "uno", "en": "one (Spanish set)", "pos": "number", "example": {"tl": "Uno, dos, tres!", "en": "One, two, three!"}},
+    {"tl": "dos", "en": "two (Spanish set)", "pos": "number", "example": {"tl": "Alas-dos na po.", "en": "It's two o'clock."}},
+    {"tl": "tres", "en": "three (Spanish set)", "pos": "number", "example": {"tl": "Alas-tres ng hapon.", "en": "Three in the afternoon."}},
+    {"tl": "kuwatro", "en": "four (Spanish set)", "pos": "number", "example": {"tl": "Alas-kuwatro na ba?", "en": "Is it four o'clock already?"}},
+    {"tl": "singko", "en": "five (Spanish set)", "pos": "number", "example": {"tl": "Alas-singko ng hapon.", "en": "Five in the afternoon."}},
+    {"tl": "sais", "en": "six (Spanish set)", "pos": "number", "example": {"tl": "Alas-sais ng umaga.", "en": "Six in the morning."}},
+    {"tl": "siyete", "en": "seven (Spanish set)", "pos": "number", "example": {"tl": "Alas-siyete ng gabi.", "en": "Seven in the evening."}},
+    {"tl": "otso", "en": "eight (Spanish set)", "pos": "number", "example": {"tl": "Alas-otso y medya ng umaga.", "en": "Eight thirty in the morning."}},
+    {"tl": "nuwebe", "en": "nine (Spanish set)", "pos": "number", "example": {"tl": "Alas-nuwebe na po.", "en": "It's nine o'clock."}},
+    {"tl": "diyes", "en": "ten (Spanish set)", "pos": "number", "note": "Then onse 11, dose 12 — clocks stop at dose", "example": {"tl": "Alas-diyes ng gabi.", "en": "Ten in the evening."}},
+    {"tl": "alas-", "en": "o'clock (before a Spanish number)", "pos": "particle", "note": "One o'clock is ala-una", "example": {"tl": "Alas-otso na po.", "en": "It's eight o'clock."}},
+    {"tl": "y medya", "en": "half past (on the clock)", "pos": "phrase", "example": {"tl": "Alas-dos y medya na.", "en": "It's half past two."}},
+    {"tl": "oras", "en": "time; hour", "pos": "noun", "example": {"tl": "Anong oras na po?", "en": "What time is it? (polite)"}},
+    {"tl": "anong oras na?", "en": "what time is it?", "pos": "phrase", "example": {"tl": "Anong oras na? — Alas-tres na.", "en": "What time is it? — It's three o'clock."}},
+    {"tl": "taon", "en": "year", "pos": "noun", "example": {"tl": "Dalawampung taon na ako.", "en": "I am twenty years old."}},
+    {"tl": "ilang taon ka na?", "en": "how old are you?", "pos": "phrase", "note": "Literally 'how many years are you already?'", "example": {"tl": "Ilang taon ka na? — Labing-walong taon na ako.", "en": "How old are you? — I'm eighteen."}},
+    {"tl": "tanghali", "en": "noon, midday", "pos": "noun", "example": {"tl": "Alas-dose na ng tanghali.", "en": "It's twelve noon."}},
+    {"tl": "paki-", "en": "please (request prefix)", "pos": "particle", "example": {"tl": "Pakibagalan lang po.", "en": "Please slow down a bit."}},
+    {"tl": "pakiulit", "en": "please repeat", "pos": "phrase", "example": {"tl": "Pakiulit po. Mabagal lang po.", "en": "Please repeat it. Slowly please."}},
+    {"tl": "hindi ko maintindihan", "en": "I don't understand", "pos": "phrase", "example": {"tl": "Pasensya na po, hindi ko po maintindihan.", "en": "Sorry, I don't understand (polite)."}},
+    {"tl": "hindi ko alam", "en": "I don't know", "pos": "phrase", "example": {"tl": "Hindi ko po alam.", "en": "I don't know (polite)."}}
+  ],
+  "dialogue": {
+    "title": "In Tagalog class",
+    "context": "Kate, an American student, is in her first Tagalog class with Teacher Reyes.",
+    "lines": [
+      {"speaker": "G. Reyes", "tl": "Magandang umaga sa inyong lahat! Kumusta kayo?", "en": "Good morning, everyone! How are you all?"},
+      {"speaker": "Kate", "tl": "Magandang umaga po! Mabuti naman po.", "en": "Good morning! We're fine."},
+      {"speaker": "G. Reyes", "tl": "Kate, ilang taon ka na?", "en": "Kate, how old are you?"},
+      {"speaker": "Kate", "tl": "Pakiulit po. Hindi ko po maintindihan.", "en": "Please repeat that. I don't understand."},
+      {"speaker": "G. Reyes", "tl": "Sige. I-lang ta-on ka na? Mabagal, ha.", "en": "Okay. How - old - are - you? Slowly, alright."},
+      {"speaker": "Kate", "tl": "Ah! Dalawampu't isang taon na po ako.", "en": "Ah! I'm twenty-one years old."},
+      {"speaker": "G. Reyes", "tl": "Mabuti! Anong oras na, Kate?", "en": "Good! What time is it, Kate?"},
+      {"speaker": "Kate", "tl": "Sandali lang po... Alas-nuwebe y medya na po ng umaga.", "en": "Just a moment... It's nine thirty in the morning."},
+      {"speaker": "G. Reyes", "tl": "Tama! At anong oras na sa Amerika?", "en": "Correct! And what time is it in America?"},
+      {"speaker": "Kate", "tl": "Hindi ko po alam! Alas-nuwebe ng gabi?", "en": "I don't know! Nine in the evening?"},
+      {"speaker": "G. Reyes", "tl": "Oo, tama. Maraming salamat, Kate.", "en": "Yes, correct. Thank you very much, Kate."},
+      {"speaker": "Kate", "tl": "Walang anuman po!", "en": "You're welcome!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "What is 'five' in the native Tagalog number set?", "choices": ["singko", "lima", "pito", "sais"], "answer": 1, "explain": "Lima is native Tagalog; singko is the Spanish-derived word for five, used mainly for time and prices."},
+    {"type": "mcq", "prompt": "Which number set do Filipinos use for clock time?", "choices": ["The native set (isa, dalawa...)", "The Spanish set (uno, dos...)", "Either, chosen at random", "English only"], "answer": 1, "explain": "Clock time always uses the Spanish set with alas-: alas-dos, alas-tres, and so on."},
+    {"type": "fill", "prompt": "Count on: walo, siyam, ___ (8, 9, 10)", "answer": "sampu", "accept": ["sampu", "sampo"], "explain": "Sampu is ten; the teens then build on it with labing-: labing-isa, labindalawa..."},
+    {"type": "mcq", "prompt": "How do you say 'twenty-one'?", "choices": ["dalawampu isa", "dalawang isa", "dalawampu't isa", "labing-dalawampu"], "answer": 2, "explain": "Tens and ones are joined with 't (short for at, 'and'): dalawampu't isa."},
+    {"type": "fill", "prompt": "Anong oras na? (It's 3 o'clock.) — ___-tres na po.", "answer": "alas", "accept": ["alas"], "explain": "Clock hours take alas- plus the Spanish number: alas-tres. Only one o'clock differs: ala-una."},
+    {"type": "listen", "tl": "Alas-otso y medya na ng umaga.", "prompt": "What time is it?", "choices": ["8:00 p.m.", "8:30 a.m.", "7:30 a.m.", "8:30 p.m."], "answer": 1, "explain": "Alas-otso is eight o'clock, y medya adds the half hour, and ng umaga places it in the morning."},
+    {"type": "mcq", "prompt": "Someone asks: Ilang taon ka na? What do they want to know?", "choices": ["What time it is", "Where you are from", "How old you are", "How many siblings you have"], "answer": 2, "explain": "Ilang taon ka na? is literally 'how many years are you already?' — the standard way to ask age."},
+    {"type": "fill", "prompt": "You are 25. Complete: Dalawampu't limang ___ na ako.", "answer": "taon", "accept": ["taon"], "explain": "Age is stated as number + taon (years) + na: Dalawampu't limang taon na ako."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Please repeat that. I don't understand. (polite)", "answer": "Pakiulit po. Hindi ko po maintindihan.", "accept": ["Pakiulit po. Hindi ko po maintindihan", "Pakiulit po. Hindi ko maintindihan", "Pakiulit po, hindi ko po maintindihan"], "explain": "Paki- turns ulit (repeat) into a polite request, and Hindi ko maintindihan is the set phrase for 'I don't understand'."},
+    {"type": "listen", "tl": "Ilang taon ka na? — Labing-walong taon na po ako.", "prompt": "How old is the person answering?", "choices": ["8", "28", "80", "18"], "answer": 3, "explain": "Labing-walo is 18 (labing- + walo, eight). The answer means 'I'm eighteen years old.'"},
+    {"type": "translate", "direction": "tl2en", "prompt": "Anong oras na po? — Ala-una na po ng hapon.", "answer": "What time is it? — It's one in the afternoon.", "accept": ["What time is it? It's one in the afternoon", "What time is it? It is one o'clock in the afternoon", "What time is it? It's 1 p.m.", "What time is it? It's one pm"], "explain": "Ala-una (not alas-una) is one o'clock, and ng hapon marks the afternoon."},
+    {"type": "mcq", "prompt": "It's 12:00 and the sun is directly overhead. Which is the natural way to say it?", "choices": ["Alas-dose ng gabi.", "Alas-dose ng tanghali.", "Ala-una ng umaga.", "Alas-diyes ng hapon."], "answer": 1, "explain": "Tanghali is noon/midday, so twelve noon is alas-dose ng tanghali; ng gabi would mean midnight."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I am twenty years old. And you, how old are you?", "answer": "Dalawampung taon na ako. Ikaw, ilang taon ka na?", "accept": ["Dalawampung taon na ako. Ikaw, ilang taon ka na", "Dalawampung taon na po ako. Ikaw po, ilang taon ka na", "Dalawampung taon na ako. Ilang taon ka na"], "explain": "Number + -ng + taon + na states age (dalawampung taon na ako); ilang taon ka na? asks it back."}
+  ]
+}

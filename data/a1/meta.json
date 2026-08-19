@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "title": "Foundations",
+  "description": "After this level you can hold a simple, polite conversation in Tagalog: greet people, introduce yourself and your family, count and tell the time, order food, ask prices while shopping, say where things are, describe your daily routine in past, present and future, and ask basic questions with ano, sino, saan and kailan. You will understand the heart of Tagalog grammar — the ang/ng/sa marker system and verb aspect — well enough to build your own simple sentences.",
+  "canDo": [
+    "I can greet people politely, introduce myself, and say where I am from.",
+    "I can count to 100, say my age, and tell the time.",
+    "I can talk about my family and say what I have and don't have.",
+    "I can order food and drinks and say what I like and dislike.",
+    "I can describe everyday objects using colors and simple adjectives.",
+    "I can say where people and things are and where I am going.",
+    "I can describe my daily routine using verbs in past, present and future.",
+    "I can ask prices, buy things, and handle money in a market or store.",
+    "I can talk about the weather, days of the week, and dates.",
+    "I can ask and answer simple questions about myself and my immediate needs."
+  ],
+  "units": 10
+}

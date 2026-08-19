@@ -1,0 +1,130 @@
+{
+  "id": "b1-u08",
+  "title": "Building bigger sentences: relative clauses and embedded questions",
+  "objectives": [
+    "Describe people and things with na/-ng relative clauses (ang lalaking nakita ko)",
+    "Choose the right verb focus inside a relative clause",
+    "Turn verbs into nouns with pag- (ang pagdating, ang pagluluto)",
+    "Embed questions inside sentences with kung ano, kung sino, kung saan"
+  ],
+  "grammar": [
+    {
+      "title": "Relative clauses with na/-ng",
+      "explanation": "Tagalog attaches a describing clause to a noun with the same linker you use for adjectives: -ng after vowels (and n), na elsewhere. Ang batang umiiyak — the child who is crying. Ang librong binili ko — the book I bought. Ang bahay na ipinagawa nila — the house they had built.\n\nThe clause can come after the noun (ang lalaking matangkad) and many stative naka- words you already know slot straight in: ang babaeng nakasuot ng pula — the woman wearing red; ang lalaking nakaupo sa tabi ng pinto — the man seated by the door. This is how Filipinos point people out in a crowd, so it's worth drilling until automatic.\n\nEnglish uses 'who/which/that' plus word order; Tagalog uses only the linker, and the describing clause is a full verb clause with one thing missing — the noun being described. That missing-piece idea is the key to the next point.",
+      "examples": [
+        {"tl": "Kilala mo ba ang batang umiiyak sa labas?", "en": "Do you know the child who's crying outside?"},
+        {"tl": "Masarap ang adobong niluto ni Tatay.", "en": "The adobo Dad cooked is delicious."},
+        {"tl": "Sino ang babaeng nakasuot ng dilaw?", "en": "Who is the woman wearing yellow?"},
+        {"tl": "Nasa mesa ang mga papeles na kailangan mo.", "en": "The papers you need are on the table."},
+        {"tl": "Iyon ang gusaling pinagtatrabahuhan ko.", "en": "That's the building where I work."}
+      ]
+    },
+    {
+      "title": "Focus inside the relative clause — Unit 1 pays off",
+      "explanation": "Here's the rule that makes or breaks Tagalog relative clauses: the noun being described must be the ang-phrase of the verb inside the clause. So you pick the verb's focus to match the gap.\n\n'The man who bought the book' — the man is the buyer, an actor gap, so actor focus: ang lalaking bumili ng libro. 'The book the man bought' — the book is the thing bought, an object gap, so object focus: ang librong binili ng lalaki. Same event, two different relative clauses, two different focuses.\n\nMore: 'the store I bought bread from' has a locative gap, so -an: ang tindahang binilhan ko ng tinapay. 'The child I bought shoes for' has a benefactive gap, so i-: ang batang ibinili ko ng sapatos.\n\nEnglish speakers' instinct is to keep the verb in actor focus and say something like 'ang libro na ang lalaki ay bumili' — which is simply ungrammatical. There is no relative pronoun to rescue you; the focus system does that job. If you drill only one thing at B1, drill this transformation.\n\nRelative clauses can also stand alone without a head noun, meaning 'the one who / what': ang nagluto nito (the one who cooked this), ang sinabi mo (what you said), ang nangyari (what happened).",
+      "examples": [
+        {"tl": "Iyan ang lalaking bumili ng huling tiket.", "en": "That's the man who bought the last ticket."},
+        {"tl": "Nasaan na ang tiket na binili mo?", "en": "Where's the ticket you bought?"},
+        {"tl": "Malapit lang ang tindahang binilhan ko ng regalo.", "en": "The store I bought the gift from is nearby."},
+        {"tl": "Natuwa ang batang ibinili mo ng laruan.", "en": "The child you bought the toy for was delighted."},
+        {"tl": "Hindi ko naintindihan ang sinabi niya.", "en": "I didn't understand what he said."},
+        {"tl": "Siya ang nagturo sa akin ng Tagalog.", "en": "She's the one who taught me Tagalog."}
+      ]
+    },
+    {
+      "title": "Verbs into nouns: ang pag-",
+      "explanation": "To talk about an action as a thing — arriving, cooking, studying — Tagalog nominalizes the verb with pag-.\n\nFor -um- verbs, just pag- + root: dumating > ang pagdating (the arrival), umalis > ang pag-alis (the leaving), bumili > ang pagbili (the buying). For mag- verbs, pag- plus doubling of the root's first syllable: magluto > ang pagluluto (cooking), mag-aral > ang pag-aaral (studying), magbago > ang pagbabago (changing, change).\n\nThe doer attaches as a ng-phrase or possessive: ang pagdating ni Lola — Grandma's arrival; ang pagluluto niya — his cooking. These nouns slot anywhere a noun goes, which lets you pack two events into one sentence: Ikinagulat ko ang biglaang pag-alis nila — their sudden departure surprised me. Mahalaga ang pag-aaral ng wika — studying a language is important. Bawal ang paninigarilyo dito — smoking is banned here (a pang- variant you can just memorize as a word).\n\nYou already know pagkatapos (after + event). Now you can build the pattern yourself: pagkatapos ng kasal (after the wedding), bago ang pag-alis namin (before our departure).",
+      "examples": [
+        {"tl": "Inaabangan namin ang pagdating ng pakete.", "en": "We're waiting for the package's arrival."},
+        {"tl": "Sikat ang pagluluto ng nanay niya sa buong barangay.", "en": "His mother's cooking is famous in the whole barangay."},
+        {"tl": "Mahirap sa umpisa ang pag-aaral ng bagong wika.", "en": "Studying a new language is hard at the start."},
+        {"tl": "Malaki ang pagbabago ng bayan namin sa loob ng sampung taon.", "en": "Our town has changed a lot in ten years."},
+        {"tl": "Ipinagpaliban nila ang pag-alis dahil sa bagyo.", "en": "They postponed the departure because of the typhoon."}
+      ]
+    },
+    {
+      "title": "Embedded questions: kung ano, kung sino, kung saan",
+      "explanation": "To fold a question inside a statement — I don't know WHERE she lives, ask him WHEN they'll arrive — Tagalog puts kung in front of the question word: kung ano (what), kung sino (who), kung saan (where), kung kailan (when), kung paano (how), kung magkano (how much), kung bakit (why), kung alin (which).\n\nHindi ko alam kung saan siya nakatira — I don't know where she lives. Alam mo ba kung sino ang may-ari nito? — Do you know who owns this? Itinuro niya sa akin kung paano magluto ng sinigang — she showed me how to cook sinigang.\n\nFor yes/no questions ('whether'), use kung directly with the verb: Tanungin mo kung sasama siya — ask whether he's coming along. Hindi ko sigurado kung tama ito — I'm not sure if this is right.\n\nTwo traps. First, no ba inside embedded questions — ba belongs to real questions only: say Hindi ko alam kung sasama siya, never 'kung sasama ba siya'. Second, keep statement word order after kung: kung saan siya nakatira, not the question order 'kung saan nakatira siya' (you'll hear both, but the pronoun climbs next to kung saan in careful speech). These kung-clauses drop into any slot a noun fits — subject, object of alam, tanong, sabihin — so they combine beautifully with this unit's other patterns.",
+      "examples": [
+        {"tl": "Hindi ko alam kung saan siya nakatira ngayon.", "en": "I don't know where she lives now."},
+        {"tl": "Alam mo ba kung anong oras magsisimula ang miting?", "en": "Do you know what time the meeting starts?"},
+        {"tl": "Tanungin natin kung magkano ang upa.", "en": "Let's ask how much the rent is."},
+        {"tl": "Hindi pa sigurado kung tutuloy ang piknik bukas.", "en": "It's not yet certain whether the picnic will push through tomorrow."},
+        {"tl": "Sinabi ba niya kung bakit siya lumipat?", "en": "Did she say why she moved?"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "lumipat (um)", "en": "to move (residence), transfer", "pos": "verb", "note": "lumipat, lumilipat, lilipat", "example": {"tl": "Lumipat sila sa mas malaking bahay noong Hunyo.", "en": "They moved to a bigger house in June."}},
+    {"tl": "nakatira", "en": "living (in), residing", "pos": "adjective", "note": "naka- stative; nakatira sa = lives in", "example": {"tl": "Nakatira pa rin sila sa lumang bahay ng lolo nila.", "en": "They still live in their grandfather's old house."}},
+    {"tl": "nakasuot", "en": "wearing", "pos": "adjective", "note": "naka- stative; nakasuot ng pula = wearing red", "example": {"tl": "Siya ang lalaking nakasuot ng itim na jacket.", "en": "He's the man wearing the black jacket."}},
+    {"tl": "nakaupo", "en": "seated, sitting", "pos": "adjective", "example": {"tl": "Kilala mo ba ang babaeng nakaupo sa tabi ni Marco?", "en": "Do you know the woman seated next to Marco?"}},
+    {"tl": "nakatayo", "en": "standing", "pos": "adjective", "example": {"tl": "Ang lalaking nakatayo sa pinto ang bagong guwardiya.", "en": "The man standing at the door is the new guard."}},
+    {"tl": "pagdating", "en": "arrival", "pos": "noun", "note": "from dumating; pag- + root", "example": {"tl": "Ikinatuwa ng lahat ang pagdating ng mga pinsan.", "en": "Everyone was delighted by the cousins' arrival."}},
+    {"tl": "pag-alis", "en": "departure, leaving", "pos": "noun", "example": {"tl": "Biglaan ang pag-alis nila kaya hindi kami nakapagpaalam.", "en": "Their departure was sudden, so we couldn't say goodbye."}},
+    {"tl": "pag-aaral", "en": "studying, study", "pos": "noun", "note": "from mag-aral; pag- + doubled syllable", "example": {"tl": "Tinutulungan siya ng ate niya sa pag-aaral ng math.", "en": "Her big sister helps her with studying math."}},
+    {"tl": "pagluluto", "en": "cooking (the activity)", "pos": "noun", "example": {"tl": "Hilig niya ang pagluluto ng mga lumang recipe.", "en": "Cooking old recipes is her passion."}},
+    {"tl": "pagbabago", "en": "change", "pos": "noun", "example": {"tl": "Maraming pagbabago sa opisina simula noong Enero.", "en": "There have been many changes at the office since January."}},
+    {"tl": "may-ari", "en": "owner", "pos": "noun", "example": {"tl": "Mabait ang may-aring nagpapaupa ng apartment namin.", "en": "The owner renting out our apartment is kind."}},
+    {"tl": "empleyado", "en": "employee", "pos": "noun", "example": {"tl": "Sampu ang empleyadong nagtatrabaho sa tindahang iyon.", "en": "Ten employees work at that store."}},
+    {"tl": "kilala", "en": "known (to someone); well-known", "pos": "adjective", "note": "Kilala ko siya = I know him (a person); for facts use alam", "example": {"tl": "Kilala mo ba ang taong nakatira sa tapat?", "en": "Do you know the person who lives across the street?"}},
+    {"tl": "makilala (ma-)", "en": "to meet, get to know", "pos": "verb", "note": "nakilala, nakikilala, makikilala", "example": {"tl": "Nakilala ko ang asawa niya sa kasal ni Ana.", "en": "I met his wife at Ana's wedding."}},
+    {"tl": "dayuhan", "en": "foreigner", "pos": "noun", "example": {"tl": "Maraming dayuhang nag-aaral ng Tagalog ngayon.", "en": "Many foreigners are studying Tagalog these days."}},
+    {"tl": "matalik na kaibigan", "en": "close friend, best friend", "pos": "phrase", "example": {"tl": "Siya ang matalik kong kaibigan mula pa noong elementarya.", "en": "She's been my best friend since elementary school."}},
+    {"tl": "mangyari (ma-)", "en": "to happen", "pos": "verb", "note": "nangyari, nangyayari, mangyayari", "example": {"tl": "Walang nakakaalam kung ano talaga ang nangyari.", "en": "Nobody knows what really happened."}},
+    {"tl": "pangyayari", "en": "event, incident", "pos": "noun", "example": {"tl": "Pinag-uusapan pa rin ng mga tao ang pangyayaring iyon.", "en": "People are still talking about that incident."}},
+    {"tl": "sikreto", "en": "secret", "pos": "noun", "example": {"tl": "May sikreto raw siya na hindi niya sinasabi kahit kanino.", "en": "They say she has a secret she won't tell anyone."}},
+    {"tl": "katotohanan", "en": "truth", "pos": "noun", "example": {"tl": "Lumabas din ang katotohanan pagkatapos ng isang taon.", "en": "The truth came out after a year."}},
+    {"tl": "maintindihan (ma--an)", "en": "to understand", "pos": "verb", "note": "naintindihan, naiintindihan, maiintindihan", "example": {"tl": "Naiintindihan mo ba kung ano ang sinasabi nila?", "en": "Do you understand what they're saying?"}},
+    {"tl": "ibig sabihin", "en": "meaning; that means", "pos": "phrase", "note": "Ano ang ibig sabihin ng...? = What does ... mean?", "example": {"tl": "Ibig sabihin, kailangan nating maghintay hanggang Lunes.", "en": "That means we have to wait until Monday."}},
+    {"tl": "gusali", "en": "building", "pos": "noun", "example": {"tl": "Bago ang gusaling itinayo nila sa tabi ng plaza.", "en": "The building they put up beside the plaza is new."}},
+    {"tl": "artista", "en": "actor, celebrity", "pos": "noun", "example": {"tl": "Nakita namin ang artistang sikat sa teleserye.", "en": "We saw the actor who's famous from the soap opera."}},
+    {"tl": "tanawin", "en": "view, scenery", "pos": "noun", "example": {"tl": "Maganda ang tanawing nakikita mula sa bundok.", "en": "The view you can see from the mountain is beautiful."}},
+    {"tl": "ipagpaliban (i-)", "en": "to postpone", "pos": "verb", "note": "ipinagpaliban, ipinagpapaliban, ipagpapaliban", "example": {"tl": "Ipinagpaliban nila ang miting dahil sa bagyo.", "en": "They postponed the meeting because of the typhoon."}}
+  ],
+  "dialogue": {
+    "title": "Sa reunion",
+    "context": "At their high school reunion, Grace helps her husband Leo figure out who's who.",
+    "lines": [
+      {"speaker": "Leo", "tl": "Grace, sino ang lalaking nakasuot ng asul na polo?", "en": "Grace, who's the man wearing the blue polo shirt?"},
+      {"speaker": "Grace", "tl": "Iyan si Edwin, ang kaklase kong naging doktor. Siya ang nagbayad ng buong venue.", "en": "That's Edwin, my classmate who became a doctor. He's the one who paid for the whole venue."},
+      {"speaker": "Leo", "tl": "Ah! At sino naman ang babaeng nakaupo sa tabi ng may-ari ng restawran?", "en": "Ah! And who's the woman seated next to the restaurant owner?"},
+      {"speaker": "Grace", "tl": "Si Karen, ang matalik kong kaibigan noong high school. Lumipat sila sa Australia.", "en": "Karen, my best friend in high school. They moved to Australia."},
+      {"speaker": "Leo", "tl": "Kailan sila bumalik dito?", "en": "When did they come back here?"},
+      {"speaker": "Grace", "tl": "Hindi ko alam kung kailan sila dumating. Tanungin natin mamaya.", "en": "I don't know when they arrived. Let's ask later."},
+      {"speaker": "Leo", "tl": "May naririnig akong tsismis tungkol sa isang kaklase ninyong naging artista?", "en": "I've been hearing gossip about a classmate of yours who became an actor?"},
+      {"speaker": "Grace", "tl": "Totoo iyon! Pero hindi pa namin alam kung darating siya ngayong gabi.", "en": "That's true! But we don't know yet whether he's coming tonight."},
+      {"speaker": "Leo", "tl": "Sana dumating. Gusto kong makilala ang taong pinag-uusapan ng lahat.", "en": "I hope he comes. I want to meet the person everyone's talking about."},
+      {"speaker": "Grace", "tl": "Ay, tingnan mo! Iyan ang guro naming nagturo sa amin ng Filipino.", "en": "Oh, look! That's the teacher who taught us Filipino."},
+      {"speaker": "Leo", "tl": "Ang gurong laging kinukuwento mo? Batiin natin siya!", "en": "The teacher you're always telling stories about? Let's go greet her!"},
+      {"speaker": "Grace", "tl": "Oo. Dahil sa kaniya, minahal ko ang pag-aaral ng wika. Halika.", "en": "Yes. Because of her, I came to love studying language. Come on."}
+    ]
+  },
+  "reading": {
+    "title": "Ang barberong kilala ng lahat",
+    "tl": "Sa bayan namin, may barberong kilala ng lahat: si Mang Domeng, ang lalaking nagbubukas ng kaniyang maliit na barberya tuwing alas-sais ng umaga. Ang mga taong nagpapagupit sa kaniya ay hindi lang basta suki — halos pamilya na. Alam niya kung sino ang ikakasal sa susunod na buwan, kung saan lilipat ang pamilyang nakatira sa tabi ng simbahan, at kung bakit hindi pa umuuwi ang anak ng kapitan.\n\nPero may isang bagay na hindi alam ng mga tao: ang sikreto ng kaniyang mahabang buhay. Isang araw, tinanong ko siya kung ano ito. Tumawa lang siya habang hinahasa ang gunting na ginagamit niya nang tatlumpung taon. Ang sabi niya, ang pagtatrabahong minamahal mo ay hindi nakakapagod. Ang mga kuwentong naririnig ko araw-araw ang bitamina ko. Hanggang ngayon, iyon pa rin ang sagot na ibinibigay niya sa lahat ng nagtatanong.",
+    "en": "In our town, there's a barber everyone knows: Mang Domeng, the man who opens his little barbershop at six every morning. The people who get their hair cut by him aren't just regulars — they're practically family. He knows who is getting married next month, where the family living beside the church is moving, and why the captain's son hasn't come home yet.\n\nBut there's one thing people don't know: the secret of his long life. One day, I asked him what it was. He just laughed while sharpening the scissors he has used for thirty years. He said: work that you love is never tiring. The stories I hear every day are my vitamins. To this day, that's still the answer he gives everyone who asks.",
+    "gloss": [
+      {"tl": "barberya", "en": "barbershop"},
+      {"tl": "halos", "en": "almost, practically"},
+      {"tl": "kapitan", "en": "barangay captain (village head)"},
+      {"tl": "hinahasa", "en": "sharpening (from hasain)"},
+      {"tl": "gunting", "en": "scissors"},
+      {"tl": "bitamina", "en": "vitamins"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "'The book that Ana bought' is:", "choices": ["ang librong bumili si Ana", "ang librong binili ni Ana", "ang libro na si Ana ay bumili", "ang binili na libro ni Ana"], "answer": 1, "explain": "The book is the thing bought — an object gap — so the verb must be object focus: binili, with Ana demoted to ni Ana."},
+    {"type": "mcq", "prompt": "'The man who bought the book' is:", "choices": ["ang lalaking binili ng libro", "ang lalaking bumili ng libro", "ang lalaking binili ang libro", "ang bumili na lalaki ang libro"], "answer": 1, "explain": "The man is the buyer — an actor gap — so actor focus bumili, with the book as an indefinite ng-phrase."},
+    {"type": "fill", "prompt": "Masarap ang adobong ___ ni Tatay kagabi. (the adobo Dad cooked last night)", "answer": "niluto", "accept": ["niluto", "linuto"], "hint": "Object gap: the adobo is the thing cooked.", "explain": "The head noun adobo is the object of the cooking, so the relative verb is object focus completed: niluto."},
+    {"type": "fill", "prompt": "Hindi ko alam ___ saan siya nakatira. (I don't know where she lives.)", "answer": "kung", "accept": ["kung"], "hint": "The word that embeds a question.", "explain": "Embedded questions take kung before the question word: kung saan, kung sino, kung ano."},
+    {"type": "mcq", "prompt": "Which is the correct nominalization of mag-aral in 'Studying a language is fun'?", "choices": ["Masaya ang mag-aaral ng wika.", "Masaya ang pag-aaral ng wika.", "Masaya ang pagka-aral ng wika.", "Masaya ang aralin ng wika."], "answer": 1, "explain": "Mag- verbs nominalize with pag- + doubled first syllable: mag-aral > pag-aaral."},
+    {"type": "listen", "tl": "Kilala mo ba ang babaeng nakasuot ng berdeng damit na nakatayo sa may pinto?", "prompt": "Who is being asked about?", "choices": ["The woman in a green dress standing by the door", "The man in green sitting by the door", "The woman who owns a green door", "The child wearing green outside"], "answer": 0, "explain": "Two stacked relative clauses describe her: nakasuot ng berdeng damit (wearing a green dress) and nakatayo sa may pinto (standing by the door)."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Do you know who the owner of this building is?", "answer": "Alam mo ba kung sino ang may-ari ng gusaling ito?", "accept": ["Alam mo ba kung sino ang may-ari ng gusaling ito", "Alam mo ba kung sino ang may-ari nitong gusali", "Alam ba ninyo kung sino ang may-ari ng gusaling ito"], "explain": "The question 'sino ang may-ari?' embeds with kung: alam mo ba kung sino... Note ba stays in the main clause, never inside the kung-clause."},
+    {"type": "mcq", "prompt": "'Ask her whether she's coming along tomorrow.' Which is correct?", "choices": ["Tanungin mo siya kung sasama ba siya bukas.", "Tanungin mo siya kung sasama siya bukas.", "Tanungin mo siya na sasama siya bukas.", "Tanungin mo siya sasama siya bukas."], "answer": 1, "explain": "'Whether' is kung + statement — and ba is banned inside embedded questions, so choice 1 is out."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Ikinagulat namin ang biglaang pag-alis ng pamilyang nakatira sa tapat.", "answer": "The sudden departure of the family living across the street surprised us.", "accept": ["The sudden departure of the family living across the street surprised us", "We were surprised by the sudden departure of the family who live across the street", "The family across the street's sudden departure surprised us"], "explain": "Pag-alis nominalizes umalis; the family is described by the relative clause nakatira sa tapat; ikina- puts the cause of surprise in focus."},
+    {"type": "fill", "prompt": "Malapit lang ang tindahang ___ ko ng regalo. (the store where I bought the gift)", "answer": "binilhan", "accept": ["binilhan"], "hint": "Locative gap — the store is the place bought from.", "explain": "The head noun is the source of the buying, so the relative verb takes locative focus: binilhan."},
+    {"type": "listen", "tl": "Hindi pa namin alam kung tutuloy ang handaan, kaya tanungin mo muna kung kailan sila magdedesisyon.", "prompt": "What is the situation?", "choices": ["The party is confirmed and scheduled", "They don't know yet if the party will push through, so ask when the decision will be made", "The party was canceled yesterday", "They are deciding where to hold the party"], "answer": 1, "explain": "Kung tutuloy = whether it will push through; kung kailan sila magdedesisyon = when they will decide — two embedded questions."},
+    {"type": "translate", "direction": "en2tl", "prompt": "She's the one who taught me how to cook sinigang.", "answer": "Siya ang nagturo sa akin kung paano magluto ng sinigang.", "accept": ["Siya ang nagturo sa akin kung paano magluto ng sinigang", "Siya ang nagturo sa akin kung paano lutuin ang sinigang", "Siya ang nagturo sa akin ng pagluluto ng sinigang"], "explain": "A headless relative (ang nagturo = the one who taught) plus an embedded how-question: kung paano magluto."}
+  ]
+}

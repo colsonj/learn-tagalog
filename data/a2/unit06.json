@@ -1,0 +1,106 @@
+{
+  "id": "a2-u06",
+  "title": "Getting around town",
+  "objectives": [
+    "Give and follow simple directions",
+    "Use motion verbs: umuwi, lumabas, sumakay, bumaba, lumiko, dumiretso",
+    "Meet the locative -an verbs (puntahan, balikan) and contrast them with pumunta sa",
+    "Give commands with -um-/mag- and -in forms, and make polite requests with paki-"
+  ],
+  "grammar": [
+    {
+      "title": "Puntahan vs pumunta sa: focusing on the place",
+      "explanation": "You know the third verb family is coming when you remember the third marker. Actor focus puts the doer in the ang-slot; object focus (-in) puts the thing there. The -an family puts the PLACE (or the person you go to) in the ang-slot.\n\nSame event, two ways, again:\n\nPumunta ako sa palengke. (actor focus) — I went to the market.\nPinuntahan ko ang palengke. (locative focus) — I went to the market (that specific market we're talking about).\n\nWith puntahan, the destination graduates from a sa-phrase to the ang-phrase, and the actor drops to ng-form (ko) — exactly the same flip you learned with -in verbs. The aspects also work the same: pinuntahan (completed), pinupuntahan (incompleted), pupuntahan (contemplated).\n\nBalikan works alike: 'Babalikan kita' — I'll come back for you. 'Binalikan niya ang nakalimutan niyang cellphone' — he went back for the phone he forgot. Use these -an verbs when the place or person is specific and central to the point — very often with people: 'Puntahan mo si Lola' — go to Grandma.",
+      "examples": [
+        {"tl": "Pumunta kami sa bagong mall. / Pinuntahan namin ang bagong mall.", "en": "We went to a new mall. / We went to the new mall (the specific one)."},
+        {"tl": "Pupuntahan ko si Lola bukas.", "en": "I'll go see Grandma tomorrow."},
+        {"tl": "Babalikan ko ang bag ko sa opisina.", "en": "I'll go back for my bag at the office."}
+      ]
+    },
+    {
+      "title": "Commands: basic form + ka / -in form + mo",
+      "explanation": "Tagalog commands use the verb's basic (infinitive) form — no aspect marking.\n\nActor-focus command: basic form + ang-pronoun with linker. 'Lumiko ka sa kanan' — turn right. 'Maglakad kayo nang diretso' — walk straight (plural/polite kayo). Softened with na or po: 'Umupo po kayo' — please sit.\n\nObject-focus command: -in form + ng-pronoun. 'Kainin mo ito' — eat this. 'Buksan mo ang pinto' — open the door. 'Sundan ninyo ako' — follow me (ninyo for plural/polite).\n\nNegative commands, as you learned, take huwag: 'Huwag kang lumiko dito', 'Huwag mong kalimutan!' (Don't forget it!).\n\nIn directions you will constantly hear the actor-focus commands: Dumiretso ka. Lumiko ka sa kaliwa sa kanto. Tumawid ka sa tulay. Bumaba ka sa tapat ng simbahan (get off across from the church).",
+      "examples": [
+        {"tl": "Dumiretso ka, tapos lumiko ka sa kanan sa kanto.", "en": "Go straight, then turn right at the corner."},
+        {"tl": "Sumakay kayo ng dyip papuntang Cubao.", "en": "Take a jeepney bound for Cubao."},
+        {"tl": "Buksan mo ang mapa sa cellphone mo.", "en": "Open the map on your phone."},
+        {"tl": "Huwag kang bumaba sa unang kanto; sa pangalawa.", "en": "Don't get off at the first corner; at the second one."}
+      ]
+    },
+    {
+      "title": "Paki-: the polite request prefix",
+      "explanation": "For requests to strangers, elders, or anyone you'd rather not boss around, Tagalog has the wonderfully handy prefix paki- ('please...'). Attach it to the verb root; the thing acted on takes ang (or stays a plain noun), and mo/po are optional garnish:\n\nPakisara ang pinto. — Please close the door.\nPakiabot po ang asin. — Please pass the salt.\nPakiulit po. — Please repeat that (a lifesaver for learners!).\nPaki-check mo ang address. — Please check the address (yes, Manila speech happily borrows roots).\n\nCompare bluntness levels: 'Isara mo ang pinto!' (do it), 'Pakisara ang pinto' (please), 'Puwede po bang pakisara ang pinto?' (extra polite). On jeepneys you'll hear the classic 'Pakiabot po ng bayad' — please pass the fare along — since passengers hand coins down the row to the driver. And to stop the jeepney, call out 'Para po!'",
+      "examples": [
+        {"tl": "Pakiabot po ng bayad. — Salamat po.", "en": "Please pass my fare. — Thank you."},
+        {"tl": "Pakiulit po. Hindi ko po naintindihan.", "en": "Please say it again. I didn't understand."},
+        {"tl": "Pakibukas ng bintana. Ang init!", "en": "Please open the window. It's so hot!"},
+        {"tl": "Para po! Sa tabi lang po.", "en": "Stop please! Just at the side (I'll get off here)."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "puntahan (-an)", "en": "to go to (a specific place/person)", "pos": "verb", "note": "pinuntahan, pinupuntahan, pupuntahan", "example": {"tl": "Pupuntahan kita mamaya sa bahay.", "en": "I'll come to your place later."}},
+    {"tl": "balikan (-an)", "en": "to go back for/to", "pos": "verb", "note": "binalikan, binabalikan, babalikan", "example": {"tl": "Binalikan ko ang wallet ko sa restawran.", "en": "I went back for my wallet at the restaurant."}},
+    {"tl": "umuwi (um)", "en": "to go home", "pos": "verb", "note": "umuwi, umuuwi, uuwi", "example": {"tl": "Uuwi ako nang maaga ngayon.", "en": "I'm going home early today."}},
+    {"tl": "lumabas (um)", "en": "to go out, exit", "pos": "verb", "note": "lumabas, lumalabas, lalabas", "example": {"tl": "Lumabas siya ng bahay nang alas-otso.", "en": "He left the house at eight."}},
+    {"tl": "sumakay (um)", "en": "to ride, get on (a vehicle)", "pos": "verb", "note": "sumakay, sumasakay, sasakay; sumakay ng dyip", "example": {"tl": "Sumakay kami ng bus papuntang Baguio.", "en": "We took a bus to Baguio."}},
+    {"tl": "bumaba (um)", "en": "to get off, go down", "pos": "verb", "note": "bumaba, bumababa, bababa", "example": {"tl": "Bumaba kayo sa may simbahan.", "en": "Get off near the church."}},
+    {"tl": "lumiko (um)", "en": "to turn (left/right)", "pos": "verb", "note": "lumiko, lumiliko, liliko", "example": {"tl": "Lumiko ka sa kaliwa pagkatapos ng tulay.", "en": "Turn left after the bridge."}},
+    {"tl": "dumiretso (um)", "en": "to go straight", "pos": "verb", "note": "dumiretso, dumidiretso, didiretso", "example": {"tl": "Dumiretso lang kayo hanggang sa kanto.", "en": "Just go straight until the corner."}},
+    {"tl": "dumaan (um)", "en": "to pass by/through", "pos": "verb", "note": "dumaan, dumadaan, dadaan", "example": {"tl": "Dadaan ako sa tindahan bago umuwi.", "en": "I'll pass by the store before going home."}},
+    {"tl": "maglakad (mag)", "en": "to walk", "pos": "verb", "note": "naglakad, naglalakad, maglalakad", "example": {"tl": "Maglakad na lang tayo. Malapit lang naman.", "en": "Let's just walk. It's close anyway."}},
+    {"tl": "paki-", "en": "please (do something)", "pos": "particle", "note": "prefix: pakiabot, pakisara, pakiulit", "example": {"tl": "Pakisara po ang pinto.", "en": "Please close the door."}},
+    {"tl": "kanan", "en": "right (side)", "pos": "noun", "note": "sa kanan = on/to the right", "example": {"tl": "Nasa kanan ang botika.", "en": "The pharmacy is on the right."}},
+    {"tl": "kaliwa", "en": "left (side)", "pos": "noun", "note": "sa kaliwa = on/to the left", "example": {"tl": "Lumiko kami sa kaliwa sa kanto.", "en": "We turned left at the corner."}},
+    {"tl": "kanto", "en": "street corner", "pos": "noun", "example": {"tl": "May 7-Eleven sa kanto.", "en": "There's a 7-Eleven at the corner."}},
+    {"tl": "kalye", "en": "street", "pos": "noun", "example": {"tl": "Anong kalye ito?", "en": "What street is this?"}},
+    {"tl": "daan", "en": "road, way", "pos": "noun", "note": "also 'daanan' = route", "example": {"tl": "Alam mo ba ang daan papunta sa istasyon?", "en": "Do you know the way to the station?"}},
+    {"tl": "tulay", "en": "bridge; footbridge", "pos": "noun", "example": {"tl": "Tumawid ka sa tulay, mas ligtas.", "en": "Cross at the footbridge, it's safer."}},
+    {"tl": "tapat", "en": "the spot across/in front", "pos": "noun", "note": "sa tapat ng = across from, in front of", "example": {"tl": "Bumaba ako sa tapat ng simbahan.", "en": "I got off in front of the church."}},
+    {"tl": "hintuan", "en": "stop (bus/jeepney stop)", "pos": "noun", "example": {"tl": "Nasaan ang hintuan ng bus?", "en": "Where is the bus stop?"}},
+    {"tl": "istasyon", "en": "station", "pos": "noun", "example": {"tl": "Malapit ang istasyon ng MRT sa opisina.", "en": "The MRT station is near the office."}},
+    {"tl": "dyip", "en": "jeepney", "pos": "noun", "note": "also spelled jeep; the iconic PH ride", "example": {"tl": "Sumakay kami ng dyip papuntang Quiapo.", "en": "We rode a jeepney to Quiapo."}},
+    {"tl": "traysikel", "en": "tricycle", "pos": "noun", "example": {"tl": "Sumakay na lang tayo ng traysikel. Mainit.", "en": "Let's just take a tricycle. It's hot."}},
+    {"tl": "bayad", "en": "fare, payment", "pos": "noun", "note": "Bayad po! = here's my fare", "example": {"tl": "Magkano ang bayad hanggang Cubao?", "en": "How much is the fare to Cubao?"}},
+    {"tl": "para", "en": "stop! (to a jeepney/bus driver)", "pos": "interjection", "note": "Para po! = I'm getting off", "example": {"tl": "Para po! Sa kanto lang po.", "en": "Stop please! Just at the corner."}},
+    {"tl": "papunta", "en": "on the way to, bound for", "pos": "adverb", "note": "papuntang Maynila / papunta sa Maynila", "example": {"tl": "Papunta na ako diyan!", "en": "I'm on my way there!"}},
+    {"tl": "simbahan", "en": "church", "pos": "noun", "example": {"tl": "Luma at maganda ang simbahan sa bayan.", "en": "The church in town is old and beautiful."}},
+    {"tl": "maligaw (ma)", "en": "to get lost", "pos": "verb", "note": "naligaw, naliligaw, maliligaw", "example": {"tl": "Naligaw kami sa Maynila kahapon.", "en": "We got lost in Manila yesterday."}},
+    {"tl": "abutin / pakiabot", "en": "to reach/pass (something)", "pos": "verb", "note": "inabot, inaabot, aabutin; pakiabot = please pass", "example": {"tl": "Pakiabot po ang menu.", "en": "Please pass the menu."}},
+    {"tl": "hanggang", "en": "until, up to", "pos": "conjunction", "example": {"tl": "Dumiretso ka hanggang sa ilog.", "en": "Go straight until the river."}}
+  ],
+  "dialogue": {
+    "title": "Looking for the pharmacy",
+    "context": "A visitor, Tom, asks a vendor for directions to a pharmacy in a Manila neighborhood.",
+    "lines": [
+      {"speaker": "Tom", "tl": "Magandang hapon po. Puwede po bang magtanong?", "en": "Good afternoon. May I ask a question?"},
+      {"speaker": "Tindera", "tl": "Oo naman. Ano iyon?", "en": "Of course. What is it?"},
+      {"speaker": "Tom", "tl": "Naliligaw po yata ako. Saan po ang pinakamalapit na botika?", "en": "I think I'm lost. Where's the nearest pharmacy?"},
+      {"speaker": "Tindera", "tl": "Ah, madali lang. Dumiretso ka sa kalyeng ito hanggang sa kanto.", "en": "Ah, it's easy. Go straight on this street until the corner."},
+      {"speaker": "Tom", "tl": "Opo, tapos?", "en": "Yes, then?"},
+      {"speaker": "Tindera", "tl": "Sa kanto, lumiko ka sa kanan. May simbahan doon. Nasa tapat ng simbahan ang botika.", "en": "At the corner, turn right. There's a church there. The pharmacy is across from the church."},
+      {"speaker": "Tom", "tl": "Malayo po ba? Kailangan ko po bang sumakay?", "en": "Is it far? Do I need to take a ride?"},
+      {"speaker": "Tindera", "tl": "Hindi na. Maglakad ka lang, mga limang minuto lang.", "en": "No need. Just walk, only about five minutes."},
+      {"speaker": "Tom", "tl": "Pakiulit lang po? Dumiretso, tapos kanan sa kanto?", "en": "Could you repeat that please? Straight, then right at the corner?"},
+      {"speaker": "Tindera", "tl": "Tama! Huwag kang tatawid sa malaking kalye, ha? Nasa gilid na ito ng simbahan.", "en": "Correct! Don't cross the big street, okay? It's on this side, by the church."},
+      {"speaker": "Tom", "tl": "Maraming salamat po! Babalikan ko po kayo mamaya, bibili ako ng mangga ninyo.", "en": "Thank you very much! I'll come back to you later, I'll buy some of your mangoes."},
+      {"speaker": "Tindera", "tl": "Sige! Ingat ka, iho!", "en": "Okay! Take care, son!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "'Pumunta ako sa palengke' vs 'Pinuntahan ko ang palengke'. What changed?", "choices": ["The event: one is past, one is future", "The focus: the place moved into the ang-slot", "The politeness level", "The number of people going"], "answer": 1, "explain": "Both report the same trip. Puntahan is a locative-focus verb, so the destination takes ang and the actor drops to ko."},
+    {"type": "mcq", "prompt": "Which is the contemplated (future) form of puntahan?", "choices": ["pinuntahan", "pinupuntahan", "pupuntahan", "pumupunta"], "answer": 2, "explain": "Pupuntahan = will go to (somewhere specific). Pinuntahan is completed, pinupuntahan incompleted, pumupunta is the actor-focus verb."},
+    {"type": "fill", "prompt": "Lumiko ___ sa kanan sa kanto. (Turn right at the corner.)", "answer": "ka", "accept": ["ka", "kayo", "po kayo"], "hint": "Actor-focus command: basic form + ang-pronoun.", "explain": "Actor-focus commands use the basic verb form plus the ang-pronoun: lumiko ka (or polite lumiko kayo/po kayo)."},
+    {"type": "mcq", "prompt": "Make this request polite with paki-: 'Close the door.'", "choices": ["Pakisara ang pinto.", "Sarhan paki ang pinto.", "Paki ang pinto sara.", "Isara paki mo ang pinto."], "answer": 0, "explain": "Paki- attaches straight to the root: pakisara (ang pinto). Add po for extra politeness."},
+    {"type": "fill", "prompt": "___ po! Sa tabi lang po. (Stop please! Just here at the side — said to a jeepney driver.)", "answer": "Para", "accept": ["para", "Para"], "explain": "Para po! is how passengers tell the jeepney or bus driver to stop."},
+    {"type": "listen", "tl": "Dumiretso ka hanggang sa kanto, tapos lumiko ka sa kaliwa. Nasa kanan ang bangko.", "prompt": "Where is the bank?", "choices": ["Straight ahead, then left; the bank is on the right", "Straight ahead, then right; the bank is on the left", "Across the bridge on the left", "Behind the church"], "answer": 0, "explain": "Dumiretso hanggang sa kanto (straight to the corner), lumiko sa kaliwa (turn left), nasa kanan ang bangko (bank on the right)."},
+    {"type": "fill", "prompt": "Sumakay kami ___ dyip papuntang Quiapo. (We rode a jeepney to Quiapo.)", "answer": "ng", "accept": ["ng"], "explain": "The vehicle after sumakay takes ng: sumakay ng dyip, ng bus, ng traysikel."},
+    {"type": "mcq", "prompt": "You left your phone at a restaurant. 'I'll go back for my phone' is:", "choices": ["Babalikan ko ang cellphone ko.", "Babalik ang cellphone ko.", "Bumalik ako ng cellphone.", "Binalikan ako ng cellphone ko."], "answer": 0, "explain": "Balikan focuses the thing you return for: babalikan ko (contemplated) ang cellphone ko."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Get off in front of the church.", "answer": "Bumaba ka sa tapat ng simbahan.", "accept": ["Bumaba ka sa tapat ng simbahan", "Bumaba kayo sa tapat ng simbahan", "Bumaba po kayo sa tapat ng simbahan"], "explain": "Bumaba = get off; sa tapat ng = in front of / across from."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Dadaan ako sa tindahan bago umuwi.", "answer": "I'll pass by the store before going home.", "accept": ["I'll pass by the store before going home", "I will pass by the store before going home", "I'll stop by the store before going home", "I'll drop by the store before I go home"], "explain": "Dadaan (contemplated of dumaan) = will pass by; bago + basic form umuwi = before going home."},
+    {"type": "mcq", "prompt": "Which command tells someone NOT to cross here?", "choices": ["Tumawid ka dito.", "Huwag kang tumawid dito.", "Hindi ka tumawid dito.", "Bawal ka tumawid na dito."], "answer": 1, "explain": "Negative commands need huwag + linked pronoun: huwag kang tumawid. Hindi negates statements, not commands."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Please repeat that. I didn't understand.", "answer": "Pakiulit po. Hindi ko po naintindihan.", "accept": ["Pakiulit po. Hindi ko po naintindihan", "Pakiulit. Hindi ko naintindihan", "Pakiulit po, hindi ko po naintindihan"], "explain": "Pakiulit (po) is the essential learner's request; hindi ko naintindihan = I didn't understand it."},
+    {"type": "mcq", "prompt": "'Pupuntahan kita mamaya.' Who is going where?", "choices": ["You are coming to me later", "I am coming to you later", "We are going out later", "They are visiting us later"], "answer": 1, "explain": "Kita fuses 'I (actor) + you (focus)': I will go to you — with puntahan, the person visited is the focus."},
+    {"type": "listen", "tl": "Sumakay kayo ng dyip sa kanto, tapos bumaba kayo sa may istasyon ng MRT.", "prompt": "What are the instructions?", "choices": ["Walk to the corner and cross at the station", "Take a jeepney at the corner and get off near the MRT station", "Take a tricycle to the church", "Ride the MRT and get off at the corner"], "answer": 1, "explain": "Sumakay ng dyip sa kanto = board a jeepney at the corner; bumaba sa may istasyon ng MRT = get off near the MRT station."}
+  ]
+}

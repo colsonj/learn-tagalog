@@ -1,0 +1,123 @@
+{
+  "id": "b1-u11",
+  "title": "Ang biyaheng hindi malilimutan: travel, mishaps, narration",
+  "objectives": [
+    "Report misfortunes with the adversative na--an: nawalan, naubusan, nasiraan, naiwanan",
+    "Chain events with pag-/pagka- clauses: right after arriving, upon waking",
+    "Pace a story with bigla, kaagad, unti-unti, sa wakas, buti na lang",
+    "Tell an extended past-tense travel story from start to finish"
+  ],
+  "grammar": [
+    {
+      "title": "When bad things happen to you: the adversative na--an",
+      "explanation": "Tagalog has a dedicated pattern for misfortunes that befall you: na- + root + -an, with the victim as the ang-phrase and the thing lost or affected as a ng-phrase.\n\nNawalan ako ng wallet — I lost my wallet (more literally: I was bereft of a wallet). Compare Unit 2's nawala ang wallet ko, which spotlights the wallet; nawalan ako spotlights you as the affected person — the natural choice when the story is about your bad day. Naubusan kami ng gasolina — we ran out of gas. Nasiraan sila ng kotse sa daan — their car broke down on them on the road. Naiwanan ako ng bus — the bus left me behind (compare naiwan ko ang payong, where you left the umbrella).\n\nAspect: nawalan / nawawalan / mawawalan, naubusan / nauubusan / mauubusan, and so on. The same shape covers being caught by weather and events: naulanan kami — we got rained on; naabutan kami ng trapiko — we got caught in traffic (literally 'traffic caught up with us'). This pattern plus Unit 2's accidental na- verbs gives you the full vocabulary of things going wrong — which is to say, the full vocabulary of a memorable trip.",
+      "examples": [
+        {"tl": "Nawalan ako ng cellphone sa terminal.", "en": "I lost my cellphone at the terminal."},
+        {"tl": "Naubusan kami ng gasolina sa gitna ng bundok.", "en": "We ran out of gas in the middle of the mountains."},
+        {"tl": "Nasiraan ng bangka ang mga mangingisda kahapon.", "en": "The fishermen's boat broke down on them yesterday."},
+        {"tl": "Muntik na kaming maiwanan ng huling biyahe.", "en": "We almost got left behind by the last trip."},
+        {"tl": "Naulanan kami habang naghihintay ng traysikel.", "en": "We got rained on while waiting for a tricycle."},
+        {"tl": "Mauubusan tayo ng tiket kung hindi tayo bibili ngayon.", "en": "We'll run out of tickets if we don't buy now."}
+      ]
+    },
+    {
+      "title": "Right after: pag- and pagka- clauses",
+      "explanation": "You know pagkatapos + verb noun for 'after'. Narration has a tighter, more vivid tool: pag- or pagka- attached straight to the verb root, with the doer as a ng-phrase or possessive. Pagdating ko sa hotel, natulog agad ako — as soon as I arrived at the hotel, I slept right away. Pag-uwi namin, kakain tayo sa labas — when we get home, we'll eat out.\n\nPag- + root is the everyday form: pagdating (upon arriving), pag-alis (upon leaving), paggising (upon waking), pagbaba (upon getting off). Pagka- adds a 'right after completing' flavor: pagkakain namin, umalis kami — right after we ate, we left; pagkagising ko, tumawag agad ako sa ospital. In practice they overlap, and pagka- also doubles in forms like pagkatapos, which you already own.\n\nThese clauses are the skeleton of Tagalog storytelling: each one hands the timeline to the next event without a heavy conjunction. Pagbaba ko ng bus, naramdaman kong wala ang bag ko — the moment I got off the bus, I felt that my bag was gone. Notice there's no tense marking inside the pag- clause; the main verb carries the aspect, so the same pag-uwi ko works for past and future stories alike.",
+      "examples": [
+        {"tl": "Pagdating namin sa isla, kumain agad kami ng tanghalian.", "en": "As soon as we arrived on the island, we ate lunch right away."},
+        {"tl": "Paggising ko kinabukasan, umuulan na nang malakas.", "en": "When I woke up the next day, it was already raining hard."},
+        {"tl": "Pagkakain namin, naglakad kami papunta sa tabing-dagat.", "en": "Right after we ate, we walked toward the beach."},
+        {"tl": "Pagbaba mo sa terminal, tumawag ka agad sa akin.", "en": "The moment you get off at the terminal, call me right away."},
+        {"tl": "Pag-alis ng bangka, biglang lumakas ang hangin.", "en": "As the boat left, the wind suddenly picked up."}
+      ]
+    },
+    {
+      "title": "Pacing a story: bigla, kaagad, unti-unti, sa wakas",
+      "explanation": "A good story controls speed. Tagalog's pacing words:\n\nBigla — suddenly. As an adverb it takes the linker: biglang bumuhos ang ulan — the rain suddenly poured. Also bigla na lang — 'just out of nowhere': Bigla na lang siyang umiyak. Kaagad / agad — immediately, right away: Tumawag agad kami sa talyer. Unti-unti — little by little: Unti-unting humupa ang ulan — the rain gradually eased. Mamaya-maya — after a while: Mamaya-maya, may dumating na traysikel. Sa wakas — finally, at last: Sa wakas, nakarating din kami. Habang-narration you already do; add sa kasamaang-palad — unfortunately — and its hero twin buti na lang — luckily / good thing: Buti na lang, may dalang extrang gasolina si Kuya.\n\nA typical mishap story runs: setup in the incompleted aspect (Maganda ang panahon, kumakanta pa kami sa bangka...), then bigla flips it (biglang kumulog), a chain of completed verbs races through the crisis (naubusan pa kami ng gasolina, nawalan ng signal ang cellphone), buti na lang turns the tide, and sa wakas lands the ending. Practice this arc; it's the shape of every Filipino travel story told over dinner.",
+      "examples": [
+        {"tl": "Biglang namatay ang makina ng bangka sa gitna ng dagat.", "en": "The boat's engine suddenly died in the middle of the sea."},
+        {"tl": "Bumaba agad kami nang huminto ang bus.", "en": "We got off immediately when the bus stopped."},
+        {"tl": "Unti-unting lumiwanag ang langit pagkatapos ng bagyo.", "en": "The sky gradually brightened after the storm."},
+        {"tl": "Sa kasamaang-palad, sarado na ang huling gasolinahan.", "en": "Unfortunately, the last gas station was already closed."},
+        {"tl": "Buti na lang, may nakasalubong kaming traysikel.", "en": "Luckily, we came across a tricycle."},
+        {"tl": "Sa wakas, nakarating din kami sa hotel bago maghatinggabi.", "en": "Finally, we reached the hotel before midnight."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "nawalan (na--an)", "en": "to lose, be deprived of", "pos": "verb", "note": "nawalan, nawawalan, mawawalan; thing lost takes ng", "example": {"tl": "Nawalan siya ng pasaporte sa paliparan.", "en": "He lost his passport at the airport."}},
+    {"tl": "naubusan (na--an)", "en": "to run out of", "pos": "verb", "note": "naubusan, nauubusan, mauubusan", "example": {"tl": "Naubusan kami ng pera sa huling araw ng bakasyon.", "en": "We ran out of money on the last day of the vacation."}},
+    {"tl": "nasiraan (na--an)", "en": "to have one's (vehicle, appliance) break down", "pos": "verb", "note": "nasiraan, nasisiraan, masisiraan", "example": {"tl": "Nasiraan kami ng kotse sa may tulay.", "en": "Our car broke down on us near the bridge."}},
+    {"tl": "naiwanan (na--an)", "en": "to be left behind by (a ride)", "pos": "verb", "note": "naiwanan, naiiwanan, maiiwanan; compare naiwan (you left a thing)", "example": {"tl": "Naiwanan kami ng barko dahil na-late kami ng limang minuto.", "en": "The ship left us behind because we were five minutes late."}},
+    {"tl": "maligaw (ma-)", "en": "to get lost (lose one's way)", "pos": "verb", "note": "naligaw, naliligaw, maliligaw", "example": {"tl": "Naligaw kami sa maliliit na kalye ng lumang bayan.", "en": "We got lost in the little streets of the old town."}},
+    {"tl": "maabutan (ma--an)", "en": "to be caught by; to catch (in time)", "pos": "verb", "note": "naabutan, naaabutan, maaabutan; naabutan kami ng ulan = the rain caught us", "example": {"tl": "Buti na lang, naabutan pa namin ang huling biyahe.", "en": "Luckily, we still caught the last trip."}},
+    {"tl": "biyahe", "en": "trip, journey; scheduled run", "pos": "noun", "note": "huling biyahe = last trip of the day", "example": {"tl": "Anim na oras ang biyahe papuntang Baguio.", "en": "The trip to Baguio is six hours."}},
+    {"tl": "bumiyahe (um)", "en": "to travel, make a trip", "pos": "verb", "note": "bumiyahe, bumibiyahe, bibiyahe", "example": {"tl": "Bumiyahe kami nang gabi para makatipid sa oras.", "en": "We traveled at night to save time."}},
+    {"tl": "pasaporte", "en": "passport", "pos": "noun", "example": {"tl": "Ilagay mo ang pasaporte sa bulsang may zipper.", "en": "Put the passport in the zippered pocket."}},
+    {"tl": "maleta", "en": "suitcase", "pos": "noun", "example": {"tl": "Ang bigat ng maleta mo — ano ang laman nito?", "en": "Your suitcase is so heavy — what's in it?"}},
+    {"tl": "paliparan", "en": "airport", "pos": "noun", "note": "the English loan 'airport' is also common", "example": {"tl": "Dapat nasa paliparan ka tatlong oras bago ang alis.", "en": "You should be at the airport three hours before departure."}},
+    {"tl": "terminal", "en": "bus/boat terminal", "pos": "noun", "example": {"tl": "Puno ng tao ang terminal tuwing Semana Santa.", "en": "The terminal is packed with people every Holy Week."}},
+    {"tl": "bangka", "en": "boat, outrigger canoe", "pos": "noun", "example": {"tl": "Sumakay kami ng maliit na bangka papunta sa isla.", "en": "We rode a small boat to the island."}},
+    {"tl": "gasolina", "en": "gasoline, fuel", "pos": "noun", "example": {"tl": "Magkano na ang gasolina kada litro ngayon?", "en": "How much is gasoline per liter now?"}},
+    {"tl": "gasolinahan", "en": "gas station", "pos": "noun", "example": {"tl": "Huminto tayo sa susunod na gasolinahan.", "en": "Let's stop at the next gas station."}},
+    {"tl": "gulong", "en": "tire, wheel", "pos": "noun", "note": "flat na gulong = flat tire", "example": {"tl": "Pumutok ang gulong namin sa highway.", "en": "Our tire blew out on the highway."}},
+    {"tl": "mapa", "en": "map", "pos": "noun", "example": {"tl": "Walang signal, kaya binuksan namin ang lumang mapa.", "en": "There was no signal, so we opened the old map."}},
+    {"tl": "aksidente", "en": "accident", "pos": "noun", "example": {"tl": "May aksidente sa kanto kaya mabagal ang daloy ng mga sasakyan.", "en": "There was an accident at the corner, so traffic is moving slowly."}},
+    {"tl": "pamasahe", "en": "fare", "pos": "noun", "example": {"tl": "Magkano ang pamasahe hanggang sa bayan?", "en": "How much is the fare to town?"}},
+    {"tl": "bigla", "en": "suddenly", "pos": "adverb", "note": "with linker: biglang tumakbo; bigla na lang = out of nowhere", "example": {"tl": "Biglang bumuhos ang ulan habang naglalakad kami.", "en": "The rain suddenly poured while we were walking."}},
+    {"tl": "kaagad", "en": "immediately, right away", "pos": "adverb", "note": "shortened to agad; agad-agad = at once", "example": {"tl": "Pagdating namin, nagpahinga kaagad ang mga bata.", "en": "As soon as we arrived, the kids rested right away."}},
+    {"tl": "unti-unti", "en": "little by little, gradually", "pos": "adverb", "note": "with linker: unti-unting", "example": {"tl": "Unti-unting bumalik ang kuryente sa buong bayan.", "en": "Electricity gradually came back to the whole town."}},
+    {"tl": "sa wakas", "en": "finally, at last", "pos": "phrase", "example": {"tl": "Sa wakas, nakita rin namin ang hinahanap na resort.", "en": "At last, we found the resort we were looking for."}},
+    {"tl": "sa kasamaang-palad", "en": "unfortunately", "pos": "phrase", "example": {"tl": "Sa kasamaang-palad, kanselado ang lahat ng biyahe dahil sa bagyo.", "en": "Unfortunately, all trips were canceled because of the typhoon."}},
+    {"tl": "buti na lang", "en": "luckily, good thing", "pos": "phrase", "example": {"tl": "Buti na lang, nagdala ako ng extrang damit.", "en": "Good thing I brought extra clothes."}},
+    {"tl": "mamaya-maya", "en": "after a while, moments later", "pos": "adverb", "example": {"tl": "Mamaya-maya, dumating din ang hinihintay naming jeep.", "en": "After a while, the jeepney we were waiting for finally came."}},
+    {"tl": "pag-uwi", "en": "upon returning home; homecoming", "pos": "noun", "note": "pag-uwi ko = when I get/got home", "example": {"tl": "Pag-uwi namin, ikinuwento namin agad ang lahat kay Nanay.", "en": "When we got home, we immediately told Mom everything."}},
+    {"tl": "tabing-dagat", "en": "seaside, beach", "pos": "noun", "example": {"tl": "Naglakad kami sa tabing-dagat habang lumulubog ang araw.", "en": "We walked along the seaside while the sun was setting."}}
+  ],
+  "dialogue": {
+    "title": "Ang kuwento ng biyahe",
+    "context": "Back at work, Paolo tells Dina about his island trip that went spectacularly wrong.",
+    "lines": [
+      {"speaker": "Dina", "tl": "Kumusta ang bakasyon mo sa isla? Nakita ko ang mga litrato — ang ganda!", "en": "How was your island vacation? I saw the photos — beautiful!"},
+      {"speaker": "Paolo", "tl": "Maganda nga, pero muntik na kaming hindi makarating. Mahaba ang kuwento.", "en": "Beautiful indeed, but we almost didn't make it. It's a long story."},
+      {"speaker": "Dina", "tl": "Ikuwento mo nga! Bakante pa naman ako ng sampung minuto.", "en": "Do tell! I'm still free for ten minutes anyway."},
+      {"speaker": "Paolo", "tl": "Pagdating namin sa terminal, nalaman naming naiwanan na kami ng unang barko.", "en": "When we got to the terminal, we found out the first ship had already left us behind."},
+      {"speaker": "Dina", "tl": "Naku! Bakit kayo na-late?", "en": "Oh no! Why were you late?"},
+      {"speaker": "Paolo", "tl": "Nasiraan kami ng kotse sa daan. Flat pa ang gulong, tapos naubusan kami ng gasolina!", "en": "The car broke down on us on the way. A flat tire, and then we ran out of gas!"},
+      {"speaker": "Dina", "tl": "Sunud-sunod naman! Paano kayo nakaalis?", "en": "One thing after another! How did you get going?"},
+      {"speaker": "Paolo", "tl": "Buti na lang, may dumaang traysikel. Bumili agad si Marco ng gasolina sa bayan.", "en": "Luckily, a tricycle passed by. Marco immediately bought gas in town."},
+      {"speaker": "Dina", "tl": "Tapos, naabutan pa ba ninyo ang ibang biyahe?", "en": "And then, did you still catch another trip?"},
+      {"speaker": "Paolo", "tl": "Oo, ang huling bangka ng hapon. Pero pag-alis namin, biglang lumakas ang alon!", "en": "Yes, the last boat of the afternoon. But as we left, the waves suddenly got strong!"},
+      {"speaker": "Dina", "tl": "Diyos ko. Buti hindi kayo naulanan man lang?", "en": "My goodness. Good thing you didn't even get rained on?"},
+      {"speaker": "Paolo", "tl": "Naulanan din! Pero sa wakas, nakarating kami — basang-basa, gutom, pero masaya.", "en": "We got rained on too! But at last we arrived — soaking wet, hungry, but happy."}
+    ]
+  },
+  "reading": {
+    "title": "Dalawang araw sa isla",
+    "tl": "Noong isang buwan, bumiyahe kami ng tatlong kaibigan ko papunta sa isang isla sa Quezon. Maaga kaming umalis, pero sa kasamaang-palad, naabutan pa rin kami ng trapiko dahil may aksidente. Pagdating namin sa terminal, alas-dose na — naiwanan na kami ng unang bangka.\n\nHabang naghihintay ng susunod na biyahe, nawalan pa ako ng tsinelas: naanod ito habang naglalaro kami. Mamaya-maya, dumating din ang bangka. Pag-alis namin, kalmado ang dagat, pero unti-unting dumilim ang langit. Biglang bumuhos ang ulan, at basang-basa kami pagdating sa isla.\n\nButi na lang, mabait ang pamilyang may-ari ng tinutuluyan namin. Pinahiram nila kami ng tuyong damit at pinainom ng mainit na salabat. Kinabukasan, pagkagising ko, maaraw na: naglangoy kami at nag-ihaw ng isda sa tabing-dagat. Pag-uwi namin, sabi ng mga kaibigan ko, babalik daw kami sa susunod na taon. Sang-ayon ako — pero aalis kami nang mas maaga, at magdadala ako ng dalawang pares ng tsinelas.",
+    "en": "Last month, three friends and I traveled to an island in Quezon. We left early, but unfortunately we still got caught in traffic because of an accident. When we reached the terminal, it was already noon — the first boat had left without us.\n\nWhile waiting for the next trip, I also lost my flip-flops: they were carried off by the water while we were playing. After a while, the boat finally came. When we set off, the sea was calm, but the sky gradually darkened. Suddenly the rain poured down, and we were soaked when we reached the island.\n\nLuckily, the family who owned the place we were staying at was kind. They lent us dry clothes and gave us hot ginger tea to drink. The next day, when I woke up, it was sunny: we swam and grilled fish by the seaside. On our way home, my friends said we'd come back next year. I agree — but we'll leave earlier, and I'm bringing two pairs of flip-flops.",
+    "gloss": [
+      {"tl": "naanod", "en": "carried away by water/current"},
+      {"tl": "tsinelas", "en": "flip-flops, slippers"},
+      {"tl": "kalmado", "en": "calm (sea, person)"},
+      {"tl": "tinutuluyan", "en": "place where one is staying"},
+      {"tl": "pinahiram", "en": "lent (had them borrow)"},
+      {"tl": "salabat", "en": "ginger tea"},
+      {"tl": "nag-ihaw", "en": "grilled"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which sentence means 'We ran out of gas'?", "choices": ["Naubos kami ng gasolina.", "Naubusan kami ng gasolina.", "Inubos namin ang gasolina.", "Mauubusan kami ng gasolina."], "answer": 1, "explain": "The adversative na--an puts the victims in focus: naubusan kami ng gasolina. Choice 3 means we deliberately used it all up; choice 4 is future."},
+    {"type": "mcq", "prompt": "What is the difference between 'naiwan ko ang bag' and 'naiwanan ako ng bus'?", "choices": ["No difference", "The first: I left the bag behind; the second: the bus left me behind", "The first is future, the second past", "The first is polite, the second rude"], "answer": 1, "explain": "Naiwan (ma-) = you accidentally left a thing; naiwanan (na--an) = something (the bus) left YOU — the adversative flips who is affected."},
+    {"type": "fill", "prompt": "___ ako ng wallet sa jeep kahapon, kaya walang-wala ako ngayon. (I lost my wallet — victim in focus)", "answer": "nawalan", "accept": ["nawalan"], "hint": "The na--an adversative of wala.", "explain": "Nawalan ako ng wallet spotlights you as the person deprived; nawala ang wallet ko would spotlight the wallet."},
+    {"type": "fill", "prompt": "___ ko sa hotel, natulog agad ako. (As soon as I arrived at the hotel...)", "answer": "pagdating", "accept": ["pagdating", "pagkarating"], "hint": "pag- + the arrival verb root.", "explain": "Pag- + root + possessor builds a 'right after' clause: pagdating ko = upon my arriving."},
+    {"type": "mcq", "prompt": "Pick the natural pacing for a mishap: 'Kalmado ang dagat. ___ lumakas ang hangin.'", "choices": ["Unti-unting", "Biglang", "Sa wakas,", "Buti na lang,"], "answer": 1, "explain": "The sudden turn in a story is biglang + verb: the wind suddenly picked up. Unti-unti would be a slow change."},
+    {"type": "listen", "tl": "Nasiraan kami ng kotse sa daan, pero buti na lang may malapit na talyer.", "prompt": "What happened?", "choices": ["They crashed the car into a shop", "Their car broke down, but luckily there was a repair shop nearby", "They ran out of gas far from any shop", "The repair shop was closed when their car broke down"], "answer": 1, "explain": "Nasiraan kami ng kotse = the car broke down on us; buti na lang = luckily; talyer = auto repair shop (Unit 3)."},
+    {"type": "translate", "direction": "en2tl", "prompt": "We got rained on while waiting for the bus.", "answer": "Naulanan kami habang naghihintay ng bus.", "accept": ["Naulanan kami habang naghihintay ng bus", "Naulanan kami habang naghihintay kami ng bus", "Inulan kami habang naghihintay ng bus"], "explain": "Being caught by rain is the adversative naulanan; habang + incompleted verb sets the simultaneous background."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Pagbaba ko ng bus, naramdaman kong wala na ang telepono ko.", "answer": "The moment I got off the bus, I felt that my phone was gone.", "accept": ["The moment I got off the bus, I felt that my phone was gone", "As soon as I got off the bus I felt my phone was gone", "When I got off the bus, I realized my phone was missing"], "explain": "Pagbaba ko = upon my getting off; naramdaman kong + clause = I felt that...; wala na = gone already."},
+    {"type": "fill", "prompt": "Sa ___ , nakarating din kami sa resort bago gumabi. (Finally, we made it...)", "answer": "wakas", "accept": ["wakas"], "hint": "The story-ending phrase.", "explain": "Sa wakas caps a story after difficulties: 'at last'. Nakarating (maka-) adds the 'managed to' flavor."},
+    {"type": "mcq", "prompt": "Order the story naturally: (a) Biglang bumuhos ang ulan. (b) Maganda ang panahon nang umalis kami. (c) Buti na lang may dala kaming payong. (d) Sa wakas, nakarating kami nang tuyo.", "choices": ["a-b-c-d", "b-a-c-d", "c-b-a-d", "b-c-a-d"], "answer": 1, "explain": "Setup (b: nice weather), sudden turn (a: bigla), rescue (c: buti na lang), resolution (d: sa wakas) — the standard mishap arc."},
+    {"type": "listen", "tl": "Muntik na kaming maiwanan ng huling biyahe kasi naligaw kami papunta sa terminal.", "prompt": "What does the speaker say?", "choices": ["They missed the last trip because they got lost", "They almost got left behind by the last trip because they got lost on the way to the terminal", "They left the terminal early to avoid getting lost", "The last trip was canceled because of an accident"], "answer": 1, "explain": "Muntik na (Unit 2) = almost; maiwanan = be left behind; naligaw kami = we got lost. Disaster narrowly avoided."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Right after we ate, we walked to the seaside.", "answer": "Pagkakain namin, naglakad kami papunta sa tabing-dagat.", "accept": ["Pagkakain namin, naglakad kami papunta sa tabing-dagat", "Pagkatapos naming kumain, naglakad kami papunta sa tabing-dagat", "Pagkakain namin naglakad kami sa tabing-dagat"], "explain": "Pagka- + kain + namin = right after our eating; papunta sa marks the direction of the walk."}
+  ]
+}

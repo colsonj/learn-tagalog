@@ -1,0 +1,106 @@
+{
+  "id": "a2-u03",
+  "title": "My whole day, in order: aspect mastery",
+  "objectives": [
+    "Control all three aspects across mag-, -um-, and -in verbs",
+    "Say what you just did with the kaka- recently-completed form",
+    "Narrate a day in order with una, tapos, pagkatapos, and bago",
+    "Describe routines with tuwing, madalas, minsan, and lagi"
+  ],
+  "grammar": [
+    {
+      "title": "The three aspects across all three verb families",
+      "explanation": "You now know three verb families: -um- and mag- (actor focus, from A1) and -in (object focus, from Unit 2). Each one runs through the same three aspects. Line them up and the system snaps into place:\n\nkumain (um): completed kumain, incompleted kumakain, contemplated kakain.\nmagluto (mag): completed nagluto, incompleted nagluluto, contemplated magluluto.\nlutuin (-in): completed niluto, incompleted niluluto, contemplated lulutuin.\n\nThe machinery is consistent: completed = the 'past' form; incompleted = add reduplication (repeat the first syllable of the root) to the completed shape; contemplated = reduplication with the 'future' prefix or suffix (m- form for mag-, bare reduplicated root for -um-, root + -in for object focus).\n\nRemember what the aspects mean, because they are not exactly English tenses: completed = happened and finished; incompleted = happening now OR happens habitually ('Naliligo ako' can mean I'm showering right now or I shower regularly); contemplated = not yet begun — future, plans, and after words like bago (before).",
+      "examples": [
+        {"tl": "Nagluto ako kahapon, nagluluto ako ngayon, at magluluto ulit ako bukas.", "en": "I cooked yesterday, I'm cooking now, and I'll cook again tomorrow."},
+        {"tl": "Tumatakbo si Ben tuwing umaga.", "en": "Ben runs every morning. (habitual = incompleted)"},
+        {"tl": "Lilinisin namin ang bahay sa Sabado.", "en": "We'll clean the house on Saturday."}
+      ]
+    },
+    {
+      "title": "Kaka- + lang: 'I just...'",
+      "explanation": "Tagalog has a special fourth form for something that happened moments ago: the recently-completed. Build it with ka- plus the reduplicated first syllable of the root: kakakain (just ate), kauuwi (just got home), kagigising (just woke up), katatapos (just finished), kabibili (just bought).\n\nTwo things make this form special. First, the doer takes the NG-form, even though there is no object focus going on: 'Kakakain ko lang' — I just ate. (Not 'kakakain ako'.) Second, it almost always appears with lang (just/only) right after the pronoun.\n\nThis form is everywhere in daily talk: someone calls and asks if you've eaten — 'Kakakain ko lang po.' Someone asks where your mom is — 'Kaaalis lang niya' (she just left). You never mark aspect on it; the form itself means 'very recently done'.",
+      "examples": [
+        {"tl": "Kakakain ko lang. Busog pa ako.", "en": "I just ate. I'm still full."},
+        {"tl": "Kauuwi lang ni Tatay galing sa trabaho.", "en": "Dad just got home from work."},
+        {"tl": "Kagigising ko lang, sorry sa boses ko!", "en": "I just woke up, sorry about my voice!"},
+        {"tl": "Katatapos lang ng klase namin.", "en": "Our class just ended."}
+      ]
+    },
+    {
+      "title": "Una, tapos, pagkatapos, bago: putting a day in order",
+      "explanation": "To narrate a sequence, Filipinos lean on a small set of connectors.\n\nUna (first) opens the story: 'Una, naligo ako.' Tapos (then/afterwards) is the workhorse — casual speech strings it between every step: 'Tapos, nag-almusal ako. Tapos, nagbihis ako.'\n\nPagkatapos means 'after / after that'. Alone it means 'after that'; with ng + noun it means after something ('pagkatapos ng klase' — after class); with a verb it takes the infinitive-like form: 'pagkatapos kumain' — after eating.\n\nBago (before) is the mirror image, and here aspect matters: the verb after bago stays in its basic (contemplated/infinitive) form even when the whole story is past: 'Nagsipilyo ako bago matulog' — I brushed my teeth before sleeping (not *bago natulog*). If the two clauses have different actors, the actor squeezes in: 'bago ako matulog', 'bago siya umalis'.",
+      "examples": [
+        {"tl": "Una, gumising ako nang 6:00. Tapos, naligo ako at nagbihis.", "en": "First, I woke up at 6:00. Then I showered and got dressed."},
+        {"tl": "Pagkatapos ng almusal, pumasok ako sa trabaho.", "en": "After breakfast, I went to work."},
+        {"tl": "Pagkatapos kumain, nagligpit kami ng mga pinggan.", "en": "After eating, we cleared the dishes."},
+        {"tl": "Bago ako umalis, nilinis ko muna ang kusina.", "en": "Before I left, I cleaned the kitchen first."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "gumising (um)", "en": "to wake up", "pos": "verb", "note": "gumising, gumigising, gigising", "example": {"tl": "Gumising ako nang maaga kanina.", "en": "I woke up early today."}},
+    {"tl": "magsipilyo (mag)", "en": "to brush one's teeth", "pos": "verb", "note": "nagsipilyo, nagsisipilyo, magsisipilyo", "example": {"tl": "Magsipilyo ka bago matulog.", "en": "Brush your teeth before sleeping."}},
+    {"tl": "magbihis (mag)", "en": "to get dressed, change clothes", "pos": "verb", "note": "nagbihis, nagbibihis, magbibihis", "example": {"tl": "Nagbibihis pa si Ate. Sandali lang.", "en": "Big sis is still getting dressed. Just a moment."}},
+    {"tl": "mag-almusal (mag)", "en": "to eat breakfast", "pos": "verb", "note": "nag-almusal, nag-aalmusal, mag-aalmusal", "example": {"tl": "Nag-almusal kami ng pandesal at kape.", "en": "We had pandesal and coffee for breakfast."}},
+    {"tl": "maghanda (mag)", "en": "to prepare (food, things)", "pos": "verb", "note": "naghanda, naghahanda, maghahanda", "example": {"tl": "Naghahanda si Nanay ng hapunan.", "en": "Mom is preparing dinner."}},
+    {"tl": "magligpit (mag)", "en": "to tidy up, clear away", "pos": "verb", "note": "nagligpit, nagliligpit, magliligpit", "example": {"tl": "Nagligpit ako ng mga pinggan pagkatapos kumain.", "en": "I cleared the dishes after eating."}},
+    {"tl": "maglaba (mag)", "en": "to do laundry", "pos": "verb", "note": "naglaba, naglalaba, maglalaba", "example": {"tl": "Naglalaba kami tuwing Linggo.", "en": "We do laundry every Sunday."}},
+    {"tl": "magwalis (mag)", "en": "to sweep", "pos": "verb", "note": "nagwalis, nagwawalis, magwawalis", "example": {"tl": "Magwawalis ako sa labas mamaya.", "en": "I'll sweep outside later."}},
+    {"tl": "magsaing (mag)", "en": "to cook rice", "pos": "verb", "note": "nagsaing, nagsasaing, magsasaing", "example": {"tl": "Nagsaing ka na ba? Wala nang kanin.", "en": "Have you cooked rice? There's no more rice."}},
+    {"tl": "magpahinga (mag)", "en": "to rest", "pos": "verb", "note": "nagpahinga, nagpapahinga, magpapahinga", "example": {"tl": "Magpahinga ka muna. Pagod ka na.", "en": "Rest first. You're tired."}},
+    {"tl": "umalis (um)", "en": "to leave", "pos": "verb", "note": "umalis, umaalis, aalis", "example": {"tl": "Umalis si Ben nang 8:00.", "en": "Ben left at 8:00."}},
+    {"tl": "dumating (um)", "en": "to arrive", "pos": "verb", "note": "dumating, dumarating, darating", "example": {"tl": "Darating sila mamayang gabi.", "en": "They'll arrive tonight."}},
+    {"tl": "pumasok (um)", "en": "to go in; to go to work/school", "pos": "verb", "note": "pumasok, pumapasok, papasok", "example": {"tl": "Pumapasok ako sa opisina tuwing Lunes hanggang Biyernes.", "en": "I go in to the office Monday through Friday."}},
+    {"tl": "maghapunan (mag)", "en": "to eat dinner", "pos": "verb", "note": "naghapunan, naghahapunan, maghahapunan", "example": {"tl": "Naghapunan kami nang sabay-sabay.", "en": "We ate dinner together."}},
+    {"tl": "una", "en": "first", "pos": "adverb", "note": "opens a sequence; una sa lahat = first of all", "example": {"tl": "Una, naligo ako. Tapos, nagbihis ako.", "en": "First, I showered. Then I got dressed."}},
+    {"tl": "tapos", "en": "then, afterwards", "pos": "conjunction", "note": "very common in casual narration", "example": {"tl": "Kumain kami, tapos nanood kami ng TV.", "en": "We ate, then we watched TV."}},
+    {"tl": "pagkatapos", "en": "after, after that", "pos": "conjunction", "note": "pagkatapos ng + noun; pagkatapos + verb", "example": {"tl": "Pagkatapos ng trabaho, umuwi agad ako.", "en": "After work, I went straight home."}},
+    {"tl": "bago", "en": "before", "pos": "conjunction", "note": "verb after bago stays in basic form: bago matulog", "example": {"tl": "Tumawag ka sa akin bago ka umalis.", "en": "Call me before you leave."}},
+    {"tl": "agad", "en": "immediately, right away", "pos": "adverb", "example": {"tl": "Natulog agad siya pagkatapos ng hapunan.", "en": "He went to sleep right away after dinner."}},
+    {"tl": "madalas", "en": "often", "pos": "adverb", "example": {"tl": "Madalas akong nagluluto ng adobo.", "en": "I often cook adobo."}},
+    {"tl": "minsan", "en": "sometimes; once", "pos": "adverb", "example": {"tl": "Minsan, nag-aalmusal ako sa labas.", "en": "Sometimes I eat breakfast out."}},
+    {"tl": "lagi", "en": "always", "pos": "adverb", "note": "also palagi", "example": {"tl": "Laging abala ang nanay ko sa umaga.", "en": "My mom is always busy in the morning."}},
+    {"tl": "tuwing", "en": "every (time)", "pos": "conjunction", "note": "tuwing umaga, tuwing Sabado", "example": {"tl": "Naglalaba ako tuwing Sabado ng umaga.", "en": "I do laundry every Saturday morning."}},
+    {"tl": "maaga", "en": "early", "pos": "adverb", "note": "nang maaga = (at an) early (hour)", "example": {"tl": "Gumigising ako nang maaga tuwing Lunes.", "en": "I wake up early every Monday."}},
+    {"tl": "gawain", "en": "task, chore, activity", "pos": "noun", "note": "gawaing-bahay = household chores", "example": {"tl": "Marami akong gawain sa bahay ngayon.", "en": "I have a lot of chores at home today."}},
+    {"tl": "iskedyul", "en": "schedule", "pos": "noun", "example": {"tl": "Ano ang iskedyul mo bukas?", "en": "What's your schedule tomorrow?"}},
+    {"tl": "abala", "en": "busy", "pos": "adjective", "note": "busy is also used in speech", "example": {"tl": "Abala ako buong araw kahapon.", "en": "I was busy all day yesterday."}},
+    {"tl": "buong araw", "en": "all day", "pos": "phrase", "example": {"tl": "Nagtrabaho siya buong araw.", "en": "He worked all day."}}
+  ],
+  "dialogue": {
+    "title": "A phone call after a long day",
+    "context": "Lea calls her boyfriend Paolo in the evening to ask about his day.",
+    "lines": [
+      {"speaker": "Lea", "tl": "Hello, Paolo! Kumusta ang araw mo?", "en": "Hello, Paolo! How was your day?"},
+      {"speaker": "Paolo", "tl": "Pagod ako! Ang dami kong ginawa ngayon.", "en": "I'm tired! I did so much today."},
+      {"speaker": "Lea", "tl": "Talaga? Ikuwento mo nga.", "en": "Really? Tell me about it."},
+      {"speaker": "Paolo", "tl": "Una, gumising ako nang 5:30 kasi maaga ang meeting namin.", "en": "First, I woke up at 5:30 because our meeting was early."},
+      {"speaker": "Lea", "tl": "Naku, ang aga! Tapos?", "en": "Wow, so early! Then what?"},
+      {"speaker": "Paolo", "tl": "Naligo ako, nagbihis, tapos nag-almusal ako ng itlog at kanin.", "en": "I showered, got dressed, then had eggs and rice for breakfast."},
+      {"speaker": "Paolo", "tl": "Pagkatapos ng almusal, pumasok agad ako sa opisina.", "en": "After breakfast, I went straight in to the office."},
+      {"speaker": "Lea", "tl": "Kumain ka ba ng tanghalian?", "en": "Did you eat lunch?"},
+      {"speaker": "Paolo", "tl": "Oo, pero maikli lang. Tinapos namin ang proyekto bago mag-5:00.", "en": "Yes, but only a short one. We finished the project before 5:00."},
+      {"speaker": "Lea", "tl": "Nasa bahay ka na ba ngayon?", "en": "Are you home now?"},
+      {"speaker": "Paolo", "tl": "Oo, kauuwi ko lang. Nagsasaing ako ngayon para sa hapunan.", "en": "Yes, I just got home. I'm cooking rice now for dinner."},
+      {"speaker": "Lea", "tl": "Sige, kumain ka na. Magpahinga ka pagkatapos, ha?", "en": "Okay, go eat. Rest afterwards, okay?"},
+      {"speaker": "Paolo", "tl": "Oo naman. Matutulog ako nang maaga ngayong gabi.", "en": "Of course. I'll sleep early tonight."}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which form of magluto means 'will cook'?", "choices": ["nagluto", "nagluluto", "magluluto", "niluto"], "answer": 2, "explain": "Contemplated aspect of mag- verbs keeps m- and reduplicates: magluluto. Nagluto is completed, nagluluto incompleted, niluto is the -in verb's completed form."},
+    {"type": "mcq", "prompt": "'Naliligo ako tuwing umaga.' Why is the incompleted aspect used?", "choices": ["The action is happening right now only", "Habitual/repeated actions use the incompleted aspect", "Tuwing requires the past", "It's a polite form"], "answer": 1, "explain": "Incompleted covers both 'happening now' and habits; tuwing umaga (every morning) signals a habit."},
+    {"type": "fill", "prompt": "Complete the set: kumain, kumakain, ___. (contemplated)", "answer": "kakain", "accept": ["kakain"], "explain": "For -um- verbs the contemplated form is just the reduplicated root with no infix: kakain."},
+    {"type": "fill", "prompt": "Kauuwi ___ lang ni Tatay. (Dad just got home.) — which word goes in the blank, or is it already complete? Type 'lang' position word: Kauuwi ___ ni Tatay.", "answer": "lang", "accept": ["lang"], "hint": "The kaka- form nearly always pairs with this particle.", "explain": "The recently-completed kaka-/kauu- form takes lang right after it (or after the pronoun): Kauuwi lang ni Tatay."},
+    {"type": "mcq", "prompt": "How do you say 'I just ate'?", "choices": ["Kumain lang ako.", "Kakakain ko lang.", "Kakain lang ako.", "Kinain ko lang."], "answer": 1, "explain": "The recently-completed form kakakain takes a ng-form doer plus lang: Kakakain ko lang. 'Kakain lang ako' means I'll just eat (future)."},
+    {"type": "mcq", "prompt": "'Nagsipilyo ako bago ___.' Which verb form completes 'I brushed my teeth before sleeping'?", "choices": ["natulog", "natutulog", "matulog", "matutulog"], "answer": 2, "explain": "After bago the verb stays in its basic (infinitive/contemplated-like) form — matulog — even though the sentence is past."},
+    {"type": "fill", "prompt": "___ ng trabaho, umuwi agad ako. (After work, I went straight home.)", "answer": "Pagkatapos", "accept": ["pagkatapos", "Pagkatapos"], "explain": "Pagkatapos ng + noun means 'after (the) noun': pagkatapos ng trabaho."},
+    {"type": "listen", "tl": "Una, gumising ako nang alas-sais. Tapos, naligo ako at nag-almusal.", "prompt": "What did the speaker do right after waking up?", "choices": ["Ate breakfast then showered", "Showered then ate breakfast", "Got dressed then left", "Cooked rice then slept"], "answer": 1, "explain": "The order is marked by tapos: naligo (showered) comes first, then nag-almusal (ate breakfast)."},
+    {"type": "mcq", "prompt": "Pick the correct aspect: 'Lilinisin namin ang bahay ___.'", "choices": ["kahapon", "kanina", "sa Sabado", "kagabi"], "answer": 2, "explain": "Lilinisin is contemplated (not yet done), so it needs a future time word like sa Sabado; kahapon, kanina and kagabi are all past."},
+    {"type": "translate", "direction": "en2tl", "prompt": "After eating, we cleared the dishes.", "answer": "Pagkatapos kumain, nagligpit kami ng mga pinggan.", "accept": ["Pagkatapos kumain, nagligpit kami ng mga pinggan", "Nagligpit kami ng mga pinggan pagkatapos kumain", "Pagkatapos kumain ay nagligpit kami ng mga pinggan"], "explain": "Pagkatapos + basic verb form (kumain) = after eating; the main clause uses completed nagligpit."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Kakatapos lang ng klase namin.", "answer": "Our class just ended.", "accept": ["Our class just ended", "Our class just finished", "Our class has just ended", "Our class has just finished"], "explain": "The ka- + reduplication form with lang means 'just (recently) happened': the class finished moments ago."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Call me before you leave.", "answer": "Tumawag ka sa akin bago ka umalis.", "accept": ["Tumawag ka sa akin bago ka umalis", "Tumawag ka bago ka umalis", "Tawagan mo ako bago ka umalis"], "explain": "Bago + basic form umalis; the actor ka slips in between: bago ka umalis."},
+    {"type": "fill", "prompt": "Nagsasaing si Nanay ngayon. Ibig sabihin, ___ na ang kanin mamaya. (aspect check: the rice is being cooked NOW, so the verb nagsasaing is in the ___ aspect — type the aspect name in English)", "answer": "incompleted", "accept": ["incompleted", "imperfective", "progressive"], "explain": "Nagsasaing shows reduplication on the completed nag- base: the incompleted aspect, used for actions in progress."},
+    {"type": "translate", "direction": "en2tl", "prompt": "First, I woke up early. Then I did the laundry and swept outside.", "answer": "Una, gumising ako nang maaga. Tapos, naglaba ako at nagwalis sa labas.", "accept": ["Una, gumising ako nang maaga. Tapos, naglaba ako at nagwalis sa labas", "Una, maaga akong gumising. Tapos, naglaba ako at nagwalis sa labas", "Una, gumising ako nang maaga, tapos naglaba ako at nagwalis sa labas"], "explain": "Una opens the sequence, tapos links the next step; all verbs are completed aspect because the day is being narrated as finished events."}
+  ]
+}

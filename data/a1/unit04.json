@@ -1,0 +1,112 @@
+{
+  "id": "a1-u04",
+  "title": "Food and eating out",
+  "objectives": [
+    "Say what you like and dislike with gusto and ayaw + ng",
+    "Use the possessor-form (ng-form) pronouns: ko, mo, niya, namin, natin, ninyo, nila",
+    "Order food and drinks politely with pahingi po and isang... po",
+    "Talk about Filipino dishes and say something is delicious"
+  ],
+  "grammar": [
+    {
+      "title": "The possessor-form pronouns (ng-form)",
+      "explanation": "Here is the second pronoun set, the one you've been seeing in chunks like kaibigan ko and gusto ko. Grammars call it the 'ng-form'; think of it as the possessor form. The set: ko (I/my), mo (you/your), niya (he/she, his/her), namin (our, not yours), natin (our, including yours), ninyo (your, plural or polite), nila (their).\n\nJob one: possession. Put the pronoun AFTER the noun: kape ko (my coffee), bahay namin (our house), guro ninyo (your teacher). English says 'my coffee'; Tagalog says 'coffee my'.\n\nJob two: the experiencer of gusto and ayaw, which you'll see in the next section: gusto ko, ayaw niya.\n\nThe kami/tayo split carries over: namin excludes the listener, natin includes them. So bahay namin = 'our house (not yours)', but kape natin = 'our coffee (yours and mine)'. And like ka, these words can never start a sentence — they always lean on the word before them.",
+      "examples": [
+        {"tl": "Masarap ang adobo ng nanay ko.", "en": "My mom's adobo is delicious."},
+        {"tl": "Ito ang kape mo.", "en": "This is your coffee."},
+        {"tl": "Kaklase namin si Kate.", "en": "Kate is our classmate."},
+        {"tl": "Guro nila si G. Reyes.", "en": "Mr. Reyes is their teacher."}
+      ]
+    },
+    {
+      "title": "Liking and disliking: gusto / ayaw + ng",
+      "explanation": "Gusto means 'like/want' and ayaw means 'dislike/don't want'. The pattern is: gusto + possessor pronoun + ng + thing. Gusto ko ng kape — 'I want/like coffee.' Ayaw niya ng gulay — 'He doesn't like vegetables.'\n\nThat little word ng (pronounced 'nang') is the second great marker of Tagalog, the partner of ang. It marks a noun that is NOT the topic — here, the thing liked. You've already met it inside litrato ng pamilya ko ('photo of my family'); with ordinary nouns it often translates as 'of' or 'a/some'.\n\nTo ask what someone wants: Ano ang gusto mo? — 'What do you like/want?' Polite, to a customer: Ano po ang gusto ninyo? To answer with just the thing: Gusto ko ng sinigang. To refuse: Ayaw ko po. (No ng needed when there's no noun.)\n\nCareful: gusto does NOT take an ang-form pronoun. 'I like coffee' is gusto KO, never gusto AKO — gusto ako would mean someone likes you!",
+      "examples": [
+        {"tl": "Gusto ko ng kape at tinapay.", "en": "I'd like coffee and bread."},
+        {"tl": "Ayaw niya ng isda.", "en": "She doesn't like fish."},
+        {"tl": "Ano po ang gusto ninyo? — Gusto ko po ng sinigang.", "en": "What would you like? — I'd like sinigang."},
+        {"tl": "Gusto mo ba ng saging? — Ayaw ko, salamat.", "en": "Would you like a banana? — No thanks."}
+      ]
+    },
+    {
+      "title": "Ordering politely: pahingi po ng..., isang... po",
+      "explanation": "In a carinderia or restaurant, the friendliest way to ask for something is pahingi po ng + thing: Pahingi po ng tubig — 'May I have some water, please.' Pahingi belongs to the same polite request family as paki- from Unit 2.\n\nYou can also just state quantity + item + po: Isang kape po at dalawang pandesal po — 'One coffee and two pandesal, please.' Remember the number linker from Unit 2: isang kape, dalawang itlog, tatlong saging.\n\nTo finish your order: Iyon lang po — 'That's all.' To praise the food: Masarap! or, with feeling, Ang sarap! — 'How delicious!' (Ang + the bare root turns an adjective into an exclamation.) And two states you'll feel daily: Gutom na ako ('I'm hungry now') and Uhaw pa ako ('I'm still thirsty').",
+      "examples": [
+        {"tl": "Pahingi po ng isang tubig.", "en": "One water, please."},
+        {"tl": "Isang kape po at dalawang pandesal.", "en": "One coffee and two pandesal, please."},
+        {"tl": "Iyon lang po. Salamat!", "en": "That's all. Thank you!"},
+        {"tl": "Ang sarap ng adobo ninyo!", "en": "Your adobo is so delicious!"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "gusto", "en": "like, want", "pos": "verb", "note": "Takes a possessor pronoun: gusto ko, gusto niya", "example": {"tl": "Gusto ko ng halo-halo.", "en": "I like halo-halo."}},
+    {"tl": "ayaw", "en": "dislike, don't want", "pos": "verb", "note": "Same pattern as gusto: ayaw ko, ayaw nila", "example": {"tl": "Ayaw ko ng gatas sa kape.", "en": "I don't like milk in my coffee."}},
+    {"tl": "ko", "en": "I, my (possessor form)", "pos": "pronoun", "example": {"tl": "Gusto ko ng kanin.", "en": "I want rice."}},
+    {"tl": "mo", "en": "you, your (possessor form)", "pos": "pronoun", "example": {"tl": "Ano ang gusto mo?", "en": "What do you want?"}},
+    {"tl": "niya", "en": "he/she, his/her (possessor form)", "pos": "pronoun", "example": {"tl": "Ayaw niya ng manok.", "en": "He doesn't like chicken."}},
+    {"tl": "namin", "en": "our (not including you)", "pos": "pronoun", "example": {"tl": "Masarap ang ulam namin.", "en": "Our dish is delicious."}},
+    {"tl": "natin", "en": "our (including you)", "pos": "pronoun", "example": {"tl": "Ito ang tinapay natin.", "en": "This is our (your and my) bread."}},
+    {"tl": "ninyo", "en": "your (plural or polite)", "pos": "pronoun", "example": {"tl": "Ano po ang gusto ninyo?", "en": "What would you (polite) like?"}},
+    {"tl": "nila", "en": "their", "pos": "pronoun", "example": {"tl": "Masarap ang pansit nila.", "en": "Their pansit is delicious."}},
+    {"tl": "ng", "en": "marker for a non-topic noun ('of', 'a/some')", "pos": "particle", "note": "Pronounced 'nang'", "example": {"tl": "Gusto ko ng prutas.", "en": "I want some fruit."}},
+    {"tl": "pahingi", "en": "may I have, please give", "pos": "phrase", "example": {"tl": "Pahingi po ng tubig.", "en": "May I have some water, please."}},
+    {"tl": "masarap", "en": "delicious, tasty", "pos": "adjective", "example": {"tl": "Masarap ang sinigang dito.", "en": "The sinigang here is delicious."}},
+    {"tl": "gutom", "en": "hungry", "pos": "adjective", "example": {"tl": "Gutom na ako!", "en": "I'm hungry now!"}},
+    {"tl": "uhaw", "en": "thirsty", "pos": "adjective", "example": {"tl": "Uhaw pa ba kayo?", "en": "Are you still thirsty?"}},
+    {"tl": "kanin", "en": "cooked rice", "pos": "noun", "example": {"tl": "Pahingi pa po ng kanin.", "en": "More rice, please."}},
+    {"tl": "ulam", "en": "main dish (eaten with rice)", "pos": "noun", "example": {"tl": "Ano ang ulam natin?", "en": "What's our main dish?"}},
+    {"tl": "tubig", "en": "water", "pos": "noun", "example": {"tl": "Isang tubig po.", "en": "One water, please."}},
+    {"tl": "kape", "en": "coffee", "pos": "noun", "example": {"tl": "Gusto mo ba ng kape?", "en": "Would you like coffee?"}},
+    {"tl": "gatas", "en": "milk", "pos": "noun", "example": {"tl": "May gatas ba ang kape na ito?", "en": "Does this coffee have milk?"}},
+    {"tl": "asukal", "en": "sugar", "pos": "noun", "example": {"tl": "Pahingi po ng asukal.", "en": "Some sugar, please."}},
+    {"tl": "tinapay", "en": "bread", "pos": "noun", "example": {"tl": "Gusto ko ng tinapay at kape.", "en": "I'd like bread and coffee."}},
+    {"tl": "pandesal", "en": "pandesal (Filipino bread roll)", "pos": "noun", "example": {"tl": "Dalawang pandesal po.", "en": "Two pandesal, please."}},
+    {"tl": "itlog", "en": "egg", "pos": "noun", "example": {"tl": "May itlog ba kayo?", "en": "Do you have eggs?"}},
+    {"tl": "isda", "en": "fish", "pos": "noun", "example": {"tl": "Ayaw ng anak ko ng isda.", "en": "My child doesn't like fish."}},
+    {"tl": "manok", "en": "chicken", "pos": "noun", "example": {"tl": "Gusto namin ng manok.", "en": "We'd like chicken."}},
+    {"tl": "karne", "en": "meat", "pos": "noun", "example": {"tl": "Wala po kaming karne ngayon.", "en": "We have no meat today."}},
+    {"tl": "gulay", "en": "vegetable(s)", "pos": "noun", "example": {"tl": "Gusto ko ng gulay sa ulam.", "en": "I like vegetables in the dish."}},
+    {"tl": "prutas", "en": "fruit", "pos": "noun", "example": {"tl": "May prutas ba tayo?", "en": "Do we have fruit?"}},
+    {"tl": "mansanas", "en": "apple", "pos": "noun", "example": {"tl": "Isang mansanas po.", "en": "One apple, please."}},
+    {"tl": "saging", "en": "banana", "pos": "noun", "example": {"tl": "Gusto ng pusa namin ng saging!", "en": "Our cat likes bananas!"}},
+    {"tl": "adobo", "en": "adobo (meat stewed in soy sauce and vinegar)", "pos": "noun", "example": {"tl": "Masarap ang adobo ni Lola.", "en": "Grandma's adobo is delicious."}},
+    {"tl": "sinigang", "en": "sinigang (sour tamarind soup)", "pos": "noun", "example": {"tl": "Gusto ko ng sinigang na isda.", "en": "I like fish sinigang."}},
+    {"tl": "pansit", "en": "pancit (noodle dish)", "pos": "noun", "example": {"tl": "May pansit sa party.", "en": "There's pancit at the party."}},
+    {"tl": "halo-halo", "en": "halo-halo (iced dessert)", "pos": "noun", "example": {"tl": "Dalawang halo-halo po!", "en": "Two halo-halo, please!"}},
+    {"tl": "iyon lang po", "en": "that's all (when ordering)", "pos": "phrase", "example": {"tl": "Isang kape po. Iyon lang po.", "en": "One coffee, please. That's all."}}
+  ],
+  "dialogue": {
+    "title": "At the carinderia",
+    "context": "Ana and Kate order lunch at a small eatery. Aling Nena runs it.",
+    "lines": [
+      {"speaker": "Aling Nena", "tl": "Magandang tanghali! Ano po ang gusto ninyo?", "en": "Good noon! What would you like?"},
+      {"speaker": "Ana", "tl": "Ano ang ulam ninyo ngayon po?", "en": "What are your dishes today?"},
+      {"speaker": "Aling Nena", "tl": "May adobo, sinigang na isda, at gulay po.", "en": "We have adobo, fish sinigang, and vegetables."},
+      {"speaker": "Ana", "tl": "Gusto ko po ng adobo at kanin.", "en": "I'd like adobo and rice."},
+      {"speaker": "Aling Nena", "tl": "Ikaw, ineng? Ano ang sa iyo?", "en": "And you, miss? What will you have?"},
+      {"speaker": "Kate", "tl": "Ayaw ko po ng isda... Gusto ko po ng sinigang na manok. Mayroon po ba?", "en": "I don't like fish... I'd like chicken sinigang. Do you have that?"},
+      {"speaker": "Aling Nena", "tl": "Wala po ngayon. Pero masarap ang adobo namin!", "en": "Not today. But our adobo is delicious!"},
+      {"speaker": "Kate", "tl": "Sige po, adobo na rin. At pahingi po ng dalawang tubig.", "en": "Alright, adobo as well then. And two waters, please."},
+      {"speaker": "Aling Nena", "tl": "May halo-halo rin po kami. Gusto ninyo ba?", "en": "We also have halo-halo. Would you like some?"},
+      {"speaker": "Ana", "tl": "Oo naman po! Dalawang halo-halo po. Iyon lang po.", "en": "Of course! Two halo-halo, please. That's all."},
+      {"speaker": "Kate", "tl": "Mmm, ang sarap ng adobo ninyo, Aling Nena!", "en": "Mmm, your adobo is so delicious, Aling Nena!"},
+      {"speaker": "Aling Nena", "tl": "Maraming salamat! Kain pa kayo!", "en": "Thank you very much! Eat some more!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which is correct for 'I like coffee'?", "choices": ["Gusto ako ng kape.", "Gusto ko ng kape.", "Gusto ng kape ako.", "Ako gusto kape."], "answer": 1, "explain": "Gusto takes the possessor-form pronoun ko; gusto ako would mean someone likes YOU."},
+    {"type": "mcq", "prompt": "What does 'Ayaw niya ng gulay' mean?", "choices": ["She wants vegetables.", "He doesn't like vegetables.", "They don't like fruit.", "He likes meat."], "answer": 1, "explain": "Ayaw is 'dislike/don't want', niya is 'he/she', and ng gulay marks vegetables as the thing disliked."},
+    {"type": "fill", "prompt": "Gusto ko ___ sinigang. (I want sinigang.)", "answer": "ng", "accept": ["ng", "nang"], "explain": "The thing wanted after gusto is marked with ng: gusto ko ng sinigang."},
+    {"type": "fill", "prompt": "Masarap ang adobo ___ nanay ko. (My mom's adobo is delicious — 'adobo OF my mom')", "answer": "ng", "accept": ["ng", "nang"], "explain": "Ng links two nouns as 'of': adobo ng nanay ko = the adobo of my mom."},
+    {"type": "mcq", "prompt": "A waiter politely asks a table of customers what they want. Which is right?", "choices": ["Ano ang gusto mo?", "Ano po ang gusto ninyo?", "Ano ang gusto ko?", "Gusto po ba ako?"], "answer": 1, "explain": "Ninyo is the plural/polite 'your', matching po; mo would be too casual for customers."},
+    {"type": "listen", "tl": "Pahingi po ng dalawang pandesal at isang kape.", "prompt": "What is the customer ordering?", "choices": ["Two coffees and one bread roll", "Two bread rolls and one coffee", "One bread roll and two waters", "Two eggs and one coffee"], "answer": 1, "explain": "Dalawang pandesal is two bread rolls and isang kape is one coffee; pahingi po ng makes it a polite request."},
+    {"type": "fill", "prompt": "This is OUR house — yours and mine: Bahay ___ ito.", "answer": "natin", "accept": ["natin"], "hint": "Does 'our' include the listener?", "explain": "Natin includes the person you're talking to; namin would exclude them."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I don't like fish. I like chicken.", "answer": "Ayaw ko ng isda. Gusto ko ng manok.", "accept": ["Ayaw ko ng isda. Gusto ko ng manok", "Ayaw ko po ng isda. Gusto ko po ng manok", "Ayaw ko ng isda, gusto ko ng manok"], "explain": "Both ayaw and gusto take ko + ng + the food: ayaw ko ng isda, gusto ko ng manok."},
+    {"type": "listen", "tl": "Gutom na ako! Ano ang ulam natin?", "prompt": "What is the speaker saying?", "choices": ["I'm thirsty — where is the water?", "I'm hungry — what's our main dish?", "I'm full — the food was delicious.", "I'm hungry — I want dessert."], "answer": 1, "explain": "Gutom na ako = 'I'm hungry now'; ulam is the main dish eaten with rice, and natin is 'our'."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Masarap ang pansit ni Tita Rosa, pero ayaw ng kuya ko ng gulay.", "answer": "Aunt Rosa's pancit is delicious, but my older brother doesn't like vegetables.", "accept": ["Aunt Rosa's pancit is delicious, but my older brother doesn't like vegetables", "Tita Rosa's pansit is delicious but my older brother does not like vegetables", "Aunt Rosa's noodles are delicious, but my older brother doesn't like vegetables"], "explain": "Ni marks the named owner (pansit ni Tita Rosa), and ayaw ng kuya ko ng gulay stacks two ng-phrases: the one who dislikes, and the thing disliked."},
+    {"type": "mcq", "prompt": "You've finished ordering. How do you say 'That's all, please'?", "choices": ["Wala po.", "Iyon lang po.", "Hindi po.", "Sandali lang po."], "answer": 1, "explain": "Iyon lang po — literally 'just that' — is the set phrase for closing an order."},
+    {"type": "translate", "direction": "en2tl", "prompt": "May I have some water, please. And one halo-halo. That's all.", "answer": "Pahingi po ng tubig. At isang halo-halo po. Iyon lang po.", "accept": ["Pahingi po ng tubig. At isang halo-halo po. Iyon lang po", "Pahingi po ng tubig at isang halo-halo. Iyon lang po", "Pahingi po ng tubig. Isang halo-halo po. Iyon lang po"], "explain": "Pahingi po ng + noun requests politely; isang halo-halo uses the number linker; iyon lang po closes the order."},
+    {"type": "mcq", "prompt": "Gusto mo ba ng kape? You want to refuse politely. Which reply is natural?", "choices": ["Ayaw po ako.", "Hindi ako kape.", "Ayaw ko po, salamat.", "Wala po ako."], "answer": 2, "explain": "Ayaw ko po refuses an offer (with the possessor ko, not ako); adding salamat keeps it friendly."}
+  ]
+}

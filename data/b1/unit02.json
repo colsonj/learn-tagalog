@@ -1,0 +1,133 @@
+{
+  "id": "b1-u02",
+  "title": "Managed to, happened to: maka-, makapag- and na-",
+  "objectives": [
+    "Say what you were able to do or managed to do with maka-/makapag-",
+    "Use ma- object forms for 'can/can't manage' (nabuhat ko, hindi ko magawa)",
+    "Describe accidents and unintended events with na- (nabasag, naiwan, nadapa)",
+    "Use the perception verbs makita, marinig, maamoy naturally"
+  ],
+  "grammar": [
+    {
+      "title": "maka- and makapag-: ability and circumstance",
+      "explanation": "To say someone was able to do something, managed to do it, or got the chance to do it, Tagalog swaps the actor-focus prefix for maka- or makapag-. The rule of thumb: -um- verbs take maka- (umuwi > makauwi), mag- verbs take makapag- (magtrabaho > makapagtrabaho).\n\nAspect: completed nakapunta, incompleted nakakapunta (you will also hear the more formal nakapupunta), contemplated makakapunta (formal makapupunta). The doubled-prefix forms (nakaka-, makaka-) are what you'll hear in everyday speech.\n\nThe meaning covers a family of English ideas: 'was able to' (Nakauwi rin ako — I managed to get home), 'got to / had the chance to' (Nakapunta ka na ba sa Palawan? — Have you ever gotten to go to Palawan?), and with hindi, 'couldn't / didn't get to' (Hindi ako nakatulog — I couldn't sleep / didn't get any sleep). Compare with A2's puwede and kaya: puwede is permission or possibility, kaya is capability in general, but maka- reports whether the doing actually happened or will actually manage to happen.",
+      "examples": [
+        {"tl": "Nakapunta na ako sa Cebu, pero hindi pa sa Palawan.", "en": "I've been able to go to Cebu, but not yet to Palawan."},
+        {"tl": "Hindi ako nakatulog kagabi dahil sa ingay.", "en": "I couldn't sleep last night because of the noise."},
+        {"tl": "Nakapagluto pa ako ng agahan bago ako umalis.", "en": "I still managed to cook breakfast before I left."},
+        {"tl": "Hindi ako nakakapag-ehersisyo ngayong linggo.", "en": "I haven't been able to exercise this week."},
+        {"tl": "Makakauwi ka ba nang maaga bukas?", "en": "Will you be able to go home early tomorrow?"}
+      ]
+    },
+    {
+      "title": "ma- object focus: what you managed (or failed) to do to something",
+      "explanation": "maka- has an object-focus partner: plain ma-. Where object focus would use -in, the abilitative uses ma- with the doer as a ng-phrase: Binuhat ko ang kahon (I lifted the box — deliberate) versus Nabuhat ko ang kahon (I managed to lift the box). Aspect: nabuhat, nabubuhat, mabubuhat.\n\nThis family is extremely common in the negative: Hindi ko magawa (I can't do it), Hindi ko mabuksan ang pinto (I can't get the door open), Hindi ko mahanap ang susi ko (I can't find my keys). Note that 'find' is almost always in this family — nahanap ko means 'I found it (managed to locate it)'.\n\nFor -an verbs, the abilitative keeps the -an: ma--an. The everyday star of this pattern is makalimutan, 'to forget': Nakalimutan ko ang pangalan niya — I forgot his name. Its opposite, maalala 'to remember/recall', is a plain ma- verb: Naalala ko na! — Now I remember!",
+      "examples": [
+        {"tl": "Nabuhat niya mag-isa ang mabigat na kahon.", "en": "He managed to lift the heavy box by himself."},
+        {"tl": "Hindi ko mabuksan ang garapon. Puwede mo bang subukan?", "en": "I can't open the jar. Can you try?"},
+        {"tl": "Nahanap ko na ang susi — nasa bulsa ko lang pala.", "en": "I found the key — it was just in my pocket."},
+        {"tl": "Nakalimutan kong isara ang bintana.", "en": "I forgot to close the window."},
+        {"tl": "Naalala mo ba ang pangalan ng hotel?", "en": "Do you remember the name of the hotel?"}
+      ]
+    },
+    {
+      "title": "na- accidents: it just happened",
+      "explanation": "The same ma- forms have a second life: unintended, accidental events. Nabasag ko ang baso can mean 'I managed to break the glass', but in real life it almost always means 'I (accidentally) broke the glass'. Context decides, and accidents are far more common.\n\nUsed without a doer, these verbs describe something that simply happened to the subject: Nabasag ang baso (the glass broke), Nahulog ang telepono ko (my phone fell), Nadapa ang bata (the child tripped), Nasira ang kotse (the car broke down), Nawala ang wallet ko (my wallet got lost). English often needs a whole different verb for these; Tagalog just uses ma-.\n\nA very useful member is maiwan, 'to be left behind': Naiwan ko ang payong sa bus — I (accidentally) left the umbrella on the bus; Naiwan ako! — I got left behind! Compare deliberate versus accidental pairs and feel the difference: itinapon ko (I threw it away, on purpose) versus natapon ko (I spilled it); sinira ko (I broke it deliberately) versus nasira (it broke / I accidentally broke it). Blaming and apologizing in Tagalog runs on this contrast.",
+      "examples": [
+        {"tl": "Nabasag ko ang paborito mong tasa. Pasensiya na.", "en": "I accidentally broke your favorite cup. Sorry."},
+        {"tl": "Nahulog ang telepono ko sa hagdan pero ayos lang ito.", "en": "My phone fell down the stairs but it's okay."},
+        {"tl": "Naiwan ko ang payong ko sa jeep.", "en": "I left my umbrella on the jeepney."},
+        {"tl": "Nadapa siya sa madulas na sahig.", "en": "She slipped and fell on the slippery floor."},
+        {"tl": "Natapon ko ang kape sa mga papel mo. Patawad talaga.", "en": "I spilled the coffee on your papers. I'm really sorry."},
+        {"tl": "Nasira ang kotse namin sa daan.", "en": "Our car broke down on the road."}
+      ]
+    },
+    {
+      "title": "Seeing, hearing, smelling: makita, marinig, maamoy",
+      "explanation": "The verbs of perception live almost entirely in the ma- family, because perceiving is something that happens to you rather than something you do on purpose. 'I saw' is nakita ko, 'I heard' is narinig ko, 'I smelled (noticed a smell)' is naamoy ko. Their aspect forms: nakita / nakikita / makikita; narinig / naririnig / maririnig; naamoy / naaamoy / maaamoy.\n\nThe doer is a ng-pronoun and the thing perceived is the ang-phrase, exactly like object focus: Nakita ko si Liza sa mall — I saw Liza at the mall. Nakikita mo ba ang bundok mula rito? — Can you see the mountain from here?\n\nBecause these are ma- verbs, they carry the 'happened to' flavor built in: Nakita kita kahapon! is 'I happened to see you yesterday / I spotted you'. If you deliberately looked at or watched something, that's a different verb (tumingin, manood), which you already know. Mixing them up — using tumingin for 'saw' — is a classic learner mistake.",
+      "examples": [
+        {"tl": "Nakita ko ang bago mong kotse. Ang ganda!", "en": "I saw your new car. It's beautiful!"},
+        {"tl": "Narinig mo ba ang balita tungkol kay Carlo?", "en": "Did you hear the news about Carlo?"},
+        {"tl": "Naaamoy ko ang niluluto ni Nanay mula sa kuwarto ko.", "en": "I can smell what Mom is cooking from my room."},
+        {"tl": "Makikita mo ang dagat mula sa bintana ng hotel.", "en": "You'll be able to see the sea from the hotel window."},
+        {"tl": "Hindi kita naririnig — malakas ang ulan.", "en": "I can't hear you — the rain is loud."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "makapunta (maka-)", "en": "to be able to go, to get to go", "pos": "verb", "note": "nakapunta, nakakapunta, makakapunta", "example": {"tl": "Nakapunta na ba kayo sa Bohol?", "en": "Have you gotten to go to Bohol?"}},
+    {"tl": "makatulog (maka-)", "en": "to manage to sleep, fall asleep", "pos": "verb", "note": "nakatulog, nakakatulog, makakatulog", "example": {"tl": "Hindi ako nakatulog sa eroplano.", "en": "I couldn't sleep on the plane."}},
+    {"tl": "makauwi (maka-)", "en": "to manage to get home", "pos": "verb", "note": "nakauwi, nakakauwi, makakauwi", "example": {"tl": "Nakauwi rin kami bago ang malakas na ulan.", "en": "We managed to get home before the heavy rain."}},
+    {"tl": "makabili (maka-)", "en": "to manage to buy", "pos": "verb", "note": "nakabili, nakakabili, makakabili", "example": {"tl": "Nakabili ka ba ng tiket?", "en": "Were you able to buy a ticket?"}},
+    {"tl": "makapagtrabaho (makapag-)", "en": "to be able to work", "pos": "verb", "note": "nakapagtrabaho, nakakapagtrabaho, makakapagtrabaho", "example": {"tl": "Hindi siya nakapagtrabaho kahapon dahil may sakit siya.", "en": "He wasn't able to work yesterday because he was sick."}},
+    {"tl": "makapagluto (makapag-)", "en": "to manage to cook", "pos": "verb", "note": "nakapagluto, nakakapagluto, makakapagluto", "example": {"tl": "Nakapagluto pa ako ng hapunan kahit pagod ako.", "en": "I still managed to cook dinner even though I was tired."}},
+    {"tl": "magawa (ma-)", "en": "to be able to do", "pos": "verb", "note": "nagawa, nagagawa, magagawa; very common in the negative: hindi ko magawa", "example": {"tl": "Hindi ko magawa ang assignment nang walang internet.", "en": "I can't do the assignment without internet."}},
+    {"tl": "mabuksan (ma--an)", "en": "to manage to open", "pos": "verb", "note": "nabuksan, nabubuksan, mabubuksan", "example": {"tl": "Sa wakas, nabuksan ko rin ang garapon.", "en": "Finally, I managed to open the jar."}},
+    {"tl": "mabuhat (ma-)", "en": "to manage to lift/carry", "pos": "verb", "note": "nabuhat, nabubuhat, mabubuhat", "example": {"tl": "Hindi ko mabuhat ang maleta mo — ang bigat!", "en": "I can't lift your suitcase — it's so heavy!"}},
+    {"tl": "mahanap (ma-)", "en": "to find, manage to locate", "pos": "verb", "note": "nahanap, nahahanap, mahahanap", "example": {"tl": "Nahanap mo na ba ang salamin mo?", "en": "Have you found your glasses yet?"}},
+    {"tl": "maalala (ma-)", "en": "to remember, recall", "pos": "verb", "note": "naalala, naaalala, maaalala", "example": {"tl": "Naalala ko bigla ang pangalan ng kanta.", "en": "I suddenly remembered the name of the song."}},
+    {"tl": "makalimutan (ma--an)", "en": "to forget", "pos": "verb", "note": "nakalimutan, nakakalimutan, makakalimutan", "example": {"tl": "Nakalimutan kong i-charge ang telepono ko.", "en": "I forgot to charge my phone."}},
+    {"tl": "makita (ma-)", "en": "to see, spot", "pos": "verb", "note": "nakita, nakikita, makikita", "example": {"tl": "Nakita ko sila sa simbahan kaninang umaga.", "en": "I saw them at church earlier this morning."}},
+    {"tl": "marinig (ma-)", "en": "to hear", "pos": "verb", "note": "narinig, naririnig, maririnig", "example": {"tl": "Narinig ko ang sinabi mo tungkol sa akin.", "en": "I heard what you said about me."}},
+    {"tl": "maamoy (ma-)", "en": "to smell, catch the scent of", "pos": "verb", "note": "naamoy, naaamoy, maaamoy", "example": {"tl": "Naamoy ng aso ang pagkain sa loob ng bag.", "en": "The dog smelled the food inside the bag."}},
+    {"tl": "mabasag (ma-)", "en": "to break, get broken (glass, plates)", "pos": "verb", "note": "nabasag, nababasag, mababasag; accidental", "example": {"tl": "Nabasag ang salamin noong lumindol.", "en": "The mirror broke when the earthquake hit."}},
+    {"tl": "mahulog (ma-)", "en": "to fall, drop", "pos": "verb", "note": "nahulog, nahuhulog, mahuhulog", "example": {"tl": "Muntik nang mahulog ang bata sa hagdan.", "en": "The child almost fell down the stairs."}},
+    {"tl": "madapa (ma-)", "en": "to trip, stumble and fall", "pos": "verb", "note": "nadapa, nadadapa, madadapa", "example": {"tl": "Nadapa ako sa harap ng maraming tao. Nakakahiya!", "en": "I tripped in front of a lot of people. So embarrassing!"}},
+    {"tl": "maiwan (ma-)", "en": "to be left behind, leave behind accidentally", "pos": "verb", "note": "naiwan, naiiwan, maiiwan", "example": {"tl": "Naiwan ko ang wallet ko sa bahay.", "en": "I left my wallet at home."}},
+    {"tl": "matapon (ma-)", "en": "to spill, get spilled", "pos": "verb", "note": "natapon, natatapon, matatapon; deliberate 'throw away' is itapon", "example": {"tl": "Natapon ang gatas sa mesa.", "en": "The milk spilled on the table."}},
+    {"tl": "masira (ma-)", "en": "to break down, get damaged", "pos": "verb", "note": "nasira, nasisira, masisira", "example": {"tl": "Nasira ang aircon namin sa pinakamainit na araw.", "en": "Our air conditioner broke down on the hottest day."}},
+    {"tl": "mawala (ma-)", "en": "to get lost, disappear", "pos": "verb", "note": "nawala, nawawala, mawawala", "example": {"tl": "Nawala ang susi ko kahapon, pero nahanap ko rin.", "en": "My key got lost yesterday, but I found it eventually."}},
+    {"tl": "muntik na", "en": "almost, nearly (something bad)", "pos": "phrase", "note": "followed by the linker nang + verb: muntik nang mahulog", "example": {"tl": "Muntik na akong madapa sa basang sahig.", "en": "I almost slipped on the wet floor."}},
+    {"tl": "garapon", "en": "jar", "pos": "noun", "example": {"tl": "Nasa garapon ang natirang kendi.", "en": "The leftover candy is in the jar."}},
+    {"tl": "hagdan", "en": "stairs, ladder", "pos": "noun", "example": {"tl": "Mag-ingat ka sa hagdan — madulas iyan.", "en": "Be careful on the stairs — they're slippery."}},
+    {"tl": "sahig", "en": "floor", "pos": "noun", "example": {"tl": "Basa pa ang sahig kaya huwag ka munang pumasok.", "en": "The floor is still wet, so don't come in yet."}},
+    {"tl": "madulas", "en": "slippery", "pos": "adjective", "example": {"tl": "Madulas ang daan kapag umuulan.", "en": "The road is slippery when it rains."}},
+    {"tl": "pagkakataon", "en": "chance, opportunity", "pos": "noun", "example": {"tl": "Magandang pagkakataon ito para makapag-aral sa ibang bansa.", "en": "This is a good opportunity to be able to study abroad."}}
+  ],
+  "dialogue": {
+    "title": "Malas na umaga",
+    "context": "Officemates Dina and Paolo compare notes on a rough Monday morning.",
+    "lines": [
+      {"speaker": "Dina", "tl": "Bakit ngayon ka lang nakarating? Alas-nuwebe na!", "en": "Why did you only get here now? It's already nine!"},
+      {"speaker": "Paolo", "tl": "Sobrang malas ko ngayong umaga. Hindi ako nakatulog nang maayos kagabi.", "en": "I had such bad luck this morning. I couldn't sleep well last night."},
+      {"speaker": "Dina", "tl": "Tapos? Mukhang may kuwento ka pa.", "en": "And then? Looks like there's more to the story."},
+      {"speaker": "Paolo", "tl": "Natapon ko ang kape sa polo ko, kaya nagpalit pa ako.", "en": "I spilled coffee on my shirt, so I still had to change."},
+      {"speaker": "Dina", "tl": "Naku. Nakapag-agahan ka pa ba?", "en": "Oh no. Did you still manage to have breakfast?"},
+      {"speaker": "Paolo", "tl": "Hindi na. At pagbaba ko sa jeep, naiwan ko pa ang payong ko.", "en": "Not anymore. And when I got off the jeepney, I even left my umbrella behind."},
+      {"speaker": "Dina", "tl": "Ikaw talaga. Buti hindi nawala ang wallet mo.", "en": "You really are something. Good thing your wallet didn't get lost."},
+      {"speaker": "Paolo", "tl": "Muntik na! Nahulog ito sa sahig ng jeep, pero nakita ng drayber.", "en": "Almost! It fell on the jeepney floor, but the driver spotted it."},
+      {"speaker": "Dina", "tl": "Mabait naman pala. Narinig mo ba ang anunsiyo kanina?", "en": "How kind of him. Did you hear the announcement earlier?"},
+      {"speaker": "Paolo", "tl": "Hindi ko narinig. Ano iyon?", "en": "I didn't hear it. What was it?"},
+      {"speaker": "Dina", "tl": "Nasira raw ang aircon sa meeting room, kaya lilipat tayo sa kabilang gusali.", "en": "They said the aircon in the meeting room broke down, so we're moving to the other building."},
+      {"speaker": "Paolo", "tl": "Ayos lang. Basta makakainom lang ako ng kape, kakayanin ko ang araw na ito.", "en": "That's fine. As long as I can get some coffee, I can handle this day."}
+    ]
+  },
+  "reading": {
+    "title": "Ang malas na araw ni Marco",
+    "tl": "Hindi nakatulog nang maayos si Marco kagabi dahil sa ingay ng mga kapitbahay. Kaninang umaga, nakalimutan niyang itakda ang alarm, kaya nagising siya nang alas-otso na. Nagmamadali siyang naligo at nagbihis. Sa kusina, natapon niya ang kape sa mesa at muntik pang mabasag ang tasa. Pagdating sa kanto, nakita niyang paalis na ang bus. Tumakbo siya, nadapa sa madulas na daan, pero nakasakay pa rin.\n\nSa loob ng bus, naamoy niyang may nagluluto ng mani sa labas at naalala niyang hindi pa siya nakakakain ng agahan. Nang bumaba siya, naiwan niya ang telepono niya sa upuan. Buti na lang, narinig ng konduktor ang tunog nito at hinabol siya. Nakarating din si Marco sa opisina — pagod, gutom, pero buo pa ang araw niya.",
+    "en": "Marco didn't sleep well last night because of the neighbors' noise. This morning, he forgot to set the alarm, so he woke up when it was already eight o'clock. He hurriedly showered and got dressed. In the kitchen, he spilled coffee on the table and the cup almost broke. When he reached the corner, he saw the bus was already leaving. He ran, tripped on the slippery road, but still managed to get on.\n\nInside the bus, he smelled someone roasting peanuts outside and remembered he hadn't been able to eat breakfast yet. When he got off, he left his phone on the seat. Luckily, the conductor heard it ringing and chased after him. Marco made it to the office in the end — tired, hungry, but with his whole day still ahead of him.",
+    "gloss": [
+      {"tl": "itakda", "en": "to set (an alarm, a schedule)"},
+      {"tl": "nagmamadali", "en": "hurrying, in a rush"},
+      {"tl": "nagbihis", "en": "got dressed"},
+      {"tl": "mani", "en": "peanuts"},
+      {"tl": "konduktor", "en": "bus conductor"},
+      {"tl": "hinabol", "en": "chased (from habulin)"},
+      {"tl": "buo", "en": "whole, intact"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which sentence means 'I couldn't sleep last night'?", "choices": ["Hindi ako natulog kagabi.", "Hindi ako nakatulog kagabi.", "Hindi ako matutulog kagabi.", "Natulog ako kagabi."], "answer": 1, "explain": "Nakatulog (maka-) reports whether sleeping was achieved; hindi nakatulog = couldn't manage to sleep. Hindi natulog just says you didn't sleep (perhaps by choice)."},
+    {"type": "mcq", "prompt": "Your friend's plate slipped out of your hands. What do you say?", "choices": ["Binasag ko ang pinggan mo.", "Nabasag ko ang pinggan mo.", "Basagin ko ang pinggan mo.", "Nagbasag ako ng pinggan mo."], "answer": 1, "explain": "Nabasag (na-) marks the event as accidental. Binasag would mean you broke it on purpose."},
+    {"type": "fill", "prompt": "___ ko ang susi ko kahapon, pero nahanap ko rin. (My key got lost yesterday...)", "answer": "nawala", "accept": ["nawala"], "hint": "The ma- verb for 'get lost', completed aspect.", "explain": "Mawala 'to get lost' in the completed aspect is nawala — the loss just happened, no one did it deliberately."},
+    {"type": "fill", "prompt": "___ mo ba ang balita tungkol sa bagong presidente ng kompanya? (Did you hear the news...?)", "answer": "narinig", "accept": ["narinig"], "hint": "Hearing is a ma- perception verb.", "explain": "Perception uses the ma- family: marinig, completed narinig. The hearer is the ng-pronoun mo."},
+    {"type": "mcq", "prompt": "Nakapunta ka na ba sa Baguio? — the most natural English for this is:", "choices": ["Are you going to Baguio?", "Have you ever been to Baguio?", "Do you like Baguio?", "When did you go to Baguio?"], "answer": 1, "explain": "Maka- with na ba asks about achieved experience: 'have you gotten to go / have you ever been'."},
+    {"type": "listen", "tl": "Naiwan ko ang payong ko sa jeep kaya nabasa ako sa ulan.", "prompt": "What happened to the speaker?", "choices": ["They lost their wallet on the jeepney", "They left their umbrella on the jeepney and got wet in the rain", "They forgot to ride the jeepney in the rain", "Their umbrella broke in the rain"], "answer": 1, "explain": "Naiwan = accidentally left behind; kaya introduces the result — nabasa sila (they got wet) in the rain."},
+    {"type": "fill", "prompt": "Hindi ko ___ ang mabigat na maleta. Tulungan mo ako! (I can't lift the heavy suitcase.)", "answer": "mabuhat", "accept": ["mabuhat"], "hint": "Abilitative object focus, infinitive after hindi ko.", "explain": "'Can't manage to lift' uses the ma- abilitative: hindi ko mabuhat. Plain buhatin would be a deliberate command form, not ability."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I forgot to close the window.", "answer": "Nakalimutan kong isara ang bintana.", "accept": ["Nakalimutan kong isara ang bintana", "Nakalimutan ko na isara ang bintana", "Nakalimutan kong isara ang bintana."], "explain": "Makalimutan takes the forgotten action as a linked verb: nakalimutan ko + ng linker + isara."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Muntik na akong madapa sa madulas na hagdan.", "answer": "I almost tripped on the slippery stairs.", "accept": ["I almost tripped on the slippery stairs", "I almost fell on the slippery stairs", "I nearly tripped on the slippery stairs", "I nearly fell on the slippery staircase"], "explain": "Muntik na + linker + ma- verb means 'almost (something bad) happened': muntik nang madapa = almost tripped."},
+    {"type": "listen", "tl": "Nakita kita kahapon sa mall pero hindi mo ako narinig nang tumawag ako.", "prompt": "What is the speaker saying?", "choices": ["I looked for you at the mall but you had left", "I saw you at the mall yesterday but you didn't hear me when I called out", "You saw me at the mall but I didn't see you", "I heard you at the mall but didn't see you"], "answer": 1, "explain": "Nakita kita = I saw you; hindi mo ako narinig = you didn't hear me. Both are ma- perception verbs with 'happened to' flavor."},
+    {"type": "mcq", "prompt": "Choose the correct form: 'He wasn't able to work yesterday.'", "choices": ["Hindi siya nagtrabaho kahapon.", "Hindi siya nakapagtrabaho kahapon.", "Hindi siya makapagtrabaho kahapon.", "Hindi siya nakatrabaho kahapon."], "answer": 1, "explain": "Magtrabaho is a mag- verb, so its abilitative is makapag-: completed nakapagtrabaho. Choice 1 lacks the 'wasn't able' meaning, and choice 3 is the wrong aspect."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I found my keys — they were just in the bag. (use 'lang' and the ma- verb for 'find')", "answer": "Nahanap ko na ang mga susi ko — nasa bag lang.", "accept": ["Nahanap ko na ang mga susi ko — nasa bag lang", "Nahanap ko ang mga susi ko, nasa bag lang", "Nahanap ko na ang susi ko, nasa bag lang", "Nahanap ko ang susi ko nasa bag lang"], "explain": "'Find' is mahanap (managed to locate): nahanap ko. Nasa bag lang uses lang for 'just/only in the bag'."}
+  ]
+}

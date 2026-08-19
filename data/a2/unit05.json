@@ -1,0 +1,105 @@
+{
+  "id": "a2-u05",
+  "title": "Little words, big meaning: particles and invitations",
+  "objectives": [
+    "Use the enclitic particles na, pa, lang, din/rin, daw/raw, and naman",
+    "Place particles correctly in second position",
+    "Make plans with balak and gusto + linker + verb",
+    "Invite someone out, accept warmly, and decline politely"
+  ],
+  "grammar": [
+    {
+      "title": "Na, pa, lang: already, still, just",
+      "explanation": "Tagalog carries a set of tiny particles that never start a sentence; they cling to the first word (or first word plus pronoun). These 'enclitics' carry a huge amount of everyday meaning.\n\nNA = already / now: 'Kumain na ako' — I've already eaten. 'Tara na!' — Let's go now! 'Malaki na siya' — he's big now (he's grown).\n\nPA = still / yet / more: 'Kumakain pa ako' — I'm still eating. With negatives: 'Hindi pa ako kumain' — I haven't eaten yet. 'Wala pa siya' — she's not here yet. Also 'more': 'Isa pa!' — one more!\n\nLANG = just / only: 'Dalawa lang kami' — there are just two of us. 'Nagbibiro lang ako' — I'm just joking. You met it with the kaka- form: 'Kakauwi ko lang.'\n\nNa and pa are mirror twins, and answering questions with them is a core skill: 'Kumain ka na ba?' — 'Oo, kumain na ako.' / 'Hindi pa.'",
+      "examples": [
+        {"tl": "Tapos ka na ba? — Hindi pa. Konti na lang!", "en": "Are you done? — Not yet. Just a little more!"},
+        {"tl": "Alis na tayo. Gabi na.", "en": "Let's leave now. It's already late (night)."},
+        {"tl": "May kanin pa ba? — Wala na.", "en": "Is there still rice? — There's none left."},
+        {"tl": "Isang tanong lang, tapos aalis na ako.", "en": "Just one question, then I'll go."}
+      ]
+    },
+    {
+      "title": "Din/rin, daw/raw, naman",
+      "explanation": "DIN/RIN = also/too. Use rin after a word ending in a vowel or w/y, din elsewhere: 'Ako rin!' — me too! 'Gutom din ako' — I'm hungry too. Manila speakers are relaxed about this rule, but rin-after-vowel is the classic pattern.\n\nDAW/RAW = reportedly, '(someone) said'. Same sound rule: raw after vowels. It marks second-hand information: 'Uulan daw bukas' — they say it'll rain tomorrow. 'Darating raw sila nang alas-siyete' — they said they'll arrive at seven. It saves you a whole 'he said that...' clause.\n\nNAMAN is the hardest to translate and the most Filipino of all. Its core jobs at this level: (1) mild contrast or turn-taking — 'Ako naman' — my turn / as for me; 'Ikaw naman?' — and you? (2) softening — 'Okay naman' — it's okay (really); 'Hindi naman' — not really. Don't agonize over a perfect translation; collect examples and copy them.\n\nOrder matters when particles stack: short pronouns come before particles ('Kumain na ako' → with two: 'Kumain na rin ako' — I ate too, finally), and na/pa come before other particles: na rin, pa lang, na naman (again!).",
+      "examples": [
+        {"tl": "Taga-Cebu din ako!", "en": "I'm from Cebu too!"},
+        {"tl": "Masarap daw ang pagkain sa bagong restawran.", "en": "They say the food at the new restaurant is delicious."},
+        {"tl": "Kumusta ka? — Okay naman. Ikaw naman, kumusta?", "en": "How are you? — I'm fine. And you, how are you?"},
+        {"tl": "Uulan na naman!", "en": "It's raining again!"}
+      ]
+    },
+    {
+      "title": "Balak and gusto + verb: plans and invitations",
+      "explanation": "In A1 you used gusto with nouns: 'Gusto ko ng kape.' To want TO DO something, keep the ng-form actor and add the linker to it, then the basic verb: 'Gusto kong kumain' — I want to eat. 'Gusto mo bang sumama?' — Do you want to come along? Balak (plan/intend) works exactly the same way: 'Balak kong pumunta sa Baguio sa Disyembre' — I plan to go to Baguio in December.\n\nTo invite someone, the friendliest openers are: 'Gusto mo bang manood ng sine?' (Want to watch a movie?), 'Sama ka!' (Come with us!), and the beloved 'Tara!' / 'Tara na!' (Let's go!). Accept with 'Sige!' 'G!' (very casual), 'Oo naman!'\n\nDeclining needs softening — a flat 'Ayaw ko' sounds rude. The polite formula is sana (expressing a wish that won't happen) + a reason + a rain check: 'Gusto ko sana, kaso may lakad ako' — I'd love to, but I have plans. 'Sa susunod na lang, ha?' — Next time instead, okay? May lakad ako (literally 'I have a walk/errand') is the all-purpose Filipino excuse.",
+      "examples": [
+        {"tl": "Gusto mo bang kumain sa labas mamayang gabi?", "en": "Do you want to eat out tonight?"},
+        {"tl": "Balak naming magbakasyon sa La Union.", "en": "We plan to take a vacation in La Union."},
+        {"tl": "Gusto ko sana, kaso kailangan kong magtrabaho bukas.", "en": "I'd love to, but I need to work tomorrow."},
+        {"tl": "Sayang! Sa susunod na lang, ha?", "en": "Too bad! Next time then, okay?"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "na", "en": "already, now", "pos": "particle", "note": "second position; kumain na ako", "example": {"tl": "Tapos na ang klase.", "en": "The class is already over."}},
+    {"tl": "pa", "en": "still, yet, more", "pos": "particle", "note": "hindi pa = not yet", "example": {"tl": "Nag-aaral pa siya sa kolehiyo.", "en": "She's still studying in college."}},
+    {"tl": "lang", "en": "just, only", "pos": "particle", "example": {"tl": "Biro lang!", "en": "Just kidding!"}},
+    {"tl": "din / rin", "en": "also, too", "pos": "particle", "note": "rin after vowels, din after consonants", "example": {"tl": "Gusto ko rin ng halo-halo.", "en": "I want halo-halo too."}},
+    {"tl": "daw / raw", "en": "reportedly, (someone) said", "pos": "particle", "note": "raw after vowels", "example": {"tl": "May party daw sa Sabado.", "en": "They say there's a party on Saturday."}},
+    {"tl": "naman", "en": "on the other hand; softener", "pos": "particle", "note": "Ikaw naman? = and you?", "example": {"tl": "Ako naman ang magluluto ngayon.", "en": "This time I'll be the one to cook."}},
+    {"tl": "sana", "en": "hopefully, I wish", "pos": "particle", "note": "gusto ko sana = I'd love to (but...)", "example": {"tl": "Sana pumayag ang nanay mo.", "en": "Hopefully your mom agrees."}},
+    {"tl": "kaso", "en": "but, the thing is", "pos": "conjunction", "note": "casual; softer than pero", "example": {"tl": "Gusto ko sana, kaso wala akong pera.", "en": "I'd love to, but I have no money."}},
+    {"tl": "balak", "en": "plan, intention", "pos": "noun", "note": "balak kong + verb = I plan to", "example": {"tl": "Ano ang balak mo sa Sabado?", "en": "What's your plan for Saturday?"}},
+    {"tl": "plano", "en": "plan", "pos": "noun", "example": {"tl": "May plano ba kayo mamayang gabi?", "en": "Do you have plans tonight?"}},
+    {"tl": "lakad", "en": "errand, appointment, plans", "pos": "noun", "note": "may lakad ako = I have plans (common excuse)", "example": {"tl": "May lakad kami ng pamilya ko bukas.", "en": "My family and I have plans tomorrow."}},
+    {"tl": "sumama (um)", "en": "to come along, join", "pos": "verb", "note": "sumama, sumasama, sasama; Sama ka! = come with us!", "example": {"tl": "Gusto mo bang sumama sa amin?", "en": "Do you want to come with us?"}},
+    {"tl": "manood (mang)", "en": "to watch", "pos": "verb", "note": "irregular mang- verb, learn as-is: nanood, nanonood, manonood", "example": {"tl": "Nanood kami ng sine kagabi.", "en": "We watched a movie last night."}},
+    {"tl": "magkita (mag)", "en": "to meet up (with each other)", "pos": "verb", "note": "nagkita, nagkikita, magkikita", "example": {"tl": "Magkita tayo sa mall nang alas-kuwatro.", "en": "Let's meet at the mall at four."}},
+    {"tl": "mag-usap (mag)", "en": "to talk (with each other)", "pos": "verb", "note": "nag-usap, nag-uusap, mag-uusap", "example": {"tl": "Mag-usap tayo mamaya, ha?", "en": "Let's talk later, okay?"}},
+    {"tl": "magbakasyon (mag)", "en": "to take a vacation", "pos": "verb", "note": "nagbakasyon, nagbabakasyon, magbabakasyon", "example": {"tl": "Magbabakasyon kami sa Palawan.", "en": "We're going on vacation in Palawan."}},
+    {"tl": "sine", "en": "movie; the movies", "pos": "noun", "note": "manood ng sine = watch a movie", "example": {"tl": "Ano ang maganda sa sine ngayon?", "en": "What's good at the movies right now?"}},
+    {"tl": "konsyerto", "en": "concert", "pos": "noun", "example": {"tl": "May konsyerto raw sa Sabado sa arena.", "en": "They say there's a concert on Saturday at the arena."}},
+    {"tl": "handaan", "en": "party, celebration (with food)", "pos": "noun", "note": "from handa; a Filipino house party", "example": {"tl": "May handaan sa bahay nila sa Linggo.", "en": "There's a party at their house on Sunday."}},
+    {"tl": "kasal", "en": "wedding", "pos": "noun", "example": {"tl": "Pupunta kami sa kasal ng pinsan ko.", "en": "We're going to my cousin's wedding."}},
+    {"tl": "libre", "en": "free (no cost); treat", "pos": "adjective", "note": "Libre ko! = my treat!", "example": {"tl": "Sumama ka na, libre ko ang kape mo.", "en": "Come along, my treat for coffee."}},
+    {"tl": "tara", "en": "let's go, come on", "pos": "interjection", "note": "Tara na! Tara, kain tayo!", "example": {"tl": "Tara! Manood tayo ng sine!", "en": "Come on! Let's watch a movie!"}},
+    {"tl": "sayang", "en": "what a shame, too bad", "pos": "interjection", "example": {"tl": "Sayang! Hindi ako puwede sa Sabado.", "en": "Too bad! I can't make it on Saturday."}},
+    {"tl": "sa susunod", "en": "next time", "pos": "phrase", "note": "sa susunod na lang = (let's do it) next time instead", "example": {"tl": "Sa susunod na lang tayo manood, ha?", "en": "Let's just watch next time, okay?"}},
+    {"tl": "siguro", "en": "maybe, probably", "pos": "adverb", "example": {"tl": "Siguro darating sila nang alas-sais.", "en": "They'll probably arrive at six."}},
+    {"tl": "okupado", "en": "busy, occupied", "pos": "adjective", "example": {"tl": "Okupado ako buong linggo, e.", "en": "I'm busy all week, you see."}},
+    {"tl": "malapit na", "en": "soon, coming up", "pos": "phrase", "note": "literally 'near already'", "example": {"tl": "Malapit na ang kaarawan ni Ana.", "en": "Ana's birthday is coming up."}}
+  ],
+  "dialogue": {
+    "title": "Movie night, maybe",
+    "context": "Officemates Bea and Jerome are chatting during their break on a Friday afternoon.",
+    "lines": [
+      {"speaker": "Bea", "tl": "Jerome! May bago raw na horror movie sa sine. Maganda raw talaga.", "en": "Jerome! They say there's a new horror movie showing. It's supposed to be really good."},
+      {"speaker": "Jerome", "tl": "Ah, oo! Sabi rin ng kapatid ko. Nanood na siya.", "en": "Oh, yes! My sibling said so too. He's already seen it."},
+      {"speaker": "Bea", "tl": "Gusto mo bang manood mamayang gabi? Sama na!", "en": "Want to watch tonight? Come on, join!"},
+      {"speaker": "Jerome", "tl": "Naku, gusto ko sana, kaso may lakad ako mamaya. May handaan sa bahay ng tita ko.", "en": "Oh no, I'd love to, but I have plans later. There's a party at my aunt's house."},
+      {"speaker": "Bea", "tl": "Sayang naman! Sa Sabado na lang kaya?", "en": "Too bad! How about Saturday instead?"},
+      {"speaker": "Jerome", "tl": "Sa Sabado... puwede! Wala pa akong plano.", "en": "Saturday... I can! I don't have plans yet."},
+      {"speaker": "Bea", "tl": "Ayos! Balak ko ring kumain sa bagong ramen place pagkatapos. Masarap daw doon.", "en": "Great! I also plan to eat at the new ramen place afterwards. They say it's delicious there."},
+      {"speaker": "Jerome", "tl": "Sige! Gutom na ako, e. Anong oras tayo magkikita?", "en": "Deal! I'm getting hungry already. What time will we meet?"},
+      {"speaker": "Bea", "tl": "Alas-kuwatro siguro, sa labas ng mall. Maaga pa, puwede tayong mag-kape muna.", "en": "Maybe four o'clock, outside the mall. It's still early, we can have coffee first."},
+      {"speaker": "Jerome", "tl": "Ikaw naman ang taya sa kape, ha? Libre ko na ang tiket.", "en": "You're covering the coffee then, okay? The tickets are my treat."},
+      {"speaker": "Bea", "tl": "Sige, deal! Huwag kang male-late, ha?", "en": "Okay, deal! Don't be late, okay?"},
+      {"speaker": "Jerome", "tl": "Hindi naman ako laging late! Minsan lang.", "en": "I'm not always late! Only sometimes."}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "'Kumain na ako' means:", "choices": ["I'm still eating.", "I've already eaten.", "I just eat.", "I'll eat later."], "answer": 1, "explain": "Na marks 'already/now': the eating is done. 'Still eating' would be kumakain pa ako."},
+    {"type": "mcq", "prompt": "Someone asks 'Kumain ka na ba?' and you haven't eaten. The natural answer is:", "choices": ["Hindi na.", "Hindi pa.", "Wala lang.", "Oo na."], "answer": 1, "explain": "Hindi pa = not yet. Pa pairs with negatives to mean the thing hasn't happened yet."},
+    {"type": "fill", "prompt": "Taga-Cebu ___ ako! (I'm from Cebu too!)", "answer": "din", "accept": ["din", "rin"], "hint": "also/too", "explain": "Din/rin means 'also'. After the consonant of 'Cebu'... actually Cebu ends in a vowel, so rin is the classic choice, but Manila speakers use both — we accept either."},
+    {"type": "mcq", "prompt": "What does daw/raw add to 'Uulan daw bukas'?", "choices": ["Certainty — it will definitely rain", "The speaker heard it from someone else", "A question", "Politeness"], "answer": 1, "explain": "Daw/raw marks reported information: 'they say it will rain tomorrow.'"},
+    {"type": "fill", "prompt": "Kumusta ka? — Okay ___. Ikaw? (I'm fine, thanks — softened)", "answer": "naman", "accept": ["naman", "naman po"], "explain": "Okay naman softens and rounds off the answer; naman also powers the return question 'Ikaw naman?'"},
+    {"type": "mcq", "prompt": "Where does the particle go? 'I still study at the university' =", "choices": ["Pa nag-aaral ako sa unibersidad.", "Nag-aaral ako pa sa unibersidad.", "Nag-aaral pa ako sa unibersidad.", "Nag-aaral ako sa unibersidad pa."], "answer": 2, "explain": "Enclitic particles sit in second position, right after the first full word: nag-aaral pa ako. (Pa can never start a sentence.)"},
+    {"type": "fill", "prompt": "Gusto ___ bang sumama sa amin? (Do you want to come with us?)", "answer": "mo", "accept": ["mo"], "hint": "gusto takes the ng-form actor.", "explain": "Gusto keeps its ng-form actor (mo) even with a verb; ba follows, then the linker feeds into sumama."},
+    {"type": "listen", "tl": "Gusto ko sana, kaso may lakad ako bukas. Sa susunod na lang, ha?", "prompt": "What is the speaker doing?", "choices": ["Accepting an invitation enthusiastically", "Declining politely and suggesting next time", "Asking for directions", "Inviting someone to a party"], "answer": 1, "explain": "Gusto ko sana (I'd love to) + kaso + excuse (may lakad ako) + sa susunod na lang is the classic polite decline."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I plan to go to Baguio in December.", "answer": "Balak kong pumunta sa Baguio sa Disyembre.", "accept": ["Balak kong pumunta sa Baguio sa Disyembre", "Balak kong pumunta sa Disyembre sa Baguio", "Sa Disyembre, balak kong pumunta sa Baguio"], "explain": "Balak works like gusto: ng-form actor + linker (kong) + basic verb (pumunta)."},
+    {"type": "mcq", "prompt": "'Uulan na naman.' What does na naman express?", "choices": ["It will rain later only", "It's raining again (with mild exasperation)", "It might rain", "It reportedly rained"], "answer": 1, "explain": "The combination na naman means 'again', often with a sigh: here we go again."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Masarap daw ang pagkain doon, kaso wala akong pera ngayon.", "answer": "They say the food there is delicious, but I have no money right now.", "accept": ["They say the food there is delicious, but I have no money right now", "The food there is supposedly delicious but I don't have money right now", "They say the food is delicious there, but I have no money now"], "explain": "Daw marks hearsay; kaso introduces the casual 'but'; wala akong pera = I have no money."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Let's meet at the mall at four. Don't be late, okay?", "answer": "Magkita tayo sa mall nang alas-kuwatro. Huwag kang male-late, ha?", "accept": ["Magkita tayo sa mall nang alas-kuwatro. Huwag kang male-late, ha", "Magkita tayo sa mall nang alas-kwatro. Huwag kang male-late ha", "Magkita tayo sa mall sa alas-kuwatro. Huwag kang male-late, ha"], "explain": "Magkita tayo = let's meet (inclusive tayo); huwag + kang for the negative command, with the friendly tag ha."},
+    {"type": "mcq", "prompt": "Put the particles in the right order: 'I ate too, already.'", "choices": ["Kumain rin na ako.", "Kumain na rin ako.", "Kumain ako na rin.", "Na rin kumain ako."], "answer": 1, "explain": "When particles stack, na comes before rin, and both come before longer words but after the verb: kumain na rin ako."},
+    {"type": "fill", "prompt": "___! Manood tayo ng sine! (Come on! Let's watch a movie!)", "answer": "Tara", "accept": ["tara", "Tara", "tara na", "Tara na"], "explain": "Tara (or Tara na) is the go-to friendly 'let's go / come on' for launching an invitation."}
+  ]
+}

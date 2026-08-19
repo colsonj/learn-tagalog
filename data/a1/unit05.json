@@ -1,0 +1,111 @@
+{
+  "id": "a1-u05",
+  "title": "Objects, colors, and describing things",
+  "objectives": [
+    "Describe things with ma- adjectives (malaki, maliit, maganda...)",
+    "Join describing words to nouns with the linker na / -ng",
+    "Make nouns plural with mga",
+    "Name everyday objects and their colors, and ask Ano ang kulay...?"
+  ],
+  "grammar": [
+    {
+      "title": "Adjectives with ma-",
+      "explanation": "Most Tagalog adjectives are built from a root plus the prefix ma-: ganda (beauty) gives maganda (beautiful), laki (size) gives malaki (big), init (heat) gives mainit (hot). Once you spot this pattern, new adjectives become easy to learn in pairs: malaki/maliit (big/small), mainit/malamig (hot/cold), malinis/marumi (clean/dirty), bago/luma (new/old — these two happen to have no ma-).\n\nUsing an adjective is simple because there is no word for 'is': adjective first, topic second. Malaki ang bahay — 'The house is big.' Maganda si Ana — 'Ana is beautiful.' Masaya ako — 'I'm happy.' You've been doing this since Mabuti ako in Unit 1.\n\nTo exclaim, use ang + the adjective (you saw Ang sarap! in Unit 4): Ang ganda! 'How beautiful!' Ang laki ng bahay nila! 'Their house is so big!'",
+      "examples": [
+        {"tl": "Malaki ang bahay nila.", "en": "Their house is big."},
+        {"tl": "Mainit ang kape.", "en": "The coffee is hot."},
+        {"tl": "Mabait ang guro namin.", "en": "Our teacher is kind."},
+        {"tl": "Ang ganda ng relo mo!", "en": "Your watch is so beautiful!"}
+      ]
+    },
+    {
+      "title": "The linker na / -ng",
+      "explanation": "When an adjective sits right next to its noun ('a big house', 'cold water'), Tagalog glues them together with a linker. The rule has three cases. If the describing word ends in a vowel, attach -ng directly: malaki → malaking bahay (big house), pula → pulang bag (red bag). If it ends in n, that n becomes ng: ulan → maulang araw (rainy day). If it ends in any other consonant, leave the word alone and put the separate word na after it: maliit na bahay (small house), malamig na tubig (cold water).\n\nThe order can flip freely: malaking bahay and bahay na malaki both mean 'big house'. Flipping doesn't change the meaning, only the emphasis a little.\n\nYou already know this glue from numbers (dalawang pusa, isang kape) and from walang + noun. It's everywhere in Tagalog — whenever two words describe each other, expect a linker between them.",
+      "examples": [
+        {"tl": "malaking bahay", "en": "a big house"},
+        {"tl": "malamig na tubig", "en": "cold water"},
+        {"tl": "Gusto ko ng mainit na kape.", "en": "I want hot coffee."},
+        {"tl": "Maganda ang pulang bag mo.", "en": "Your red bag is pretty."}
+      ]
+    },
+    {
+      "title": "Plural with mga; asking about color",
+      "explanation": "To make a noun plural, put mga (pronounced ma-NGA) before it: ang mga bata — 'the children'; mga libro — 'books'. The noun itself never changes shape. Don't double up: with a number, skip mga — tatlong libro, not tatlong mga libro.\n\nColors work like other describing words and take the linker: pulang bag (red bag), itim na sapatos (black shoes). To ask a color: Ano ang kulay ng bag mo? — 'What color is your bag?' Answer: Pula. or Pula ang bag ko.\n\nNote how the ng marker earns its keep again: kulay ng bag = 'color OF the bag'. The ang/ng team from Units 3–4 runs through everything you'll say.",
+      "examples": [
+        {"tl": "Maliliit ang mga silya.", "en": "The chairs are small."},
+        {"tl": "May mga libro ba kayo?", "en": "Do you have books?"},
+        {"tl": "Ano ang kulay ng damit niya? — Dilaw.", "en": "What color is her dress? — Yellow."},
+        {"tl": "Itim na sapatos ang gusto ko.", "en": "Black shoes are what I want."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "mesa", "en": "table", "pos": "noun", "example": {"tl": "Malaki ang mesa namin.", "en": "Our table is big."}},
+    {"tl": "silya", "en": "chair", "pos": "noun", "example": {"tl": "May apat na silya kami.", "en": "We have four chairs."}},
+    {"tl": "libro", "en": "book", "pos": "noun", "example": {"tl": "Bago ang libro ko.", "en": "My book is new."}},
+    {"tl": "lapis", "en": "pencil", "pos": "noun", "example": {"tl": "Pahingi po ng lapis.", "en": "May I have a pencil, please."}},
+    {"tl": "bolpen", "en": "ballpoint pen", "pos": "noun", "example": {"tl": "Ito ba ang bolpen mo?", "en": "Is this your pen?"}},
+    {"tl": "bag", "en": "bag", "pos": "noun", "example": {"tl": "Pula ang bag ni Ana.", "en": "Ana's bag is red."}},
+    {"tl": "sapatos", "en": "shoe(s)", "pos": "noun", "example": {"tl": "Itim ang sapatos niya.", "en": "His shoes are black."}},
+    {"tl": "damit", "en": "clothes; dress", "pos": "noun", "example": {"tl": "Maganda ang damit mo!", "en": "Your dress is pretty!"}},
+    {"tl": "susi", "en": "key", "pos": "noun", "example": {"tl": "Ito ang susi ng bahay.", "en": "This is the house key."}},
+    {"tl": "relo", "en": "watch, clock", "pos": "noun", "example": {"tl": "Luma na ang relo ko.", "en": "My watch is old now."}},
+    {"tl": "payong", "en": "umbrella", "pos": "noun", "example": {"tl": "May payong ka ba?", "en": "Do you have an umbrella?"}},
+    {"tl": "kulay", "en": "color", "pos": "noun", "example": {"tl": "Ano ang kulay ng bag mo?", "en": "What color is your bag?"}},
+    {"tl": "pula", "en": "red", "pos": "adjective", "example": {"tl": "Pula ang paborito kong kulay.", "en": "Red is my favorite color."}},
+    {"tl": "puti", "en": "white", "pos": "adjective", "example": {"tl": "Puti ang damit ng sanggol.", "en": "The baby's clothes are white."}},
+    {"tl": "itim", "en": "black", "pos": "adjective", "example": {"tl": "Itim na bag ang bag ko.", "en": "My bag is a black bag."}},
+    {"tl": "asul", "en": "blue", "pos": "adjective", "note": "Bughaw is the deep-Tagalog word, rarer in speech", "example": {"tl": "Asul ang payong niya.", "en": "Her umbrella is blue."}},
+    {"tl": "berde", "en": "green", "pos": "adjective", "note": "Luntian is the deep-Tagalog word", "example": {"tl": "Berde ang mga gulay.", "en": "Vegetables are green."}},
+    {"tl": "dilaw", "en": "yellow", "pos": "adjective", "example": {"tl": "Dilaw ang saging.", "en": "Bananas are yellow."}},
+    {"tl": "maganda", "en": "beautiful, nice", "pos": "adjective", "example": {"tl": "Maganda ang bahay ninyo.", "en": "Your house is beautiful."}},
+    {"tl": "malaki", "en": "big", "pos": "adjective", "example": {"tl": "Malaki ang pamilya namin.", "en": "Our family is big."}},
+    {"tl": "maliit", "en": "small", "pos": "adjective", "example": {"tl": "Maliit na bahay ang bahay nila.", "en": "Their house is a small house."}},
+    {"tl": "mabait", "en": "kind, nice (of a person)", "pos": "adjective", "example": {"tl": "Mabait ang lola ko.", "en": "My grandmother is kind."}},
+    {"tl": "bago", "en": "new", "pos": "adjective", "example": {"tl": "Bago ba ang sapatos mo?", "en": "Are your shoes new?"}},
+    {"tl": "luma", "en": "old (of things)", "pos": "adjective", "note": "For people, use matanda", "example": {"tl": "Luma na ang bag ko.", "en": "My bag is old now."}},
+    {"tl": "matanda", "en": "old (of people); elderly person", "pos": "adjective", "example": {"tl": "Matanda na si Lolo.", "en": "Grandpa is old now."}},
+    {"tl": "mainit", "en": "hot", "pos": "adjective", "example": {"tl": "Mainit ang kape. Ingat ka!", "en": "The coffee is hot. Careful!"}},
+    {"tl": "malamig", "en": "cold", "pos": "adjective", "example": {"tl": "Gusto ko ng malamig na tubig.", "en": "I want cold water."}},
+    {"tl": "malinis", "en": "clean", "pos": "adjective", "example": {"tl": "Malinis ang mesa.", "en": "The table is clean."}},
+    {"tl": "marumi", "en": "dirty", "pos": "adjective", "example": {"tl": "Marumi ang sapatos ko.", "en": "My shoes are dirty."}},
+    {"tl": "mahaba", "en": "long", "pos": "adjective", "example": {"tl": "Mahaba ang klase namin ngayon.", "en": "Our class is long today."}},
+    {"tl": "masaya", "en": "happy, fun", "pos": "adjective", "example": {"tl": "Masaya ang party!", "en": "The party is fun!"}},
+    {"tl": "mga", "en": "plural marker", "pos": "particle", "note": "Pronounced 'ma-NGA'; skip it when a number is present", "example": {"tl": "Bago ang mga libro namin.", "en": "Our books are new."}},
+    {"tl": "pero", "en": "but", "pos": "conjunction", "example": {"tl": "Maliit ang bahay namin pero malinis.", "en": "Our house is small but clean."}},
+    {"tl": "paborito", "en": "favorite", "pos": "adjective", "example": {"tl": "Adobo ang paborito kong ulam.", "en": "Adobo is my favorite dish."}}
+  ],
+  "dialogue": {
+    "title": "Whose bag is this?",
+    "context": "After class, three bags are left on the table. Ben helps Kate find hers.",
+    "lines": [
+      {"speaker": "Ben", "tl": "Kate, ito ba ang bag mo?", "en": "Kate, is this your bag?"},
+      {"speaker": "Kate", "tl": "Hindi. Itim ang bag ko. Asul iyan.", "en": "No. My bag is black. That one's blue."},
+      {"speaker": "Ben", "tl": "Ay, oo nga. Malaki ba o maliit ang bag mo?", "en": "Oh, right. Is your bag big or small?"},
+      {"speaker": "Kate", "tl": "Maliit na itim na bag. May pulang susi sa loob.", "en": "A small black bag. There's a red key inside."},
+      {"speaker": "Ben", "tl": "Iyon ba, ang itim na bag sa mesa?", "en": "Is it that one, the black bag on the table?"},
+      {"speaker": "Kate", "tl": "Oo! Iyon nga! Salamat, Ben.", "en": "Yes! That's the one! Thanks, Ben."},
+      {"speaker": "Ben", "tl": "Walang anuman. Ang ganda ng bag mo, ha. Bago ba?", "en": "You're welcome. Your bag is really nice, huh. Is it new?"},
+      {"speaker": "Kate", "tl": "Hindi, luma na ito. Pero paborito ko ito.", "en": "No, it's old now. But it's my favorite."},
+      {"speaker": "Ben", "tl": "May mga libro ka ba sa bag? Ang bigat!", "en": "Do you have books in the bag? It's so heavy!"},
+      {"speaker": "Kate", "tl": "Oo, may tatlong libro at isang malaking payong.", "en": "Yes, there are three books and one big umbrella."},
+      {"speaker": "Ben", "tl": "Tatlong libro! Masaya ang klase mo, ha!", "en": "Three books! Your class must be fun, huh!"},
+      {"speaker": "Kate", "tl": "Masaya, pero mahaba. Sige, salamat ulit!", "en": "It's fun, but long. Okay, thanks again!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which prefix builds most Tagalog adjectives, as in maganda and malaki?", "choices": ["pa-", "ma-", "ka-", "taga-"], "answer": 1, "explain": "Ma- attaches to a root: ganda (beauty) → maganda, laki (size) → malaki."},
+    {"type": "mcq", "prompt": "'A big house' — which is correct?", "choices": ["malaki bahay", "malaking bahay", "malaki ng bahay", "bahay malaki"], "answer": 1, "explain": "Malaki ends in a vowel, so the linker -ng attaches directly: malaking bahay. (Bahay na malaki is also fine.)"},
+    {"type": "fill", "prompt": "Gusto ko ng malamig ___ tubig. (I want cold water.)", "answer": "na", "accept": ["na"], "explain": "Malamig ends in the consonant g, so the linker is the separate word na: malamig na tubig."},
+    {"type": "mcq", "prompt": "What is the opposite of malinis (clean)?", "choices": ["malamig", "maliit", "marumi", "maganda"], "answer": 2, "explain": "Marumi means dirty — the pair is malinis/marumi, like mainit/malamig and malaki/maliit."},
+    {"type": "fill", "prompt": "Bago ang ___ libro namin. (Our books are new — plural)", "answer": "mga", "accept": ["mga"], "explain": "Mga before a noun makes it plural: mga libro = books."},
+    {"type": "listen", "tl": "Ano ang kulay ng bag mo? — Itim, at may pulang susi sa loob.", "prompt": "What color is the bag, and what is inside?", "choices": ["Red bag with a black key", "Black bag with a red key", "Blue bag with a yellow key", "White bag with a red pen"], "answer": 1, "explain": "Itim = black answers the color question, and pulang susi = a red key (pula + linker -ng)."},
+    {"type": "mcq", "prompt": "Which is the correct way to say 'three chairs'?", "choices": ["tatlong mga silya", "tatlo silya", "tatlong silya", "mga tatlo silya"], "answer": 2, "explain": "With a number you use the linker (tatlong) but drop mga — number and mga don't combine."},
+    {"type": "fill", "prompt": "My watch is old (a thing, not a person): ___ na ang relo ko.", "answer": "luma", "accept": ["luma"], "hint": "Not matanda — that's for people.", "explain": "Luma is 'old' for objects; matanda is 'old' for people."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Her dress is beautiful. It is yellow.", "answer": "Maganda ang damit niya. Dilaw ito.", "accept": ["Maganda ang damit niya. Dilaw ito", "Maganda ang damit niya. Dilaw iyon", "Maganda ang damit niya, dilaw ito"], "explain": "Adjective first, topic second: Maganda ang damit niya; then Dilaw ito states the color with no word for 'is'."},
+    {"type": "listen", "tl": "Maliit ang bahay namin pero malinis at masaya.", "prompt": "How does the speaker describe their house?", "choices": ["Big but dirty", "Small but clean and happy", "Old and cold", "New and beautiful"], "answer": 1, "explain": "Maliit = small, pero = but, malinis = clean, masaya = happy/cheerful."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Gusto ko ng mainit na kape at dalawang bagong pandesal.", "answer": "I want hot coffee and two new pandesal.", "accept": ["I want hot coffee and two new pandesal", "I'd like hot coffee and two fresh bread rolls", "I want hot coffee and two fresh pandesal", "I would like hot coffee and two new bread rolls"], "explain": "Mainit na kape = hot coffee (linker na after a consonant), dalawang bagong pandesal chains two linkers: two + new + pandesal."},
+    {"type": "translate", "direction": "en2tl", "prompt": "The chairs are small, but the table is big.", "answer": "Maliit ang mga silya, pero malaki ang mesa.", "accept": ["Maliit ang mga silya pero malaki ang mesa", "Maliliit ang mga silya, pero malaki ang mesa", "Maliit ang mga silya, pero malaki ang mesa"], "explain": "Mga pluralizes silya; each clause is adjective + ang + noun, joined by pero (but)."},
+    {"type": "mcq", "prompt": "You want to exclaim 'How beautiful!' about a friend's new watch. What do you say?", "choices": ["Maganda ba?", "Ang ganda!", "Maganda na.", "Ganda ang!"], "answer": 1, "explain": "Ang + bare root makes an exclamation: Ang ganda! — like Ang sarap! from the food unit."}
+  ]
+}

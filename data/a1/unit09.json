@@ -1,0 +1,109 @@
+{
+  "id": "a1-u09",
+  "title": "Weather, days, and dates",
+  "objectives": [
+    "Name the days of the week and the months, and give simple dates with ika-",
+    "Talk about the weather: umuulan, maaraw, mainit, may bagyo",
+    "Ask kailan (when) and answer with kahapon, bukas, noong..., sa...",
+    "Match time words with the right verb aspect from Unit 7"
+  ],
+  "grammar": [
+    {
+      "title": "Days, months, and dates",
+      "explanation": "The days of the week are Spanish loans: Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado, Linggo (Monday through Sunday). Watch the double life of two words: Linggo with a capital L is Sunday, but linggo is also 'week'; araw is both 'day' and 'sun'. Context always makes it clear.\n\nTo ask the day: Anong araw ngayon? — 'What day is it today?' Answer: Biyernes ngayon. The months are also loans and cost you nothing to learn: Enero, Pebrero, Marso, Abril, Mayo, Hunyo, Hulyo, Agosto, Setyembre, Oktubre, Nobyembre, Disyembre.\n\nDates use ika- (a cousin of the pang- ordinals from Unit 8) plus ng + month: ika-lima ng Mayo — 'the fifth of May'. Ask with Anong petsa ngayon? — 'What's the date today?' And the date every Filipino wants to know: Kailan ang kaarawan mo? — 'When is your birthday?'",
+      "examples": [
+        {"tl": "Anong araw ngayon? — Sabado na!", "en": "What day is it? — It's Saturday!"},
+        {"tl": "Anong petsa ngayon? — Ika-dalawampu ng Hunyo.", "en": "What's the date today? — June twentieth."},
+        {"tl": "Kailan ang kaarawan mo? — Sa ika-lima ng Mayo.", "en": "When is your birthday? — On the fifth of May."},
+        {"tl": "May klase kami tuwing Lunes at Miyerkules.", "en": "We have class every Monday and Wednesday."}
+      ]
+    },
+    {
+      "title": "Weather talk",
+      "explanation": "The word for weather is panahon (which also means 'time/era'). The everyday question: Kumusta ang panahon? or simply Mainit ba sa labas? — 'Is it hot outside?'\n\nMuch of weather talk is Unit 5 adjectives doing new work: Mainit ngayon (It's hot today), Malamig sa Baguio (It's cold in Baguio), plus new ma- friends maaraw (sunny), maulan (rainy), mahangin (windy). No 'it' is needed — Tagalog just states the quality.\n\nFor rain in progress, use the verb umulan with Unit 7 aspects: Umulan kahapon (It rained yesterday), Umuulan! (It's raining!), Uulan bukas (It will rain tomorrow). Storms use may: May bagyo! — 'There's a typhoon!' The Philippines has two seasons, and Filipinos talk about them constantly: tag-init (the hot dry season) and tag-ulan (the rainy season).",
+      "examples": [
+        {"tl": "Umuulan! Nasaan ang payong ko?", "en": "It's raining! Where's my umbrella?"},
+        {"tl": "Maaraw at mainit ngayon.", "en": "It's sunny and hot today."},
+        {"tl": "May bagyo sa Biyernes. Walang klase!", "en": "There's a typhoon on Friday. No class!"},
+        {"tl": "Malamig sa Disyembre, pero hindi umuulan.", "en": "It's cool in December, but it doesn't rain."}
+      ]
+    },
+    {
+      "title": "Kailan? — time words, noong/sa, and matching the aspect",
+      "explanation": "Kailan means 'when': Kailan ka pupunta sa Cebu? — 'When are you going to Cebu?' The one-word answers you already half-know: kahapon (yesterday), kanina (earlier today), ngayon (now/today), mamaya (later today), bukas (tomorrow).\n\nFor days and dates, Tagalog marks past and future with different little words. Future time takes sa: sa Lunes (on Monday, upcoming), sa Mayo, sa ika-lima ng Mayo. Past time takes noong: noong Lunes (last Monday), noong Disyembre, noong isang taon (last year). So the same day name points forward or backward depending on sa or noong.\n\nNow connect this to Unit 7: the time word and the verb aspect must agree. Kahapon and noong... go with completed forms (Umulan noong Sabado). Bukas and sa... go with contemplated forms (Uulan sa Sabado). Ngayon and araw-araw usually take incompleted forms (Umuulan ngayon). If your time word says past but your verb says future, the sentence breaks — this agreement is the real test of the aspect system.",
+      "examples": [
+        {"tl": "Kailan ka dumating? — Noong Martes.", "en": "When did you arrive? — Last Tuesday."},
+        {"tl": "Kailan kayo pupunta sa Baguio? — Sa Sabado.", "en": "When are you going to Baguio? — On Saturday."},
+        {"tl": "Nagtrabaho ako kahapon; magtatrabaho ulit ako bukas.", "en": "I worked yesterday; I'll work again tomorrow."},
+        {"tl": "Umulan kanina, pero maaraw na ngayon.", "en": "It rained earlier, but it's sunny now."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "Lunes", "en": "Monday", "pos": "noun", "example": {"tl": "May klase ako sa Lunes.", "en": "I have class on Monday."}},
+    {"tl": "Martes", "en": "Tuesday", "pos": "noun", "example": {"tl": "Dumating sila noong Martes.", "en": "They arrived last Tuesday."}},
+    {"tl": "Miyerkules", "en": "Wednesday", "pos": "noun", "example": {"tl": "Pupunta ako sa palengke sa Miyerkules.", "en": "I'm going to the market on Wednesday."}},
+    {"tl": "Huwebes", "en": "Thursday", "pos": "noun", "example": {"tl": "Walang trabaho si Tatay sa Huwebes.", "en": "Dad has no work on Thursday."}},
+    {"tl": "Biyernes", "en": "Friday", "pos": "noun", "example": {"tl": "Biyernes na! Masaya ako.", "en": "It's Friday! I'm happy."}},
+    {"tl": "Sabado", "en": "Saturday", "pos": "noun", "example": {"tl": "Maglalaro kami sa Sabado.", "en": "We'll play on Saturday."}},
+    {"tl": "Linggo", "en": "Sunday", "pos": "noun", "note": "Lowercase linggo = week", "example": {"tl": "Pumupunta kami sa simbahan tuwing Linggo.", "en": "We go to church every Sunday."}},
+    {"tl": "araw", "en": "day; sun", "pos": "noun", "example": {"tl": "Anong araw ngayon?", "en": "What day is it today?"}},
+    {"tl": "linggo", "en": "week", "pos": "noun", "example": {"tl": "Sa isang linggo ang kaarawan ko.", "en": "My birthday is in one week."}},
+    {"tl": "buwan", "en": "month; moon", "pos": "noun", "example": {"tl": "Anong buwan na? — Hunyo na.", "en": "What month is it? — It's June."}},
+    {"tl": "petsa", "en": "date", "pos": "noun", "example": {"tl": "Anong petsa ngayon?", "en": "What's the date today?"}},
+    {"tl": "ika-", "en": "date/ordinal prefix (the ...th)", "pos": "particle", "note": "ika-lima ng Mayo = the 5th of May", "example": {"tl": "Ika-sampu ng Enero ang kaarawan niya.", "en": "His birthday is January tenth."}},
+    {"tl": "Enero", "en": "January", "pos": "noun", "note": "Months 1–6: Enero, Pebrero, Marso, Abril, Mayo, Hunyo", "example": {"tl": "Malamig sa Enero.", "en": "It's cool in January."}},
+    {"tl": "Disyembre", "en": "December", "pos": "noun", "note": "Months 7–12: Hulyo, Agosto, Setyembre, Oktubre, Nobyembre, Disyembre", "example": {"tl": "Masaya ang Disyembre sa Pilipinas!", "en": "December is joyful in the Philippines!"}},
+    {"tl": "kailan", "en": "when", "pos": "adverb", "example": {"tl": "Kailan ang kaarawan mo?", "en": "When is your birthday?"}},
+    {"tl": "kahapon", "en": "yesterday", "pos": "adverb", "example": {"tl": "Umulan kahapon.", "en": "It rained yesterday."}},
+    {"tl": "bukas", "en": "tomorrow", "pos": "adverb", "example": {"tl": "Pupunta kami sa Maynila bukas.", "en": "We're going to Manila tomorrow."}},
+    {"tl": "noong", "en": "last..., back in... (past time marker)", "pos": "particle", "note": "noong Lunes = last Monday; noong isang taon = last year", "example": {"tl": "Dumating ako noong Sabado.", "en": "I arrived last Saturday."}},
+    {"tl": "kaarawan", "en": "birthday", "pos": "noun", "example": {"tl": "Sa Sabado ang kaarawan ni Ben.", "en": "Ben's birthday is on Saturday."}},
+    {"tl": "Pasko", "en": "Christmas", "pos": "noun", "note": "Christmas songs start playing in September!", "example": {"tl": "Uuwi kami sa Cebu sa Pasko.", "en": "We're going home to Cebu for Christmas."}},
+    {"tl": "panahon", "en": "weather; time, season", "pos": "noun", "example": {"tl": "Maganda ang panahon ngayon.", "en": "The weather is nice today."}},
+    {"tl": "ulan", "en": "rain", "pos": "noun", "example": {"tl": "Ayaw ko ng ulan!", "en": "I don't like rain!"}},
+    {"tl": "umulan (um)", "en": "to rain", "pos": "verb", "note": "umulan, umuulan, uulan", "example": {"tl": "Uulan daw bukas.", "en": "They say it will rain tomorrow."}},
+    {"tl": "maulan", "en": "rainy", "pos": "adjective", "example": {"tl": "Maulan ang Hulyo dito.", "en": "July is rainy here."}},
+    {"tl": "maaraw", "en": "sunny", "pos": "adjective", "example": {"tl": "Maaraw ngayon — pupunta tayo sa parke!", "en": "It's sunny today — let's go to the park!"}},
+    {"tl": "mahangin", "en": "windy", "pos": "adjective", "note": "hangin = wind", "example": {"tl": "Mahangin sa labas.", "en": "It's windy outside."}},
+    {"tl": "bagyo", "en": "typhoon, storm", "pos": "noun", "example": {"tl": "May bagyo sa Biyernes.", "en": "There's a typhoon on Friday."}},
+    {"tl": "tag-init", "en": "hot dry season (roughly March–May)", "pos": "noun", "example": {"tl": "Mainit talaga sa tag-init.", "en": "It's really hot in the dry season."}},
+    {"tl": "tag-ulan", "en": "rainy season (roughly June–November)", "pos": "noun", "example": {"tl": "Tag-ulan na — may payong ka ba?", "en": "It's rainy season now — do you have an umbrella?"}},
+    {"tl": "dumating (um)", "en": "to arrive", "pos": "verb", "note": "dumating, dumarating, darating", "example": {"tl": "Darating si Lola sa Linggo.", "en": "Grandma will arrive on Sunday."}},
+    {"tl": "daw / raw", "en": "they say, reportedly", "pos": "particle", "note": "daw after consonants, raw after vowels", "example": {"tl": "May bagyo raw bukas.", "en": "They say there's a typhoon tomorrow."}},
+    {"tl": "talaga", "en": "really, truly", "pos": "adverb", "example": {"tl": "Mainit talaga ngayon!", "en": "It's really hot today!"}}
+  ],
+  "dialogue": {
+    "title": "Birthday plans and rain clouds",
+    "context": "Ben invites Kate to his birthday. Outside, the sky is getting dark.",
+    "lines": [
+      {"speaker": "Ben", "tl": "Kate, sa Sabado ang kaarawan ko. Pupunta ka ba?", "en": "Kate, my birthday is on Saturday. Will you come?"},
+      {"speaker": "Kate", "tl": "Kaarawan mo? Anong petsa ba sa Sabado?", "en": "Your birthday? What's the date on Saturday?"},
+      {"speaker": "Ben", "tl": "Ika-labinlima ng Hunyo. Sa bahay namin ang handaan.", "en": "June fifteenth. The party is at our house."},
+      {"speaker": "Kate", "tl": "Sige, pupunta ako! Ilang taon ka na?", "en": "Sure, I'll come! How old will you be?"},
+      {"speaker": "Ben", "tl": "Dalawampu't dalawa na. Matanda na ako!", "en": "Twenty-two. I'm old now!"},
+      {"speaker": "Kate", "tl": "Hindi pa! Ay, tingnan mo — maitim ang langit. Uulan ba?", "en": "Not yet! Oh, look — the sky is dark. Will it rain?"},
+      {"speaker": "Ben", "tl": "Siguro. Tag-ulan na kasi. Umulan din kahapon.", "en": "Probably. It's rainy season, after all. It rained yesterday too."},
+      {"speaker": "Kate", "tl": "May bagyo raw sa Biyernes. Sabi ng kaklase ko.", "en": "They say there's a typhoon on Friday. My classmate said so."},
+      {"speaker": "Ben", "tl": "Talaga? Sana maaraw sa Sabado!", "en": "Really? I hope it's sunny on Saturday!"},
+      {"speaker": "Kate", "tl": "Sana nga. Anong oras ang handaan?", "en": "I hope so. What time is the party?"},
+      {"speaker": "Ben", "tl": "Alas-sais ng gabi. Magluluto si Nanay ng pansit at adobo.", "en": "Six in the evening. Mom will cook pancit and adobo."},
+      {"speaker": "Kate", "tl": "Ang sarap! Sige, darating ako nang maaga. Dadalhin ko ang payong ko!", "en": "Delicious! Okay, I'll arrive early. I'll bring my umbrella!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which day is 'Miyerkules'?", "choices": ["Monday", "Wednesday", "Thursday", "Sunday"], "answer": 1, "explain": "The days are Spanish loans: Lunes, Martes, Miyerkules = Monday, Tuesday, Wednesday."},
+    {"type": "mcq", "prompt": "Linggo vs linggo — what do the two words mean?", "choices": ["Sunday and week", "Saturday and month", "Week and year", "Sunday and Monday"], "answer": 0, "explain": "Capital-L Linggo is Sunday; lowercase linggo means week. Context and spelling separate them."},
+    {"type": "fill", "prompt": "___ ang kaarawan mo? — Sa ika-lima ng Mayo. (WHEN is your birthday?)", "answer": "kailan", "accept": ["kailan"], "explain": "Kailan asks about time; dates answer with sa + ika- + number + ng + month."},
+    {"type": "mcq", "prompt": "'It's raining right now!' Which form is correct?", "choices": ["Umulan!", "Uulan!", "Umuulan!", "Ulan na!"], "answer": 2, "explain": "Rain in progress is the incompleted aspect: umuulan. Umulan = it rained; uulan = it will rain."},
+    {"type": "fill", "prompt": "We arrived LAST Tuesday: Dumating kami ___ Martes.", "answer": "noong", "accept": ["noong", "nung"], "hint": "Past time marker, not sa.", "explain": "Past days take noong (noong Martes = last Tuesday); sa Martes would mean the upcoming Tuesday."},
+    {"type": "listen", "tl": "May bagyo raw sa Biyernes, kaya walang klase.", "prompt": "What does the speaker say?", "choices": ["It rained last Friday, so class was long.", "There's reportedly a typhoon on Friday, so there's no class.", "It's sunny on Friday, so they'll go to the park.", "There was a storm yesterday."], "answer": 1, "explain": "May bagyo = there's a typhoon; raw marks hearsay ('they say'); walang klase = no class."},
+    {"type": "mcq", "prompt": "Which pairing of time word and verb aspect is correct?", "choices": ["Kahapon + kakain", "Bukas + kumain", "Bukas + kakain", "Kahapon + kumakain"], "answer": 2, "explain": "Bukas (tomorrow) needs the contemplated form kakain. Kahapon needs completed kumain — time word and aspect must agree."},
+    {"type": "fill", "prompt": "It will rain tomorrow: ___ bukas.", "answer": "uulan", "accept": ["uulan"], "explain": "The contemplated form of umulan drops -um- and repeats the first syllable: uulan."},
+    {"type": "translate", "direction": "en2tl", "prompt": "When are you going to Baguio? — On Saturday.", "answer": "Kailan ka pupunta sa Baguio? — Sa Sabado.", "accept": ["Kailan ka pupunta sa Baguio? Sa Sabado", "Kailan kayo pupunta sa Baguio? Sa Sabado", "Kailan ka pupunta sa Baguio? Sa Sabado po"], "explain": "Kailan + ka + contemplated pupunta asks about a future trip; the upcoming day takes sa."},
+    {"type": "listen", "tl": "Maaraw at mainit ngayon, pero umulan kahapon.", "prompt": "What's the weather report?", "choices": ["Rainy today, sunny yesterday", "Sunny and hot today, but it rained yesterday", "Windy today and tomorrow", "Cold today, hot yesterday"], "answer": 1, "explain": "Maaraw at mainit ngayon = sunny and hot today; umulan kahapon = it rained yesterday (completed aspect)."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Tag-ulan na. Umuulan araw-araw, kaya bumili ako ng bagong payong.", "answer": "It's rainy season now. It rains every day, so I bought a new umbrella.", "accept": ["It's rainy season now. It rains every day, so I bought a new umbrella", "It is the rainy season. It rains every day so I bought a new umbrella", "Rainy season is here. It's raining every day, so I bought a new umbrella"], "explain": "Tag-ulan is the rainy season; umuulan araw-araw is habitual (incompleted); bumili is completed — the buying already happened."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Grandma will arrive on Sunday. We will cook sinigang.", "answer": "Darating si Lola sa Linggo. Magluluto kami ng sinigang.", "accept": ["Darating si Lola sa Linggo. Magluluto kami ng sinigang", "Darating si Lola sa Linggo. Magluluto tayo ng sinigang", "Sa Linggo darating si Lola. Magluluto kami ng sinigang"], "explain": "Both events are future, so both verbs are contemplated: darating (from dumating) and magluluto; the upcoming day takes sa."},
+    {"type": "mcq", "prompt": "Anong petsa ngayon? Today is March 3rd. Which answer is right?", "choices": ["Ikatlo ng Marso.", "Tatlong Marso.", "Marso tatlo na.", "Pangatlo Marso."], "answer": 0, "explain": "Dates use ika- + number + ng + month: ika-tatlo/ikatlo ng Marso = the third of March."}
+  ]
+}

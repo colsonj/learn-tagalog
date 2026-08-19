@@ -1,0 +1,123 @@
+{
+  "id": "a1-u01",
+  "title": "Greetings and introducing yourself",
+  "objectives": [
+    "Greet people at any time of day and respond to Kumusta?",
+    "Use the polite particles po and opo with older people and strangers",
+    "Introduce yourself with Ako si... and say where you are from with taga-",
+    "Use the seven doer-form (ang-form) pronouns: ako, ikaw/ka, siya, kami, tayo, kayo, sila"
+  ],
+  "grammar": [
+    {
+      "title": "The polite particles po and opo",
+      "explanation": "Tagalog has a small word, po, that adds respect to anything you say. You use it when talking to older people, strangers, customers, teachers — anyone you would call 'sir' or 'ma'am' in English. It usually sits after the first word or two of the sentence: Salamat po. Magandang umaga po.\n\nOpo is the polite version of oo (yes). So a child answering a grandparent says opo, not oo. There is no polite version of hindi (no); you just add po: Hindi po.\n\nWhen in doubt, use po. Filipinos never mind extra politeness, but leaving po out with an elder can sound rude. With friends your own age, drop it — Kumusta ka? is fine.",
+      "examples": [
+        {"tl": "Salamat po.", "en": "Thank you (polite)."},
+        {"tl": "Magandang umaga po.", "en": "Good morning (polite)."},
+        {"tl": "Opo, taga-Maynila po ako.", "en": "Yes (polite), I'm from Manila."},
+        {"tl": "Hindi po.", "en": "No (polite)."}
+      ]
+    },
+    {
+      "title": "Introducing yourself: Ako si...",
+      "explanation": "To say your name, use Ako si + name: Ako si Ana — 'I am Ana'. The little word si goes in front of a person's name; think of it as a name tag that Tagalog requires. You never say just 'Ako Ana'.\n\nTo introduce someone else, point the same pattern at them: Siya si Ben — 'He/She is Ben'. Notice that siya covers both 'he' and 'she'; Tagalog pronouns do not mark gender at all.\n\nTo ask someone's name, the everyday question is Ano ang pangalan mo? — literally 'What is your name?'. Learn it as a chunk for now; the little word mo ('your') gets its full explanation in a later unit.",
+      "examples": [
+        {"tl": "Ako si Ana.", "en": "I am Ana."},
+        {"tl": "Siya si Ben.", "en": "He is Ben."},
+        {"tl": "Ano po ang pangalan mo?", "en": "What is your name? (polite)"},
+        {"tl": "Ako po si Carlos.", "en": "I am Carlos (polite)."}
+      ]
+    },
+    {
+      "title": "The doer-form pronouns (ang-form)",
+      "explanation": "Tagalog pronouns come in sets. The first set you need is the doer form — traditionally called the 'ang-form' because these pronouns play the same role as words marked with ang. They name the person a sentence is about: ako (I), ikaw/ka (you), siya (he/she), kami (we, not including you), tayo (we, including you), kayo (you plural, also polite singular), sila (they).\n\nTwo things trip up beginners. First, 'you' has two shapes: ikaw starts a sentence (Ikaw si Ben?), while ka goes after another word and can never be first (Kumusta ka?). Second, Tagalog splits English 'we' in two: kami excludes the listener ('we, but not you'), tayo includes them ('we, you and I'). If you invite someone along, that's tayo.\n\nKayo doubles as a polite singular 'you', just like French 'vous' — so a waiter asks an older customer Kumusta po kayo?\n\nUnlike English, these pronouns usually come after the descriptive word: Mabuti ako, literally 'Fine I' = 'I am fine'. There is no word for 'am/is/are' — the pronoun and the description just sit next to each other.",
+      "examples": [
+        {"tl": "Kumusta ka?", "en": "How are you?"},
+        {"tl": "Mabuti naman ako.", "en": "I'm fine."},
+        {"tl": "Estudyante sila.", "en": "They are students."},
+        {"tl": "Kumusta po kayo?", "en": "How are you? (polite)"},
+        {"tl": "Taga-Cebu kami.", "en": "We (not you) are from Cebu."}
+      ]
+    },
+    {
+      "title": "Saying where you're from: taga- and taga-saan",
+      "explanation": "To say where you are from, stick taga- in front of the place name: taga-Maynila (from Manila), taga-Amerika (from America), taga-Cebu (from Cebu). Then add your pronoun: Taga-Maynila ako — 'I'm from Manila'.\n\nThe question is Taga-saan ka? — 'Where are you from?' (saan means 'where'). Polite version: Taga-saan po kayo?\n\nNotice the word order again: the taga- word comes first, the pronoun second. This 'description first, doer second' order is the normal rhythm of Tagalog sentences, and you will see it constantly.",
+      "examples": [
+        {"tl": "Taga-saan ka?", "en": "Where are you from?"},
+        {"tl": "Taga-Maynila ako.", "en": "I'm from Manila."},
+        {"tl": "Taga-saan po kayo?", "en": "Where are you from? (polite)"},
+        {"tl": "Taga-Australya siya.", "en": "He/She is from Australia."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "magandang umaga", "en": "good morning", "pos": "phrase", "example": {"tl": "Magandang umaga po!", "en": "Good morning (polite)!"}},
+    {"tl": "magandang hapon", "en": "good afternoon", "pos": "phrase", "example": {"tl": "Magandang hapon po sa inyo.", "en": "Good afternoon to you (polite)."}},
+    {"tl": "magandang gabi", "en": "good evening", "pos": "phrase", "example": {"tl": "Magandang gabi, Ana!", "en": "Good evening, Ana!"}},
+    {"tl": "kumusta", "en": "how are you; hello", "pos": "phrase", "note": "From Spanish 'como esta'; also spelled kamusta in casual writing", "example": {"tl": "Kumusta ka?", "en": "How are you?"}},
+    {"tl": "mabuti", "en": "fine, well, good", "pos": "adjective", "example": {"tl": "Mabuti naman ako, salamat.", "en": "I'm fine, thanks."}},
+    {"tl": "po", "en": "polite particle (like 'sir/ma'am')", "pos": "particle", "note": "Placed after the first word or phrase of the sentence", "example": {"tl": "Salamat po.", "en": "Thank you (polite)."}},
+    {"tl": "opo", "en": "yes (polite)", "pos": "particle", "example": {"tl": "Opo, estudyante po ako.", "en": "Yes (polite), I am a student."}},
+    {"tl": "oo", "en": "yes", "pos": "particle", "example": {"tl": "Oo, taga-Cebu ako.", "en": "Yes, I'm from Cebu."}},
+    {"tl": "hindi", "en": "no; not", "pos": "particle", "note": "Also negates statements: Hindi ako guro = I am not a teacher", "example": {"tl": "Hindi po, hindi ako taga-Maynila.", "en": "No (polite), I'm not from Manila."}},
+    {"tl": "salamat", "en": "thank you", "pos": "interjection", "example": {"tl": "Salamat, Ben!", "en": "Thanks, Ben!"}},
+    {"tl": "maraming salamat", "en": "thank you very much", "pos": "phrase", "example": {"tl": "Maraming salamat po!", "en": "Thank you very much (polite)!"}},
+    {"tl": "walang anuman", "en": "you're welcome", "pos": "phrase", "example": {"tl": "Walang anuman po.", "en": "You're welcome (polite)."}},
+    {"tl": "paalam", "en": "goodbye", "pos": "interjection", "note": "A bit formal; friends often just say sige or ingat", "example": {"tl": "Paalam po!", "en": "Goodbye (polite)!"}},
+    {"tl": "sige", "en": "okay; alright; bye then", "pos": "interjection", "example": {"tl": "Sige, salamat!", "en": "Okay, thanks!"}},
+    {"tl": "ingat", "en": "take care", "pos": "interjection", "example": {"tl": "Sige, ingat ka!", "en": "Okay, take care!"}},
+    {"tl": "ako", "en": "I", "pos": "pronoun", "example": {"tl": "Ako si Maria.", "en": "I am Maria."}},
+    {"tl": "ikaw / ka", "en": "you (singular)", "pos": "pronoun", "note": "ikaw starts a sentence; ka follows another word and is never first", "example": {"tl": "Ikaw si Ben? Kumusta ka?", "en": "You're Ben? How are you?"}},
+    {"tl": "siya", "en": "he, she", "pos": "pronoun", "note": "No gender in Tagalog pronouns — siya is both 'he' and 'she'", "example": {"tl": "Siya si Liza.", "en": "She is Liza."}},
+    {"tl": "kami", "en": "we (not including you)", "pos": "pronoun", "example": {"tl": "Taga-Davao kami.", "en": "We (not you) are from Davao."}},
+    {"tl": "tayo", "en": "we (including you)", "pos": "pronoun", "example": {"tl": "Estudyante tayo.", "en": "We (you and I) are students."}},
+    {"tl": "kayo", "en": "you (plural); you (polite singular)", "pos": "pronoun", "example": {"tl": "Taga-saan po kayo?", "en": "Where are you from? (polite)"}},
+    {"tl": "sila", "en": "they", "pos": "pronoun", "example": {"tl": "Guro sila.", "en": "They are teachers."}},
+    {"tl": "si", "en": "marker before a person's name", "pos": "particle", "example": {"tl": "Ako si Carlos.", "en": "I am Carlos."}},
+    {"tl": "taga-", "en": "from (a place)", "pos": "particle", "note": "Attaches to place names: taga-Maynila, taga-Amerika", "example": {"tl": "Taga-Maynila ako.", "en": "I'm from Manila."}},
+    {"tl": "taga-saan", "en": "from where", "pos": "phrase", "example": {"tl": "Taga-saan ka?", "en": "Where are you from?"}},
+    {"tl": "pangalan", "en": "name", "pos": "noun", "example": {"tl": "Ano po ang pangalan mo?", "en": "What is your name? (polite)"}},
+    {"tl": "estudyante", "en": "student", "pos": "noun", "example": {"tl": "Estudyante ako.", "en": "I am a student."}},
+    {"tl": "guro", "en": "teacher", "pos": "noun", "note": "'Titser' is also very common in speech", "example": {"tl": "Guro po ba kayo?", "en": "Are you a teacher? (polite)"}},
+    {"tl": "kaibigan", "en": "friend", "pos": "noun", "example": {"tl": "Siya si Ben, kaibigan ko.", "en": "This is Ben, my friend."}},
+    {"tl": "Pilipino / Pilipina", "en": "Filipino (male / female)", "pos": "noun", "example": {"tl": "Pilipino si Carlos.", "en": "Carlos is Filipino."}},
+    {"tl": "Amerikano / Amerikana", "en": "American (male / female)", "pos": "noun", "example": {"tl": "Amerikana si Kate.", "en": "Kate is American."}},
+    {"tl": "naman", "en": "on the other hand; in turn (softener)", "pos": "particle", "note": "Ikaw naman? = And you? Also softens answers: Mabuti naman.", "example": {"tl": "Mabuti naman ako. Ikaw naman?", "en": "I'm fine. And you?"}},
+    {"tl": "din / rin", "en": "also, too", "pos": "particle", "note": "din after consonants, rin after vowels: Mabuti rin ako.", "example": {"tl": "Taga-Cebu rin ako.", "en": "I'm from Cebu too."}},
+    {"tl": "ba", "en": "question particle (yes/no questions)", "pos": "particle", "note": "Turns a statement into a question: Estudyante ka ba?", "example": {"tl": "Taga-Maynila ka ba?", "en": "Are you from Manila?"}}
+  ],
+  "dialogue": {
+    "title": "Meeting at a birthday party",
+    "context": "Ana meets Ben, a friend of the host, for the first time at a party in Quezon City.",
+    "lines": [
+      {"speaker": "Ana", "tl": "Magandang gabi! Kumusta ka?", "en": "Good evening! How are you?"},
+      {"speaker": "Ben", "tl": "Magandang gabi! Mabuti naman ako. Ikaw?", "en": "Good evening! I'm fine. You?"},
+      {"speaker": "Ana", "tl": "Mabuti rin. Ako si Ana.", "en": "I'm fine too. I'm Ana."},
+      {"speaker": "Ben", "tl": "Ako naman si Ben. Taga-saan ka, Ana?", "en": "And I'm Ben. Where are you from, Ana?"},
+      {"speaker": "Ana", "tl": "Taga-Cebu ako. Ikaw, taga-saan ka?", "en": "I'm from Cebu. And you, where are you from?"},
+      {"speaker": "Ben", "tl": "Taga-Maynila ako. Estudyante ka ba?", "en": "I'm from Manila. Are you a student?"},
+      {"speaker": "Ana", "tl": "Oo, estudyante ako. Ikaw ba?", "en": "Yes, I'm a student. How about you?"},
+      {"speaker": "Ben", "tl": "Hindi, guro ako.", "en": "No, I'm a teacher."},
+      {"speaker": "Ana", "tl": "Ay, guro! Siya ba si Carlos?", "en": "Oh, a teacher! Is that Carlos?"},
+      {"speaker": "Ben", "tl": "Oo, siya si Carlos. Kaibigan ko siya.", "en": "Yes, that's Carlos. He's my friend."},
+      {"speaker": "Ana", "tl": "Sige, Ben. Salamat!", "en": "Okay, Ben. Thanks!"},
+      {"speaker": "Ben", "tl": "Walang anuman. Ingat ka!", "en": "You're welcome. Take care!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "It's 8 in the morning and you greet your neighbor politely. What do you say?", "choices": ["Magandang gabi po!", "Magandang umaga po!", "Magandang hapon po!", "Paalam po!"], "answer": 1, "explain": "Umaga means morning, so the morning greeting is magandang umaga; po makes it polite."},
+    {"type": "mcq", "prompt": "Your friend's grandmother asks if you are a student. Which is the polite way to say yes?", "choices": ["Oo", "Sige", "Opo", "Hindi po"], "answer": 2, "explain": "Opo is the polite form of oo (yes), used with elders. Plain oo would sound too casual here."},
+    {"type": "fill", "prompt": "Ako ___ Maria. (I am Maria.)", "answer": "si", "accept": ["si"], "hint": "The marker that goes before a person's name.", "explain": "Personal names always take the marker si: Ako si Maria."},
+    {"type": "mcq", "prompt": "Which sentence is correct?", "choices": ["Ka kumusta?", "Kumusta ikaw?", "Kumusta ka?", "Ikaw kumusta ka?"], "answer": 2, "explain": "Ka is the form of 'you' used after another word; it can never start a sentence, and ikaw is not used in this position."},
+    {"type": "fill", "prompt": "Kumusta ka? — Mabuti ___ ako. Ikaw?", "answer": "naman", "accept": ["naman"], "hint": "The softening particle used when answering 'how are you'.", "explain": "Mabuti naman ako is the standard, natural reply; naman softens the answer, like 'I'm fine, thanks'."},
+    {"type": "listen", "tl": "Taga-saan po kayo?", "prompt": "What is the speaker asking?", "choices": ["What is your name?", "How are you?", "Where are you from?", "Are you a student?"], "answer": 2, "explain": "Taga-saan asks about origin ('from where'), and po kayo makes the question polite."},
+    {"type": "mcq", "prompt": "You and your friends (but NOT the person you're talking to) are from Davao. Which is correct?", "choices": ["Taga-Davao tayo.", "Taga-Davao kami.", "Taga-Davao sila.", "Taga-Davao kayo."], "answer": 1, "explain": "Kami is 'we' excluding the listener; tayo would wrongly include the person you're talking to."},
+    {"type": "fill", "prompt": "Taga-Cebu ka ba? — Hindi, taga-Maynila ___. (No, I'm from Manila.)", "answer": "ako", "accept": ["ako", "po ako"], "explain": "The doer pronoun ako comes after the description taga-Maynila — 'description first, doer second'."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I am Ana. I am from Cebu.", "answer": "Ako si Ana. Taga-Cebu ako.", "accept": ["Ako si Ana. Taga-Cebu ako", "Ako si Ana, taga-Cebu ako", "Ako po si Ana. Taga-Cebu po ako", "Si Ana ako. Taga-Cebu ako"], "explain": "Names take si (Ako si Ana), and taga- + place comes before the pronoun: Taga-Cebu ako."},
+    {"type": "listen", "tl": "Magandang hapon po! Kumusta po kayo?", "prompt": "When and to whom is this said?", "choices": ["In the morning, to a close friend", "In the afternoon, politely to someone respected", "At night, to a child", "In the afternoon, rudely"], "answer": 1, "explain": "Magandang hapon is the afternoon greeting, and po + kayo signal politeness toward an elder or a person you respect."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Hindi ako guro. Estudyante ako.", "answer": "I am not a teacher. I am a student.", "accept": ["I am not a teacher. I am a student", "I'm not a teacher. I'm a student", "I am not a teacher, I am a student"], "explain": "Hindi before a description negates it: hindi ako guro = 'I am not a teacher'. No word for 'am' is needed."},
+    {"type": "mcq", "prompt": "You are inviting the person you're talking to: 'Let's go, we (you and I) are friends!' Which 'we' fits — Kaibigan ___?", "choices": ["kami", "sila", "tayo", "kayo"], "answer": 2, "explain": "Tayo is the inclusive 'we' — it includes the listener, which is exactly what an invitation needs."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Are you (polite) from Manila?", "answer": "Taga-Maynila po ba kayo?", "accept": ["Taga-Maynila po ba kayo", "Taga-Maynila ba po kayo", "Taga-Maynila po kayo", "Taga-Manila po ba kayo"], "explain": "Taga- + place, then the polite po, the question particle ba, and the polite pronoun kayo."},
+    {"type": "fill", "prompt": "Say 'thank you very much' politely: ___ salamat po.", "answer": "maraming", "accept": ["maraming"], "explain": "Maraming salamat po literally means 'many thanks (polite)' — the standard way to say thank you very much."}
+  ]
+}

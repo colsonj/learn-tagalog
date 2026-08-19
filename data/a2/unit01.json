@@ -1,0 +1,109 @@
+{
+  "id": "a2-u01",
+  "title": "Work, school, and where you're from",
+  "objectives": [
+    "Talk about your job, workplace, and studies in more depth",
+    "Say your nationality and hometown with taga- and nationality words",
+    "Use the complete set of sa-form pronouns (sa akin, sa iyo, sa kaniya...)",
+    "Say who something is for with para sa and para kay"
+  ],
+  "grammar": [
+    {
+      "title": "The sa-pronouns: completing the set",
+      "explanation": "In A1 you learned two of Tagalog's three pronoun sets: the ang-forms (ako, ikaw, siya...) and the ng-forms (ko, mo, niya...). The third and last set is the sa-forms, used after the marker sa and after words like para (for), kay/kina, and tungkol (about).\n\nHere is the full set: akin (me), iyo (you), kaniya (him/her, often spelled and said kanya), amin (us, not including you), atin (us, including you), inyo (you plural or polite), kanila (them). So: sa akin = to/for me, sa iyo = to/for you, sa kanila = to/for them.\n\nYou already used these without knowing it: 'Nasa akin ang susi' (The key is with me), 'Para sa iyo ito' (This is for you). Notice that amin/atin keep the same exclusive/inclusive split as namin/natin and kami/tayo: sa amin = at our place (but not yours), sa atin = at our place (yours too). A common beginner mistake is to say 'sa ako' or 'sa ko' — always switch to the sa-form: sa akin.",
+      "examples": [
+        {"tl": "Para sa akin ang kapeng ito.", "en": "This coffee is for me."},
+        {"tl": "Sa iyo ba ang cellphone na iyan?", "en": "Is that cellphone yours?"},
+        {"tl": "Pupunta kami sa kanila mamaya.", "en": "We're going to their place later."},
+        {"tl": "Sa amin sa Quezon City, maraming kainan.", "en": "In our area in Quezon City, there are many eateries."}
+      ]
+    },
+    {
+      "title": "para sa / para kay: saying who something is for",
+      "explanation": "To say something is for someone, use para plus the sa-marking you already know. Before a common noun or a sa-pronoun, use para sa: para sa nanay ko (for my mom), para sa iyo (for you). Before a person's name, use para kay, and for two or more named people, para kina: para kay Ana, para kina Ana at Ben.\n\nThe 'for' phrase can come first or last in the sentence: 'Para kay Miguel ang regalong ito' or 'Ang regalong ito ay para kay Miguel.' In everyday speech the para-first order is very common and sounds natural.\n\nWatch out: English speakers want to say 'para si Ana' because names take si — but para always triggers the sa-set, so it must be kay, never si.",
+      "examples": [
+        {"tl": "Para kay Lola ang bulaklak.", "en": "The flowers are for Grandma."},
+        {"tl": "Bumili ako ng pasalubong para sa mga anak ko.", "en": "I bought homecoming gifts for my kids."},
+        {"tl": "Para kina Marco at Liza ang pagkain na ito.", "en": "This food is for Marco and Liza."}
+      ]
+    },
+    {
+      "title": "Jobs, school, and taga- for where you're from",
+      "explanation": "To ask someone's job, say 'Ano ang trabaho mo?' or more politely 'Ano po ang trabaho ninyo?'. To answer, you can simply equate: 'Guro ako' (I'm a teacher), or use the very natural pattern isa + linker: 'Isa akong nars' (I'm a nurse). To say where you work, use nagtatrabaho (from magtrabaho, an A1-style mag- verb) plus sa: 'Nagtatrabaho ako sa ospital.'\n\nFor studies: 'Nag-aaral ako sa UP' (I study at UP) tells the school with sa; 'Nag-aaral ako ng Ingles' tells the subject with ng — the same ng-for-object habit you built in A1.\n\nFor origin, Tagalog glues taga- onto a place: taga-Maynila (from Manila), taga-Australya (from Australia). Ask with 'Taga-saan ka?'. Nationality words are borrowed and used as nouns or adjectives: Pilipino/Pilipina, Amerikano/Amerikana, Australyano. 'Pilipina ang asawa ko' — my wife is Filipina.",
+      "examples": [
+        {"tl": "Ano ang trabaho mo? — Isa akong inhinyero.", "en": "What's your job? — I'm an engineer."},
+        {"tl": "Nagtatrabaho ako sa isang kompanya sa Makati.", "en": "I work at a company in Makati."},
+        {"tl": "Nag-aaral ang kapatid ko ng medisina sa Maynila.", "en": "My sibling is studying medicine in Manila."},
+        {"tl": "Taga-saan ka? — Taga-Cebu ako, pero nakatira ako sa Maynila ngayon.", "en": "Where are you from? — I'm from Cebu, but I live in Manila now."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "trabaho", "en": "job, work", "pos": "noun", "example": {"tl": "Ano ang trabaho ng tatay mo?", "en": "What is your father's job?"}},
+    {"tl": "magtrabaho (mag)", "en": "to work", "pos": "verb", "note": "nagtrabaho, nagtatrabaho, magtatrabaho", "example": {"tl": "Nagtatrabaho ako sa bangko.", "en": "I work at a bank."}},
+    {"tl": "mag-aral (mag)", "en": "to study", "pos": "verb", "note": "nag-aral, nag-aaral, mag-aaral", "example": {"tl": "Nag-aaral siya ng Tagalog.", "en": "She is studying Tagalog."}},
+    {"tl": "opisina", "en": "office", "pos": "noun", "example": {"tl": "Malayo ba ang opisina mo?", "en": "Is your office far?"}},
+    {"tl": "kompanya", "en": "company", "pos": "noun", "example": {"tl": "Malaki ang kompanya nila.", "en": "Their company is big."}},
+    {"tl": "negosyo", "en": "business", "pos": "noun", "example": {"tl": "May maliit na negosyo ang pamilya namin.", "en": "Our family has a small business."}},
+    {"tl": "suweldo", "en": "salary, wages", "pos": "noun", "example": {"tl": "Maganda ang suweldo sa bagong trabaho niya.", "en": "The salary at her new job is good."}},
+    {"tl": "guro", "en": "teacher", "pos": "noun", "note": "titser is common in speech", "example": {"tl": "Guro ang nanay ko sa elementarya.", "en": "My mom is an elementary school teacher."}},
+    {"tl": "doktor", "en": "doctor", "pos": "noun", "note": "doktora for a female doctor", "example": {"tl": "Doktor ang kapatid ni Ana.", "en": "Ana's sibling is a doctor."}},
+    {"tl": "nars", "en": "nurse", "pos": "noun", "example": {"tl": "Isa akong nars sa ospital.", "en": "I'm a nurse at the hospital."}},
+    {"tl": "inhinyero", "en": "engineer", "pos": "noun", "note": "inhinyera for a woman", "example": {"tl": "Inhinyero ang asawa ko.", "en": "My spouse is an engineer."}},
+    {"tl": "abogado", "en": "lawyer", "pos": "noun", "note": "abogada for a woman", "example": {"tl": "Gusto niyang maging abogado.", "en": "He wants to become a lawyer."}},
+    {"tl": "drayber", "en": "driver", "pos": "noun", "example": {"tl": "Drayber ng dyip ang tito ko.", "en": "My uncle is a jeepney driver."}},
+    {"tl": "tindera", "en": "vendor, shopkeeper (female)", "pos": "noun", "note": "tindero for a man", "example": {"tl": "Mabait ang tindera sa kanto.", "en": "The vendor at the corner is kind."}},
+    {"tl": "magsasaka", "en": "farmer", "pos": "noun", "example": {"tl": "Magsasaka ang lolo ko sa probinsya.", "en": "My grandfather is a farmer in the province."}},
+    {"tl": "negosyante", "en": "businessperson", "pos": "noun", "example": {"tl": "Negosyante ang tatay ni Carlo.", "en": "Carlo's dad is a businessperson."}},
+    {"tl": "estudyante", "en": "student", "pos": "noun", "example": {"tl": "Estudyante pa ang bunso namin.", "en": "Our youngest is still a student."}},
+    {"tl": "paaralan", "en": "school", "pos": "noun", "note": "eskwelahan in everyday speech", "example": {"tl": "Malapit ang paaralan sa bahay namin.", "en": "The school is near our house."}},
+    {"tl": "unibersidad", "en": "university", "pos": "noun", "example": {"tl": "Nag-aaral siya sa unibersidad sa Maynila.", "en": "She studies at a university in Manila."}},
+    {"tl": "kurso", "en": "course, degree program", "pos": "noun", "example": {"tl": "Ano ang kurso mo sa kolehiyo?", "en": "What's your course in college?"}},
+    {"tl": "kasamahan", "en": "colleague, workmate", "pos": "noun", "note": "often 'kasamahan sa trabaho'", "example": {"tl": "Mababait ang mga kasamahan ko sa trabaho.", "en": "My workmates are nice."}},
+    {"tl": "taga-", "en": "from (a place)", "pos": "particle", "note": "prefix on place names: taga-Maynila, taga-saan?", "example": {"tl": "Taga-Davao ang kaibigan ko.", "en": "My friend is from Davao."}},
+    {"tl": "bansa", "en": "country", "pos": "noun", "example": {"tl": "Maganda ang bansa ninyo.", "en": "Your country is beautiful."}},
+    {"tl": "Pilipino", "en": "Filipino (person/nationality)", "pos": "noun", "note": "Pilipina for a woman; the language is also 'Filipino'", "example": {"tl": "Pilipina ang nanay ko at Australyano ang tatay ko.", "en": "My mom is Filipina and my dad is Australian."}},
+    {"tl": "dayuhan", "en": "foreigner", "pos": "noun", "note": "banyaga is more formal", "example": {"tl": "Maraming dayuhan sa Boracay.", "en": "There are many foreigners in Boracay."}},
+    {"tl": "nakatira", "en": "living, residing (in a place)", "pos": "adjective", "note": "use with sa: nakatira ako sa...", "example": {"tl": "Nakatira kami sa Pasig.", "en": "We live in Pasig."}},
+    {"tl": "regalo", "en": "gift, present", "pos": "noun", "example": {"tl": "May regalo ako para sa iyo.", "en": "I have a gift for you."}},
+    {"tl": "pasalubong", "en": "homecoming gift", "pos": "noun", "note": "a gift you bring back for people at home; very Filipino custom", "example": {"tl": "Bumili siya ng pasalubong para sa mga pamangkin niya.", "en": "She bought pasalubong for her nieces and nephews."}},
+    {"tl": "sarili", "en": "self, own", "pos": "noun", "note": "para sa sarili ko = for myself", "example": {"tl": "Bumili ako ng libro para sa sarili ko.", "en": "I bought a book for myself."}},
+    {"tl": "tungkol sa", "en": "about, concerning", "pos": "phrase", "note": "tungkol kay before a name", "example": {"tl": "Nag-usap kami tungkol sa trabaho.", "en": "We talked about work."}},
+    {"tl": "pareho", "en": "same, alike", "pos": "adjective", "note": "pareho kami = we're the same / both of us", "example": {"tl": "Pareho kami ng trabaho ni Jun.", "en": "Jun and I have the same job."}},
+    {"tl": "seryoso", "en": "serious", "pos": "adjective", "example": {"tl": "Seryoso siya sa trabaho niya.", "en": "He is serious about his work."}}
+  ],
+  "dialogue": {
+    "title": "Small talk at a birthday party",
+    "context": "At a friend's birthday party in Quezon City, Mia meets Daniel, a guest she hasn't met before.",
+    "lines": [
+      {"speaker": "Mia", "tl": "Hi! Ako si Mia, kaibigan ni Carla. Ikaw?", "en": "Hi! I'm Mia, Carla's friend. And you?"},
+      {"speaker": "Daniel", "tl": "Ako si Daniel. Kasamahan ko si Carla sa trabaho.", "en": "I'm Daniel. Carla is my workmate."},
+      {"speaker": "Mia", "tl": "Ah, talaga? Ano ang trabaho mo?", "en": "Oh, really? What's your job?"},
+      {"speaker": "Daniel", "tl": "Isa akong inhinyero. Nagtatrabaho kami ni Carla sa isang kompanya sa Makati.", "en": "I'm an engineer. Carla and I work at a company in Makati."},
+      {"speaker": "Mia", "tl": "Ako naman, nag-aaral pa. Estudyante ako ng medisina.", "en": "As for me, I'm still studying. I'm a medical student."},
+      {"speaker": "Daniel", "tl": "Wow, magiging doktor ka! Taga-saan ka ba?", "en": "Wow, you'll be a doctor! Where are you from?"},
+      {"speaker": "Mia", "tl": "Taga-Iloilo ako, pero nakatira ako sa Maynila ngayon. Ikaw, taga-rito ka ba?", "en": "I'm from Iloilo, but I live in Manila now. How about you, are you from here?"},
+      {"speaker": "Daniel", "tl": "Oo, taga-Quezon City ako. Malapit lang sa amin ang bahay ni Carla.", "en": "Yes, I'm from Quezon City. Carla's house is close to our place."},
+      {"speaker": "Mia", "tl": "Ay, may dala akong regalo. Para kay Carla ang cake na ito.", "en": "Oh, I brought a present. This cake is for Carla."},
+      {"speaker": "Daniel", "tl": "Ang bait mo naman! May regalo rin ako para sa kaniya.", "en": "How kind of you! I also have a gift for her."},
+      {"speaker": "Mia", "tl": "Sige, ibigay natin sa kaniya mamaya.", "en": "Okay, let's give them to her later."},
+      {"speaker": "Daniel", "tl": "Sige. Masaya akong makilala ka, Mia!", "en": "Sure. Nice to meet you, Mia!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which pronoun set do you use after sa and para?", "choices": ["ako, ikaw, siya", "ko, mo, niya", "akin, iyo, kaniya", "si, sina, ni"], "answer": 2, "explain": "The sa-forms (akin, iyo, kaniya, amin, atin, inyo, kanila) are used after sa, para sa, kay, and tungkol sa."},
+    {"type": "mcq", "prompt": "Ano ang trabaho mo? — Which is a natural answer?", "choices": ["Trabaho ako guro.", "Isa akong guro.", "Guro ng ako.", "Sa guro ako."], "answer": 1, "explain": "Isa + linker (isa akong guro) or simply 'Guro ako' are the natural ways to state your job."},
+    {"type": "fill", "prompt": "Para ___ Ana ang bulaklak na ito.", "answer": "kay", "accept": ["kay"], "hint": "Ana is a personal name.", "explain": "Before a personal name, 'for' is para kay, never para sa or para si."},
+    {"type": "fill", "prompt": "Sa ___ ba ang payong na ito? (Is this umbrella yours?)", "answer": "iyo", "accept": ["iyo", "inyo"], "explain": "After sa, the pronoun 'you' takes its sa-form iyo (or inyo if polite/plural). 'Sa ikaw' is wrong."},
+    {"type": "mcq", "prompt": "'Pupunta kami sa kanila.' What does 'sa kanila' mean here?", "choices": ["to them / to their place", "with us", "for you all", "about him"], "answer": 0, "explain": "Sa kanila is the sa-form of sila; with a motion verb it often means 'to their place.'"},
+    {"type": "fill", "prompt": "___-Cebu ang kaibigan ko. (My friend is from Cebu.)", "answer": "Taga", "accept": ["taga", "taga-"], "explain": "The prefix taga- attaches to a place name to mean 'from that place': taga-Cebu."},
+    {"type": "listen", "tl": "Nagtatrabaho ako sa isang ospital sa Maynila.", "prompt": "What does the speaker say?", "choices": ["I work at a hospital in Manila.", "I studied at a school in Manila.", "I will work at an office in Makati.", "I live near a hospital in Manila."], "answer": 0, "explain": "Nagtatrabaho is the incompleted (present) form of magtrabaho, 'to work', and sa isang ospital sa Maynila locates the workplace."},
+    {"type": "mcq", "prompt": "Choose the correct sentence for 'This gift is for Marco and Liza.'", "choices": ["Para sina Marco at Liza ang regalong ito.", "Para kina Marco at Liza ang regalong ito.", "Para nina Marco at Liza ang regalong ito.", "Para kay Marco at Liza sila ang regalong ito."], "answer": 1, "explain": "Two or more named people take kina after para: para kina Marco at Liza. Sina and nina are the ang- and ng-forms, which para cannot take."},
+    {"type": "fill", "prompt": "Nag-aaral ako ___ Tagalog sa unibersidad. (I study Tagalog at university.)", "answer": "ng", "accept": ["ng"], "hint": "The subject you study takes the same marker as an object.", "explain": "The thing studied is marked with ng (nag-aaral ng Tagalog); the school would be marked with sa."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I work at a company in Makati.", "answer": "Nagtatrabaho ako sa isang kompanya sa Makati.", "accept": ["Nagtatrabaho ako sa isang kompanya sa Makati", "Nagtatrabaho ako sa kompanya sa Makati", "Nagtatrabaho po ako sa isang kompanya sa Makati"], "explain": "Nagtatrabaho (incompleted aspect) for a current job, and sa marks both the company and the place."},
+    {"type": "translate", "direction": "tl2en", "prompt": "May regalo ako para sa nanay ko.", "answer": "I have a gift for my mom.", "accept": ["I have a gift for my mom", "I have a present for my mom", "I have a gift for my mother", "I have a present for my mother"], "explain": "May marks possession (I have) and para sa marks the beneficiary (for my mom)."},
+    {"type": "listen", "tl": "Taga-Iloilo ako, pero nakatira ako sa Quezon City ngayon.", "prompt": "Which statement is true about the speaker?", "choices": ["She is from Quezon City and lives in Iloilo.", "She is from Iloilo and lives in Quezon City.", "She is from Iloilo and is moving to Cebu.", "She lives in Iloilo with her family."], "answer": 1, "explain": "Taga-Iloilo gives her origin; nakatira ako sa Quezon City ngayon says where she lives now, and pero (but) contrasts the two."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Is this coffee for me?", "answer": "Para sa akin ba ang kapeng ito?", "accept": ["Para sa akin ba ang kapeng ito", "Para ba sa akin ang kapeng ito", "Ang kapeng ito ba ay para sa akin", "Para sa akin ba ito"], "explain": "Para sa + sa-pronoun akin gives 'for me'; ba turns it into a yes/no question."},
+    {"type": "mcq", "prompt": "'Sa amin masarap ang mangga' vs 'sa atin'. If you say SA AMIN to a visitor from another town, what are you implying?", "choices": ["The visitor's town is included.", "Your own place, not including the visitor's.", "You are being more polite.", "You mean one specific mango."], "answer": 1, "explain": "Amin is exclusive: our place, not yours. Atin would include the listener, just like kami vs tayo."}
+  ]
+}

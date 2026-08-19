@@ -1,0 +1,108 @@
+{
+  "id": "a1-u10",
+  "title": "Question words and the big review",
+  "objectives": [
+    "Command the full question-word family: ano, sino, saan, kailan, bakit, paano, ilan, alin, magkano",
+    "Use the question particle ba correctly in yes/no questions",
+    "Answer bakit with kasi, and say what you can do with marunong and puwede",
+    "Consolidate everything from Units 1–9 in mixed practice"
+  ],
+  "grammar": [
+    {
+      "title": "The whole question-word family",
+      "explanation": "You've been collecting question words since Unit 1; here is the complete A1 set in one place. Ano — what (Ano ito?). Sino — who (Sino siya?). Saan — where, for actions and movement (Saan ka pupunta?); nasaan — where, for current location (Nasaan ang susi?). Kailan — when (Kailan ang kaarawan mo?). Magkano — how much money (Magkano ito?). And your two new ones: bakit — why, and paano — how.\n\nBakit is answered with kasi ('because'): Bakit ka masaya? — Kasi Biyernes na! ('Why are you happy? — Because it's Friday!'). Paano asks about manner: Paano ka pumupunta sa trabaho? — Sa bus. ('How do you get to work? — By bus.')\n\nTwo more counters: ilan — how many (Ilan ang kapatid mo? — 'How many siblings do you have?'), and alin — which one (Alin ang bag mo, ang pula o ang itim? — 'Which is your bag, the red or the black?'). Sino for people, ano for things, alin for choosing among options.",
+      "examples": [
+        {"tl": "Bakit ka nandito? — Kasi may klase ako.", "en": "Why are you here? — Because I have class."},
+        {"tl": "Paano ka pumupunta sa opisina? — Sa tren.", "en": "How do you get to the office? — By train."},
+        {"tl": "Ilan ang anak nila? — Tatlo.", "en": "How many children do they have? — Three."},
+        {"tl": "Alin ang gusto mo, ang adobo o ang sinigang?", "en": "Which do you want, the adobo or the sinigang?"}
+      ]
+    },
+    {
+      "title": "The question particle ba",
+      "explanation": "Ba turns a statement into a yes/no question. Estudyante ka — 'You're a student.' Estudyante ka ba? — 'Are you a student?' You've used it since Unit 1; now the placement rule: ba goes after the first full word of the sentence, but the short pronouns (ka, ko, mo, siya...) and po squeeze in before it. So: Kumain ka na ba? Pupunta po ba kayo? Gusto mo ba ng kape?\n\nQuestions that already start with a question word don't need ba — Saan ka pupunta? is complete. Adding it (Saan ka ba pupunta?) just adds a touch of emphasis or impatience, like English 'so where ARE you going?'\n\nAnswering machinery, one last time: yes = oo/opo; no = hindi (hindi po); for may/mayroon questions, yes = mayroon, no = wala; for kumain ka na ba? style 'already' questions, yes = oo, kumain na / no = hindi pa (not yet).",
+      "examples": [
+        {"tl": "Marunong ka bang mag-Tagalog?", "en": "Do you know how to speak Tagalog?"},
+        {"tl": "May barya po ba kayo? — Wala po.", "en": "Do you have change? — None."},
+        {"tl": "Kumain ka na ba? — Hindi pa po.", "en": "Have you eaten? — Not yet."},
+        {"tl": "Mainit ba sa labas? — Oo, mainit talaga!", "en": "Is it hot outside? — Yes, really hot!"}
+      ]
+    },
+    {
+      "title": "What you now own: ang, ng, sa — and the verb system",
+      "explanation": "Step back and look at what you've built. The three markers: ang/si points at the topic of the sentence (ang bata, si Ana); ng/ni marks the non-topic — possessors and objects (bahay ng lola, kumain ng saging, adobo ni Nanay); sa marks places and directions (sa palengke, nasa mesa). The pronouns follow the same split: ako/ka/siya are ang-forms, ko/mo/niya are ng-forms.\n\nThe verb system: -um- and mag- doer-focus verbs, each with three aspects — completed (kumain, nagluto: done), incompleted (kumakain, nagluluto: happening or habitual), contemplated (kakain, magluluto: not yet). Time words pick the aspect: kahapon/noong → completed, ngayon/araw-araw → incompleted, bukas/mamaya/sa Lunes → contemplated.\n\nTwo useful 'can' words to finish: marunong + linker + verb = to know how (Marunong akong magluto — 'I know how to cook'), and puwede = can/may (Puwede ba akong umupo dito? at A1, just learn Puwede ba? — 'May I?'). Say it proudly: Marunong na akong mag-Tagalog nang kaunti! — 'I can already speak a little Tagalog!'",
+      "examples": [
+        {"tl": "Bumili si Nanay ng isda sa palengke.", "en": "Mom bought fish at the market. (si topic, ng object, sa place)"},
+        {"tl": "Marunong akong magluto ng adobo.", "en": "I know how to cook adobo."},
+        {"tl": "Puwede ba? — Sige, puwede.", "en": "May I? — Sure, you may."},
+        {"tl": "Marunong na akong mag-Tagalog nang kaunti!", "en": "I can already speak a little Tagalog!"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "bakit", "en": "why", "pos": "adverb", "example": {"tl": "Bakit ka malungkot?", "en": "Why are you sad?"}},
+    {"tl": "kasi", "en": "because", "pos": "conjunction", "example": {"tl": "Wala akong pera kasi bumili ako ng sapatos.", "en": "I have no money because I bought shoes."}},
+    {"tl": "paano", "en": "how", "pos": "adverb", "example": {"tl": "Paano ka pumupunta sa eskuwelahan?", "en": "How do you get to school?"}},
+    {"tl": "ilan", "en": "how many", "pos": "adverb", "example": {"tl": "Ilan ang kapatid mo?", "en": "How many siblings do you have?"}},
+    {"tl": "alin", "en": "which (one)", "pos": "pronoun", "example": {"tl": "Alin ang bag mo, ang pula o ang asul?", "en": "Which is your bag, the red or the blue?"}},
+    {"tl": "o", "en": "or", "pos": "conjunction", "example": {"tl": "Kape o gatas ang gusto mo?", "en": "Do you want coffee or milk?"}},
+    {"tl": "tanong", "en": "question", "pos": "noun", "example": {"tl": "May tanong po ako.", "en": "I have a question."}},
+    {"tl": "sagot", "en": "answer", "pos": "noun", "example": {"tl": "Ano ang sagot mo?", "en": "What is your answer?"}},
+    {"tl": "magtanong (mag)", "en": "to ask (a question)", "pos": "verb", "note": "nagtanong, nagtatanong, magtatanong", "example": {"tl": "Nagtanong ang bata sa guro.", "en": "The child asked the teacher."}},
+    {"tl": "sumagot (um)", "en": "to answer", "pos": "verb", "note": "sumagot, sumasagot, sasagot", "example": {"tl": "Sumagot siya nang mabilis.", "en": "She answered quickly."}},
+    {"tl": "magsalita (mag)", "en": "to speak", "pos": "verb", "note": "nagsalita, nagsasalita, magsasalita", "example": {"tl": "Nagsasalita siya ng Tagalog at Ingles.", "en": "He speaks Tagalog and English."}},
+    {"tl": "marunong", "en": "knows how to; skilled", "pos": "adjective", "note": "Takes the linker: marunong akong magluto", "example": {"tl": "Marunong ka bang magluto?", "en": "Do you know how to cook?"}},
+    {"tl": "puwede", "en": "can, may; possible", "pos": "adverb", "note": "Also spelled pwede", "example": {"tl": "Puwede ba? — Sige, puwede po.", "en": "May I? — Sure, you may."}},
+    {"tl": "siguro", "en": "maybe, probably", "pos": "adverb", "example": {"tl": "Uulan siguro mamaya.", "en": "It will probably rain later."}},
+    {"tl": "sana", "en": "hopefully, I hope", "pos": "particle", "example": {"tl": "Sana maaraw bukas!", "en": "I hope it's sunny tomorrow!"}},
+    {"tl": "kaya", "en": "so, that's why", "pos": "conjunction", "example": {"tl": "Umulan, kaya nandito lang kami sa bahay.", "en": "It rained, so we just stayed home."}},
+    {"tl": "ulit", "en": "again", "pos": "adverb", "example": {"tl": "Pakiulit po. Sabihin mo ulit.", "en": "Please repeat. Say it again."}},
+    {"tl": "wika", "en": "language", "pos": "noun", "note": "Everyday speech also uses 'lengguwahe'", "example": {"tl": "Magandang wika ang Tagalog.", "en": "Tagalog is a beautiful language."}},
+    {"tl": "Ingles", "en": "English", "pos": "noun", "example": {"tl": "Marunong siyang mag-Ingles.", "en": "She knows how to speak English."}},
+    {"tl": "tama", "en": "correct, right", "pos": "adjective", "example": {"tl": "Tama ang sagot mo!", "en": "Your answer is correct!"}},
+    {"tl": "mali", "en": "wrong, incorrect", "pos": "adjective", "example": {"tl": "Mali ba ito?", "en": "Is this wrong?"}},
+    {"tl": "madali", "en": "easy", "pos": "adjective", "example": {"tl": "Madali ang tanong na ito.", "en": "This question is easy."}},
+    {"tl": "mahirap", "en": "difficult; poor", "pos": "adjective", "note": "Context decides: mahirap na tanong = hard question", "example": {"tl": "Mahirap ba ang Tagalog? — Hindi! Madali lang.", "en": "Is Tagalog hard? — No! It's easy."}},
+    {"tl": "kaunti", "en": "a little, a few", "pos": "adverb", "note": "Often konti in speech; nang kaunti = a little bit", "example": {"tl": "Marunong akong mag-Tagalog nang kaunti.", "en": "I can speak a little Tagalog."}},
+    {"tl": "mabilis", "en": "fast, quick", "pos": "adjective", "example": {"tl": "Mabilis magsalita ang tindera!", "en": "The vendor speaks fast!"}},
+    {"tl": "mabagal", "en": "slow", "pos": "adjective", "example": {"tl": "Pakibagalan po — mabagal pa akong makinig.", "en": "Please slow down — I'm still slow at listening."}},
+    {"tl": "malungkot", "en": "sad", "pos": "adjective", "example": {"tl": "Bakit ka malungkot? — Kasi uuwi na si Lola.", "en": "Why are you sad? — Because Grandma is going home."}},
+    {"tl": "magaling", "en": "excellent, good at", "pos": "adjective", "example": {"tl": "Magaling ka nang mag-Tagalog!", "en": "You're already good at Tagalog!"}}
+  ],
+  "dialogue": {
+    "title": "Lola's interview",
+    "context": "At Ben's birthday party, his grandmother meets Kate and — as lolas do — asks her everything.",
+    "lines": [
+      {"speaker": "Lola", "tl": "Magandang gabi, ineng. Sino ka?", "en": "Good evening, dear. Who are you?"},
+      {"speaker": "Kate", "tl": "Magandang gabi po! Ako po si Kate, kaibigan ni Ben.", "en": "Good evening! I'm Kate, Ben's friend."},
+      {"speaker": "Lola", "tl": "Ay, Amerikana! Taga-saan ka sa Amerika?", "en": "Oh, an American! Where in America are you from?"},
+      {"speaker": "Kate", "tl": "Taga-Chicago po. Pero nakatira po ako dito sa Maynila ngayon.", "en": "From Chicago. But I live here in Manila now."},
+      {"speaker": "Lola", "tl": "Kailan ka dumating sa Pilipinas?", "en": "When did you arrive in the Philippines?"},
+      {"speaker": "Kate", "tl": "Noong Enero po. Anim na buwan na po ako dito.", "en": "Last January. I've been here six months now."},
+      {"speaker": "Lola", "tl": "Bakit ka nandito? Nagtatrabaho ka ba o nag-aaral?", "en": "Why are you here? Are you working or studying?"},
+      {"speaker": "Kate", "tl": "Nag-aaral po ako. At nag-aaral din po ako ng Tagalog!", "en": "I'm studying. And I'm also studying Tagalog!"},
+      {"speaker": "Lola", "tl": "Talaga? Marunong ka na bang mag-Tagalog?", "en": "Really? Do you know Tagalog already?"},
+      {"speaker": "Kate", "tl": "Nang kaunti po lang. Mabilis po kayong magsalita!", "en": "Just a little. You all speak fast!"},
+      {"speaker": "Lola", "tl": "Ha! Magaling ka na, ineng. Ilan ang kapatid mo sa Amerika?", "en": "Ha! You're already good, dear. How many siblings do you have in America?"},
+      {"speaker": "Kate", "tl": "Wala po akong kapatid. Pero may aso po kami!", "en": "I have no siblings. But we have a dog!"},
+      {"speaker": "Lola", "tl": "Mabuti iyan! O, kumain ka na ba? May pansit at adobo doon!", "en": "That's good! Now, have you eaten? There's pancit and adobo over there!"},
+      {"speaker": "Kate", "tl": "Hindi pa po. Salamat po, Lola! Kakain na po ako!", "en": "Not yet. Thank you, Lola! I'll eat now!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Match the question to what it asks: Bakit?", "choices": ["Where", "Why", "How many", "Which"], "answer": 1, "explain": "Bakit asks why, and its answer usually starts with kasi (because)."},
+    {"type": "mcq", "prompt": "You're choosing between two bags. Which question word do you use?", "choices": ["Sino", "Ano", "Alin", "Ilan"], "answer": 2, "explain": "Alin picks one out of known options: Alin ang bag mo? Sino is for people, ano for things in general, ilan for counting."},
+    {"type": "fill", "prompt": "Bakit ka masaya? — ___ Biyernes na! (Because it's Friday!)", "answer": "kasi", "accept": ["kasi", "dahil"], "explain": "Kasi is the everyday 'because'; dahil is its slightly more formal twin."},
+    {"type": "fill", "prompt": "Turn into a yes/no question: Estudyante ka. → Estudyante ka ___?", "answer": "ba", "accept": ["ba"], "explain": "Ba after the first word (and its clinging pronoun ka) makes the statement a question."},
+    {"type": "mcq", "prompt": "Ilan ang kapatid mo? What is being asked?", "choices": ["Who is your sibling?", "Where is your sibling?", "How many siblings do you have?", "How old is your sibling?"], "answer": 2, "explain": "Ilan asks 'how many'. Ilang taon (Unit 2) asks age because it counts years."},
+    {"type": "listen", "tl": "Paano ka pumupunta sa trabaho? — Sa dyip, tapos naglalakad ako nang kaunti.", "prompt": "How does the speaker get to work?", "choices": ["By tricycle only", "By jeepney, then a short walk", "By car with a friend", "By train, then a bus"], "answer": 1, "explain": "Paano asks how; the answer is sa dyip (by jeepney) plus naglalakad nang kaunti (walks a little)."},
+    {"type": "mcq", "prompt": "Kumain ka na ba? You have NOT eaten yet. The natural answer is:", "choices": ["Wala pa.", "Hindi pa.", "Ayaw ko.", "Mali."], "answer": 1, "explain": "Na-questions ('already?') take hindi pa ('not yet'); wala answers may-questions."},
+    {"type": "fill", "prompt": "'I know how to cook adobo' — Marunong ___ magluto ng adobo.", "answer": "akong", "accept": ["akong"], "hint": "The pronoun ako plus the linker.", "explain": "Marunong links to its verb through the doer: marunong + ako + -ng + magluto — the Unit 5 linker at work."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Why are you sad? — Because Grandma will go home to Cebu tomorrow.", "answer": "Bakit ka malungkot? — Kasi uuwi si Lola sa Cebu bukas.", "accept": ["Bakit ka malungkot? Kasi uuwi si Lola sa Cebu bukas", "Bakit ka malungkot? Kasi uuwi na si Lola sa Cebu bukas", "Bakit ka malungkot? Dahil uuwi si Lola sa Cebu bukas"], "explain": "Bakit asks why, kasi answers it, and bukas forces the contemplated form uuwi (from umuwi)."},
+    {"type": "listen", "tl": "Magkano po ang isang kilo ng mangga? — Nubenta pesos po, pero may tawad para sa suki.", "prompt": "What is the conversation about?", "choices": ["The price of a kilo of mangoes, with a discount for regulars", "Directions to the mango store", "How many mangoes are left", "The color of the mangoes"], "answer": 0, "explain": "Magkano + isang kilo ng mangga asks the per-kilo price; tawad is the discount, suki the regular customer — all from Unit 8."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Marunong na akong mag-Tagalog nang kaunti, pero mabilis magsalita ang mga Pilipino!", "answer": "I can already speak a little Tagalog, but Filipinos speak fast!", "accept": ["I can already speak a little Tagalog, but Filipinos speak fast", "I already know how to speak a little Tagalog but Filipinos talk fast", "I know a little Tagalog now, but Filipinos speak quickly"], "explain": "Marunong + linker + mag-Tagalog = know how to speak Tagalog; na = already; mabilis magsalita describes their fast speaking."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Where are you going? — To the market. I'll buy a kilo of tomatoes.", "answer": "Saan ka pupunta? — Sa palengke. Bibili ako ng isang kilo ng kamatis.", "accept": ["Saan ka pupunta? Sa palengke. Bibili ako ng isang kilo ng kamatis", "Saan ka pupunta? Sa palengke. Bibili ako ng isang kilong kamatis", "Saan po kayo pupunta? Sa palengke po. Bibili ako ng isang kilo ng kamatis"], "explain": "Saan + pupunta for the trip (Unit 6), bibili is the contemplated 'will buy' (Units 7–8), and the quantity chains as isang kilo ng kamatis."},
+    {"type": "mcq", "prompt": "Which sentence uses all three markers — ang, ng, sa — correctly?", "choices": ["Bumili ang Nanay sa isda ng palengke.", "Bumili si Nanay ng isda sa palengke.", "Bumili ng Nanay ang isda sa palengke.", "Bumili sa Nanay ng isda ang palengke."], "answer": 1, "explain": "Si Nanay is the doer (topic), ng isda the thing bought, sa palengke the place — the full ang/ng/sa system in one sentence."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Good evening! I am Kate. I'm from America, but I live here in Manila now.", "answer": "Magandang gabi po! Ako po si Kate. Taga-Amerika po ako, pero nakatira po ako dito sa Maynila ngayon.", "accept": ["Magandang gabi po! Ako po si Kate. Taga-Amerika po ako, pero nakatira po ako dito sa Maynila ngayon", "Magandang gabi! Ako si Kate. Taga-Amerika ako, pero nakatira ako dito sa Maynila ngayon", "Magandang gabi! Ako si Kate. Taga-Amerika ako pero dito na ako sa Maynila nakatira ngayon"], "explain": "The full A1 self-introduction: greeting + po, ako si + name, taga- + origin, and dito sa Maynila for where you live now."}
+  ]
+}

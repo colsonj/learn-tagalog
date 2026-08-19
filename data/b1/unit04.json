@@ -1,0 +1,120 @@
+{
+  "id": "b1-u04",
+  "title": "Feelings and reactions: experiencer verbs and nakaka-",
+  "objectives": [
+    "Express feelings with ma- experiencer verbs (natutuwa, naiinis, nagagalit)",
+    "Point at the cause of a feeling with sa, and meet the ikina- reaction verbs",
+    "Describe things as tiring, funny, scary with nakaka- adjectives",
+    "React naturally to good and bad news"
+  ],
+  "grammar": [
+    {
+      "title": "ma- experiencer verbs: feelings happen to you",
+      "explanation": "In Tagalog, most feelings are grammatically things that happen to you — so they use the ma- family you met in Unit 2. Natutuwa ako — I'm pleased/delighted. Naiinis ako — I'm annoyed. Nagagalit siya — she's getting angry. Natatakot sila — they're scared.\n\nAspect is the usual ma- pattern: natuwa (felt pleased — a completed reaction), natutuwa (am pleased — ongoing), matutuwa (will be pleased). Note how often the incompleted form is the natural one: feelings are usually ongoing states. Nagulat ako is the big exception — surprise is instantaneous, so the completed form is the default: Nagulat ako! (I was startled!).\n\nThe cause of the feeling takes sa (or kay for a person): Natutuwa ako sa regalo mo — I'm delighted with your gift. Naiinis siya sa trapiko — he's annoyed at the traffic. Natatakot ang bata sa dilim — the child is afraid of the dark. Two members of this family are slightly different in shape but behave the same: mag-alala 'to worry' is a mag- verb (nag-aalala ako sa iyo — I worry about you), and mahiya 'to be embarrassed/shy' gives the everyday nahihiya ako (I'm embarrassed / I feel shy about imposing).",
+      "examples": [
+        {"tl": "Natutuwa kami sa magandang balita mo.", "en": "We're delighted at your good news."},
+        {"tl": "Naiinis ako sa kapitbahay naming maingay.", "en": "I'm annoyed at our noisy neighbor."},
+        {"tl": "Huwag kang magalit — nagbibiro lang ako.", "en": "Don't get angry — I'm just joking."},
+        {"tl": "Nagulat ako nang biglang pumasok si Boss.", "en": "I was startled when the boss suddenly walked in."},
+        {"tl": "Natatakot ang anak ko sa kulog.", "en": "My child is afraid of thunder."},
+        {"tl": "Nag-aalala si Nanay dahil hindi ka pa umuuwi.", "en": "Mom is worried because you're not home yet."}
+      ]
+    },
+    {
+      "title": "ikina-: what the news did to you",
+      "explanation": "When you want to spotlight the cause of a feeling — 'the news surprised me', 'I'm saddened by what happened' — Tagalog has a causal focus: ikina-. The cause becomes the ang-phrase, and the experiencer demotes to ng: Ikinagulat ko ang balita — the news took me by surprise (literally: the news was the cause of my being startled).\n\nAspect: ikinagulat (completed), ikinagugulat (incompleted), ikagugulat (contemplated). You don't need to produce this fluently at B1, but you must recognize it, because two frozen expressions built on it are everywhere in polite speech: Ikinalulungkot ko ang nangyari — I'm sorry about what happened (the standard formal condolence/apology for bad news), and Ikinagagalak kong makilala kayo — I'm pleased to meet you (very formal introductions).\n\nCompare the two ways of saying the same reaction: Nagulat ako sa balita (experiencer in focus) versus Ikinagulat ko ang balita (cause in focus). It's the Unit 1 logic yet again: the ang-slot goes to whatever the sentence is about.",
+      "examples": [
+        {"tl": "Ikinagulat ng lahat ang biglaan niyang pag-alis.", "en": "His sudden departure surprised everyone."},
+        {"tl": "Ikinalulungkot ko ang pagkamatay ng lolo mo.", "en": "I'm very sorry about your grandfather's passing."},
+        {"tl": "Ikinagagalak ko po kayong makilala.", "en": "I am pleased to meet you (formal)."},
+        {"tl": "Ikinatuwa ng mga bata ang pagdating ng magician.", "en": "The magician's arrival delighted the children."}
+      ]
+    },
+    {
+      "title": "nakaka-: tiring, funny, scary things",
+      "explanation": "To describe a thing or situation by the feeling it causes, Tagalog uses nakaka- adjectives: nakakapagod (tiring), nakakatawa (funny), nakakainis (annoying), nakakatakot (scary), nakakaantok (sleep-inducing, boring in the 'makes you drowsy' sense), nakakalungkot (saddening), nakakagulat (surprising), nakakahiya (embarrassing).\n\nThe formula is nakaka- + the root of the feeling. They work like any adjective: Nakakapagod ang biyahe — the trip is tiring. Ang nakakatawa, si Jun pa ang nagalit — the funny thing is, it was Jun who got angry. You'll also hear the more formal variant with doubled root syllable instead of doubled ka-: nakapapagod, nakatatawa — same meaning, textbook style.\n\nWatch out for the classic pair confusion: nakakatakot means the thing is scary; natatakot means the person is scared. Nakakainis ang trapiko (traffic is annoying) versus naiinis ako (I'm annoyed). Learners love to say 'nakakatakot ako' when they mean 'I'm scared' — which actually announces 'I am terrifying'. Keep the nakaka- forms for the cause, the na-/naiinis forms for the person feeling it.",
+      "examples": [
+        {"tl": "Nakakapagod ang byaheng Maynila-Baguio nang walang tulog.", "en": "The Manila-Baguio trip is exhausting without sleep."},
+        {"tl": "Ang nakakatawa, nakalimutan niya ang sarili niyang birthday.", "en": "The funny thing is, he forgot his own birthday."},
+        {"tl": "Nakakainis talaga kapag mabagal ang internet.", "en": "It's really annoying when the internet is slow."},
+        {"tl": "Nakakaantok ang mahahabang meeting pagkatapos ng tanghalian.", "en": "Long meetings after lunch make you sleepy."},
+        {"tl": "Nakakahiya — nakalimutan ko ang pangalan niya sa harap niya mismo.", "en": "How embarrassing — I forgot her name right in front of her."},
+        {"tl": "Nakakatakot ang balita, kaya natatakot ang mga tao.", "en": "The news is frightening, so people are scared."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "matuwa (ma-)", "en": "to be pleased, delighted", "pos": "verb", "note": "natuwa, natutuwa, matutuwa; cause takes sa", "example": {"tl": "Natuwa ang mga magulang ko sa mataas kong grado.", "en": "My parents were pleased with my high grades."}},
+    {"tl": "mainis (ma-)", "en": "to be annoyed, irritated", "pos": "verb", "note": "nainis, naiinis, maiinis", "example": {"tl": "Naiinis ako sa mga taong laging late.", "en": "I get annoyed at people who are always late."}},
+    {"tl": "magalit (ma-)", "en": "to get angry", "pos": "verb", "note": "nagalit, nagagalit, magagalit", "example": {"tl": "Nagalit ang guro dahil maingay ang klase.", "en": "The teacher got angry because the class was noisy."}},
+    {"tl": "matakot (ma-)", "en": "to be afraid, scared", "pos": "verb", "note": "natakot, natatakot, matatakot", "example": {"tl": "Natatakot akong mag-isa sa bahay kapag gabi.", "en": "I'm scared to be alone in the house at night."}},
+    {"tl": "magulat (ma-)", "en": "to be surprised, startled", "pos": "verb", "note": "nagulat, nagugulat, magugulat", "example": {"tl": "Nagulat kami nang malaman naming lilipat siya.", "en": "We were surprised when we learned she was moving."}},
+    {"tl": "malungkot (ma-)", "en": "to feel sad", "pos": "verb", "note": "nalungkot, nalulungkot, malulungkot; also an adjective, 'sad'", "example": {"tl": "Nalungkot ako nang umalis ang matalik kong kaibigan.", "en": "I felt sad when my best friend left."}},
+    {"tl": "mahiya (ma-)", "en": "to be embarrassed, feel shy", "pos": "verb", "note": "nahiya, nahihiya, mahihiya", "example": {"tl": "Nahihiya akong humingi ulit ng tulong.", "en": "I'm embarrassed to ask for help again."}},
+    {"tl": "mag-alala (mag-)", "en": "to worry", "pos": "verb", "note": "nag-alala, nag-aalala, mag-aalala", "example": {"tl": "Huwag kang mag-alala — ligtas kaming lahat.", "en": "Don't worry — we're all safe."}},
+    {"tl": "mapagod (ma-)", "en": "to get tired", "pos": "verb", "note": "napagod, napapagod, mapapagod", "example": {"tl": "Napagod ako sa pag-akyat ng hagdan hanggang ikalimang palapag.", "en": "I got tired climbing the stairs to the fifth floor."}},
+    {"tl": "maiyak (ma-)", "en": "to be moved to tears, end up crying", "pos": "verb", "note": "naiyak, naiiyak, maiiyak", "example": {"tl": "Naiyak si Nanay sa graduation ko.", "en": "Mom was moved to tears at my graduation."}},
+    {"tl": "mabagot (ma-)", "en": "to get bored", "pos": "verb", "note": "nabagot, nababagot, mababagot", "example": {"tl": "Nababagot ako sa mahabang pila.", "en": "I'm getting bored in the long line."}},
+    {"tl": "ikinalulungkot ko", "en": "I am sorry (to hear); I regret", "pos": "phrase", "note": "formal; standard response to bad news", "example": {"tl": "Ikinalulungkot ko ang nangyari sa inyong pamilya.", "en": "I am very sorry about what happened to your family."}},
+    {"tl": "ikinagagalak ko", "en": "I am pleased (to...)", "pos": "phrase", "note": "very formal; introductions and speeches", "example": {"tl": "Ikinagagalak ko po kayong makilala.", "en": "I am pleased to meet you."}},
+    {"tl": "nakakapagod", "en": "tiring, exhausting", "pos": "adjective", "note": "formal variant: nakapapagod", "example": {"tl": "Nakakapagod ang trabaho ko ngayong linggo.", "en": "My work is exhausting this week."}},
+    {"tl": "nakakatawa", "en": "funny", "pos": "adjective", "example": {"tl": "Sobrang nakakatawa ang kuwento niya tungkol sa aso nila.", "en": "His story about their dog is so funny."}},
+    {"tl": "nakakainis", "en": "annoying", "pos": "adjective", "example": {"tl": "Nakakainis ang mabagal na koneksyon ng internet.", "en": "The slow internet connection is annoying."}},
+    {"tl": "nakakatakot", "en": "scary, frightening", "pos": "adjective", "example": {"tl": "Nakakatakot maglakad mag-isa sa madilim na kalye.", "en": "It's scary to walk alone on a dark street."}},
+    {"tl": "nakakaantok", "en": "sleep-inducing, drowsy-making", "pos": "adjective", "example": {"tl": "Nakakaantok ang boses ng tagapagsalita.", "en": "The speaker's voice makes you sleepy."}},
+    {"tl": "nakakalungkot", "en": "saddening, sad (of news, events)", "pos": "adjective", "example": {"tl": "Nakakalungkot ang balita tungkol sa baha.", "en": "The news about the flood is saddening."}},
+    {"tl": "nakakagulat", "en": "surprising", "pos": "adjective", "example": {"tl": "Nakakagulat ang biglang pagbagsak ng presyo.", "en": "The sudden drop in price is surprising."}},
+    {"tl": "nakakahiya", "en": "embarrassing", "pos": "adjective", "example": {"tl": "Nakakahiya ang ginawa niya sa harap ng mga bisita.", "en": "What he did in front of the guests was embarrassing."}},
+    {"tl": "nakakakilig", "en": "thrilling in a romantic way, giving 'kilig'", "pos": "adjective", "note": "from kilig, the giddy romantic thrill — a very Filipino concept", "example": {"tl": "Nakakakilig ang ending ng teleserye kagabi.", "en": "The ending of the soap opera last night was so kilig-inducing."}},
+    {"tl": "damdamin", "en": "feeling, emotion", "pos": "noun", "example": {"tl": "Mahirap itago ang tunay na damdamin.", "en": "It's hard to hide your true feelings."}},
+    {"tl": "kilig", "en": "romantic thrill, giddy excitement", "pos": "noun", "note": "also used as an adjective: kilig na kilig ako", "example": {"tl": "Kilig na kilig si Ana nang batiin siya ng crush niya.", "en": "Ana was thrilled to bits when her crush greeted her."}},
+    {"tl": "biro", "en": "joke", "pos": "noun", "note": "magbiro = to joke; nagbibiro lang ako = I'm just kidding", "example": {"tl": "Huwag kang magalit, biro lang iyon.", "en": "Don't get mad, that was just a joke."}},
+    {"tl": "kulog", "en": "thunder", "pos": "noun", "example": {"tl": "Malakas ang kulog kagabi kaya hindi nakatulog ang aso.", "en": "The thunder was loud last night, so the dog couldn't sleep."}},
+    {"tl": "teleserye", "en": "TV soap opera", "pos": "noun", "example": {"tl": "Anong teleserye ang sinusundan mo ngayon?", "en": "What soap opera are you following these days?"}}
+  ],
+  "dialogue": {
+    "title": "Balitaan sa merienda",
+    "context": "Cousins Bea and Miguel catch up over merienda and trade reactions to family news.",
+    "lines": [
+      {"speaker": "Bea", "tl": "Miguel! Narinig mo na ba? Ikakasal na si Ate Joy!", "en": "Miguel! Have you heard? Ate Joy is getting married!"},
+      {"speaker": "Miguel", "tl": "Talaga? Nagulat ako! Akala ko break na sila ni Dan.", "en": "Really? I'm shocked! I thought she and Dan had broken up."},
+      {"speaker": "Bea", "tl": "Hindi pala. Kilig na kilig nga si Lola nang malaman niya.", "en": "Apparently not. Grandma was thrilled to bits when she found out."},
+      {"speaker": "Miguel", "tl": "Natutuwa ako para sa kanila. Kailan ang kasal?", "en": "I'm happy for them. When's the wedding?"},
+      {"speaker": "Bea", "tl": "Sa Disyembre. Pero may hindi magandang balita rin. Nasa ospital si Tito Ramon.", "en": "In December. But there's also some bad news. Tito Ramon is in the hospital."},
+      {"speaker": "Miguel", "tl": "Naku, nakakalungkot naman. Ano ang nangyari?", "en": "Oh no, that's sad. What happened?"},
+      {"speaker": "Bea", "tl": "Nadapa siya sa hagdan. Nag-aalala si Nanay, pero ayos na raw siya.", "en": "He fell on the stairs. Mom is worried, but they say he's okay now."},
+      {"speaker": "Miguel", "tl": "Buti naman. Natakot ako sandali doon.", "en": "That's good. I was scared for a moment there."},
+      {"speaker": "Bea", "tl": "Ako rin. O, kumusta ang bago mong trabaho?", "en": "Me too. So, how's your new job?"},
+      {"speaker": "Miguel", "tl": "Nakakapagod pero masaya. Nahihiya lang ako minsan kasi ako ang pinakabago.", "en": "Tiring but fun. I just get shy sometimes because I'm the newest one."},
+      {"speaker": "Bea", "tl": "Normal iyan. Ang nakakatawa, ganiyan din ako noong una kong linggo.", "en": "That's normal. The funny thing is, I was like that too in my first week."},
+      {"speaker": "Miguel", "tl": "Salamat, gumaan ang pakiramdam ko. Nakakainis lang talaga ang biyahe papasok!", "en": "Thanks, I feel lighter now. It's just the commute that's really annoying!"}
+    ]
+  },
+  "reading": {
+    "title": "Unang linggo sa Maynila",
+    "tl": "Kararating lang ni Sofia sa Maynila mula sa probinsya para sa una niyang trabaho. Sa totoo lang, halo-halo ang kaniyang damdamin. Natutuwa siya dahil natanggap siya sa magandang kompanya, pero natatakot din siya dahil wala siyang kakilala sa lungsod.\n\nNoong unang araw niya, nagulat siya sa dami ng tao sa tren. Nakakapagod pala ang byaheng isang oras na nakatayo. Naiinis din siya minsan sa trapiko at sa init. Pero may mga nakakatuwang sandali rin: mababait ang mga bago niyang katrabaho, at nakakatawa ang kuwento nila tuwing tanghalian. Isang beses, nahiya siya nang makalimutan niya ang pangalan ng kaniyang boss, pero tinawanan lang nila ito.\n\nTuwing gabi, tumatawag siya sa kaniyang nanay. Nag-aalala pa rin ito sa kaniya, pero sinasabi ni Sofia na huwag mag-alala. Unti-unti, nagiging tahanan na rin niya ang Maynila.",
+    "en": "Sofia has just arrived in Manila from the province for her first job. To be honest, her feelings are mixed. She's happy because she was accepted at a good company, but she's also scared because she doesn't know anyone in the city.\n\nOn her first day, she was surprised at how many people were on the train. It turns out a one-hour trip standing up is exhausting. She also gets annoyed sometimes at the traffic and the heat. But there are delightful moments too: her new coworkers are kind, and their stories at lunchtime are funny. One time, she was embarrassed when she forgot her boss's name, but they just laughed it off.\n\nEvery night, she calls her mother, who still worries about her, but Sofia tells her not to worry. Little by little, Manila is becoming her home too.",
+    "gloss": [
+      {"tl": "kararating lang", "en": "has just arrived"},
+      {"tl": "halo-halo", "en": "mixed (here: mixed feelings)"},
+      {"tl": "kakilala", "en": "acquaintance, someone you know"},
+      {"tl": "katrabaho", "en": "coworker"},
+      {"tl": "tinawanan", "en": "laughed at/about it"},
+      {"tl": "tahanan", "en": "home"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which sentence means 'I'm scared'?", "choices": ["Nakakatakot ako.", "Natatakot ako.", "Takot ako sa akin.", "Matatakot ang takot ko."], "answer": 1, "explain": "Natatakot describes the person feeling fear. Nakakatakot ako would mean 'I am terrifying' — the classic mix-up."},
+    {"type": "mcq", "prompt": "Traffic makes you feel irritated. 'Traffic is annoying' is:", "choices": ["Naiinis ang trapiko.", "Nakakainis ang trapiko.", "Nagagalit ang trapiko.", "Inis na trapiko ako."], "answer": 1, "explain": "The cause of the feeling takes nakaka-: nakakainis ang trapiko. Naiinis is for the person who feels annoyed."},
+    {"type": "fill", "prompt": "___ ako nang biglang tumunog ang alarma. (I was startled...)", "answer": "nagulat", "accept": ["nagulat"], "hint": "Surprise verb, completed aspect.", "explain": "Surprise is instantaneous, so the completed form nagulat is the natural choice."},
+    {"type": "fill", "prompt": "Nag-aalala si Nanay ___ iyo dahil hindi ka tumatawag. (Mom worries about you)", "answer": "sa", "accept": ["sa"], "hint": "The cause or target of a feeling takes this marker.", "explain": "The person or thing a feeling is directed at takes sa: nag-aalala sa iyo."},
+    {"type": "listen", "tl": "Natuwa ang mga magulang ko nang makita nila ang aking diploma.", "prompt": "How did the parents feel?", "choices": ["They were worried when they saw the diploma", "They were delighted when they saw the diploma", "They were surprised the diploma was lost", "They were sad about the graduation"], "answer": 1, "explain": "Natuwa means 'were pleased/delighted'; nang makita nila = when they saw."},
+    {"type": "mcq", "prompt": "A colleague tells you their father passed away. The appropriate formal response is:", "choices": ["Nakakatawa naman.", "Ikinalulungkot ko ang inyong pagkawala.", "Ikinagagalak ko po kayong makilala.", "Nakakainis ang balita."], "answer": 1, "explain": "Ikinalulungkot ko... is the standard formal expression of sympathy for bad news. Ikinagagalak is for pleased-to-meet-you."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Don't worry — we're all okay.", "answer": "Huwag kang mag-alala — ayos kaming lahat.", "accept": ["Huwag kang mag-alala, ayos kaming lahat", "Huwag kang mag-alala ayos kaming lahat", "Huwag kang mag-alala — okay kaming lahat", "Huwag kayong mag-alala, ayos kaming lahat"], "explain": "Prohibitions use huwag + ka/kayo + linker -ng + infinitive: huwag kang mag-alala."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Nakakaantok ang mahahabang meeting pagkatapos ng tanghalian.", "answer": "Long meetings after lunch make you sleepy.", "accept": ["Long meetings after lunch make you sleepy", "Long meetings after lunch are sleep-inducing", "The long meetings after lunch make me sleepy", "Long meetings after lunch are boring and make you drowsy"], "explain": "Nakakaantok describes the meetings as causing drowsiness; pagkatapos ng tanghalian = after lunch."},
+    {"type": "fill", "prompt": "___ akong humingi ng pabor sa boss ko. (I'm embarrassed/shy to ask my boss a favor)", "answer": "nahihiya", "accept": ["nahihiya"], "hint": "The ma- verb from hiya, incompleted aspect.", "explain": "Feeling shy or embarrassed about doing something is nahihiya + linked verb: nahihiya akong humingi."},
+    {"type": "listen", "tl": "Naiyak si Nanay sa kasal ng ate ko, pero luha ng tuwa raw iyon.", "prompt": "What happened at the wedding?", "choices": ["Mom cried at the sister's wedding — tears of joy, she says", "Mom got angry at the sister's wedding", "Mom couldn't attend the wedding and cried", "The sister cried because Mom was absent"], "answer": 0, "explain": "Naiyak = was moved to tears; luha ng tuwa = tears of joy; raw marks it as her own report."},
+    {"type": "mcq", "prompt": "'Ikinagulat ng lahat ang resulta ng eleksyon.' What is in focus?", "choices": ["Everyone (the people surprised)", "The election result (the cause of surprise)", "The act of voting", "The winner"], "answer": 1, "explain": "Ikina- puts the cause in the ang slot: ang resulta is what did the surprising; the experiencers demote to ng lahat."},
+    {"type": "translate", "direction": "en2tl", "prompt": "The news about the flood is saddening, so many people are worried.", "answer": "Nakakalungkot ang balita tungkol sa baha, kaya maraming tao ang nag-aalala.", "accept": ["Nakakalungkot ang balita tungkol sa baha kaya maraming tao ang nag-aalala", "Nakakalungkot ang balita tungkol sa baha, kaya marami ang nag-aalala", "Nakakalungkot ang balita tungkol sa baha kaya nag-aalala ang maraming tao"], "explain": "The news is the cause, so nakakalungkot; the people feel it, so nag-aalala. Kaya links cause to result."}
+  ]
+}

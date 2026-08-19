@@ -1,0 +1,118 @@
+{
+  "id": "a1-u07",
+  "title": "Daily routine: your first real verbs",
+  "objectives": [
+    "Build sentences with doer-focus verbs: verb first, then the doer",
+    "Use -um- verbs (kumain, uminom, gumising) in all three aspects",
+    "Use mag- verbs (magtrabaho, magluto, mag-aral) in all three aspects",
+    "Describe your daily routine with araw-araw, tuwing umaga, and friends"
+  ],
+  "grammar": [
+    {
+      "title": "How a Tagalog verb sentence works",
+      "explanation": "You finally have all the pieces for real verb sentences. The recipe: VERB first, then the doer (an ang-form word), then everything else. Kumain ako ng pandesal — 'I ate pandesal': kumain (ate) + ako (I, the doer) + ng pandesal (the thing eaten, marked with ng, not the topic).\n\nThe verbs in this unit are doer-focus verbs — the grammar books call this 'actor focus' — meaning the doer of the action is the topic (that's why it's ako, siya, si Ben, ang bata). Tagalog has other focus types where the object is the topic; those come at the next level. At A1, doer focus does everything you need.\n\nAdd places with sa: Kumain kami sa restawran — 'We ate at a restaurant.' Add times just by stating them: Gumising ako nang maaga — 'I woke up early.' The doer pronoun snuggles right up behind the verb: kumain AKO, natulog SIYA, nagtrabaho SILA.",
+      "examples": [
+        {"tl": "Kumain ako ng almusal.", "en": "I ate breakfast."},
+        {"tl": "Uminom siya ng kape sa kusina.", "en": "She drank coffee in the kitchen."},
+        {"tl": "Nagtrabaho si Tatay sa opisina.", "en": "Dad worked at the office."},
+        {"tl": "Naglaro ang mga bata sa parke.", "en": "The children played at the park."}
+      ]
+    },
+    {
+      "title": "The three aspects: done, doing, will do",
+      "explanation": "Tagalog verbs don't mark time the way English tense does; they mark aspect — whether the action is completed (done), incompleted (happening/habitual), or contemplated (not yet started). Practically, for A1: completed ≈ past, incompleted ≈ present or 'always/usually', contemplated ≈ future.\n\nTake kumain (to eat, an -um- verb): kumain = ate (completed), kumakain = is eating / eats (incompleted), kakain = will eat (contemplated).\n\nAnd magluto (to cook, a mag- verb): nagluto = cooked, nagluluto = is cooking / cooks, magluluto = will cook.\n\nHear the music of it: the incompleted and contemplated forms repeat the first syllable of the root (KAkain, kuMAkain — root kain; LUluto — root luto). That repeated syllable is your signal that the action isn't finished. You already know one contemplated form well: pupunta ('will go') from Unit 6 — root punta with its first syllable repeated.",
+      "examples": [
+        {"tl": "Kumain na ako.", "en": "I already ate."},
+        {"tl": "Kumakain pa sila.", "en": "They are still eating."},
+        {"tl": "Kakain tayo sa restawran mamaya.", "en": "We'll eat at a restaurant later."},
+        {"tl": "Nagluto si Nanay ng adobo.", "en": "Mom cooked adobo."}
+      ]
+    },
+    {
+      "title": "-um- verbs: kumain, uminom, gumising",
+      "explanation": "The -um- family slips -um- inside the root, right after its first consonant: kain → K-um-ain (kumain), inom → um-inom (uminom — when the root starts with a vowel, um- just goes in front), gising → g-um-ising (gumising).\n\nThe three forms:\ncompleted: kumain, uminom, gumising (ate, drank, woke up)\nincompleted: kumakain, umiinom, gumigising (keep -um-, repeat the root's first syllable)\ncontemplated: kakain, iinom, gigising (drop -um- entirely, repeat the first syllable)\n\nThat last row surprises learners: the future form has no um at all. 'I will drink coffee' is Iinom ako ng kape. Other -um- verbs you know or will meet here: pumunta (went), umuwi (went home), lumakad (walked).",
+      "examples": [
+        {"tl": "Gumising ako nang maaga ngayon.", "en": "I woke up early today."},
+        {"tl": "Umiinom si Lola ng kape tuwing umaga.", "en": "Grandma drinks coffee every morning."},
+        {"tl": "Iinom ako ng tubig. Uhaw ako!", "en": "I'll drink some water. I'm thirsty!"},
+        {"tl": "Uuwi kami nang alas-singko.", "en": "We'll go home at five o'clock."}
+      ]
+    },
+    {
+      "title": "mag- verbs (and matulog): magtrabaho, magluto, mag-aral",
+      "explanation": "The mag- family puts a prefix before the root instead of inside it. The trick: in the completed and incompleted forms, mag- becomes nag-.\ncompleted: nagtrabaho, nagluto, nag-aral (worked, cooked, studied)\nincompleted: nagtatrabaho, nagluluto, nag-aaral (nag- + repeated first syllable)\ncontemplated: magtatrabaho, magluluto, mag-aaral (mag- + repeated first syllable)\n\nSo m- means 'not started yet', n- means 'already started' — the same m/n switch you saw in may/nasa... and it also runs the small ma- family: matulog (to sleep) gives natulog (slept), natutulog (is sleeping), matutulog (will sleep); maligo (to bathe) gives naligo, naliligo, maliligo.\n\nWhy are some verbs -um- and others mag-? There's no full rule — you learn each verb's family with the verb, the way English learners memorize irregular pasts. The vocab list tags every verb with its family and all three forms.",
+      "examples": [
+        {"tl": "Nagtatrabaho ang ate ko sa ospital.", "en": "My older sister works at the hospital."},
+        {"tl": "Magluluto ako ng sinigang mamaya.", "en": "I'll cook sinigang later."},
+        {"tl": "Nag-aaral pa ang kapatid ko.", "en": "My sibling is still studying."},
+        {"tl": "Natutulog pa si Kuya. Gumising siya nang alas-diyes!", "en": "Big brother is still sleeping. He woke up at ten!"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "kumain (um)", "en": "to eat", "pos": "verb", "note": "kumain, kumakain, kakain", "example": {"tl": "Kumain kami ng pansit.", "en": "We ate pancit."}},
+    {"tl": "uminom (um)", "en": "to drink", "pos": "verb", "note": "uminom, umiinom, iinom", "example": {"tl": "Uminom ka na ba ng tubig?", "en": "Have you drunk water yet?"}},
+    {"tl": "gumising (um)", "en": "to wake up", "pos": "verb", "note": "gumising, gumigising, gigising", "example": {"tl": "Gumigising ako nang alas-sais araw-araw.", "en": "I wake up at six every day."}},
+    {"tl": "pumunta (um)", "en": "to go", "pos": "verb", "note": "pumunta, pumupunta, pupunta", "example": {"tl": "Pumunta sila sa palengke kanina.", "en": "They went to the market earlier."}},
+    {"tl": "umuwi (um)", "en": "to go home", "pos": "verb", "note": "umuwi, umuuwi, uuwi", "example": {"tl": "Uuwi ako nang alas-singko.", "en": "I'll go home at five."}},
+    {"tl": "lumakad (um)", "en": "to walk; to leave on foot", "pos": "verb", "note": "lumakad, lumalakad, lalakad", "example": {"tl": "Lumalakad ako papunta sa eskuwelahan.", "en": "I walk to school."}},
+    {"tl": "magtrabaho (mag)", "en": "to work", "pos": "verb", "note": "nagtrabaho, nagtatrabaho, magtatrabaho", "example": {"tl": "Nagtatrabaho siya sa opisina.", "en": "He works at an office."}},
+    {"tl": "mag-aral (mag)", "en": "to study", "pos": "verb", "note": "nag-aral, nag-aaral, mag-aaral", "example": {"tl": "Mag-aaral ako mamayang gabi.", "en": "I'll study tonight."}},
+    {"tl": "magluto (mag)", "en": "to cook", "pos": "verb", "note": "nagluto, nagluluto, magluluto", "example": {"tl": "Nagluto si Nanay ng adobo.", "en": "Mom cooked adobo."}},
+    {"tl": "maglaro (mag)", "en": "to play", "pos": "verb", "note": "naglaro, naglalaro, maglalaro", "example": {"tl": "Naglalaro ang mga bata sa labas.", "en": "The children are playing outside."}},
+    {"tl": "magbasa (mag)", "en": "to read", "pos": "verb", "note": "nagbasa, nagbabasa, magbabasa", "example": {"tl": "Nagbabasa ako ng libro tuwing gabi.", "en": "I read a book every night."}},
+    {"tl": "matulog (ma)", "en": "to sleep", "pos": "verb", "note": "natulog, natutulog, matutulog", "example": {"tl": "Matutulog na ako. Magandang gabi!", "en": "I'm going to sleep now. Good night!"}},
+    {"tl": "maligo (ma)", "en": "to bathe, to shower", "pos": "verb", "note": "naligo, naliligo, maliligo", "example": {"tl": "Naligo ka na ba?", "en": "Have you showered yet?"}},
+    {"tl": "manood (pan)", "en": "to watch (TV, a movie)", "pos": "verb", "note": "nanood, nanonood, manonood — a third small family; learn as chunks", "example": {"tl": "Nanonood sila ng telebisyon sa sala.", "en": "They're watching TV in the living room."}},
+    {"tl": "almusal", "en": "breakfast", "pos": "noun", "example": {"tl": "Kumain ako ng almusal nang alas-siyete.", "en": "I ate breakfast at seven."}},
+    {"tl": "tanghalian", "en": "lunch", "pos": "noun", "example": {"tl": "Kakain tayo ng tanghalian sa labas.", "en": "We'll eat lunch out."}},
+    {"tl": "hapunan", "en": "dinner", "pos": "noun", "example": {"tl": "Nagluluto pa si Tatay ng hapunan.", "en": "Dad is still cooking dinner."}},
+    {"tl": "trabaho", "en": "work, job", "pos": "noun", "example": {"tl": "Ano ang trabaho mo?", "en": "What is your job?"}},
+    {"tl": "klase", "en": "class", "pos": "noun", "example": {"tl": "May klase ako nang alas-otso.", "en": "I have class at eight."}},
+    {"tl": "telebisyon", "en": "television", "pos": "noun", "note": "Everyone says TV (tibi) too", "example": {"tl": "Luma na ang telebisyon namin.", "en": "Our TV is old now."}},
+    {"tl": "araw-araw", "en": "every day", "pos": "adverb", "example": {"tl": "Naglalakad ako araw-araw.", "en": "I walk every day."}},
+    {"tl": "tuwing", "en": "every (time)", "pos": "adverb", "note": "tuwing umaga = every morning; tuwing Linggo = every Sunday", "example": {"tl": "Umiinom siya ng gatas tuwing gabi.", "en": "He drinks milk every night."}},
+    {"tl": "maaga", "en": "early", "pos": "adverb", "note": "nang maaga = (at an) early (hour)", "example": {"tl": "Gumising kami nang maaga.", "en": "We woke up early."}},
+    {"tl": "mamaya", "en": "later (today)", "pos": "adverb", "example": {"tl": "Maglalaro tayo mamaya!", "en": "We'll play later!"}},
+    {"tl": "kanina", "en": "earlier (today)", "pos": "adverb", "example": {"tl": "Kumain na ako kanina.", "en": "I already ate earlier."}},
+    {"tl": "madalas", "en": "often", "pos": "adverb", "example": {"tl": "Madalas kaming kumakain sa labas.", "en": "We often eat out."}},
+    {"tl": "minsan", "en": "sometimes", "pos": "adverb", "example": {"tl": "Minsan, natutulog ako nang tanghali.", "en": "Sometimes I sleep at noon."}},
+    {"tl": "tapos", "en": "then, after that", "pos": "conjunction", "note": "Casual connector for telling a routine", "example": {"tl": "Naligo ako, tapos kumain ng almusal.", "en": "I showered, then ate breakfast."}},
+    {"tl": "nang", "en": "at (a time); links time to the action", "pos": "particle", "note": "Gumising ako nang alas-sais = I woke at six", "example": {"tl": "Natulog siya nang alas-onse.", "en": "She went to sleep at eleven."}},
+    {"tl": "buong araw", "en": "all day", "pos": "phrase", "example": {"tl": "Nagtrabaho ako buong araw.", "en": "I worked all day."}}
+  ],
+  "dialogue": {
+    "title": "A busy day",
+    "context": "It's evening. Ana calls Ben, who sounds tired.",
+    "lines": [
+      {"speaker": "Ana", "tl": "Kumusta ang araw mo, Ben?", "en": "How was your day, Ben?"},
+      {"speaker": "Ben", "tl": "Mahaba! Gumising ako nang alas-singko ng umaga.", "en": "Long! I woke up at five in the morning."},
+      {"speaker": "Ana", "tl": "Ang aga! Bakit?", "en": "So early! Why?"},
+      {"speaker": "Ben", "tl": "May klase ako nang alas-siyete. Naligo ako, kumain ng almusal, tapos lumakad sa eskuwelahan.", "en": "I had class at seven. I showered, ate breakfast, then walked to school."},
+      {"speaker": "Ana", "tl": "Kumain ka na ba ng hapunan?", "en": "Have you eaten dinner yet?"},
+      {"speaker": "Ben", "tl": "Hindi pa. Nagluluto pa si Nanay.", "en": "Not yet. Mom is still cooking."},
+      {"speaker": "Ana", "tl": "Ano ang niluluto niya? Ay — ano ang ulam ninyo?", "en": "What's she cooking? I mean — what's your dish?"},
+      {"speaker": "Ben", "tl": "Sinigang! Paborito ko. Ikaw, ano ang ginawa mo ngayon?", "en": "Sinigang! My favorite. And you, what did you do today?"},
+      {"speaker": "Ana", "tl": "Nagtrabaho ako buong araw. Tapos pumunta ako sa palengke.", "en": "I worked all day. Then I went to the market."},
+      {"speaker": "Ben", "tl": "Ano ang gagawin mo mamaya?", "en": "What will you do later?"},
+      {"speaker": "Ana", "tl": "Manonood ako ng TV, magbabasa, tapos matutulog nang maaga.", "en": "I'll watch TV, read, then sleep early."},
+      {"speaker": "Ben", "tl": "Mabuti iyan! Sige, kakain na kami. Magandang gabi!", "en": "That's good! Okay, we're about to eat. Good night!"},
+      {"speaker": "Ana", "tl": "Magandang gabi, Ben!", "en": "Good night, Ben!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Where does the verb go in a normal Tagalog sentence?", "choices": ["At the end", "First, before the doer", "After the object", "Anywhere at all"], "answer": 1, "explain": "Verb first, doer second: Kumain ako ng almusal — 'ate I of-breakfast'."},
+    {"type": "mcq", "prompt": "Kumakain sila. What aspect is this, and what does it mean?", "choices": ["Completed — they ate", "Contemplated — they will eat", "Incompleted — they are eating", "It's a command"], "answer": 2, "explain": "The repeated syllable (kuMAkain) with -um- still inside signals an unfinished, ongoing action: they are eating."},
+    {"type": "fill", "prompt": "Root: inom. 'I will drink water' — ___ ako ng tubig.", "answer": "iinom", "accept": ["iinom"], "hint": "The future of -um- verbs drops -um- and repeats the first syllable.", "explain": "Contemplated -um- forms lose the -um- entirely: inom → iinom. Uminom is past, umiinom is present."},
+    {"type": "fill", "prompt": "'Mom cooked adobo' — ___ si Nanay ng adobo.", "answer": "nagluto", "accept": ["nagluto"], "hint": "magluto in the completed aspect: mag- becomes...", "explain": "In completed and incompleted aspects, mag- turns into nag-: nagluto = cooked."},
+    {"type": "mcq", "prompt": "Which form means 'will work'?", "choices": ["nagtrabaho", "nagtatrabaho", "magtatrabaho", "trabaho"], "answer": 2, "explain": "Contemplated mag- verbs keep the m: mag- + repeated syllable + root = magtatrabaho. The n- forms are already-started actions."},
+    {"type": "listen", "tl": "Gumising ako nang alas-sais, naligo, tapos kumain ng almusal.", "prompt": "What did the speaker do?", "choices": ["Woke at six, showered, then ate breakfast", "Will wake at six and shower", "Woke at seven and skipped breakfast", "Is showering right now"], "answer": 0, "explain": "All three verbs are completed forms (gumising, naligo, kumain), telling a finished morning routine in order with tapos."},
+    {"type": "mcq", "prompt": "Natutulog pa si Kuya. What's happening?", "choices": ["Big brother will sleep soon.", "Big brother is still sleeping.", "Big brother slept.", "Big brother can't sleep."], "answer": 1, "explain": "Natutulog is the incompleted form of matulog, and pa means 'still' — the sleeping is ongoing."},
+    {"type": "fill", "prompt": "Every night I read a book: ___ ako ng libro tuwing gabi.", "answer": "nagbabasa", "accept": ["nagbabasa"], "hint": "Habitual actions use the incompleted aspect.", "explain": "Habits ('every night') take the incompleted form: nag- + ba + basa = nagbabasa."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I ate breakfast at seven. Then I went to the office.", "answer": "Kumain ako ng almusal nang alas-siyete. Tapos pumunta ako sa opisina.", "accept": ["Kumain ako ng almusal nang alas-siyete. Tapos pumunta ako sa opisina", "Kumain ako ng almusal nang alas-siyete, tapos pumunta ako sa opisina", "Kumain ako ng almusal nang alas-syete. Tapos pumunta ako sa opisina"], "explain": "Both actions are finished, so both verbs are completed: kumain and pumunta. Nang links the clock time; sa marks the destination."},
+    {"type": "listen", "tl": "Magluluto ako ng hapunan mamaya. Tapos manonood kami ng TV.", "prompt": "What are the speaker's plans?", "choices": ["She cooked dinner and watched TV.", "She'll cook dinner later, then they'll watch TV.", "She is cooking lunch right now.", "She will read then sleep."], "answer": 1, "explain": "Magluluto and manonood are contemplated (future) forms, and mamaya means 'later today'."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Nagtatrabaho ang tatay ko sa ospital. Umuuwi siya nang alas-otso ng gabi.", "answer": "My dad works at the hospital. He comes home at eight in the evening.", "accept": ["My dad works at the hospital. He comes home at eight in the evening", "My father works at a hospital. He goes home at 8 pm", "My dad works at the hospital and comes home at eight at night", "My dad works in the hospital. He goes home at eight in the evening"], "explain": "Both verbs are incompleted (nagtatrabaho, umuuwi) — habitual actions, 'works' and 'comes home', not one-time events."},
+    {"type": "translate", "direction": "en2tl", "prompt": "We will eat lunch at the restaurant later.", "answer": "Kakain kami ng tanghalian sa restawran mamaya.", "accept": ["Kakain kami ng tanghalian sa restawran mamaya", "Kakain tayo ng tanghalian sa restawran mamaya", "Mamaya, kakain kami ng tanghalian sa restawran"], "explain": "Future = contemplated kakain (no -um-!); ng tanghalian is the thing eaten, sa restawran the place, mamaya the time."},
+    {"type": "mcq", "prompt": "Your friend asks: Kumain ka na ba? You haven't eaten yet. Natural answer?", "choices": ["Wala pa.", "Hindi pa. Kakain ako mamaya.", "Oo, kakain ako.", "Kumain na, salamat."], "answer": 1, "explain": "Hindi pa = 'not yet', and kakain ako mamaya ('I'll eat later') uses the contemplated form for the future plan."}
+  ]
+}

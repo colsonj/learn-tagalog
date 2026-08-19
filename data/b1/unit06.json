@@ -1,0 +1,132 @@
+{
+  "id": "b1-u06",
+  "title": "In my opinion: agreeing, disagreeing, hedging",
+  "objectives": [
+    "Give opinions with sa tingin ko, sa palagay ko, para sa akin",
+    "Agree and disagree with sang-ayon, tumutol, pumayag",
+    "Disagree politely and hedge with parang, medyo, marahil, yata",
+    "Run a small discussion: give reasons, examples, and counterpoints"
+  ],
+  "grammar": [
+    {
+      "title": "Opinion openers: sa tingin ko, sa palagay ko, para sa akin",
+      "explanation": "The three everyday ways to frame an opinion:\n\nSa tingin ko — 'in my view' (literally 'in my look'). The most common and neutral: Sa tingin ko, mas masarap ang luto ni Nanay. To ask someone's opinion: Ano sa tingin mo? — 'What do you think?'\n\nSa palagay ko — 'in my opinion', a touch more considered, as if you've weighed it: Sa palagay ko, hindi pa handa ang koponan.\n\nPara sa akin — 'for me / as far as I'm concerned', which frames the opinion as personal taste rather than a claim about the world: Para sa akin, mas mahalaga ang pamilya kaysa sa pera. Because it's openly subjective, it's the gentlest of the three.\n\nAll three can take the linker ay in careful speech (Sa tingin ko ay tama siya) or just a comma-pause in conversation. To attribute an opinion to someone else, swap the pronoun: sa tingin niya, sa palagay ng mga magulang ko, para kay Ana. You can also assert belief directly with maniwala: Naniniwala akong makakaya natin ito — I believe we can manage this.",
+      "examples": [
+        {"tl": "Sa tingin ko, masyadong mahal ang bagong cellphone na iyan.", "en": "In my view, that new cellphone is too expensive."},
+        {"tl": "Ano sa tingin mo sa bago nating opisina?", "en": "What do you think of our new office?"},
+        {"tl": "Sa palagay ko, dapat mas maaga tayong umalis bukas.", "en": "In my opinion, we should leave earlier tomorrow."},
+        {"tl": "Para sa akin, mas masaya ang Pasko sa probinsya.", "en": "For me, Christmas is happier in the province."},
+        {"tl": "Naniniwala akong matututo ang kahit sino kung magsisikap siya.", "en": "I believe anyone can learn if they work hard."}
+      ]
+    },
+    {
+      "title": "Agreeing and disagreeing: sang-ayon, tutol, payag",
+      "explanation": "To agree with an idea or statement: Sang-ayon ako — I agree. The target of agreement takes sa: Sang-ayon ako sa sinabi mo / sa plano. As a verb it's sumang-ayon: Sumang-ayon ang lahat sa mungkahi niya — everyone agreed with her suggestion. Lighter, conversational agreement recycles your particles: Oo nga. Tama ka. May punto ka — you have a point.\n\nTo disagree: Hindi ako sang-ayon (sa...) — I don't agree. Stronger and more formal is salungat — opposed/contrary: Salungat ako sa planong iyan. The verb tumutol means to object: Tumutol ang mga residente sa pagtatayo ng planta — the residents objected to the building of the plant.\n\nPayag is for proposals that need your consent — agreeing to do or allow, not agreeing that something is true: Payag ako! — I'm in / fine by me. Pumayag ang mga magulang niya — her parents consented. Don't mix them up: you're sang-ayon with an opinion, but payag to a plan.",
+      "examples": [
+        {"tl": "Sang-ayon ako sa iyo — kailangan nating magsimula nang maaga.", "en": "I agree with you — we need to start early."},
+        {"tl": "Sumang-ayon ang buong pamilya sa plano ni Tatay.", "en": "The whole family agreed with Dad's plan."},
+        {"tl": "May punto ka, pero hindi pa rin ako lubos na sang-ayon.", "en": "You have a point, but I still don't fully agree."},
+        {"tl": "Salungat ako sa pagtataas ng pamasahe.", "en": "I'm against the fare increase."},
+        {"tl": "Tumutol si Mila nang sabihing kanselado ang biyahe.", "en": "Mila objected when it was announced the trip was canceled."},
+        {"tl": "Payag ka bang mag-ambag tayo ng tig-limampiso?", "en": "Are you okay with each of us chipping in fifty pesos?"}
+      ]
+    },
+    {
+      "title": "Hedging and polite disagreement",
+      "explanation": "Filipino conversation values smoothness; flat contradiction sounds harsh. The toolkit:\n\nSoften your claims. Parang ('it seems / kind of'): Parang hindi tama ang presyo — the price seems off. Medyo ('somewhat'): Medyo mahal para sa akin. Marahil ('perhaps', formal) and your friend yata from Unit 5: Mali yata ang address na ibinigay nila. Sa totoo lang ('to be honest') warns that frankness is coming while staying friendly.\n\nAcknowledge before countering. The standard polite-disagreement shape is: acknowledgment + pero + your view. Naiintindihan ko ang punto mo, pero sa tingin ko mas mura pa rin ang bus. Tama ka na malayo ito, pero mas tahimik naman. Kung ako ang tatanungin ('if you ask me') politely marks what follows as just one voice in the room.\n\nDisagree with the idea, not the person. Hindi ako sang-ayon sa ganiyang paraan (I disagree with that approach) lands better than Mali ka (you're wrong). Add po/naman/lang to cushion: Medyo iba lang po ang tingin ko — my view is just a bit different. This is the register Filipinos actually use with coworkers, in-laws, and strangers online — blunt disagreement is reserved for close friends.",
+      "examples": [
+        {"tl": "Sa totoo lang, medyo mahal para sa akin ang tatlong libo.", "en": "Honestly, three thousand is a bit expensive for me."},
+        {"tl": "Naiintindihan ko ang punto mo, pero iba pa rin ang palagay ko.", "en": "I understand your point, but my opinion is still different."},
+        {"tl": "Kung ako ang tatanungin, mas praktikal ang second-hand na kotse.", "en": "If you ask me, a second-hand car is more practical."},
+        {"tl": "Pasensiya na, pero hindi ako sang-ayon sa ganiyang paraan.", "en": "Sorry, but I don't agree with that approach."},
+        {"tl": "Parang may mali sa computation — pakisuri nga ulit.", "en": "Something seems off in the computation — please check it again."}
+      ]
+    },
+    {
+      "title": "Building a small argument: reasons, examples, the other hand",
+      "explanation": "To hold your own in a discussion, you need the connective tissue between opinions.\n\nOrdering points: Una ('first'), pangalawa ('second'), at panghuli ('and lastly'). Una, mas mura ito. Pangalawa, mas malapit sa trabaho ko.\n\nGiving reasons and examples: you know kasi and dahil; add ang dahilan ay... ('the reason is...') and halimbawa ('for example'): Maraming benepisyo ang pag-eehersisyo. Halimbawa, mas nakakatulog ako nang maayos.\n\nWeighing both sides: sa isang banda... sa kabilang banda... ('on one hand... on the other hand...'): Sa isang banda, mas mataas ang sahod sa Maynila. Sa kabilang banda, mas mahal din ang upa. Conceding a point before your conclusion uses kahit or totoo na...: Totoo na malayo ito, pero sulit naman ang presyo — true, it's far, but the price is worth it.\n\nWrapping up: kaya naman ('which is why') or sa madaling salita ('in short'): Kaya naman, para sa akin, mas makatwiran ang umupa muna kaysa bumili agad.",
+      "examples": [
+        {"tl": "Una, malapit ito sa palengke. Pangalawa, mura ang upa.", "en": "First, it's near the market. Second, the rent is cheap."},
+        {"tl": "Maraming dahilan. Halimbawa, wala akong sasakyan.", "en": "There are many reasons. For example, I don't have a car."},
+        {"tl": "Sa isang banda, masaya sa lungsod. Sa kabilang banda, sobrang trapik.", "en": "On one hand, the city is fun. On the other hand, the traffic is terrible."},
+        {"tl": "Totoo na maliit ang kuwarto, pero malinis at ligtas ang lugar.", "en": "True, the room is small, but the area is clean and safe."},
+        {"tl": "Kaya naman, sa palagay ko, ito pa rin ang pinakamakatwirang pagpipilian.", "en": "Which is why, in my opinion, this is still the most reasonable choice."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "sa tingin ko", "en": "in my view, I think", "pos": "phrase", "example": {"tl": "Sa tingin ko, magaling ang bagong guro.", "en": "I think the new teacher is good."}},
+    {"tl": "sa palagay ko", "en": "in my opinion", "pos": "phrase", "example": {"tl": "Sa palagay ko, hindi tayo dapat magmadali.", "en": "In my opinion, we shouldn't rush."}},
+    {"tl": "para sa akin", "en": "for me, as far as I'm concerned", "pos": "phrase", "example": {"tl": "Para sa akin, mas mahalaga ang kalusugan kaysa sa pera.", "en": "For me, health matters more than money."}},
+    {"tl": "palagay", "en": "opinion, view", "pos": "noun", "example": {"tl": "Ano ang palagay ninyo sa mungkahi ko?", "en": "What is your opinion of my suggestion?"}},
+    {"tl": "opinyon", "en": "opinion", "pos": "noun", "example": {"tl": "Iba-iba ang opinyon ng mga tao tungkol dito.", "en": "People have different opinions about this."}},
+    {"tl": "sumang-ayon (um)", "en": "to agree", "pos": "verb", "note": "sumang-ayon, sumasang-ayon, sasang-ayon; target takes sa", "example": {"tl": "Sumang-ayon ang lahat sa bagong iskedyul.", "en": "Everyone agreed with the new schedule."}},
+    {"tl": "sang-ayon", "en": "in agreement", "pos": "adjective", "note": "Sang-ayon ako sa iyo = I agree with you", "example": {"tl": "Hindi ako sang-ayon sa desisyon nila.", "en": "I don't agree with their decision."}},
+    {"tl": "tumutol (um)", "en": "to object, oppose", "pos": "verb", "note": "tumutol, tumututol, tututol", "example": {"tl": "Tumutol ang mga kapitbahay sa pagsasara ng daan.", "en": "The neighbors objected to the closing of the road."}},
+    {"tl": "salungat", "en": "opposed, contrary", "pos": "adjective", "example": {"tl": "Salungat ang tatay ko sa planong iyon.", "en": "My father is against that plan."}},
+    {"tl": "pumayag (um)", "en": "to consent, agree to (a proposal)", "pos": "verb", "note": "pumayag, pumapayag, papayag; adjective form: payag", "example": {"tl": "Pumayag ang may-ari na ibaba ang upa.", "en": "The owner agreed to lower the rent."}},
+    {"tl": "punto", "en": "point (in an argument)", "pos": "noun", "note": "May punto ka = you have a point", "example": {"tl": "May punto ka, pero may nakalimutan kang detalye.", "en": "You have a point, but you forgot a detail."}},
+    {"tl": "maniwala (ma-)", "en": "to believe", "pos": "verb", "note": "naniwala, naniniwala, maniniwala", "example": {"tl": "Naniniwala akong magbabago pa siya.", "en": "I believe he will still change."}},
+    {"tl": "paniniwala", "en": "belief", "pos": "noun", "example": {"tl": "Iginagalang ko ang paniniwala mo kahit magkaiba tayo.", "en": "I respect your belief even though we differ."}},
+    {"tl": "ipaliwanag (i-)", "en": "to explain", "pos": "verb", "note": "ipinaliwanag, ipinapaliwanag, ipapaliwanag", "example": {"tl": "Ipaliwanag mo nga kung bakit ka tumutol.", "en": "Explain why you objected, would you."}},
+    {"tl": "pag-usapan (-an)", "en": "to discuss, talk about", "pos": "verb", "note": "pinag-usapan, pinag-uusapan, pag-uusapan", "example": {"tl": "Pag-usapan natin ito nang mahinahon.", "en": "Let's discuss this calmly."}},
+    {"tl": "talakayan", "en": "discussion", "pos": "noun", "example": {"tl": "Mainit ang talakayan tungkol sa bagong patakaran.", "en": "The discussion about the new policy is heated."}},
+    {"tl": "marahil", "en": "perhaps, probably (formal)", "pos": "adverb", "example": {"tl": "Marahil ay tama kayo, pero kailangan pa nating suriin.", "en": "Perhaps you are right, but we still need to examine it."}},
+    {"tl": "parang", "en": "it seems, kind of, like", "pos": "adverb", "note": "softens a claim: parang mali = seems wrong", "example": {"tl": "Parang masyadong maliit ang kuwartong ito para sa amin.", "en": "This room seems too small for us."}},
+    {"tl": "medyo", "en": "somewhat, a bit", "pos": "adverb", "example": {"tl": "Medyo mahal ang pagkain doon, pero masarap naman.", "en": "The food there is a bit pricey, but it's good."}},
+    {"tl": "sa totoo lang", "en": "to be honest, honestly", "pos": "phrase", "example": {"tl": "Sa totoo lang, hindi ko gusto ang kulay ng pintura.", "en": "Honestly, I don't like the color of the paint."}},
+    {"tl": "kung ako ang tatanungin", "en": "if you ask me", "pos": "phrase", "example": {"tl": "Kung ako ang tatanungin, dapat bukas na lang ang lakad.", "en": "If you ask me, the outing should just be tomorrow."}},
+    {"tl": "sa isang banda", "en": "on one hand", "pos": "phrase", "example": {"tl": "Sa isang banda, mas mura ang umupa kaysa bumili.", "en": "On one hand, renting is cheaper than buying."}},
+    {"tl": "sa kabilang banda", "en": "on the other hand", "pos": "phrase", "example": {"tl": "Sa kabilang banda, pag-aari mo ang bahay kapag bumili ka.", "en": "On the other hand, you own the house if you buy."}},
+    {"tl": "halimbawa", "en": "example; for example", "pos": "noun", "example": {"tl": "Magbigay ka nga ng halimbawa para maintindihan ko.", "en": "Give an example, would you, so I can understand."}},
+    {"tl": "dahilan", "en": "reason, cause", "pos": "noun", "example": {"tl": "Ano ang dahilan ng pagtutol mo?", "en": "What is the reason for your objection?"}},
+    {"tl": "mahalaga", "en": "important, valuable", "pos": "adjective", "example": {"tl": "Mahalagang marinig ang dalawang panig.", "en": "It's important to hear both sides."}},
+    {"tl": "makatwiran", "en": "reasonable, sensible", "pos": "adjective", "example": {"tl": "Makatwiran naman ang hinihingi nilang presyo.", "en": "The price they're asking is reasonable."}},
+    {"tl": "mungkahi", "en": "suggestion, proposal", "pos": "noun", "note": "magmungkahi = to suggest", "example": {"tl": "Magandang mungkahi iyan — pag-usapan natin bukas.", "en": "That's a good suggestion — let's discuss it tomorrow."}}
+  ],
+  "dialogue": {
+    "title": "Lungsod o probinsya?",
+    "context": "Coworkers Nora and Dan debate over lunch whether Dan should move back to the province.",
+    "lines": [
+      {"speaker": "Dan", "tl": "Nora, seryoso na ako. Sa tingin ko, uuwi na ako sa probinsya sa susunod na taon.", "en": "Nora, I'm serious now. I think I'm moving back to the province next year."},
+      {"speaker": "Nora", "tl": "Talaga? Bakit naman? Ang ganda ng trabaho mo rito.", "en": "Really? Why? You have a great job here."},
+      {"speaker": "Dan", "tl": "Una, sobrang mahal ng upa sa Maynila. Pangalawa, dalawang oras ang biyahe ko araw-araw.", "en": "First, rent in Manila is so expensive. Second, my commute is two hours every day."},
+      {"speaker": "Nora", "tl": "May punto ka. Pero sa kabilang banda, mas mababa rin ang sahod sa probinsya.", "en": "You have a point. But on the other hand, salaries in the province are lower too."},
+      {"speaker": "Dan", "tl": "Totoo iyan. Pero mas mababa rin ang gastos. Halimbawa, libre ang tirahan sa amin.", "en": "That's true. But expenses are lower too. For example, housing at home is free."},
+      {"speaker": "Nora", "tl": "Hmm, medyo sang-ayon ako diyan. Pero paano ang career mo?", "en": "Hmm, I somewhat agree with that. But what about your career?"},
+      {"speaker": "Dan", "tl": "Naniniwala akong puwede akong magtrabaho online. Marami nang ganoon ngayon.", "en": "I believe I can work online. There's a lot of that now."},
+      {"speaker": "Nora", "tl": "Naiintindihan ko ang punto mo, pero parang masyadong mabilis ang desisyon mo.", "en": "I understand your point, but your decision seems too fast."},
+      {"speaker": "Dan", "tl": "Hindi naman. Isang taon ko na itong pinag-iisipan, sa totoo lang.", "en": "Not really. I've been thinking about it for a year, to be honest."},
+      {"speaker": "Nora", "tl": "Ganoon ba? E di sige. Kung ako ang tatanungin, subukan mo muna nang anim na buwan.", "en": "Is that so? Well then. If you ask me, try it for six months first."},
+      {"speaker": "Dan", "tl": "Makatwiran iyan. Payag ako sa mungkahi mo.", "en": "That's reasonable. I agree to your suggestion."},
+      {"speaker": "Nora", "tl": "Ayos! Pero pag-usapan natin ulit bago mo sabihin kay Boss, ha?", "en": "Good! But let's talk it over again before you tell the boss, okay?"}
+    ]
+  },
+  "reading": {
+    "title": "Mas masaya ba sa probinsya?",
+    "tl": "Madalas pag-usapan ng magkakaibigan kung saan mas masaya ang buhay: sa lungsod o sa probinsya. Iba-iba ang opinyon, at pareho namang may punto ang dalawang panig.\n\nPara sa mga sang-ayon sa probinsya, simple ang dahilan: mas mura ang bilihin, mas sariwa ang hangin, at mas malapit ang pamilya. Sa isang banda, totoo ito — halimbawa, sa maraming bayan, wala kang babayarang upa dahil sa inyo ang bahay. Sa kabilang banda, sabi ng mga taga-lungsod, mas maraming trabaho at oportunidad sa Maynila. Naniniwala silang mahirap umasenso kung malayo ka sa mga kompanya at paaralan.\n\nSa totoo lang, marahil ay walang iisang tamang sagot. Kung ako ang tatanungin, nasa tao ang sagot: may taong panlungsod, at may taong panprobinsya. Ang mahalaga, makatwiran ang iyong desisyon at masaya ka sa pinili mo.",
+    "en": "Friends often discuss where life is happier: in the city or in the province. Opinions vary, and both sides have a point.\n\nFor those who favor the province, the reason is simple: goods are cheaper, the air is fresher, and family is closer. On one hand, this is true — for example, in many towns you pay no rent because your family owns the house. On the other hand, city dwellers say there are more jobs and opportunities in Manila. They believe it's hard to get ahead if you're far from the companies and schools.\n\nHonestly, perhaps there is no single right answer. If you ask me, the answer lies in the person: some people are city people, and some are province people. What matters is that your decision is reasonable and you're happy with your choice.",
+    "gloss": [
+      {"tl": "panig", "en": "side (of an argument)"},
+      {"tl": "bilihin", "en": "goods, things to buy"},
+      {"tl": "umasenso", "en": "to get ahead, prosper"},
+      {"tl": "oportunidad", "en": "opportunity"},
+      {"tl": "iisang", "en": "one single"},
+      {"tl": "panlungsod", "en": "suited for the city"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which opener frames your opinion as pure personal preference, not a claim about facts?", "choices": ["Sa tingin ko", "Sa palagay ko", "Para sa akin", "Naniniwala ako"], "answer": 2, "explain": "Para sa akin ('for me') openly marks the statement as personal taste, making it the gentlest opener."},
+    {"type": "fill", "prompt": "Ano ___ tingin mo sa bagong iskedyul? (What do you think of the new schedule?)", "answer": "sa", "accept": ["sa"], "hint": "The opinion frame uses a sa-phrase.", "explain": "The set frame is ano sa tingin mo — literally 'what in your view'."},
+    {"type": "mcq", "prompt": "Your friend proposes splitting the bill. You're fine with it. The natural reply is:", "choices": ["Sang-ayon ako sa iyo na tama ka.", "Payag ako!", "Salungat ako.", "Tumututol ako."], "answer": 1, "explain": "Payag is consent to a proposal or plan. Sang-ayon is for agreeing that a statement is true."},
+    {"type": "fill", "prompt": "Hindi ako ___ sa pagtataas ng presyo ng tiket. (I don't agree with the ticket price increase)", "answer": "sang-ayon", "accept": ["sang-ayon", "sangayon"], "hint": "The agreement word; its target takes sa.", "explain": "Disagreement with a decision or statement is hindi ako sang-ayon sa..."},
+    {"type": "mcq", "prompt": "Which is the most polite way to disagree with a coworker?", "choices": ["Mali ka.", "Hindi totoo iyan.", "Naiintindihan ko ang punto mo, pero medyo iba ang tingin ko.", "Ayoko sa opinyon mo."], "answer": 2, "explain": "The polite pattern acknowledges first, then counters softly: acknowledgment + pero + hedged view."},
+    {"type": "listen", "tl": "May punto ka, pero sa palagay ko, mas praktikal pa rin ang bus kaysa sa kotse.", "prompt": "What is the speaker doing?", "choices": ["Fully agreeing that cars are practical", "Conceding a point but maintaining that the bus is more practical", "Objecting to taking the bus", "Asking which is more practical"], "answer": 1, "explain": "May punto ka concedes; pero + sa palagay ko introduces the counter-view: the bus is still more practical."},
+    {"type": "translate", "direction": "en2tl", "prompt": "In my opinion, we shouldn't rush.", "answer": "Sa palagay ko, hindi tayo dapat magmadali.", "accept": ["Sa palagay ko, hindi tayo dapat magmadali", "Sa palagay ko hindi tayo dapat magmadali", "Sa tingin ko, hindi tayo dapat magmadali", "Sa tingin ko hindi dapat tayong magmadali"], "explain": "Opinion opener + dapat for 'should': hindi tayo dapat magmadali."},
+    {"type": "fill", "prompt": "Sa isang banda, mura ang upa. Sa ___ banda, malayo ito sa trabaho ko. (on the other hand)", "answer": "kabilang", "accept": ["kabilang"], "hint": "The pair of sa isang banda.", "explain": "Weighing both sides: sa isang banda... sa kabilang banda... — on one hand... on the other hand."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Kung ako ang tatanungin, subukan mo muna nang isang buwan bago ka magdesisyon.", "answer": "If you ask me, try it for a month first before you decide.", "accept": ["If you ask me, try it for a month first before you decide", "If you ask me, try it first for one month before deciding", "If I were asked, you should try it for a month first before deciding"], "explain": "Kung ako ang tatanungin politely marks personal advice; muna = first, bago = before."},
+    {"type": "mcq", "prompt": "'___ may mali sa bill natin — bakit ang laki?' Which hedge fits the gap best?", "choices": ["Parang", "Payag", "Salungat", "Halimbawa"], "answer": 0, "explain": "Parang softens the claim to 'it seems something's wrong' — the natural hedge before questioning a bill."},
+    {"type": "listen", "tl": "Tumutol ang mga residente sa pagsasara ng daan dahil doon dumadaan ang mga estudyante.", "prompt": "What happened?", "choices": ["The residents agreed to close the road for students", "The residents objected to the road closure because students pass there", "The students closed the road themselves", "The road was widened for the residents"], "answer": 1, "explain": "Tumutol = objected; sa pagsasara ng daan = to the closing of the road; dahil gives the reason — students pass through there."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I agree with you, but let's discuss it again tomorrow.", "answer": "Sang-ayon ako sa iyo, pero pag-usapan natin ulit bukas.", "accept": ["Sang-ayon ako sa iyo pero pag-usapan natin ulit bukas", "Sang-ayon ako sa iyo, pero pag-usapan ulit natin bukas", "Sang-ayon ako sa'yo pero pag-usapan natin ito ulit bukas"], "explain": "Sang-ayon ako sa iyo for agreement with a person; pag-usapan (-an focus) because the topic is definite."}
+  ]
+}

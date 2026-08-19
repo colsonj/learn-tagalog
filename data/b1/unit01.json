@@ -1,0 +1,134 @@
+{
+  "id": "b1-u01",
+  "title": "The focus system as a system",
+  "objectives": [
+    "See actor, object, locative and benefactive focus laid out side by side as one system",
+    "Say the same event in all four focuses and feel the difference in meaning",
+    "Choose the focus based on what is definite, known or emphasized",
+    "Handle the aspect forms of -in, -an and i- verbs confidently, including irregular-looking ones"
+  ],
+  "grammar": [
+    {
+      "title": "One event, four spotlights: the map of the system",
+      "explanation": "Everything you learned about mag-, -um-, -in and -an verbs in A2 was one system all along. A Tagalog sentence has exactly one ang-phrase, and the verb's affix tells you which role that ang-phrase plays. Think of the affix as a spotlight: the event is the same, but the spotlight lands on a different participant.\n\nActor focus (mag-, -um-, ma-): the spotlight is on the doer. Object focus (-in): the spotlight is on the thing acted on. Locative focus (-an): the spotlight is on a place, source, or the person on the receiving end. Benefactive/theme focus (i-): the spotlight is on the thing handed over or the person you do something for.\n\nEnglish does something similar with the passive ('The dog bit the man' vs 'The man was bitten by the dog') but Tagalog has four regular options instead of two, and uses them constantly. Choosing the focus is not optional decoration — it is how Tagalog signals what the sentence is about. The other participants do not disappear; they just get demoted to ng-phrases (doer or indefinite object) or sa-phrases (location, recipient).",
+      "examples": [
+        {"tl": "Bumili ang bata ng tinapay.", "en": "The child bought (some) bread. (spotlight: the child)"},
+        {"tl": "Binili ng bata ang tinapay.", "en": "The child bought the bread. (spotlight: the bread)"},
+        {"tl": "Binilhan ng bata ang panaderya.", "en": "The child bought (something) from the bakery. (spotlight: the bakery)"},
+        {"tl": "Ibinili ng bata ng tinapay ang lola.", "en": "The child bought bread for grandma. (spotlight: grandma)"}
+      ]
+    },
+    {
+      "title": "The same event in all four focuses",
+      "explanation": "Take one real-life event: Ana bought fish at the market for her mother. Every participant can take a turn under the spotlight.\n\nActor focus answers 'Who bought?': Bumili si Ana ng isda sa palengke para sa nanay niya. Here 'ng isda' is indefinite — some fish, fish in general.\n\nObject focus answers 'What did Ana buy?': Binili ni Ana ang isda sa palengke. Now the fish is 'the fish' — a specific one both speakers know about. Ana demotes to ni Ana.\n\nLocative focus answers 'Where did Ana buy / whom did she buy from?': Binilhan ni Ana ng isda ang palengke, or more naturally with a person, Binilhan ni Ana ng isda si Mang Tomas — she bought fish from Mang Tomas. With -an, the sa-phrase gets promoted to ang.\n\nBenefactive focus answers 'Who did Ana buy it for?': Ibinili ni Ana ng isda ang nanay niya — she bought fish for her mother.\n\nNotice what stays constant: the doer is ang in actor focus and ng everywhere else; the thing bought is ang in object focus and ng everywhere else. Only the spotlight moves. If you can transform one sentence through all four focuses, you own the core of Tagalog grammar.",
+      "examples": [
+        {"tl": "Bumili si Ana ng isda sa palengke para sa nanay niya.", "en": "Ana bought fish at the market for her mother."},
+        {"tl": "Binili ni Ana ang isda sa palengke.", "en": "Ana bought the fish at the market."},
+        {"tl": "Binilhan ni Ana ng isda si Mang Tomas.", "en": "Ana bought fish from Mang Tomas."},
+        {"tl": "Ibinili ni Ana ng isda ang nanay niya.", "en": "Ana bought fish for her mother."},
+        {"tl": "Sino ang bumili ng isda?", "en": "Who bought fish? (actor question, actor-focus answer)"},
+        {"tl": "Ano ang binili ni Ana?", "en": "What did Ana buy? (object question, object-focus answer)"}
+      ]
+    },
+    {
+      "title": "Choosing the focus: definiteness and emphasis",
+      "explanation": "The single most useful rule: the ang-phrase is definite — 'the', not 'a'. So when the object is specific and known, Tagalog strongly prefers object focus. 'I ate the adobo (that you cooked)' is Kinain ko ang adobo, not Kumain ako ng adobo, which means 'I ate (some) adobo'. In fact, a ng-object can never be definite, so 'Kumain ako ng adobo mo' for 'I ate your adobo' sounds off — a possessed object is definite, so you need Kinain ko ang adobo mo.\n\nSecond rule: questions and answers match focus. Ano ang...? and Sino ang...? put the questioned thing in the ang slot, so the verb must focus it: Ano ang niluto mo? — Niluto ko ang sinigang. Answering with the wrong focus sounds like answering a different question.\n\nThird rule: commands follow the same logic. Bumili ka ng gatas — buy (some) milk, any milk. Bilhin mo ang gatas — buy the milk (the one we talked about). Hugasan mo ang mga pinggan — the dishes are definite, so -an focus.\n\nWhen both readings are possible, Tagalog leans heavily toward the non-actor focuses in everyday speech; overusing actor focus is the classic learner accent. When in doubt and the object is 'the', go object focus.",
+      "examples": [
+        {"tl": "Kumain ako ng mangga.", "en": "I ate a mango / some mango."},
+        {"tl": "Kinain ko ang mangga.", "en": "I ate the mango."},
+        {"tl": "Ano ang binili mo? — Binili ko ang sapatos na ito.", "en": "What did you buy? — I bought these shoes."},
+        {"tl": "Bilhin mo ang gatas sa pinakamalapit na tindahan.", "en": "Buy the milk at the nearest store."},
+        {"tl": "Hugasan mo muna ang mga pinggan.", "en": "Wash the dishes first."},
+        {"tl": "Isara mo ang pinto, malamig na.", "en": "Close the door, it's cold already."}
+      ]
+    },
+    {
+      "title": "Aspect across the focuses, plus ma- actor verbs",
+      "explanation": "You already know the aspect patterns from A2; here is the whole table in one place so you can generate any form.\n\n-in verbs: completed puts -in- after the first consonant (binili), incompleted adds syllable doubling (binibili), contemplated doubles and keeps the -in suffix (bibilhin). Note the suffix often shortens the root: bili + hin = bilhin, dala + hin = dalhin. Roots starting with l or w often use ni- instead of the infix: niluto, niluluto, lulutuin.\n\n-an verbs work the same but keep -an in every form: hinugasan, hinuhugasan, huhugasan; binilhan, binibilhan, bibilhan.\n\ni- verbs keep i- up front: ibinigay, ibinibigay, ibibigay; isinara, isinasara, isasara.\n\nFinally, meet ma- actor-focus verbs — a small but very common family: matulog (sleep), maligo (bathe), maupo (sit), matakot (be afraid). They conjugate na-/na+doubling/ma+doubling: natulog, natutulog, matutulog. Don't confuse this actor ma- with other ma- meanings you'll meet in the next unit; for now, just learn these as everyday actor verbs.",
+      "examples": [
+        {"tl": "Niluto niya ang hapunan kagabi.", "en": "She cooked the dinner last night."},
+        {"tl": "Lulutuin ko ang adobo bukas.", "en": "I will cook the adobo tomorrow."},
+        {"tl": "Binibilhan namin ng gulay si Aling Nena tuwing Sabado.", "en": "We buy vegetables from Aling Nena every Saturday."},
+        {"tl": "Ibinibigay niya ang lumang damit sa mga kapitbahay.", "en": "She gives the old clothes to the neighbors."},
+        {"tl": "Natutulog pa ang sanggol.", "en": "The baby is still sleeping."},
+        {"tl": "Maliligo muna ako bago tayo umalis.", "en": "I'll take a bath first before we leave."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "bumili (um)", "en": "to buy (actor focus)", "pos": "verb", "note": "bumili, bumibili, bibili", "example": {"tl": "Bumili kami ng prutas sa palengke.", "en": "We bought fruit at the market."}},
+    {"tl": "bilhin (-in)", "en": "to buy (object focus)", "pos": "verb", "note": "binili, binibili, bibilhin; root shortens: bili + hin = bilhin", "example": {"tl": "Bibilhin ko ang cellphone na iyon sa susunod na buwan.", "en": "I will buy that cellphone next month."}},
+    {"tl": "bilhan (-an)", "en": "to buy from (locative focus)", "pos": "verb", "note": "binilhan, binibilhan, bibilhan", "example": {"tl": "Binilhan ko ng saging ang tindahan sa kanto.", "en": "I bought bananas from the corner store."}},
+    {"tl": "ibili (i-)", "en": "to buy for someone (benefactive focus)", "pos": "verb", "note": "ibinili, ibinibili, ibibili", "example": {"tl": "Ibinili niya ng bagong sapatos ang anak niya.", "en": "She bought new shoes for her child."}},
+    {"tl": "lutuin (-in)", "en": "to cook (object focus)", "pos": "verb", "note": "niluto, niluluto, lulutuin", "example": {"tl": "Niluto ni Tatay ang sinigang na hinihingi mo.", "en": "Dad cooked the sinigang you were asking for."}},
+    {"tl": "hugasan (-an)", "en": "to wash (dishes, hands)", "pos": "verb", "note": "hinugasan, hinuhugasan, huhugasan", "example": {"tl": "Hugasan mo ang mga kamay mo bago kumain.", "en": "Wash your hands before eating."}},
+    {"tl": "buksan (-an)", "en": "to open", "pos": "verb", "note": "binuksan, binubuksan, bubuksan", "example": {"tl": "Buksan mo ang bintana, mainit dito.", "en": "Open the window, it's hot in here."}},
+    {"tl": "isara (i-)", "en": "to close", "pos": "verb", "note": "isinara, isinasara, isasara", "example": {"tl": "Isinara na ng guwardiya ang gate.", "en": "The guard already closed the gate."}},
+    {"tl": "ibigay (i-)", "en": "to give", "pos": "verb", "note": "ibinigay, ibinibigay, ibibigay", "example": {"tl": "Ibinigay ko na ang susi sa may-ari.", "en": "I already gave the key to the owner."}},
+    {"tl": "isulat (i-)", "en": "to write down", "pos": "verb", "note": "isinulat, isinusulat, isusulat", "example": {"tl": "Isulat mo ang pangalan mo dito.", "en": "Write your name here."}},
+    {"tl": "dalhin (-in)", "en": "to bring, carry (object focus)", "pos": "verb", "note": "dinala, dinadala, dadalhin; root shortens: dala + hin = dalhin", "example": {"tl": "Dalhin mo ang payong, mukhang uulan.", "en": "Bring the umbrella, it looks like rain."}},
+    {"tl": "hiwain (-in)", "en": "to slice, cut", "pos": "verb", "note": "hiniwa, hinihiwa, hihiwain", "example": {"tl": "Hiniwa niya nang manipis ang sibuyas.", "en": "He sliced the onion thinly."}},
+    {"tl": "linisin (-in)", "en": "to clean (object focus)", "pos": "verb", "note": "nilinis, nililinis, lilinisin", "example": {"tl": "Lilinisin namin ang buong bahay sa Sabado.", "en": "We will clean the whole house on Saturday."}},
+    {"tl": "matulog (ma-)", "en": "to sleep", "pos": "verb", "note": "natulog, natutulog, matutulog", "example": {"tl": "Natulog ako nang maaga kagabi.", "en": "I slept early last night."}},
+    {"tl": "maligo (ma-)", "en": "to bathe, take a shower", "pos": "verb", "note": "naligo, naliligo, maliligo", "example": {"tl": "Naliligo siya tuwing umaga bago magtrabaho.", "en": "She showers every morning before work."}},
+    {"tl": "maupo (ma-)", "en": "to sit down", "pos": "verb", "note": "naupo, nauupo, mauupo", "example": {"tl": "Maupo po kayo habang naghihintay.", "en": "Please have a seat while waiting."}},
+    {"tl": "suki", "en": "regular customer; favorite vendor", "pos": "noun", "note": "works both ways: the vendor and the loyal customer call each other suki", "example": {"tl": "Suki ako ni Mang Tomas, kaya mura ang bigay niya sa akin.", "en": "I'm Mang Tomas's regular, so he gives me a low price."}},
+    {"tl": "sariwa", "en": "fresh", "pos": "adjective", "example": {"tl": "Mas sariwa ang isda sa palengke kaysa sa grocery.", "en": "The fish at the market is fresher than at the grocery."}},
+    {"tl": "sangkap", "en": "ingredient", "pos": "noun", "example": {"tl": "Kumpleto na ang mga sangkap para sa adobo.", "en": "The ingredients for the adobo are complete."}},
+    {"tl": "sukli", "en": "change (money returned)", "pos": "noun", "example": {"tl": "Kinuha mo ba ang sukli mo?", "en": "Did you take your change?"}},
+    {"tl": "presyo", "en": "price", "pos": "noun", "example": {"tl": "Tumaas na naman ang presyo ng bigas.", "en": "The price of rice went up again."}},
+    {"tl": "puwesto", "en": "stall, spot (in a market)", "pos": "noun", "example": {"tl": "Nasa dulo ang puwesto ng suki kong tindera.", "en": "My favorite vendor's stall is at the end."}},
+    {"tl": "panaderya", "en": "bakery", "pos": "noun", "example": {"tl": "Binilhan ko ng pandesal ang panaderya sa tapat.", "en": "I bought pandesal from the bakery across the street."}},
+    {"tl": "kaldero", "en": "cooking pot", "pos": "noun", "example": {"tl": "Hugasan mo ang kaldero pagkatapos magluto.", "en": "Wash the pot after cooking."}},
+    {"tl": "pinggan", "en": "plate, dish", "pos": "noun", "example": {"tl": "Nasa lababo pa ang maruruming pinggan.", "en": "The dirty dishes are still in the sink."}},
+    {"tl": "pangungusap", "en": "sentence", "pos": "noun", "example": {"tl": "Basahin mo nang malakas ang buong pangungusap.", "en": "Read the whole sentence out loud."}},
+    {"tl": "kahulugan", "en": "meaning", "pos": "noun", "example": {"tl": "Iba ang kahulugan ng dalawang pangungusap na iyan.", "en": "Those two sentences have different meanings."}},
+    {"tl": "tiyak", "en": "definite, certain, specific", "pos": "adjective", "example": {"tl": "Kapag tiyak ang bagay, gamitin mo ang object focus.", "en": "When the thing is specific, use the object focus."}}
+  ],
+  "dialogue": {
+    "title": "Sa palengke",
+    "context": "Ana takes her friend Ben, a foreigner learning Tagalog, on his first trip to the wet market.",
+    "lines": [
+      {"speaker": "Ana", "tl": "Dito tayo bibili ng isda. Suki ko ang may-ari ng puwestong iyan.", "en": "We'll buy fish here. The owner of that stall is my suki."},
+      {"speaker": "Ben", "tl": "Ano ang bibilhin natin, ang tilapia o ang bangus?", "en": "What are we buying, the tilapia or the milkfish?"},
+      {"speaker": "Ana", "tl": "Bilhin natin ang bangus. Mas sariwa iyan ngayong umaga.", "en": "Let's buy the milkfish. It's fresher this morning."},
+      {"speaker": "Mang Tomas", "tl": "Ana! Bumili ka ulit ng bangus? Magaganda ang dating ngayon.", "en": "Ana! Buying milkfish again? Today's arrivals are beautiful."},
+      {"speaker": "Ana", "tl": "Opo, Mang Tomas. Ibibili ko rin po ng hipon ang nanay ko.", "en": "Yes, Mang Tomas. I'll also buy shrimp for my mom."},
+      {"speaker": "Mang Tomas", "tl": "Sige, itimbang ko na. Heto ang sukli mo.", "en": "Sure, let me weigh it. Here's your change."},
+      {"speaker": "Ben", "tl": "Ana, bakit 'binilhan' ang sabi mo kanina, hindi 'binili'?", "en": "Ana, why did you say 'binilhan' earlier, not 'binili'?"},
+      {"speaker": "Ana", "tl": "Magkaiba ang kahulugan. Binili ko ang isda, pero binilhan ko si Mang Tomas.", "en": "They mean different things. I bought the fish, but I bought from Mang Tomas."},
+      {"speaker": "Ben", "tl": "Ah, iba ang naka-focus sa bawat pangungusap!", "en": "Ah, a different thing is in focus in each sentence!"},
+      {"speaker": "Ana", "tl": "Tama. Tapos kapag para sa ibang tao, 'ibinili'. Ibinili kita ng turon, o.", "en": "Right. And when it's for someone else, 'ibinili'. Look, I bought you a turon."},
+      {"speaker": "Ben", "tl": "Salamat! Sige, uuwi na tayo? Luluto na ba natin ang bangus?", "en": "Thanks! Okay, shall we head home? Are we cooking the milkfish now?"},
+      {"speaker": "Ana", "tl": "Oo. Ikaw ang maghuhugas ng mga sangkap, ako ang magluluto.", "en": "Yes. You'll wash the ingredients, I'll do the cooking."}
+    ]
+  },
+  "reading": {
+    "title": "Ang Sabado ni Aling Rosa",
+    "tl": "Tuwing Sabado, pumupunta si Aling Rosa sa palengke. Bumibili siya ng gulay, isda, at karne para sa buong linggo. Kaninang umaga, binili niya ang pinakasariwang bangus sa puwesto ni Mang Tomas. Suki niya ito, kaya laging tama ang sukli at may kaunting dagdag pa. Binilhan din niya ng prutas ang bagong tindahan sa kanto dahil mura raw doon ang presyo. Bago umuwi, ibinili niya ng tsokolate ang kaniyang apo dahil kaarawan nito bukas.\n\nPag-uwi, nagluto si Aling Rosa ng sinigang. Hinugasan muna niya ang mga gulay, saka hiniwa ang karne. Habang niluluto niya ang ulam, inayos naman ng kaniyang anak ang mesa at hinugasan ang mga pinggan. Masaya ang hapunan nila dahil kumpleto ang pamilya.",
+    "en": "Every Saturday, Aling Rosa goes to the market. She buys vegetables, fish, and meat for the whole week. This morning, she bought the freshest milkfish at Mang Tomas's stall. She is his regular customer, so the change is always right and there's even a little extra. She also bought fruit from the new store on the corner because they say the prices there are cheap. Before going home, she bought chocolate for her grandchild because it's the child's birthday tomorrow.\n\nWhen she got home, Aling Rosa cooked sinigang. First she washed the vegetables, then sliced the meat. While she was cooking the dish, her child set the table and washed the plates. Their dinner was a happy one because the family was complete.",
+    "gloss": [
+      {"tl": "dagdag", "en": "extra, addition"},
+      {"tl": "kanto", "en": "street corner"},
+      {"tl": "apo", "en": "grandchild"},
+      {"tl": "kaarawan", "en": "birthday"},
+      {"tl": "saka", "en": "and then"},
+      {"tl": "inayos", "en": "arranged, set up (from ayusin)"},
+      {"tl": "ulam", "en": "main dish (eaten with rice)"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "In 'Binili ng bata ang tinapay', which participant is under the spotlight (in focus)?", "choices": ["the child", "the bread", "the bakery", "the buying"], "answer": 1, "explain": "The -in verb binili puts the object in the ang slot: ang tinapay is the focused, definite element."},
+    {"type": "mcq", "prompt": "You want to say 'I ate the adobo' (a specific adobo you both know about). Which is correct?", "choices": ["Kumain ako ng adobo.", "Kinain ko ang adobo.", "Kumain ako ang adobo.", "Kinain ako ng adobo."], "answer": 1, "explain": "A definite object ('the adobo') goes in the ang slot, which requires the object-focus verb kinain. Kumain ako ng adobo means 'I ate some adobo'."},
+    {"type": "fill", "prompt": "Sino ang ___ ng isda? (Who bought fish? — use the actor-focus completed form of bili)", "answer": "bumili", "accept": ["bumili"], "hint": "Sino ang...? asks about the actor, so the verb must be actor focus.", "explain": "Sino ang...? puts the actor in the ang slot, so the verb must be actor focus: bumili."},
+    {"type": "fill", "prompt": "Ano ang ___ mo sa palengke? (What did you buy at the market?)", "answer": "binili", "accept": ["binili"], "hint": "Ano ang...? asks about the object.", "explain": "Ano ang...? puts the object in the ang slot, so the verb must be object focus: binili."},
+    {"type": "mcq", "prompt": "'Binilhan ni Ana ng isda si Mang Tomas.' What does this sentence say?", "choices": ["Ana bought Mang Tomas's fish.", "Ana bought fish for Mang Tomas.", "Ana bought fish from Mang Tomas.", "Mang Tomas bought fish from Ana."], "answer": 2, "explain": "The -an verb binilhan focuses the source: si Mang Tomas is the person Ana bought from. 'For Mang Tomas' would be ibinili."},
+    {"type": "listen", "tl": "Ibinili ko ng bagong sapatos ang kapatid ko.", "prompt": "What did the speaker do?", "choices": ["Bought new shoes for their sibling", "Bought new shoes from their sibling", "Borrowed their sibling's new shoes", "Sold their sibling's shoes"], "answer": 0, "explain": "Ibinili is the benefactive focus of bili: the focused ang-phrase (ang kapatid ko) is the person the shoes were bought for."},
+    {"type": "fill", "prompt": "___ mo ang mga pinggan pagkatapos kumain. (Wash the dishes after eating — command form)", "answer": "hugasan", "accept": ["hugasan"], "hint": "The dishes are definite, so use the -an verb's base form.", "explain": "Commands with a definite object use the non-actor focus infinitive: Hugasan mo ang mga pinggan."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I will cook the adobo tomorrow.", "answer": "Lulutuin ko ang adobo bukas.", "accept": ["Lulutuin ko ang adobo bukas", "Lulutuin ko bukas ang adobo", "Bukas ko lulutuin ang adobo"], "explain": "'The adobo' is definite, so object focus; contemplated aspect of lutuin is lulutuin (doubling + -in suffix)."},
+    {"type": "mcq", "prompt": "Which sentence sounds wrong to a native speaker?", "choices": ["Kinain ko ang mansanas mo.", "Kumain ako ng mansanas.", "Kumain ako ng mansanas mo.", "Kakainin ko ang mansanas na ito."], "answer": 2, "explain": "A possessed object (mansanas mo, 'your apple') is definite, and a ng-object cannot be definite — so it must be Kinain ko ang mansanas mo."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Binilhan ko ng pandesal ang panaderya sa kanto.", "answer": "I bought pandesal from the bakery on the corner.", "accept": ["I bought pandesal from the bakery on the corner", "I bought bread from the bakery on the corner", "I bought pandesal at the bakery on the corner", "I bought some pandesal from the corner bakery"], "explain": "Binilhan (locative focus) promotes the source — the bakery — to the ang slot; the pandesal stays indefinite as a ng-phrase."},
+    {"type": "listen", "tl": "Isinara na ng guwardiya ang gate kaya doon tayo sa likod dumaan.", "prompt": "What happened?", "choices": ["The guard opened the gate for us", "The guard already closed the gate, so we'll go through the back", "The guard is closing the back gate", "We asked the guard to open the gate"], "answer": 1, "explain": "Isinara (i- verb, completed) plus na means the gate is already closed; kaya introduces the consequence — going around the back."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Ana bought fish for her mother. (use the benefactive focus)", "answer": "Ibinili ni Ana ng isda ang nanay niya.", "accept": ["Ibinili ni Ana ng isda ang nanay niya", "Ibinili ni Ana ang nanay niya ng isda", "Ibinili ng isda ni Ana ang nanay niya", "Ibinili ni Ana ng isda ang kanyang nanay", "Ibinili ni Ana ng isda ang kaniyang nanay"], "explain": "The beneficiary (her mother) takes the ang slot with i- focus: ibinili. Ana demotes to ni Ana and the fish to ng isda."}
+  ]
+}

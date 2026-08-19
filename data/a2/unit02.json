@@ -1,0 +1,106 @@
+{
+  "id": "a2-u02",
+  "title": "One event, two ways: object-focus -in verbs",
+  "objectives": [
+    "Understand what the Tagalog focus system does",
+    "Say the same event with actor focus (kumain ako ng...) and object focus (kinain ko ang...)",
+    "Form the three aspects of -in verbs: kinain, kinakain, kakainin",
+    "Choose object focus when the object is specific or definite"
+  ],
+  "grammar": [
+    {
+      "title": "What 'focus' means: the same event, two ways",
+      "explanation": "In A1 every verb sentence you built put the doer in the ang-slot: 'Kumain ako ng mansanas' — I ate an apple. That is called ACTOR FOCUS: the ang-phrase (ako) is the actor.\n\nTagalog can describe the exact same event with the roles re-marked. Compare:\n\nKumain ako ng mansanas. (actor focus) — I ate an apple.\nKinain ko ang mansanas. (object focus) — I ate the apple.\n\nSame eater, same apple, same eating. What changed is which participant sits in the ang-slot. In the second sentence the OBJECT (ang mansanas) is focused, so the actor drops to its ng-form (ko). The verb changes shape to signal this: kumain (actor focus) vs kinain (object focus).\n\nThis is the single most important idea in Tagalog grammar: the markers do not mean subject and object the way English word order does. Ang marks whichever participant the verb's affix points to; everyone else takes ng or sa. Learn to see 'Kinain ko ang mansanas' not as backwards, but as spotlighting the apple.",
+      "examples": [
+        {"tl": "Bumasa si Ana ng libro.", "en": "Ana read a book. (actor focus)"},
+        {"tl": "Binasa ni Ana ang libro.", "en": "Ana read the book. (object focus — same event)"},
+        {"tl": "Uminom ako ng kape.", "en": "I drank some coffee. (actor focus)"},
+        {"tl": "Ininom ko ang kape.", "en": "I drank the coffee. (object focus — same event)"}
+      ]
+    },
+    {
+      "title": "Forming -in verbs in the three aspects",
+      "explanation": "Object-focus verbs in this unit use the suffix -in. The citation (dictionary/contemplated-like) form is root + -in: kain + in = kainin, basa + hin = basahin (roots ending in a vowel add h). But in the completed and incompleted aspects, -in disappears and the infix -in- appears near the front instead:\n\nCompleted: kinain (ate), binasa (read), ininom (drank), niluto (cooked — roots starting in l use ni- instead of -in-).\nIncompleted: repeat the first syllable of the root inside: kinakain, binabasa, iniinom, niluluto.\nContemplated: repeat the first syllable and keep -in: kakainin, babasahin, iinumin, lulutuin.\n\nNotice inumin and lutuin: the root vowel changes (inom to inum-, luto to lutu-) before -in. Gawin (do/make) is slightly irregular: ginawa, ginagawa, gagawin — no -in in the first two.\n\nThe actor in these sentences always takes the ng-form: ko, mo, niya, ni Ana. A very common mistake is 'Kinain ako...' — that says the apple ate you! Keep the doer in ng-form: Kinain KO.",
+      "examples": [
+        {"tl": "Niluto ni Nanay ang adobo kahapon.", "en": "Mom cooked the adobo yesterday."},
+        {"tl": "Binabasa niya ang balita tuwing umaga.", "en": "He reads the news every morning."},
+        {"tl": "Iinumin ko ang gamot mamaya.", "en": "I will drink/take the medicine later."},
+        {"tl": "Ano ang ginagawa mo? — Ginagawa ko ang proyekto.", "en": "What are you doing? — I'm doing the project."}
+      ]
+    },
+    {
+      "title": "When Tagalog speakers prefer object focus",
+      "explanation": "If both versions describe the same event, when do you use which? The core rule: the ang-phrase is understood as SPECIFIC — 'the one we both know about'. So:\n\nUse ACTOR focus when the object is indefinite or unimportant: 'Bumili ako ng saging' — I bought some bananas (any bananas). Also when there is no object at all: 'Kumain na ako.'\n\nUse OBJECT focus when the object is definite or already known: 'Binili ko ang saging' — I bought the bananas (the ones we discussed). Because everyday life is full of specific things — the food on the table, the phone you lost, the homework you were assigned — object focus is extremely common in real speech, often more common than actor focus.\n\nQuestions about things also pull toward object focus: 'Ano ang ginawa mo?' (What did you do?), 'Saan mo binili iyan?' (Where did you buy that?). Notice in that last one the actor mo comes before the verb's object — after question words like saan and kailan, the little ng-pronoun jumps forward.",
+      "examples": [
+        {"tl": "Bumili ako ng tinapay. / Binili ko ang tinapay.", "en": "I bought some bread. / I bought the bread (the specific bread)."},
+        {"tl": "Ano ang kinain mo sa almusal?", "en": "What did you eat for breakfast?"},
+        {"tl": "Saan mo binili ang sapatos na iyan?", "en": "Where did you buy those shoes?"},
+        {"tl": "Nasaan ang cake? — Ay, kinain ko!", "en": "Where's the cake? — Oops, I ate it!"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "kainin (-in)", "en": "to eat (something)", "pos": "verb", "note": "kinain, kinakain, kakainin; object-focus partner of kumain", "example": {"tl": "Kinain ng aso ang tinapay ko!", "en": "The dog ate my bread!"}},
+    {"tl": "inumin (-in)", "en": "to drink (something)", "pos": "verb", "note": "ininom, iniinom, iinumin; partner of uminom", "example": {"tl": "Ininom niya ang buong kape.", "en": "He drank the whole coffee."}},
+    {"tl": "gawin (-in)", "en": "to do, to make (something)", "pos": "verb", "note": "irregular: ginawa, ginagawa, gagawin", "example": {"tl": "Ano ang ginagawa mo diyan?", "en": "What are you doing there?"}},
+    {"tl": "basahin (-in)", "en": "to read (something)", "pos": "verb", "note": "binasa, binabasa, babasahin; partner of bumasa", "example": {"tl": "Babasahin ko ang librong ito mamaya.", "en": "I'll read this book later."}},
+    {"tl": "lutuin (-in)", "en": "to cook (something)", "pos": "verb", "note": "niluto, niniluto/niluluto, lulutuin; l-roots take ni-", "example": {"tl": "Niluto ni Tatay ang sinigang.", "en": "Dad cooked the sinigang."}},
+    {"tl": "bilhin (-in)", "en": "to buy (something)", "pos": "verb", "note": "binili, binibili, bibilhin; partner of bumili", "example": {"tl": "Binili ko ang bagong cellphone.", "en": "I bought the new cellphone."}},
+    {"tl": "linisin (-in)", "en": "to clean (something)", "pos": "verb", "note": "nilinis, nililinis, lilinisin", "example": {"tl": "Nililinis ko ang kuwarto ko tuwing Sabado.", "en": "I clean my room every Saturday."}},
+    {"tl": "hanapin (-in)", "en": "to look for (something)", "pos": "verb", "note": "hinanap, hinahanap, hahanapin", "example": {"tl": "Hinahanap kita kanina!", "en": "I was looking for you earlier!"}},
+    {"tl": "gamitin (-in)", "en": "to use (something)", "pos": "verb", "note": "ginamit, ginagamit, gagamitin", "example": {"tl": "Ginamit ko ang computer mo. Sorry!", "en": "I used your computer. Sorry!"}},
+    {"tl": "dalhin (-in)", "en": "to bring/take (something)", "pos": "verb", "note": "dinala, dinadala, dadalhin", "example": {"tl": "Dalhin mo ang payong. Uulan yata.", "en": "Bring the umbrella. It might rain."}},
+    {"tl": "tapusin (-in)", "en": "to finish (something)", "pos": "verb", "note": "tinapos, tinatapos, tatapusin", "example": {"tl": "Tatapusin ko muna ang trabaho ko.", "en": "I'll finish my work first."}},
+    {"tl": "sabihin (-in)", "en": "to say (something)", "pos": "verb", "note": "sinabi, sinasabi, sasabihin", "example": {"tl": "Ano ang sinabi niya sa iyo?", "en": "What did he say to you?"}},
+    {"tl": "hintayin (-in)", "en": "to wait for (someone/something)", "pos": "verb", "note": "hinintay, hinihintay, hihintayin", "example": {"tl": "Hinihintay ka ni Ana sa labas.", "en": "Ana is waiting for you outside."}},
+    {"tl": "buong", "en": "whole, entire", "pos": "adjective", "note": "from buo + linker", "example": {"tl": "Kinain niya ang buong pizza.", "en": "He ate the whole pizza."}},
+    {"tl": "proyekto", "en": "project", "pos": "noun", "example": {"tl": "Tinatapos namin ang proyekto sa opisina.", "en": "We're finishing the project at the office."}},
+    {"tl": "takdang-aralin", "en": "homework", "pos": "noun", "note": "often just 'assignment' in speech", "example": {"tl": "Ginawa mo na ba ang takdang-aralin mo?", "en": "Have you done your homework?"}},
+    {"tl": "balita", "en": "news", "pos": "noun", "example": {"tl": "Binabasa ni Lolo ang balita araw-araw.", "en": "Grandpa reads the news every day."}},
+    {"tl": "kuwento", "en": "story", "pos": "noun", "example": {"tl": "Maganda ang kuwentong binasa namin.", "en": "The story we read was good."}},
+    {"tl": "gamot", "en": "medicine", "pos": "noun", "example": {"tl": "Ininom mo na ba ang gamot mo?", "en": "Have you taken your medicine?"}},
+    {"tl": "sinigang", "en": "sinigang (sour tamarind soup)", "pos": "noun", "example": {"tl": "Paborito kong ulam ang sinigang.", "en": "Sinigang is my favorite dish."}},
+    {"tl": "ulam", "en": "main dish (eaten with rice)", "pos": "noun", "example": {"tl": "Ano ang ulam natin ngayong gabi?", "en": "What's our dish tonight?"}},
+    {"tl": "kanin", "en": "cooked rice", "pos": "noun", "example": {"tl": "Ubos na ang kanin. Magluto ka pa.", "en": "The rice is all gone. Cook some more."}},
+    {"tl": "pinggan", "en": "plate, dish", "pos": "noun", "note": "hugasan ang mga pinggan = wash the dishes", "example": {"tl": "Nasa mesa na ang mga pinggan.", "en": "The plates are on the table."}},
+    {"tl": "kusina", "en": "kitchen", "pos": "noun", "example": {"tl": "Nasa kusina si Nanay. Nagluluto siya.", "en": "Mom is in the kitchen. She's cooking."}},
+    {"tl": "susi", "en": "key", "pos": "noun", "example": {"tl": "Hinahanap ko ang susi ng kotse.", "en": "I'm looking for the car key."}},
+    {"tl": "kanina", "en": "earlier (today)", "pos": "adverb", "example": {"tl": "Kinain ko ang mangga kanina.", "en": "I ate the mango earlier."}},
+    {"tl": "mamaya", "en": "later (today)", "pos": "adverb", "example": {"tl": "Gagawin ko iyan mamaya.", "en": "I'll do that later."}},
+    {"tl": "muna", "en": "first, for now", "pos": "particle", "note": "follows the first word of the sentence", "example": {"tl": "Tatapusin ko muna ito.", "en": "I'll finish this first."}}
+  ],
+  "dialogue": {
+    "title": "Who ate the leftovers?",
+    "context": "Siblings Jopay and Marvin are in the kitchen in the evening. Jopay is looking for the food she left in the fridge.",
+    "lines": [
+      {"speaker": "Jopay", "tl": "Marvin, nasaan ang adobo? Hinahanap ko sa ref.", "en": "Marvin, where's the adobo? I'm looking for it in the fridge."},
+      {"speaker": "Marvin", "tl": "Ay... kinain ko kanina. Sorry!", "en": "Uh... I ate it earlier. Sorry!"},
+      {"speaker": "Jopay", "tl": "Ano?! Kinain mo ang buong adobo?", "en": "What?! You ate the whole adobo?"},
+      {"speaker": "Marvin", "tl": "Oo, at ininom ko rin ang juice mo. Gutom na gutom ako pagkagaling sa trabaho.", "en": "Yes, and I also drank your juice. I was starving after work."},
+      {"speaker": "Jopay", "tl": "Naku! Ano na ang kakainin ko ngayong gabi?", "en": "Oh no! What am I going to eat tonight?"},
+      {"speaker": "Marvin", "tl": "Huwag kang magalit. Magluluto ako ng sinigang para sa iyo.", "en": "Don't be mad. I'll cook sinigang for you."},
+      {"speaker": "Jopay", "tl": "Talaga? Sige. Lutuin mo na, gutom na ako.", "en": "Really? Okay. Cook it now, I'm hungry."},
+      {"speaker": "Marvin", "tl": "Hinahanap ko ang malaking kaldero. Nasaan ba?", "en": "I'm looking for the big pot. Where is it?"},
+      {"speaker": "Jopay", "tl": "Nasa ilalim ng lababo. Ginamit ko kahapon.", "en": "Under the sink. I used it yesterday."},
+      {"speaker": "Marvin", "tl": "Ah, eto. O, hintayin mo lang, mga isang oras.", "en": "Ah, here it is. Okay, just wait, about an hour."},
+      {"speaker": "Jopay", "tl": "Sige. Babasahin ko muna ang libro ko sa sala.", "en": "Okay. I'll read my book in the living room first."},
+      {"speaker": "Marvin", "tl": "Tatawagin kita kapag luto na.", "en": "I'll call you when it's cooked."}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "'Kumain ako ng mansanas' and 'Kinain ko ang mansanas' describe...", "choices": ["two different events", "the same event, with a different participant in the ang-slot", "past vs future versions of the event", "a polite and an impolite version"], "answer": 1, "explain": "Both mean I ate the apple/an apple. Focus changes which participant ang marks, not what happened."},
+    {"type": "mcq", "prompt": "In 'Binasa ni Ana ang libro', which phrase is in the focus (ang) slot?", "choices": ["Ana", "the book", "the reading", "none"], "answer": 1, "explain": "Binasa is object focus, so the object (ang libro) takes ang and the actor Ana drops to ni Ana."},
+    {"type": "fill", "prompt": "Kinain ___ ang tinapay. (I ate the bread.)", "answer": "ko", "accept": ["ko"], "hint": "In object focus the actor takes the ng-form.", "explain": "With an object-focus verb the actor must be in ng-form: ko, not ako. 'Kinain ako' would mean the bread ate me."},
+    {"type": "mcq", "prompt": "Which is the completed (past) object-focus form of inumin?", "choices": ["iinumin", "iniinom", "ininom", "uminom"], "answer": 2, "explain": "Ininom is completed (drank). Iniinom is incompleted, iinumin is contemplated, and uminom is the actor-focus verb."},
+    {"type": "fill", "prompt": "___ ni Nanay ang sinigang kahapon. (Mom cooked the sinigang yesterday.)", "answer": "Niluto", "accept": ["niluto", "Niluto"], "hint": "Roots that start with l take ni- in the completed aspect.", "explain": "Lutuin has completed form niluto: roots beginning with l (and some others) take ni- instead of the -in- infix."},
+    {"type": "mcq", "prompt": "You bought a specific phone you and your friend talked about yesterday. Which sounds most natural?", "choices": ["Bumili ako ng cellphone.", "Binili ko ang cellphone.", "Bumili ang cellphone sa akin.", "Binili ako ng cellphone."], "answer": 1, "explain": "A definite, already-known object pulls the sentence into object focus: binili ko ang cellphone = I bought THE phone."},
+    {"type": "fill", "prompt": "Ano ang ___ mo kahapon? (What did you do yesterday?)", "answer": "ginawa", "accept": ["ginawa"], "explain": "Gawin is irregular: its completed form is ginawa. Questions about things (ano) typically use object focus."},
+    {"type": "listen", "tl": "Kinain ng aso ang hapunan ko.", "prompt": "What happened?", "choices": ["I ate the dog's dinner.", "The dog ate my dinner.", "I fed the dog its dinner.", "The dog will eat my dinner."], "answer": 1, "explain": "Kinain is object focus: ang hapunan ko (my dinner) is what got eaten, and ng aso is the eater."},
+    {"type": "mcq", "prompt": "Turn this actor-focus sentence into object focus: 'Bumasa si Miguel ng nobela.' (the specific novel)", "choices": ["Binasa si Miguel ang nobela.", "Binasa ni Miguel ang nobela.", "Bumasa ni Miguel ang nobela.", "Binasa ang Miguel ng nobela."], "answer": 1, "explain": "Switching to object focus, the actor drops from si to ni (ni Miguel) and the object rises from ng to ang (ang nobela)."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I will finish the project tomorrow.", "answer": "Tatapusin ko ang proyekto bukas.", "accept": ["Tatapusin ko ang proyekto bukas", "Tatapusin ko bukas ang proyekto", "Bukas ko tatapusin ang proyekto"], "explain": "A definite object (the project) takes object focus: contemplated tatapusin, actor in ng-form ko, object with ang."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Hinihintay ka ni Ana sa labas.", "answer": "Ana is waiting for you outside.", "accept": ["Ana is waiting for you outside", "Ana waits for you outside", "Ana is waiting for you out there"], "explain": "Hintayin means 'wait for someone': the person waited for is the focus (ka), and the waiter takes ni."},
+    {"type": "fill", "prompt": "Saan mo ___ ang sapatos na iyan? (Where did you buy those shoes?)", "answer": "binili", "accept": ["binili"], "hint": "Completed form of bilhin.", "explain": "After the question word saan, the ng-pronoun mo comes early, then the object-focus completed verb binili."},
+    {"type": "translate", "direction": "en2tl", "prompt": "The dog drank my coffee!", "answer": "Ininom ng aso ang kape ko!", "accept": ["Ininom ng aso ang kape ko", "Ininom ang kape ko ng aso"], "explain": "Object focus fits because it's a specific coffee (mine): ininom (completed), actor ng aso, focused object ang kape ko."},
+    {"type": "mcq", "prompt": "Why does 'Kinakain ko ang almusal ko tuwing 7:00' use kinakain rather than kinain?", "choices": ["Because the object is plural", "Because it is a repeated/ongoing action (incompleted aspect)", "Because ko requires it", "Because almusal starts with a vowel"], "answer": 1, "explain": "The three aspects work exactly the same in object focus: kinakain (incompleted) covers habitual and ongoing eating, kinain is a finished past event."}
+  ]
+}

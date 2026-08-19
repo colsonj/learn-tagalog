@@ -1,0 +1,108 @@
+{
+  "id": "a2-u07",
+  "title": "Aray! Health and the body",
+  "objectives": [
+    "Say what hurts with masakit ang... and sumasakit",
+    "Describe symptoms: may lagnat, may ubo, may sipon, nahihilo",
+    "Handle a pharmacy or clinic visit, including dosage instructions",
+    "Describe body positions with naka- statives (nakaupo, nakahiga, nakatayo)"
+  ],
+  "grammar": [
+    {
+      "title": "Masakit ang... and may + symptom",
+      "explanation": "The all-purpose pain pattern is masakit ang + body part, with the owner in ng-form: 'Masakit ang ulo ko' — my head hurts (literally: painful the head my). 'Masakit ba ang tiyan mo?' — does your stomach hurt?\n\nFor pain that comes and goes, or that started, use the verb sumakit: 'Sumasakit ang likod ko' — my back aches (keeps hurting). 'Sumakit ang tiyan ko kagabi' — my stomach started hurting last night.\n\nFor symptoms you HAVE, reach back to A1's may/wala: 'May lagnat ako' — I have a fever. 'May ubo at sipon siya' — he has a cough and a cold. 'Wala na akong lagnat' — my fever is gone. For dizziness and nausea Tagalog prefers verb-like forms: 'Nahihilo ako' — I feel dizzy; 'Nasusuka ako' — I feel like vomiting.\n\nThe doctor's opening question is 'Ano po ang nararamdaman ninyo?' — what are you feeling? A good learner answer stacks the patterns: 'Masakit po ang lalamunan ko, at may lagnat po ako.'",
+      "examples": [
+        {"tl": "Masakit ang ngipin ko. Kailangan ko nang pumunta sa dentista.", "en": "My tooth hurts. I need to go to the dentist now."},
+        {"tl": "May lagnat ang anak ko mula kagabi.", "en": "My child has had a fever since last night."},
+        {"tl": "Sumasakit ang mata ko kapag matagal ako sa computer.", "en": "My eyes hurt when I'm at the computer a long time."},
+        {"tl": "Ano po ang nararamdaman ninyo? — Nahihilo po ako.", "en": "What are you feeling? — I feel dizzy."}
+      ]
+    },
+    {
+      "title": "At the pharmacy: dosage and instructions",
+      "explanation": "Pharmacy talk runs on the object-focus verbs you already own. The pharmacist says: 'Inumin ninyo ito tatlong beses sa isang araw' — take (drink) this three times a day. 'Isang tableta pagkatapos kumain' — one tablet after eating. Note that Tagalog 'drinks' medicine — uminom/inumin ng gamot — even for tablets.\n\nUseful structures: X beses sa isang araw (X times a day), bago kumain / pagkatapos kumain (before/after meals), tuwing umaga at gabi (every morning and night), kada anim na oras (every six hours).\n\nAsking for medicine: 'May gamot po ba kayo para sa ubo?' — do you have medicine for a cough? Para sa from Unit 1 returns: gamot para sa lagnat, para sa sakit ng ulo. Some medicines need a prescription: 'Kailangan po ng reseta' — a prescription is needed.",
+      "examples": [
+        {"tl": "May gamot po ba kayo para sa sipon?", "en": "Do you have medicine for a cold?"},
+        {"tl": "Inumin po ninyo ito dalawang beses sa isang araw, pagkatapos kumain.", "en": "Take this twice a day, after meals."},
+        {"tl": "Kailangan po ba ng reseta para dito?", "en": "Is a prescription needed for this?"},
+        {"tl": "Uminom ka ng maraming tubig at magpahinga ka.", "en": "Drink lots of water and rest."}
+      ]
+    },
+    {
+      "title": "Naka-: body positions and states",
+      "explanation": "The prefix naka- describes the state or position someone is in right now — not an action, just how things currently are: nakaupo (seated), nakatayo (standing), nakahiga (lying down), nakangiti (smiling). You already met one member of this family in Unit 1: nakatira (residing).\n\nThese words behave like adjectives: no aspect changes, and they combine with the describing patterns you know. 'Nakahiga si Lola sa sopa' — Grandma is lying on the sofa. 'Nakaupo lang ako buong araw sa trabaho' — I just sit all day at work. 'Bakit ka nakatayo? Umupo ka!' — Why are you standing? Sit down!\n\nNaka- also covers 'wearing/using' states you'll meet more later: nakasalamin (wearing glasses), nakasapatos (wearing shoes). For now, master the position words — doctors use them for instructions too: 'Humiga po kayo' (lie down — the action) versus 'nakahiga' (the resulting state).",
+      "examples": [
+        {"tl": "Nakahiga pa si Ben. May sakit siya.", "en": "Ben is still lying down. He's sick."},
+        {"tl": "Nakaupo ako sa harap ng computer buong araw, kaya sumasakit ang likod ko.", "en": "I sit in front of the computer all day, so my back aches."},
+        {"tl": "Nakatayo lang kami sa dyip; puno na kasi.", "en": "We just stood in the jeepney; it was already full."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "katawan", "en": "body", "pos": "noun", "example": {"tl": "Masakit ang buong katawan ko.", "en": "My whole body aches."}},
+    {"tl": "ulo", "en": "head", "pos": "noun", "example": {"tl": "Masakit ang ulo ko mula kanina.", "en": "My head has been hurting since earlier."}},
+    {"tl": "tiyan", "en": "stomach, belly", "pos": "noun", "example": {"tl": "Sumakit ang tiyan ko pagkatapos kumain.", "en": "My stomach started hurting after eating."}},
+    {"tl": "likod", "en": "back", "pos": "noun", "example": {"tl": "Masakit ang likod ni Tatay.", "en": "Dad's back hurts."}},
+    {"tl": "lalamunan", "en": "throat", "pos": "noun", "example": {"tl": "Masakit ang lalamunan ko. Hindi ako makakanta.", "en": "My throat hurts. I can't sing."}},
+    {"tl": "ngipin", "en": "tooth", "pos": "noun", "example": {"tl": "May sirang ngipin ako.", "en": "I have a bad (broken) tooth."}},
+    {"tl": "mata", "en": "eye", "pos": "noun", "example": {"tl": "Namumula ang mata mo. Okay ka lang ba?", "en": "Your eye is red. Are you okay?"}},
+    {"tl": "kamay", "en": "hand", "pos": "noun", "example": {"tl": "Hugasan mo ang mga kamay mo bago kumain.", "en": "Wash your hands before eating."}},
+    {"tl": "paa", "en": "foot, leg", "pos": "noun", "example": {"tl": "Masakit ang paa ko. Ang layo ng nilakad natin!", "en": "My feet hurt. We walked so far!"}},
+    {"tl": "balikat", "en": "shoulder", "pos": "noun", "example": {"tl": "Sumasakit ang balikat ko sa mabigat na bag.", "en": "My shoulder aches from the heavy bag."}},
+    {"tl": "masakit", "en": "painful, hurting", "pos": "adjective", "note": "masakit ang X ko = my X hurts", "example": {"tl": "Masakit pa rin ba ang tiyan mo?", "en": "Does your stomach still hurt?"}},
+    {"tl": "sumakit (um)", "en": "to (start to) hurt, ache", "pos": "verb", "note": "sumakit, sumasakit, sasakit", "example": {"tl": "Sumasakit na naman ang ulo ko.", "en": "My head is aching again."}},
+    {"tl": "sakit", "en": "illness; pain", "pos": "noun", "note": "may sakit = sick; sakit ng ulo = headache", "example": {"tl": "May sakit si Ana kaya wala siya ngayon.", "en": "Ana is sick, so she's not here today."}},
+    {"tl": "lagnat", "en": "fever", "pos": "noun", "example": {"tl": "Mataas ang lagnat ng bata.", "en": "The child's fever is high."}},
+    {"tl": "ubo", "en": "cough", "pos": "noun", "note": "umubo = to cough", "example": {"tl": "May ubo ako, pero wala akong lagnat.", "en": "I have a cough, but I don't have a fever."}},
+    {"tl": "sipon", "en": "cold, runny nose", "pos": "noun", "example": {"tl": "May sipon ang lahat sa bahay namin!", "en": "Everyone at our house has a cold!"}},
+    {"tl": "nahihilo", "en": "dizzy, feeling dizzy", "pos": "adjective", "note": "from mahilo: nahilo, nahihilo", "example": {"tl": "Nahihilo ako. Uupo muna ako.", "en": "I'm dizzy. I'll sit down for a bit."}},
+    {"tl": "sugat", "en": "wound, cut", "pos": "noun", "example": {"tl": "May sugat ang kamay niya.", "en": "His hand has a cut."}},
+    {"tl": "pakiramdam", "en": "feeling (physical state)", "pos": "noun", "note": "Masama ang pakiramdam ko = I feel unwell", "example": {"tl": "Kumusta ang pakiramdam mo ngayon?", "en": "How are you feeling now?"}},
+    {"tl": "reseta", "en": "prescription", "pos": "noun", "example": {"tl": "Kailangan po ng reseta para sa gamot na ito.", "en": "This medicine needs a prescription."}},
+    {"tl": "tableta", "en": "tablet, pill", "pos": "noun", "example": {"tl": "Isang tableta lang tuwing umaga.", "en": "Just one tablet every morning."}},
+    {"tl": "beses", "en": "times (occurrences)", "pos": "noun", "note": "tatlong beses sa isang araw = 3x a day", "example": {"tl": "Inumin ito tatlong beses sa isang araw.", "en": "Take this three times a day."}},
+    {"tl": "botika", "en": "pharmacy, drugstore", "pos": "noun", "example": {"tl": "Bumili ako ng gamot sa botika.", "en": "I bought medicine at the pharmacy."}},
+    {"tl": "klinika", "en": "clinic", "pos": "noun", "example": {"tl": "Sarado ang klinika tuwing Linggo.", "en": "The clinic is closed on Sundays."}},
+    {"tl": "gumaling (um)", "en": "to get better, recover", "pos": "verb", "note": "gumaling, gumagaling, gagaling; Magpagaling ka! = get well soon!", "example": {"tl": "Gumaling na ako. Salamat sa alaga mo!", "en": "I've recovered. Thanks for taking care of me!"}},
+    {"tl": "nakaupo", "en": "seated, sitting", "pos": "adjective", "example": {"tl": "Nakaupo si Lola sa tabi ng bintana.", "en": "Grandma is seated by the window."}},
+    {"tl": "nakahiga", "en": "lying down", "pos": "adjective", "example": {"tl": "Nakahiga pa rin ba ang pasyente?", "en": "Is the patient still lying down?"}},
+    {"tl": "nakatayo", "en": "standing", "pos": "adjective", "example": {"tl": "Huwag kang nakatayo diyan sa init.", "en": "Don't be standing there in the heat."}},
+    {"tl": "humiga (um)", "en": "to lie down", "pos": "verb", "note": "humiga, humihiga, hihiga", "example": {"tl": "Humiga ka muna at magpahinga.", "en": "Lie down for now and rest."}},
+    {"tl": "pasyente", "en": "patient", "pos": "noun", "example": {"tl": "Maraming pasyente sa klinika ngayon.", "en": "There are many patients at the clinic today."}}
+  ],
+  "dialogue": {
+    "title": "At the barangay clinic",
+    "context": "Liza has been feeling sick since last night, so she visits the neighborhood clinic and talks to the doctor.",
+    "lines": [
+      {"speaker": "Doktor", "tl": "Magandang umaga. Umupo po kayo. Ano po ang nararamdaman ninyo?", "en": "Good morning. Please have a seat. What are you feeling?"},
+      {"speaker": "Liza", "tl": "Masama po ang pakiramdam ko mula kagabi. Masakit ang ulo ko at ang lalamunan ko.", "en": "I've been feeling unwell since last night. My head and my throat hurt."},
+      {"speaker": "Doktor", "tl": "May lagnat po ba kayo?", "en": "Do you have a fever?"},
+      {"speaker": "Liza", "tl": "Mayroon po, kagabi. May ubo rin po ako at konting sipon.", "en": "I did last night. I also have a cough and a bit of a cold."},
+      {"speaker": "Doktor", "tl": "Nahihilo po ba kayo?", "en": "Do you feel dizzy?"},
+      {"speaker": "Liza", "tl": "Hindi naman po. Pagod lang po siguro. Nakaupo ako sa harap ng computer buong araw.", "en": "Not really. Maybe just tired. I sit in front of a computer all day."},
+      {"speaker": "Doktor", "tl": "Sige po. Trangkaso po yata ito. Huwag muna kayong pumasok sa trabaho.", "en": "Alright. This looks like the flu. Don't go in to work for now."},
+      {"speaker": "Liza", "tl": "May gamot po ba ako na dapat inumin?", "en": "Is there medicine I should take?"},
+      {"speaker": "Doktor", "tl": "Oo. Ito ang reseta. Inumin ninyo ang tableta tatlong beses sa isang araw, pagkatapos kumain.", "en": "Yes. Here's the prescription. Take the tablet three times a day, after meals."},
+      {"speaker": "Liza", "tl": "Tatlong beses po. Sige po. May bawal po ba?", "en": "Three times a day. Got it. Is anything not allowed?"},
+      {"speaker": "Doktor", "tl": "Bawal muna ang malamig na inumin. Uminom kayo ng maraming tubig at humiga nang maaga.", "en": "No cold drinks for now. Drink lots of water and lie down early."},
+      {"speaker": "Liza", "tl": "Maraming salamat po, Dok.", "en": "Thank you very much, Doctor."},
+      {"speaker": "Doktor", "tl": "Walang anuman. Magpagaling po kayo! Balikan ninyo ako kung hindi pa kayo magaling sa Biyernes.", "en": "You're welcome. Get well soon! Come back to me if you're not better by Friday."}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "How do you say 'My head hurts'?", "choices": ["Masakit ako ang ulo.", "Masakit ang ulo ko.", "Ulo ko ang masakit ako.", "May ulo ako."], "answer": 1, "explain": "The pattern is masakit ang + body part + ng-form owner: masakit ang ulo ko."},
+    {"type": "fill", "prompt": "___ lagnat ang anak ko. (My child has a fever.)", "answer": "May", "accept": ["may", "May"], "explain": "Symptoms you have use A1's may: may lagnat, may ubo, may sipon."},
+    {"type": "mcq", "prompt": "'Sumasakit ang likod ko' differs from 'Masakit ang likod ko' because sumasakit...", "choices": ["is more polite", "describes recurring/ongoing aching (a verb in incompleted aspect)", "means the pain is gone", "refers to someone else's back"], "answer": 1, "explain": "Sumasakit is the incompleted form of sumakit — it aches repeatedly or keeps hurting; masakit simply states it's painful."},
+    {"type": "fill", "prompt": "Ano po ang ___ ninyo? (What are you feeling? — the doctor's standard question)", "answer": "nararamdaman", "accept": ["nararamdaman"], "explain": "Nararamdaman (from ramdam, 'feel') is the set phrase: Ano ang nararamdaman mo/ninyo?"},
+    {"type": "mcq", "prompt": "The pharmacist says: 'Inumin po ninyo ito dalawang beses sa isang araw.' What are the instructions?", "choices": ["Take it once every two days", "Take it twice a day", "Drink two glasses of water daily", "Take two tablets right now"], "answer": 1, "explain": "Dalawang beses sa isang araw = two times in one day. Inumin is the object-focus command 'take/drink it.'"},
+    {"type": "listen", "tl": "Masakit ang lalamunan ko at may ubo ako, pero wala akong lagnat.", "prompt": "Which symptoms does the speaker have?", "choices": ["Sore throat and cough, no fever", "Fever and headache only", "Stomachache and dizziness", "Cough and fever, no sore throat"], "answer": 0, "explain": "Masakit ang lalamunan (sore throat), may ubo (cough), wala akong lagnat (no fever)."},
+    {"type": "mcq", "prompt": "Which word describes someone who is lying down (the state, not the action)?", "choices": ["humiga", "hihiga", "nakahiga", "humihiga"], "answer": 2, "explain": "Naka- forms describe current states: nakahiga = in a lying position. Humiga is the action verb 'to lie down.'"},
+    {"type": "fill", "prompt": "___ si Lola sa sopa. Natutulog yata siya. (Grandma is lying on the sofa.)", "answer": "Nakahiga", "accept": ["nakahiga", "Nakahiga"], "explain": "The naka- stative nakahiga describes her position; no aspect marking needed."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Do you have medicine for a cough?", "answer": "May gamot po ba kayo para sa ubo?", "accept": ["May gamot po ba kayo para sa ubo", "May gamot ba kayo para sa ubo", "Mayroon po ba kayong gamot para sa ubo"], "explain": "May + ba for the yes/no question, and para sa marks what the medicine is for."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Huwag muna kayong pumasok sa trabaho. Magpahinga po kayo.", "answer": "Don't go in to work for now. Please rest.", "accept": ["Don't go in to work for now. Please rest", "Don't go to work for now. Rest", "For now don't go to work. Get some rest"], "explain": "Huwag muna = don't (for now); pumasok sa trabaho = go in to work; magpahinga = rest."},
+    {"type": "mcq", "prompt": "The doctor says 'Humiga po kayo.' What should the patient do?", "choices": ["Stand up", "Sit down", "Lie down", "Breathe deeply"], "answer": 2, "explain": "Humiga is the action verb 'lie down' in command form; nakahiga would describe the resulting state."},
+    {"type": "translate", "direction": "en2tl", "prompt": "My stomach started hurting after eating.", "answer": "Sumakit ang tiyan ko pagkatapos kumain.", "accept": ["Sumakit ang tiyan ko pagkatapos kumain", "Pagkatapos kumain, sumakit ang tiyan ko", "Sumakit ang tiyan ko pagkatapos akong kumain"], "explain": "Completed sumakit for the onset of pain; pagkatapos kumain from Unit 3 gives 'after eating.'"},
+    {"type": "fill", "prompt": "Gumaling ka na ba? — Oo, wala ___ akong lagnat. (Yes, my fever is gone.)", "answer": "na", "accept": ["na"], "explain": "Wala na = no longer there; the particle na from Unit 5 marks the change of state."},
+    {"type": "listen", "tl": "Inumin ninyo ang gamot tatlong beses sa isang araw, pagkatapos kumain. Bawal muna ang kape.", "prompt": "What is one instruction the pharmacist gives?", "choices": ["Take the medicine before meals", "No coffee for now", "Take it once a day", "Drink it with coffee"], "answer": 1, "explain": "Bawal muna ang kape = coffee is off-limits for now. The medicine is three times a day, after meals."}
+  ]
+}

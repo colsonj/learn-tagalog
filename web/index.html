@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TagTrain — Learn Tagalog</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🇵🇭%3C/text%3E%3C/svg%3E">
+<style>
+  :root{
+    --bg:#0e1420; --bg2:#161f30; --card:#1b2740; --card2:#22314f;
+    --ink:#e8edf7; --muted:#93a1bd; --line:#2c3c5e;
+    --accent:#fcd116; --accent-ink:#1a1400;
+    --blue:#4d8dff; --red:#ff5d73; --green:#3ddc84;
+    --radius:14px;
+  }
+  *{box-sizing:border-box; margin:0; padding:0}
+  html,body{height:100%}
+  body{
+    background:var(--bg); color:var(--ink);
+    font:16px/1.55 "Segoe UI",system-ui,-apple-system,sans-serif;
+  }
+  #app{max-width:900px; margin:0 auto; padding:18px 18px 80px}
+  header.top{
+    display:flex; align-items:center; gap:14px; padding:10px 0 18px;
+    border-bottom:1px solid var(--line); margin-bottom:20px; flex-wrap:wrap;
+  }
+  .logo{font-size:1.5rem; font-weight:800; letter-spacing:.3px; cursor:pointer; user-select:none}
+  .logo span{color:var(--accent)}
+  .statchips{display:flex; gap:8px; margin-left:auto; flex-wrap:wrap}
+  .chip{
+    background:var(--card); border:1px solid var(--line); border-radius:999px;
+    padding:4px 12px; font-size:.85rem; color:var(--muted); white-space:nowrap;
+  }
+  .chip b{color:var(--ink)}
+  h1{font-size:1.6rem; margin-bottom:6px}
+  h2{font-size:1.2rem; margin:22px 0 10px}
+  p.sub{color:var(--muted); margin-bottom:18px}
+  .grid{display:grid; gap:14px}
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    padding:18px;
+  }
+  .card.click{cursor:pointer; transition:transform .08s, border-color .12s}
+  .card.click:hover{border-color:var(--accent); transform:translateY(-1px)}
+  .card.locked{opacity:.55; cursor:not-allowed}
+  .card.locked:hover{border-color:var(--line); transform:none}
+  .lvlrow{display:flex; align-items:center; gap:14px}
+  .lvlbadge{
+    min-width:56px; height:56px; border-radius:12px; display:flex; align-items:center;
+    justify-content:center; font-weight:800; font-size:1.15rem;
+    background:var(--bg2); border:2px solid var(--line);
+  }
+  .lvlbadge.passed{background:var(--accent); color:var(--accent-ink); border-color:var(--accent)}
+  .lvlbadge.open{border-color:var(--blue); color:var(--blue)}
+  .pill{font-size:.75rem; padding:2px 10px; border-radius:999px; border:1px solid var(--line); color:var(--muted)}
+  .pill.ok{color:var(--green); border-color:var(--green)}
+  .pill.warn{color:var(--accent); border-color:var(--accent)}
+  .bar{height:8px; background:var(--bg2); border-radius:99px; overflow:hidden; margin-top:10px}
+  .bar i{display:block; height:100%; background:var(--blue); border-radius:99px}
+  .bar i.gold{background:var(--accent)}
+  button{
+    font:inherit; border:0; border-radius:10px; padding:10px 18px; cursor:pointer;
+    background:var(--card2); color:var(--ink);
+  }
+  button:hover{filter:brightness(1.15)}
+  button.primary{background:var(--accent); color:var(--accent-ink); font-weight:700}
+  button.ghost{background:transparent; border:1px solid var(--line); color:var(--muted)}
+  button.small{padding:5px 12px; font-size:.85rem}
+  button:disabled{opacity:.45; cursor:not-allowed; filter:none}
+  .backlink{color:var(--muted); cursor:pointer; font-size:.9rem; margin-bottom:14px; display:inline-block}
+  .backlink:hover{color:var(--ink)}
+  .tabs{display:flex; gap:6px; margin:16px 0; flex-wrap:wrap}
+  .tabs button{background:transparent; border:1px solid var(--line); color:var(--muted); padding:7px 16px}
+  .tabs button.on{background:var(--card2); color:var(--ink); border-color:var(--blue)}
+  .tl{color:var(--ink); font-weight:600}
+  .en{color:var(--muted)}
+  .exrow{display:flex; gap:10px; align-items:baseline; margin:6px 0; flex-wrap:wrap}
+  .spk{
+    background:transparent; border:1px solid var(--line); color:var(--blue);
+    border-radius:8px; padding:1px 9px; font-size:.85rem; vertical-align:middle;
+  }
+  table.vocab{width:100%; border-collapse:collapse; font-size:.95rem}
+  table.vocab td{padding:9px 8px; border-bottom:1px solid var(--line); vertical-align:top}
+  table.vocab td:first-child{white-space:nowrap; font-weight:600}
+  .note{color:var(--muted); font-size:.85rem}
+  .dlg-line{display:flex; gap:12px; margin:10px 0; align-items:flex-start}
+  .dlg-speaker{min-width:70px; color:var(--accent); font-weight:700; font-size:.9rem; padding-top:2px}
+  .dlg-bubble{background:var(--bg2); border-radius:12px; padding:10px 14px; flex:1}
+  .reading-box{background:var(--bg2); border-radius:12px; padding:16px; white-space:pre-wrap; line-height:1.8}
+  details{margin:10px 0}
+  summary{cursor:pointer; color:var(--blue)}
+  /* quiz */
+  .qwrap{max-width:640px; margin:0 auto}
+  .qmeta{display:flex; justify-content:space-between; color:var(--muted); font-size:.85rem; margin-bottom:10px}
+  .qprompt{font-size:1.15rem; margin:14px 0 18px; white-space:pre-wrap}
+  .choices{display:grid; gap:10px}
+  .choices button{text-align:left; padding:13px 16px; border:1px solid var(--line); background:var(--bg2)}
+  .choices button.sel{border-color:var(--blue)}
+  .choices button.right{border-color:var(--green); background:rgba(61,220,132,.12)}
+  .choices button.wrong{border-color:var(--red); background:rgba(255,93,115,.12)}
+  input.answer{
+    width:100%; font:inherit; font-size:1.05rem; padding:12px 14px; border-radius:10px;
+    border:1px solid var(--line); background:var(--bg2); color:var(--ink);
+  }
+  input.answer:focus{outline:none; border-color:var(--blue)}
+  .feedback{margin:16px 0; padding:14px; border-radius:10px; font-size:.95rem}
+  .feedback.ok{background:rgba(61,220,132,.12); border:1px solid var(--green)}
+  .feedback.bad{background:rgba(255,93,115,.12); border:1px solid var(--red)}
+  .quizfoot{display:flex; gap:10px; margin-top:18px; justify-content:flex-end}
+  .timer{font-variant-numeric:tabular-nums}
+  .timer.low{color:var(--red); font-weight:700}
+  .bigscore{font-size:3rem; font-weight:800; text-align:center; margin:10px 0}
+  .bigscore.pass{color:var(--green)} .bigscore.fail{color:var(--red)}
+  .center{text-align:center}
+  .reviewitem{border-top:1px solid var(--line); padding:12px 0}
+  /* flashcards */
+  .fcard{
+    min-height:230px; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    gap:12px; cursor:pointer; text-align:center; padding:24px;
+  }
+  .fcard .front{font-size:1.7rem; font-weight:700}
+  .fcard .backside{color:var(--muted); font-size:1.15rem}
+  .gradebtns{display:flex; gap:10px; justify-content:center; margin-top:16px; flex-wrap:wrap}
+  .gradebtns button{min-width:86px}
+  .g-again{background:rgba(255,93,115,.2); color:var(--red)}
+  .g-hard{background:rgba(252,209,22,.15); color:var(--accent)}
+  .g-good{background:rgba(77,141,255,.18); color:var(--blue)}
+  .g-easy{background:rgba(61,220,132,.15); color:var(--green)}
+  footer.foot{
+    position:fixed; bottom:0; left:0; right:0; background:var(--bg2);
+    border-top:1px solid var(--line); padding:8px 18px; display:flex; gap:10px;
+    justify-content:center; font-size:.8rem; color:var(--muted); align-items:center;
+  }
+  .loading{text-align:center; padding:80px 0; color:var(--muted)}
+  /* voice settings modal */
+  .modalback{position:fixed; inset:0; background:rgba(5,8,14,.7); display:flex; align-items:center; justify-content:center; z-index:50}
+  .modal{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:22px; max-width:540px; width:92%; max-height:85vh; overflow:auto}
+  select.voicesel{width:100%; font:inherit; padding:10px; border-radius:10px; background:var(--bg2); color:var(--ink); border:1px solid var(--line); margin:6px 0 14px}
+  input[type=range]{width:100%; accent-color:var(--accent)}
+  .modalfoot{display:flex; gap:10px; justify-content:flex-end; margin-top:18px; flex-wrap:wrap}
+  @media (max-width:600px){ #app{padding:12px 12px 70px} .dlg-speaker{min-width:52px} }
+</style>
+</head>
+<body>
+<div id="app"><div class="loading">Loading TagTrain…</div></div>
+<footer class="foot">
+  <button class="small ghost" id="voiceinfo" onclick="App.voiceSettings()" title="Change voice & speed">voice: …</button>
+  <span>·</span>
+  <span>progress saves automatically</span>
+  <span>·</span>
+  <button class="small ghost" onclick="App.quit()">Quit app</button>
+</footer>
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+const App = {
+  C:null, P:null, view:null, quiz:null, fc:null,
+  saveTimer:null, examTimer:null,
+
+  /* ---------- boot ---------- */
+  async init(){
+    try{
+      const [c,p,clips] = await Promise.all([
+        fetch("/api/curriculum").then(r=>r.json()),
+        fetch("/api/progress").then(r=>r.json()).catch(()=>({})),
+        fetch("/audio/manifest.json").then(r=>r.ok?r.json():null).catch(()=>null),
+      ]);
+      this.clips = clips;
+      this.C = c;
+      this.P = Object.assign({seen:{},units:{},exams:{},srs:{},xp:0,streak:{last:"",count:0},settings:{}}, p);
+      this.P.seen??={}; this.P.units??={}; this.P.exams??={}; this.P.srs??={};
+      this.P.streak??={last:"",count:0}; this.P.settings??={};
+    }catch(e){
+      $("#app").innerHTML = `<div class="loading">Failed to load: ${esc(e.message)}</div>`;
+      return;
+    }
+    this.touchStreak(false);
+    setInterval(()=>fetch("/api/ping").catch(()=>{}), 20000);
+    speechSynthesis.onvoiceschanged = ()=>this.pickVoice();
+    this.pickVoice();
+    this.home();
+  },
+
+  save(){
+    clearTimeout(this.saveTimer);
+    this.saveTimer = setTimeout(()=>{
+      fetch("/api/progress",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(this.P)}).catch(()=>{});
+      try{ localStorage.setItem("tagtrain", JSON.stringify(this.P)); }catch(e){}
+    }, 400);
+  },
+
+  today(){ return new Date().toISOString().slice(0,10); },
+  touchStreak(save=true){
+    const t=this.today(), s=this.P.streak;
+    if(s.last===t) return;
+    const y=new Date(Date.now()-86400000).toISOString().slice(0,10);
+    s.count = (s.last===y) ? s.count+1 : 1;
+    s.last = t;
+    if(save) this.save();
+  },
+  addXP(n){ this.P.xp=(this.P.xp||0)+n; this.touchStreak(false); this.save(); },
+
+  /* ---------- speech ---------- */
+  voice:null, clips:null, audioEl:null, _lastSaid:null, _lastSlow:false, _dlgToken:0,
+  PREVIEW_TL:"Magandang hapon! Kumusta ka? Ito ang boses na gagamitin mo sa pag-aaral ng Tagalog.",
+  isFilVoice(v){ return /^(fil|tl)/i.test(v.lang) || /filipino|tagalog/i.test(v.name); },
+  baseRate(){ return this.P?.settings?.rate ?? 0.92; },
+  useClips(){ return !!this.clips && this.P?.settings?.useClips !== false; },
+  clipFor(text){
+    const h = this.useClips() && this.clips[String(text).trim()];
+    return h ? "/audio/" + h + ".mp3" : null;
+  },
+  pickVoice(){
+    const vs = speechSynthesis.getVoices();
+    const by = f => vs.find(f);
+    const saved = this.P?.settings?.voiceURI;
+    this.voice = (saved && by(v=>v.voiceURI===saved)) ||
+      by(v=>/angelo/i.test(v.name) && this.isFilVoice(v)) ||  // male Filipino (Edge)
+      by(v=>this.isFilVoice(v)) ||
+      by(v=>/^es/i.test(v.lang)) || by(v=>/^it/i.test(v.lang)) || null;
+    const el=$("#voiceinfo");
+    if(el) el.textContent = "voice: " + (this.useClips() ? "Angelo — Filipino (offline)"
+      : this.voice ? this.voice.name.replace(/Microsoft |Online |\(Natural\) /g,"") : "system default") + " ⚙";
+  },
+  say(text, rate){
+    this._dlgToken++;               // interrupt any dialogue playback
+    if(rate==null){
+      // Google-Translate style: replaying the same text alternates normal / slow
+      if(this._lastSaid===text && !this._lastSlow){ rate=Math.max(0.4, this.baseRate()*0.55); this._lastSlow=true; }
+      else { rate=this.baseRate(); this._lastSlow=false; }
+      this._lastSaid=text;
+    }
+    this._playOne(text, rate);
+  },
+  // Play one utterance; resolves when it ends. Recorded clip if available, else browser TTS.
+  _playOne(text, rate){
+    this._stopAudio();
+    const src=this.clipFor(text);
+    if(src){
+      try{
+        if(!this.audioEl) this.audioEl=new Audio();
+        const a=this.audioEl;
+        a.src=src;
+        a.defaultPlaybackRate=rate; a.playbackRate=rate;
+        a.preservesPitch=true;      // slow replay keeps natural pitch
+        return new Promise(res=>{
+          a.onended=()=>res();
+          a.onerror=()=>this._tts(text,rate).then(res);
+          a.play().catch(()=>this._tts(text,rate).then(res));
+        });
+      }catch(e){ return this._tts(text,rate); }
+    }
+    return this._tts(text,rate);
+  },
+  _tts(text, rate){
+    return new Promise(res=>{
+      try{
+        speechSynthesis.cancel();
+        const u = new SpeechSynthesisUtterance(text);
+        if(this.voice){ u.voice=this.voice; u.lang=this.voice.lang; } else u.lang="fil-PH";
+        u.rate=rate;
+        u.onend=u.onerror=()=>res();
+        speechSynthesis.speak(u);
+      }catch(e){ res(); }
+    });
+  },
+  _stopAudio(){
+    try{ speechSynthesis.cancel(); }catch(e){}
+    if(this.audioEl){ this.audioEl.onended=this.audioEl.onerror=null; this.audioEl.pause(); }
+  },
+
+  /* ---------- voice settings ---------- */
+  voiceSettings(){
+    const vs=speechSynthesis.getVoices();
+    const cur=this.voice?this.voice.voiceURI:"";
+    const sorted=[...vs].sort((a,b)=>(this.isFilVoice(b)-this.isFilVoice(a))||a.name.localeCompare(b.name));
+    const opts=sorted.map(v=>`<option value="${esc(v.voiceURI)}" ${v.voiceURI===cur?"selected":""}>${this.isFilVoice(v)?"🇵🇭 ":""}${esc(v.name)} — ${esc(v.lang)}</option>`).join("");
+    const hasFil=vs.some(v=>this.isFilVoice(v));
+    const rate=this.baseRate();
+    const clipsOn=this.useClips();
+    document.body.insertAdjacentHTML("beforeend",`<div class="modalback" id="vmodal" onclick="if(event.target===this)App.closeVoice()">
+      <div class="modal">
+        <h2 style="margin-top:0">Voice &amp; audio</h2>
+        ${this.clips?`<label class="note">Audio source</label>
+        <div style="margin:6px 0 14px;display:grid;gap:6px">
+          <label style="cursor:pointer"><input type="radio" name="vsrc" value="clips" ${clipsOn?"checked":""}>
+            🇵🇭 <b>Angelo — Filipino recordings</b> <span class="note">(male native voice, works fully offline — recommended)</span></label>
+          <label style="cursor:pointer"><input type="radio" name="vsrc" value="tts" ${clipsOn?"":"checked"}>
+            Browser text-to-speech <span class="note">(pick a voice below)</span></label>
+        </div>`:""}
+        <label class="note">Browser voice — press Preview to hear it before saving</label>
+        <select class="voicesel" id="vsel">${opts||`<option value="">(no voices found — system default)</option>`}</select>
+        ${hasFil||this.clips?"":`<p class="note" style="margin:0 0 14px">⚠ No Filipino voice is available in <b>this browser</b>. For a real Filipino accent, open <b>http://127.0.0.1:8873</b> in <b>Microsoft Edge</b>, which includes “Microsoft Angelo Online (Natural)” (male) and “Blessica” (female) Filipino voices. Chrome and Firefox only list voices installed in Windows itself.</p>`}
+        <label class="note">Speed: <b id="rateval">${rate.toFixed(2)}</b>×</label>
+        <input type="range" id="vrate" min="0.5" max="1.2" step="0.05" value="${rate}"
+          oninput="document.getElementById('rateval').textContent=Number(this.value).toFixed(2)">
+        <p class="note" style="margin-top:12px">Tip: pressing the same ► twice in a row automatically plays a slowed-down version (like Google Translate), whatever the speed set here.</p>
+        <div class="modalfoot">
+          <button class="ghost" onclick="App.closeVoice()">Cancel</button>
+          <button onclick="App.previewVoice()">🔊 Preview</button>
+          <button class="primary" onclick="App.saveVoice()">Save</button>
+        </div>
+      </div>
+    </div>`);
+  },
+  previewVoice(){
+    try{
+      const rate=parseFloat($("#vrate").value);
+      const srcSel=document.querySelector('input[name="vsrc"]:checked');
+      if(this.clips && (!srcSel || srcSel.value==="clips")){
+        this._stopAudio();
+        const h=this.clips[this.PREVIEW_TL];
+        if(h){
+          if(!this.audioEl) this.audioEl=new Audio();
+          const a=this.audioEl;
+          a.src="/audio/"+h+".mp3";
+          a.defaultPlaybackRate=rate; a.playbackRate=rate; a.preservesPitch=true;
+          a.onended=a.onerror=null;
+          a.play().catch(()=>{});
+          return;
+        }
+      }
+      const uri=$("#vsel").value;
+      const v=speechSynthesis.getVoices().find(x=>x.voiceURI===uri);
+      speechSynthesis.cancel();
+      const u=new SpeechSynthesisUtterance(this.PREVIEW_TL);
+      if(v){ u.voice=v; u.lang=v.lang; } else u.lang="fil-PH";
+      u.rate=rate;
+      speechSynthesis.speak(u);
+    }catch(e){}
+  },
+  saveVoice(){
+    const srcSel=document.querySelector('input[name="vsrc"]:checked');
+    if(this.clips) this.P.settings.useClips = !srcSel || srcSel.value==="clips";
+    const uri=$("#vsel").value;
+    if(uri) this.P.settings.voiceURI=uri; else delete this.P.settings.voiceURI;
+    this.P.settings.rate=parseFloat($("#vrate").value);
+    this.save(); this.pickVoice(); this.closeVoice();
+  },
+  closeVoice(){ const m=$("#vmodal"); if(m) m.remove(); this._stopAudio(); },
+  spk(text){ return `<button class="spk" onclick="App.say(this.dataset.t);event.stopPropagation()" data-t="${esc(text)}" title="Listen">&#9658;</button>`; },
+
+  /* ---------- progress helpers ---------- */
+  levelPassed(i){ const lv=this.C.levels[i].meta.level; return !!this.P.exams[lv]?.passed; },
+  levelUnlocked(i){ return i===0 || this.levelPassed(i-1); },
+  unitDone(u){ return !!this.P.units[u.id]?.done; },
+  unitsDone(i){ return this.C.levels[i].units.filter(u=>this.unitDone(u)).length; },
+  allUnitsDone(i){ return this.unitsDone(i)===this.C.levels[i].units.length; },
+
+  header(){
+    const due=this.dueCards().length;
+    return `<header class="top">
+      <div class="logo" onclick="App.home()">Tag<span>Train</span> 🇵🇭</div>
+      <div class="statchips">
+        <span class="chip">⚡ <b>${this.P.xp||0}</b> XP</span>
+        <span class="chip">🔥 <b>${this.P.streak.count||0}</b>-day streak</span>
+        <span class="chip">🃏 <b>${due}</b> cards due</span>
+        <button class="chip" style="cursor:pointer" onclick="App.voiceSettings()" title="Voice and playback speed">🔊 Voice &amp; speed</button>
+      </div>
+    </header>`;
+  },
+
+  /* ---------- home ---------- */
+  home(){
+    this.view="home"; this.stopExamTimer();
+    const L=this.C.levels;
+    let cards=L.map((l,i)=>{
+      const m=l.meta, unlocked=this.levelUnlocked(i), passed=this.levelPassed(i);
+      const done=this.unitsDone(i), total=l.units.length;
+      const pct=Math.round(done/total*100);
+      const badge=`<div class="lvlbadge ${passed?"passed":unlocked?"open":""}">${esc(m.level)}</div>`;
+      const status = passed
+        ? `<span class="pill ok">Exam passed ✓ ${this.P.exams[m.level].best}%</span>`
+        : unlocked ? `<span class="pill warn">${done}/${total} units</span>`
+        : `<span class="pill">🔒 pass ${esc(L[i-1].meta.level)} exam to unlock</span>`;
+      return `<div class="card ${unlocked?"click":"locked"}" ${unlocked?`onclick="App.level(${i})"`:""}>
+        <div class="lvlrow">
+          ${badge}
+          <div style="flex:1">
+            <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+              <b>${esc(m.title)}</b> ${status}
+            </div>
+            <div class="note">${esc(m.description)}</div>
+            ${unlocked?`<div class="bar"><i class="${passed?"gold":""}" style="width:${passed?100:pct}%"></i></div>`:""}
+          </div>
+        </div>
+      </div>`;
+    }).join("");
+    const due=this.dueCards().length, newc=this.newCards().length;
+    $("#app").innerHTML = this.header() + `
+      <h1>Learn Tagalog, step by step</h1>
+      <p class="sub">Four CEFR levels. Finish every unit in a level, then pass its milestone exam to prove the level and unlock the next.</p>
+      <div class="grid">${cards}</div>
+      <h2>Daily review</h2>
+      <div class="card">
+        <p>Spaced-repetition flashcards from every unit you've studied. <b>${due}</b> due now, <b>${newc}</b> new available.</p>
+        <div style="margin-top:12px"><button class="primary" onclick="App.startCards()" ${due+newc===0?"disabled":""}>Review flashcards</button></div>
+        ${due+newc===0?'<p class="note" style="margin-top:8px">Open a unit first — its vocabulary becomes flashcards.</p>':""}
+      </div>`;
+  },
+
+  /* ---------- level ---------- */
+  level(i){
+    this.view="level"; this.li=i; this.stopExamTimer();
+    const l=this.C.levels[i], m=l.meta;
+    const units=l.units.map((u,ui)=>{
+      const st=this.P.units[u.id];
+      const pill = st?.done ? `<span class="pill ok">✓ ${st.best}%</span>`
+                 : st?.best!=null ? `<span class="pill warn">best ${st.best}%</span>`
+                 : this.P.seen[u.id] ? `<span class="pill">started</span>` : `<span class="pill">new</span>`;
+      return `<div class="card click" onclick="App.unit(${i},${ui})">
+        <div style="display:flex;justify-content:space-between;gap:10px;align-items:center">
+          <div><b>Unit ${ui+1}.</b> ${esc(u.title)}</div>${pill}
+        </div>
+      </div>`;
+    }).join("");
+    const ready=this.allUnitsDone(i), passed=this.levelPassed(i);
+    const ex=this.P.exams[m.level];
+    $("#app").innerHTML = this.header() + `
+      <span class="backlink" onclick="App.home()">← All levels</span>
+      <h1>${esc(m.level)} — ${esc(m.title)}</h1>
+      <p class="sub">${esc(m.description)}</p>
+      <details><summary>What you'll be able to do (CEFR ${esc(m.level)})</summary>
+        <ul style="margin:10px 0 0 22px;color:var(--muted)">${(m.canDo||[]).map(c=>`<li>${esc(c)}</li>`).join("")}</ul>
+      </details>
+      <div class="grid" style="margin-top:14px">${units}</div>
+      <h2>Milestone exam</h2>
+      <div class="card">
+        <p>${esc(l.exam.description||"")}</p>
+        <p class="note" style="margin-top:6px">${l.exam.questions.length} questions · ${l.exam.timeLimitMin} min · pass mark ${l.exam.passPct}%
+        ${ex?` · best so far: <b>${ex.best}%</b> (${(ex.attempts||[]).length} attempt${(ex.attempts||[]).length===1?"":"s"})`:""}</p>
+        <div style="margin-top:12px">
+          <button class="primary" onclick="App.startExam(${i})" ${ready?"":"disabled"}>${passed?"Retake exam":"Start exam"}</button>
+          ${ready?"":`<span class="note" style="margin-left:10px">Complete all ${l.units.length} units first (${this.unitsDone(i)}/${l.units.length}).</span>`}
+        </div>
+      </div>`;
+  },
+
+  /* ---------- unit ---------- */
+  unit(i,ui,tab){
+    this.view="unit"; this.li=i; this.ui=ui; this.tab=tab||"learn";
+    const l=this.C.levels[i], u=l.units[ui];
+    if(!this.P.seen[u.id]){ this.P.seen[u.id]=true; this.save(); }
+    const tabs=[["learn","📖 Learn"],["vocab","🗂 Vocabulary"],["dialogue","💬 Dialogue"]];
+    if(u.reading) tabs.push(["reading","📰 Reading"]);
+    tabs.push(["practice","✏️ Practice"]);
+    const tabBtns=tabs.map(([k,lab])=>`<button class="${this.tab===k?"on":""}" onclick="App.unit(${i},${ui},'${k}')">${lab}</button>`).join("");
+    let body="";
+    if(this.tab==="learn"){
+      body=(u.objectives?.length?`<div class="card"><b>In this unit</b><ul style="margin:8px 0 0 22px;color:var(--muted)">${u.objectives.map(o=>`<li>${esc(o)}</li>`).join("")}</ul></div>`:"")
+        + u.grammar.map(g=>`<div class="card">
+          <h2 style="margin-top:0">${esc(g.title)}</h2>
+          <p style="white-space:pre-wrap;color:var(--muted)">${esc(g.explanation)}</p>
+          ${(g.examples||[]).map(e=>`<div class="exrow"><span class="tl">${esc(e.tl)}</span>${this.spk(e.tl)}<span class="en">${esc(e.en)}</span></div>`).join("")}
+        </div>`).join("");
+    }else if(this.tab==="vocab"){
+      body=`<div class="card"><table class="vocab">${u.vocab.map(v=>`<tr>
+        <td>${esc(v.tl)} ${this.spk(v.tl)}</td>
+        <td>${esc(v.en)} <span class="note">(${esc(v.pos)})</span>
+          ${v.note?`<div class="note">${esc(v.note)}</div>`:""}
+          ${v.example?`<div class="note" style="margin-top:3px"><i>${esc(v.example.tl)}</i> — ${esc(v.example.en)} ${this.spk(v.example.tl)}</div>`:""}
+        </td></tr>`).join("")}</table></div>`;
+    }else if(this.tab==="dialogue"){
+      const d=u.dialogue;
+      body=`<div class="card">
+        <h2 style="margin-top:0">${esc(d.title)}</h2>
+        ${d.context?`<p class="note">${esc(d.context)}</p>`:""}
+        <div style="margin:10px 0"><button class="small" onclick="App.playDialogue()">▶ Play whole dialogue</button></div>
+        ${d.lines.map(ln=>`<div class="dlg-line"><div class="dlg-speaker">${esc(ln.speaker)}</div>
+          <div class="dlg-bubble"><div class="tl">${esc(ln.tl)} ${this.spk(ln.tl)}</div><div class="en">${esc(ln.en)}</div></div></div>`).join("")}
+      </div>`;
+    }else if(this.tab==="reading"){
+      const r=u.reading;
+      body=`<div class="card">
+        <h2 style="margin-top:0">${esc(r.title)} ${this.spk(r.tl)}</h2>
+        <div class="reading-box">${esc(r.tl)}</div>
+        ${r.gloss?.length?`<details><summary>Word help</summary><table class="vocab">${r.gloss.map(g=>`<tr><td>${esc(g.tl)}</td><td>${esc(g.en)}</td></tr>`).join("")}</table></details>`:""}
+        <details><summary>Show English translation</summary><div class="reading-box" style="margin-top:8px;color:var(--muted)">${esc(r.en)}</div></details>
+      </div>`;
+    }else{ // practice
+      const st=this.P.units[u.id];
+      body=`<div class="card center">
+        <p>${u.exercises.length} exercises covering this unit's grammar and vocabulary.</p>
+        <p class="note" style="margin:8px 0 14px">Score 70% or better to mark the unit complete.${st?.best!=null?` Your best: <b>${st.best}%</b>.`:""}</p>
+        <button class="primary" onclick="App.startPractice(${i},${ui})">Start practice</button>
+      </div>`;
+    }
+    $("#app").innerHTML = this.header() + `
+      <span class="backlink" onclick="App.level(${i})">← ${esc(l.meta.level)} units</span>
+      <h1>Unit ${ui+1}: ${esc(u.title)}</h1>
+      <div class="tabs">${tabBtns}</div>
+      <div class="grid">${body}</div>`;
+    window.scrollTo(0,0);
+  },
+
+  async playDialogue(){
+    const u=this.C.levels[this.li].units[this.ui];
+    this._lastSaid=null; this._lastSlow=false;
+    const tok=++this._dlgToken;
+    for(const ln of u.dialogue.lines){
+      if(tok!==this._dlgToken) return;   // interrupted by another play action
+      await this._playOne(ln.tl, this.baseRate());
+    }
+  },
+
+  /* ---------- quiz engine (practice + exam) ---------- */
+  norm(s){
+    return String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")
+      .replace(/[.,!?;:'"“”‘’¿¡()\-–—]/g," ").replace(/\s+/g," ").trim();
+  },
+  isTextRight(q,ans){
+    const n=this.norm(ans); if(!n) return false;
+    const ok=[q.answer,...(q.accept||[])].map(a=>this.norm(a));
+    return ok.includes(n);
+  },
+
+  startPractice(i,ui){
+    const u=this.C.levels[i].units[ui];
+    this.quiz={mode:"practice", li:i, ui, qs:u.exercises, idx:0, results:[], answered:false};
+    this.renderQ();
+  },
+  startExam(i){
+    const l=this.C.levels[i];
+    const secs=l.exam.timeLimitMin*60;
+    this.quiz={mode:"exam", li:i, qs:l.exam.questions, idx:0, results:[], answered:false, deadline:Date.now()+secs*1000};
+    this.examTimer=setInterval(()=>{
+      const el=$("#extimer"); if(!el) return;
+      const left=Math.max(0,Math.round((this.quiz.deadline-Date.now())/1000));
+      el.textContent=`${String(Math.floor(left/60)).padStart(2,"0")}:${String(left%60).padStart(2,"0")}`;
+      el.classList.toggle("low", left<120);
+      if(left<=0) this.finishQuiz(true);
+    },500);
+    this.renderQ();
+  },
+  stopExamTimer(){ clearInterval(this.examTimer); this.examTimer=null; },
+
+  renderQ(){
+    const Q=this.quiz, q=Q.qs[Q.idx];
+    const isExam=Q.mode==="exam";
+    let inner="";
+    if(q.type==="mcq"||q.type==="listen"){
+      inner=`${q.type==="listen"?`<div style="margin-bottom:14px"><button onclick="App.say(this.dataset.t)" data-t="${esc(q.tl)}">🔊 Play audio</button> <span class="note">listen, then answer</span></div>`:""}
+        <div class="qprompt">${esc(q.prompt)}</div>
+        <div class="choices">${q.choices.map((c,ci)=>`<button id="ch${ci}" onclick="App.pick(${ci})">${esc(c)}</button>`).join("")}</div>`;
+    }else{
+      const dir=q.type==="translate"?`<div class="note" style="margin-bottom:8px">Translate ${q.direction==="tl2en"?"into English":"into Tagalog"}:</div>`:"";
+      inner=`${dir}<div class="qprompt">${esc(q.prompt)} ${q.type==="fill"&&q.hint?`<div class="note">hint: ${esc(q.hint)}</div>`:""}</div>
+        <input class="answer" id="ansinput" autocomplete="off" placeholder="Type your answer…"
+          onkeydown="if(event.key==='Enter')App.submitText()">
+        <div class="quizfoot"><button class="primary" id="checkbtn" onclick="App.submitText()">Check</button></div>`;
+    }
+    $("#app").innerHTML = this.header() + `
+      <div class="qwrap">
+        <div class="qmeta">
+          <span>${isExam?`${esc(this.C.levels[Q.li].meta.level)} exam`:"Practice"} · question ${Q.idx+1} of ${Q.qs.length}</span>
+          ${isExam?`<span class="timer" id="extimer">--:--</span>`:`<span>${Q.results.filter(r=>r.right).length} correct</span>`}
+        </div>
+        <div class="bar"><i style="width:${Math.round(Q.idx/Q.qs.length*100)}%"></i></div>
+        <div class="card" style="margin-top:16px">${inner}<div id="fb"></div><div id="nextrow"></div></div>
+        <div style="margin-top:12px"><span class="backlink" onclick="App.abandonQuiz()">✕ ${isExam?"Abandon exam":"Exit practice"}</span></div>
+      </div>`;
+    if(q.type==="listen") setTimeout(()=>this.say(q.tl),300);
+    const inp=$("#ansinput"); if(inp) inp.focus();
+    window.scrollTo(0,0);
+  },
+
+  abandonQuiz(){
+    this.stopExamTimer();
+    const Q=this.quiz; this.quiz=null;
+    if(Q.mode==="exam") this.level(Q.li); else this.unit(Q.li,Q.ui,"practice");
+  },
+
+  pick(ci){
+    const Q=this.quiz; if(Q.answered) return;
+    const q=Q.qs[Q.idx], right=ci===q.answer;
+    Q.answered=true;
+    Q.results.push({q, right, given:q.choices[ci]});
+    if(Q.mode==="exam"){ this.nextQ(); return; }
+    document.querySelectorAll(".choices button").forEach((b,bi)=>{
+      b.disabled=true;
+      if(bi===q.answer) b.classList.add("right");
+      else if(bi===ci) b.classList.add("wrong");
+    });
+    this.showFeedback(right, q);
+  },
+  submitText(){
+    const Q=this.quiz; if(Q.answered) return;
+    const q=Q.qs[Q.idx], val=$("#ansinput").value;
+    if(!val.trim()) return;
+    const right=this.isTextRight(q,val);
+    Q.answered=true;
+    Q.results.push({q, right, given:val});
+    if(Q.mode==="exam"){ this.nextQ(); return; }
+    $("#ansinput").disabled=true; $("#checkbtn").disabled=true;
+    this.showFeedback(right, q);
+  },
+  showFeedback(right,q){
+    if(right) this.addXP(10);
+    $("#fb").innerHTML=`<div class="feedback ${right?"ok":"bad"}">
+      <b>${right?"Correct! +10 XP":"Not quite."}</b>
+      ${!right?`<div style="margin-top:4px">Answer: <b>${esc(q.type==="mcq"||q.type==="listen"?q.choices[q.answer]:q.answer)}</b></div>`:""}
+      ${q.explain?`<div style="margin-top:6px;color:var(--muted)">${esc(q.explain)}</div>`:""}
+    </div>`;
+    $("#nextrow").innerHTML=`<div class="quizfoot"><button class="primary" id="nextbtn" onclick="App.nextQ()">${this.quiz.idx+1<this.quiz.qs.length?"Next →":"See results"}</button></div>`;
+    $("#nextbtn").focus();
+  },
+  nextQ(){
+    const Q=this.quiz;
+    Q.answered=false; Q.idx++;
+    if(Q.idx<Q.qs.length) this.renderQ(); else this.finishQuiz();
+  },
+
+  finishQuiz(timedOut=false){
+    this.stopExamTimer();
+    const Q=this.quiz; this.quiz=null;
+    // unanswered exam questions count as wrong
+    while(Q.results.length<Q.qs.length) Q.results.push({q:Q.qs[Q.results.length], right:false, given:"(no answer)"});
+    const nRight=Q.results.filter(r=>r.right).length;
+    const pct=Math.round(nRight/Q.qs.length*100);
+    let title, passLine="", passed=false;
+    if(Q.mode==="practice"){
+      const u=this.C.levels[Q.li].units[Q.ui];
+      const st=this.P.units[u.id]||(this.P.units[u.id]={});
+      st.best=Math.max(st.best||0,pct);
+      passed=pct>=70;
+      if(passed && !st.done){ st.done=true; this.addXP(100); passLine=`<p class="center">Unit complete! <b>+100 XP</b> 🎉</p>`; }
+      else if(passed) passLine=`<p class="center">Unit still complete ✓</p>`;
+      else passLine=`<p class="center note">Score 70% to complete the unit — review and try again.</p>`;
+      title="Practice results";
+      this.save();
+    }else{
+      const l=this.C.levels[Q.li], lv=l.meta.level;
+      const ex=this.P.exams[lv]||(this.P.exams[lv]={best:0,passed:false,attempts:[]});
+      ex.attempts.push({date:this.today(),pct});
+      ex.best=Math.max(ex.best,pct);
+      passed=pct>=l.exam.passPct;
+      if(passed && !ex.passed){ ex.passed=true; this.addXP(500); }
+      title=`${lv} exam ${timedOut?"(time expired)":""}`;
+      passLine = passed
+        ? `<p class="center">🏆 <b>You passed the ${lv} milestone!</b> ${Q.li+1<this.C.levels.length?`${esc(this.C.levels[Q.li+1].meta.level)} is now unlocked.`:"You've reached B2 — congratulations, you've finished the course!"} +500 XP</p>`
+        : `<p class="center note">Pass mark is ${l.exam.passPct}%. Review the units and retake the exam any time.</p>`;
+      this.save();
+    }
+    const wrongs=Q.results.filter(r=>!r.right);
+    $("#app").innerHTML=this.header()+`
+      <div class="qwrap">
+        <div class="card">
+          <h1 class="center">${esc(title)}</h1>
+          <div class="bigscore ${passed?"pass":"fail"}">${pct}%</div>
+          <p class="center note">${nRight} of ${Q.qs.length} correct</p>
+          ${passLine}
+          <div class="quizfoot" style="justify-content:center">
+            <button class="primary" onclick="${Q.mode==="exam"?`App.level(${Q.li})`:`App.unit(${Q.li},${Q.ui},'practice')`}">Continue</button>
+          </div>
+        </div>
+        ${wrongs.length?`<h2>Review your mistakes</h2><div class="card">${wrongs.map(r=>`
+          <div class="reviewitem">
+            <div class="note">${esc(r.q.prompt||"")}${r.q.type==="listen"?` <button class="spk" onclick="App.say(this.dataset.t)" data-t="${esc(r.q.tl)}">&#9658;</button>`:""}</div>
+            <div>Your answer: <span style="color:var(--red)">${esc(r.given)}</span></div>
+            <div>Correct: <b style="color:var(--green)">${esc(r.q.type==="mcq"||r.q.type==="listen"?r.q.choices[r.q.answer]:r.q.answer)}</b></div>
+            ${r.q.explain?`<div class="note" style="margin-top:4px">${esc(r.q.explain)}</div>`:""}
+          </div>`).join("")}</div>`:""}
+      </div>`;
+    window.scrollTo(0,0);
+  },
+
+  /* ---------- flashcards (SM-2) ---------- */
+  allCards(){
+    const out=[];
+    this.C.levels.forEach(l=>l.units.forEach(u=>{
+      if(!this.P.seen[u.id]) return;
+      u.vocab.forEach((v,vi)=>out.push({key:`${u.id}:${vi}`, v}));
+    }));
+    return out;
+  },
+  dueCards(){
+    const now=Date.now();
+    return this.allCards().filter(c=>{ const s=this.P.srs[c.key]; return s && s.due<=now; });
+  },
+  newCards(){
+    return this.allCards().filter(c=>!this.P.srs[c.key]);
+  },
+  startCards(){
+    const queue=[...this.dueCards(), ...this.newCards().slice(0,10)];
+    if(!queue.length){ this.home(); return; }
+    this.fc={queue, idx:0, flipped:false, doneCount:0, total:queue.length};
+    this.renderCard();
+  },
+  renderCard(){
+    const F=this.fc;
+    if(F.idx>=F.queue.length){
+      $("#app").innerHTML=this.header()+`<div class="qwrap"><div class="card center">
+        <h1>Review done 🎉</h1><p class="note" style="margin:10px 0">${F.doneCount} cards reviewed · +${F.doneCount*5} XP</p>
+        <button class="primary" onclick="App.home()">Back to home</button></div></div>`;
+      return;
+    }
+    const c=F.queue[F.idx], v=c.v;
+    $("#app").innerHTML=this.header()+`
+      <div class="qwrap">
+        <div class="qmeta"><span>Flashcards · ${F.idx+1} / ${F.queue.length}</span><span>tap card to flip</span></div>
+        <div class="card fcard" onclick="App.flipCard()">
+          <div class="front">${esc(v.tl)}</div>
+          <button class="spk" onclick="App.say(this.dataset.t);event.stopPropagation()" data-t="${esc(v.tl)}">&#9658; listen</button>
+          ${F.flipped?`<div class="backside">${esc(v.en)} <span class="note">(${esc(v.pos)})</span>
+            ${v.example?`<div class="note" style="margin-top:8px"><i>${esc(v.example.tl)}</i><br>${esc(v.example.en)}</div>`:""}</div>`
+          :`<div class="note">…</div>`}
+        </div>
+        ${F.flipped?`<div class="gradebtns">
+          <button class="g-again" onclick="App.grade(1)">Again</button>
+          <button class="g-hard" onclick="App.grade(3)">Hard</button>
+          <button class="g-good" onclick="App.grade(4)">Good</button>
+          <button class="g-easy" onclick="App.grade(5)">Easy</button>
+        </div>`:""}
+        <div style="margin-top:14px" class="center"><span class="backlink" onclick="App.home()">✕ End session</span></div>
+      </div>`;
+  },
+  flipCard(){ this.fc.flipped=!this.fc.flipped; this.renderCard(); },
+  grade(q){
+    const F=this.fc, c=F.queue[F.idx];
+    const s=this.P.srs[c.key]||{ef:2.5, iv:0, reps:0};
+    if(q<3){ s.reps=0; s.iv=0; }
+    else{
+      s.reps++;
+      s.iv = s.reps===1?1 : s.reps===2?6 : Math.round(s.iv*s.ef);
+      s.ef = Math.max(1.3, s.ef + (0.1 - (5-q)*(0.08+(5-q)*0.02)));
+    }
+    const dayMs=86400000;
+    s.due = Date.now() + (q<3 ? 10*60*1000 : s.iv*dayMs);
+    this.P.srs[c.key]=s;
+    if(q<3) F.queue.push(c); // see failed cards again this session
+    F.doneCount++; this.addXP(5);
+    F.idx++; F.flipped=false;
+    this.save(); this.renderCard();
+  },
+
+  /* ---------- quit ---------- */
+  async quit(){
+    if(!confirm("Quit TagTrain? Your progress is saved.")) return;
+    try{ await fetch("/api/quit"); }catch(e){}
+    document.body.innerHTML=`<div class="loading" style="padding-top:120px">TagTrain has closed. You can close this tab.<br><br>Paalam! 👋</div>`;
+  },
+};
+App.init();
+</script>
+</body>
+</html>

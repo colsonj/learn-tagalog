@@ -1,0 +1,120 @@
+{
+  "id": "a1-u06",
+  "title": "Places and location",
+  "objectives": [
+    "Say where people and things are with nasa, and ask with nasaan",
+    "Use the location/direction marker sa — the third marker of the ang/ng/sa system",
+    "Say where you are going with pupunta sa... and ask Saan ka pupunta?",
+    "Use dito, diyan, doon and name common places and transport"
+  ],
+  "grammar": [
+    {
+      "title": "Where things are: nasa and nasaan",
+      "explanation": "To say where someone or something is, use nasa + place: Nasa bahay si Nanay — 'Mom is at home.' Nasa mesa ang susi — 'The key is on the table.' Nasa covers English 'in', 'on', and 'at' all at once; the location comes first, then the topic, in the usual Tagalog rhythm.\n\nThe matching question word is nasaan: Nasaan ang banyo? — 'Where is the bathroom?' Nasaan si Ben? — 'Where is Ben?' Answer with nasa: Nasa labas siya — 'He's outside.'\n\nCareful: nasaan asks where something IS; saan (next section) asks where an action happens or where someone is going. Beginners mix these up constantly. If the question is about location of a thing/person right now, it's nasaan.",
+      "examples": [
+        {"tl": "Nasaan ang banyo? — Nasa loob po.", "en": "Where is the bathroom? — It's inside."},
+        {"tl": "Nasa kusina si Lola.", "en": "Grandma is in the kitchen."},
+        {"tl": "Nasa bag ko ang susi.", "en": "The key is in my bag."},
+        {"tl": "Nasaan sina Ana at Ben? — Nasa eskuwelahan sila.", "en": "Where are Ana and Ben? — They're at school."}
+      ]
+    },
+    {
+      "title": "The marker sa — places, directions, and positions",
+      "explanation": "Meet the third and last core marker: sa. Where ang marks the topic and ng marks 'of/some', sa marks locations and directions — English 'to', 'at', 'in', 'on', 'from (a direction)'. Together ang/ng/sa form the marker system that runs all of Tagalog, and you now know all three.\n\nYou've quietly used sa already: sa inyo, sa loob, sa mesa. Position phrases are built with sa + a position noun + ng: sa loob ng bag (inside the bag), sa labas ng bahay (outside the house), sa tabi ng tindahan (beside the store).\n\nNasa is really just sa with na- glued on — 'located at'. So: nasa mesa (it IS on the table) versus sa mesa (on/to the table, as part of some other sentence: Pahingi po ng tubig sa mesa.).",
+      "examples": [
+        {"tl": "Nasa loob ng bag ang bolpen ko.", "en": "My pen is inside the bag."},
+        {"tl": "Nasa tabi ng simbahan ang palengke.", "en": "The market is beside the church."},
+        {"tl": "Malapit sa ospital ang bahay namin.", "en": "Our house is near the hospital."},
+        {"tl": "Malayo ba ang parke sa eskuwelahan?", "en": "Is the park far from the school?"}
+      ]
+    },
+    {
+      "title": "Going places: pupunta sa; Saan ka pupunta?",
+      "explanation": "To say where you're headed, use pupunta + doer + sa + place: Pupunta ako sa palengke — 'I'm going to the market.' Pupunta sila sa Maynila bukas — 'They're going to Manila tomorrow.' Pupunta is actually the future form of the verb 'to go' — verbs and their forms get their full lesson in the next unit, so for now use pupunta as a ready-made chunk.\n\nThe question is Saan ka pupunta? — 'Where are you going?' (saan, not nasaan, because it's about movement, not current location). Polite: Saan po kayo pupunta?\n\nFor transport, the simplest A1 pattern is sa + vehicle: Sa dyip tayo — 'Let's take the jeepney' (literally 'we-two on the jeepney'). Or ask: Sa bus o sa tren? — 'By bus or by train?'",
+      "examples": [
+        {"tl": "Saan ka pupunta? — Pupunta ako sa palengke.", "en": "Where are you going? — I'm going to the market."},
+        {"tl": "Pupunta kami sa simbahan sa Linggo.", "en": "We're going to church on Sunday."},
+        {"tl": "Sa dyip tayo. Malayo ang palengke.", "en": "Let's take the jeepney. The market is far."},
+        {"tl": "Saan po kayo pupunta? — Sa ospital po.", "en": "Where are you going? — To the hospital."}
+      ]
+    },
+    {
+      "title": "Here and there: dito, diyan, doon",
+      "explanation": "The place words match the pointing words from Unit 3, three distances again: dito 'here' (near me), diyan 'there' (near you), doon 'over there' (far from both). Ito/iyan/iyon point at THINGS; dito/diyan/doon name PLACES.\n\nUse them with nasa-style sentences by adding nan-: Nandito ako — 'I'm here.' Nandiyan ba si Ana? — 'Is Ana there (with you)?' (Great on the phone.) Nandoon ang bus — 'The bus is over there.' In many regions you'll also hear narito/nariyan/naroon — same meaning, slightly more formal.\n\nWith actions and directions, use them bare with no marker: Pupunta ako doon — 'I'm going there.' Dito po lang — 'Just here, please' (handy when getting off a jeepney: Para po! Dito na po ako.).",
+      "examples": [
+        {"tl": "Nandito ako sa tindahan.", "en": "I'm here at the store."},
+        {"tl": "Nandiyan ba si Kuya? — Wala siya rito.", "en": "Is big brother there? — He's not here."},
+        {"tl": "Nandoon ang traysikel, sa tabi ng simbahan.", "en": "The tricycle is over there, beside the church."},
+        {"tl": "Para po! Dito na po ako.", "en": "Stop please! I'm getting off here."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "nasaan", "en": "where is/are (location of a thing/person)", "pos": "adverb", "example": {"tl": "Nasaan ang susi ko?", "en": "Where is my key?"}},
+    {"tl": "nasa", "en": "at, in, on (located at)", "pos": "particle", "example": {"tl": "Nasa mesa ang libro.", "en": "The book is on the table."}},
+    {"tl": "sa", "en": "to, at, in, on (location/direction marker)", "pos": "particle", "example": {"tl": "Pupunta ako sa palengke.", "en": "I'm going to the market."}},
+    {"tl": "saan", "en": "where (with actions/movement)", "pos": "adverb", "example": {"tl": "Saan ka pupunta?", "en": "Where are you going?"}},
+    {"tl": "dito", "en": "here", "pos": "adverb", "note": "Also rito after vowels; nandito = is here", "example": {"tl": "Dito po lang.", "en": "Just here, please."}},
+    {"tl": "diyan", "en": "there (near you)", "pos": "adverb", "note": "Nandiyan = is there (near you)", "example": {"tl": "Nandiyan ba si Ana?", "en": "Is Ana there (with you)?"}},
+    {"tl": "doon", "en": "over there (far)", "pos": "adverb", "note": "Nandoon = is over there", "example": {"tl": "Nandoon ang bus.", "en": "The bus is over there."}},
+    {"tl": "pupunta", "en": "will go, is going to", "pos": "verb", "note": "Future form of pumunta 'to go'; full verb lesson in Unit 7", "example": {"tl": "Pupunta kami sa Cebu.", "en": "We're going to Cebu."}},
+    {"tl": "malapit", "en": "near, close", "pos": "adjective", "example": {"tl": "Malapit lang ang tindahan.", "en": "The store is just nearby."}},
+    {"tl": "malayo", "en": "far", "pos": "adjective", "example": {"tl": "Malayo ang ospital dito.", "en": "The hospital is far from here."}},
+    {"tl": "eskuwelahan", "en": "school", "pos": "noun", "note": "Also paaralan (more formal)", "example": {"tl": "Nasa eskuwelahan ang mga bata.", "en": "The children are at school."}},
+    {"tl": "opisina", "en": "office", "pos": "noun", "example": {"tl": "Nasa opisina pa si Tatay.", "en": "Dad is still at the office."}},
+    {"tl": "palengke", "en": "market", "pos": "noun", "example": {"tl": "Pupunta si Nanay sa palengke.", "en": "Mom is going to the market."}},
+    {"tl": "tindahan", "en": "store, shop", "pos": "noun", "note": "A sari-sari store is a small neighborhood tindahan", "example": {"tl": "May tindahan sa tabi ng bahay namin.", "en": "There's a store beside our house."}},
+    {"tl": "simbahan", "en": "church", "pos": "noun", "example": {"tl": "Malapit ang simbahan sa palengke.", "en": "The church is near the market."}},
+    {"tl": "ospital", "en": "hospital", "pos": "noun", "example": {"tl": "Nasa ospital ang tita ko.", "en": "My aunt is at the hospital."}},
+    {"tl": "parke", "en": "park", "pos": "noun", "example": {"tl": "Masaya sa parke!", "en": "It's fun at the park!"}},
+    {"tl": "restawran", "en": "restaurant", "pos": "noun", "example": {"tl": "Bago ang restawran doon.", "en": "The restaurant over there is new."}},
+    {"tl": "banyo", "en": "bathroom, toilet", "pos": "noun", "example": {"tl": "Nasaan po ang banyo?", "en": "Where is the bathroom?"}},
+    {"tl": "kuwarto", "en": "room, bedroom", "pos": "noun", "example": {"tl": "Nasa kuwarto siya.", "en": "He's in his room."}},
+    {"tl": "kusina", "en": "kitchen", "pos": "noun", "example": {"tl": "Nasa kusina ang gatas.", "en": "The milk is in the kitchen."}},
+    {"tl": "sala", "en": "living room", "pos": "noun", "example": {"tl": "Nandito kami sa sala.", "en": "We're here in the living room."}},
+    {"tl": "loob", "en": "inside", "pos": "noun", "note": "sa loob ng... = inside the...", "example": {"tl": "Nasa loob ng bag ang lapis.", "en": "The pencil is inside the bag."}},
+    {"tl": "labas", "en": "outside", "pos": "noun", "example": {"tl": "Nasa labas ang aso.", "en": "The dog is outside."}},
+    {"tl": "tabi", "en": "side; beside", "pos": "noun", "note": "sa tabi ng... = beside the...", "example": {"tl": "Nasa tabi ng simbahan ang parke.", "en": "The park is beside the church."}},
+    {"tl": "dyip", "en": "jeepney", "pos": "noun", "note": "Also dyipni; the classic Philippine shared ride", "example": {"tl": "Sa dyip tayo pupunta sa palengke.", "en": "Let's take the jeepney to the market."}},
+    {"tl": "bus", "en": "bus", "pos": "noun", "example": {"tl": "Malayo ba ang Maynila? — Oo, sa bus tayo.", "en": "Is Manila far? — Yes, let's take the bus."}},
+    {"tl": "traysikel", "en": "tricycle (motorbike taxi)", "pos": "noun", "example": {"tl": "Sa traysikel po tayo. Malapit lang.", "en": "Let's take a tricycle. It's just close."}},
+    {"tl": "kotse", "en": "car", "pos": "noun", "example": {"tl": "May kotse ba kayo? — Wala, pero may traysikel kami.", "en": "Do you have a car? — No, but we have a tricycle."}},
+    {"tl": "tren", "en": "train", "pos": "noun", "example": {"tl": "Sa tren pupunta si Ben sa opisina.", "en": "Ben takes the train to the office."}},
+    {"tl": "para po", "en": "stop please (to a jeepney/bus driver)", "pos": "phrase", "example": {"tl": "Para po! Dito na po ako.", "en": "Stop please! I'm getting off here."}},
+    {"tl": "ngayon", "en": "now; today", "pos": "adverb", "example": {"tl": "Nasa bahay ako ngayon.", "en": "I'm at home now."}},
+    {"tl": "lang", "en": "just, only", "pos": "particle", "example": {"tl": "Malapit lang po.", "en": "It's just nearby."}}
+  ],
+  "dialogue": {
+    "title": "Going to the market",
+    "context": "Kate wants to visit a Philippine market for the first time. She plans the trip with Ana by phone.",
+    "lines": [
+      {"speaker": "Kate", "tl": "Ana, nasaan ka ngayon?", "en": "Ana, where are you now?"},
+      {"speaker": "Ana", "tl": "Nandito ako sa bahay, sa kusina. Bakit?", "en": "I'm here at home, in the kitchen. Why?"},
+      {"speaker": "Kate", "tl": "Pupunta ako sa palengke. Gusto ko ng prutas at gulay.", "en": "I'm going to the market. I want fruit and vegetables."},
+      {"speaker": "Ana", "tl": "Ay, sige! Pupunta rin ako. Nasaan ka na?", "en": "Oh, great! I'll go too. Where are you now?"},
+      {"speaker": "Kate", "tl": "Nandito ako sa labas ng eskuwelahan.", "en": "I'm here outside the school."},
+      {"speaker": "Ana", "tl": "Malayo ba ang palengke diyan?", "en": "Is the market far from there?"},
+      {"speaker": "Kate", "tl": "Hindi ko alam. Malayo ba?", "en": "I don't know. Is it far?"},
+      {"speaker": "Ana", "tl": "Hindi, malapit lang. Nasa tabi ng simbahan ang palengke.", "en": "No, it's just close. The market is beside the church."},
+      {"speaker": "Kate", "tl": "Sa dyip ba ako o sa traysikel?", "en": "Should I take a jeepney or a tricycle?"},
+      {"speaker": "Ana", "tl": "Sa traysikel ka na lang. Mabilis iyon.", "en": "Just take a tricycle. That's fast."},
+      {"speaker": "Kate", "tl": "Sige. At nasaan tayo sa palengke?", "en": "Okay. And where do we meet at the market?"},
+      {"speaker": "Ana", "tl": "Doon sa labas, sa tabi ng tindahan ng prutas. Ingat ka!", "en": "Over there outside, beside the fruit store. Take care!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "How do you ask 'Where is the bathroom?'", "choices": ["Saan ang banyo?", "Nasaan ang banyo?", "Nasa banyo?", "Banyo nasaan ang?"], "answer": 1, "explain": "Nasaan asks for the location of a thing or person; the answer will start with nasa."},
+    {"type": "mcq", "prompt": "Which marker completes the ang/ng trio and handles 'to/at/in'?", "choices": ["si", "mga", "sa", "ba"], "answer": 2, "explain": "Sa is the location/direction marker — the third leg of the ang/ng/sa system."},
+    {"type": "fill", "prompt": "___ kusina si Lola. (Grandma is in the kitchen.)", "answer": "nasa", "accept": ["nasa"], "explain": "Nasa + place states where someone is: Nasa kusina si Lola."},
+    {"type": "mcq", "prompt": "You're on the phone. 'Is Ben there (with you)?' Which is right?", "choices": ["Nandito ba si Ben?", "Nandiyan ba si Ben?", "Nandoon ba si Ben?", "Dito ba si Ben?"], "answer": 1, "explain": "Diyan/nandiyan means 'there, near YOU' — exactly the phone situation. Nandito is near me; nandoon is far from both."},
+    {"type": "fill", "prompt": "Saan ka ___? — Sa palengke. (Where are you going? — To the market.)", "answer": "pupunta", "accept": ["pupunta"], "explain": "Pupunta is the going-to form: Saan ka pupunta? — Pupunta ako sa palengke."},
+    {"type": "listen", "tl": "Nasa tabi ng simbahan ang palengke. Malapit lang po.", "prompt": "Where is the market?", "choices": ["Far from the church", "Beside the church, nearby", "Inside the school", "Beside the hospital"], "answer": 1, "explain": "Sa tabi ng simbahan = beside the church, and malapit lang = it's just close."},
+    {"type": "mcq", "prompt": "Which question is about MOVEMENT (not current location)?", "choices": ["Nasaan ang susi?", "Nasaan si Nanay?", "Saan ka pupunta?", "Nasaan ang dyip?"], "answer": 2, "explain": "Saan pairs with actions like pupunta; nasaan only asks where something is right now."},
+    {"type": "fill", "prompt": "The pen is INSIDE the bag: Nasa ___ ng bag ang bolpen.", "answer": "loob", "accept": ["loob"], "explain": "Position phrases use sa/nasa + position + ng: nasa loob ng bag = inside the bag."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Where is my key? — It's on the table.", "answer": "Nasaan ang susi ko? — Nasa mesa.", "accept": ["Nasaan ang susi ko? Nasa mesa", "Nasaan ang susi ko? Nasa mesa ito", "Nasaan ang susi ko? Nasa mesa po", "Nasaan ang susi ko? Nasa mesa iyon"], "explain": "Nasaan asks the location; nasa mesa answers it — nasa covers English 'on' here."},
+    {"type": "listen", "tl": "Saan po kayo pupunta? — Sa ospital po. Malayo pa ba?", "prompt": "Where is the passenger going, and what do they ask?", "choices": ["To the church; is it near?", "To the hospital; is it still far?", "To the market; is it open?", "To the school; is it big?"], "answer": 1, "explain": "Sa ospital po = to the hospital, and Malayo pa ba? asks 'is it still far?'"},
+    {"type": "translate", "direction": "tl2en", "prompt": "Pupunta kami sa Maynila. Sa bus kami — malayo iyon.", "answer": "We're going to Manila. We'll take the bus — it's far.", "accept": ["We're going to Manila. We'll take the bus, it's far", "We are going to Manila. By bus - it is far", "We're going to Manila by bus because it's far", "We're going to Manila. We'll go by bus - it's far"], "explain": "Pupunta kami sa Maynila states the trip; sa bus kami is the A1 way to say 'we'll go by bus'."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I'm going to the store. It's just near, beside the park.", "answer": "Pupunta ako sa tindahan. Malapit lang, sa tabi ng parke.", "accept": ["Pupunta ako sa tindahan. Malapit lang, sa tabi ng parke", "Pupunta ako sa tindahan. Malapit lang sa tabi ng parke", "Pupunta ako sa tindahan. Malapit lang ito, sa tabi ng parke"], "explain": "Pupunta + ako + sa + place for the trip; malapit lang softens with lang, and sa tabi ng parke gives the position."},
+    {"type": "mcq", "prompt": "You're on a jeepney and want to get off here. What do you say?", "choices": ["Sige po!", "Para po! Dito na po ako.", "Pahingi po ng dyip!", "Nasaan po ako?"], "answer": 1, "explain": "Para po! is the standard call to stop, and Dito na po ako announces you're getting off here."}
+  ]
+}

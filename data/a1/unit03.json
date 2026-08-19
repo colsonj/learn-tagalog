@@ -1,0 +1,111 @@
+{
+  "id": "a1-u03",
+  "title": "Family and people",
+  "objectives": [
+    "Name family members and use Ate, Kuya, Tito, Tita naturally",
+    "Use the topic marker ang, and si/sina before names",
+    "Point people and things out with ito, iyan, iyon",
+    "Say what you have and don't have with may, mayroon, and wala"
+  ],
+  "grammar": [
+    {
+      "title": "The marker ang — and si/sina for names",
+      "explanation": "Tagalog nouns almost never stand alone; a small marker in front tells you their job in the sentence. The first marker to learn is ang. It marks the topic — the person or thing the sentence is about. (Grammars call words in this role the 'ang-form'; we'll call it the topic or doer form.) Guro ang lalaki — 'The man is a teacher': the description guro comes first, then ang points at who we're talking about.\n\nNames of people take si instead of ang: Guro si Ben — 'Ben is a teacher.' For two or more named people, use sina: Estudyante sina Ana at Liza — 'Ana and Liza are students.'\n\nYou already know the pronouns ako, ka, siya and friends — they are the pronoun versions of ang-marked words, which is why the patterns match: Guro siya. Guro si Ben. Guro ang lalaki.\n\nOne more small tool: to say 'my', put ko after the noun — ang nanay ko, 'my mom'. The full set of these possessive words comes in the next unit; for now just use ko.",
+      "examples": [
+        {"tl": "Guro ang lalaki.", "en": "The man is a teacher."},
+        {"tl": "Estudyante si Ana.", "en": "Ana is a student."},
+        {"tl": "Kaklase ko sina Liza at Carlos.", "en": "Liza and Carlos are my classmates."},
+        {"tl": "Mabait ang nanay ko.", "en": "My mom is kind."}
+      ]
+    },
+    {
+      "title": "Pointing things out: ito, iyan, iyon",
+      "explanation": "Tagalog has three pointing words where English has two. Ito = 'this' (near me, the speaker). Iyan = 'that' (near you, the listener). Iyon = 'that over there' (far from both of us).\n\nTo introduce someone, point with ito plus si: Ito si Ana, ang kapatid ko — 'This is Ana, my sister.' To ask who someone is: Sino ito? / Sino iyan? — 'Who is this/that?' For things: Ano iyan? — 'What is that (you're holding)?'\n\nThe pattern is the same as with pronouns — description first, pointer second, no word for 'is': Nanay ko ito ('This is my mom'), or pointer first when introducing: Ito ang bahay namin is for later; at this stage, stick to Ito si... for people and Ito ang... for things.",
+      "examples": [
+        {"tl": "Ito si Nanay.", "en": "This is Mom."},
+        {"tl": "Sino iyan?", "en": "Who is that (near you)?"},
+        {"tl": "Iyon si Lolo.", "en": "That (over there) is Grandpa."},
+        {"tl": "Ano ito? — Litrato ito ng pamilya ko.", "en": "What is this? — This is a photo of my family."}
+      ]
+    },
+    {
+      "title": "Having and not having: may, mayroon, wala",
+      "explanation": "May means 'have' or 'there is/are'. It goes directly before a bare noun: May kapatid ako — 'I have a sibling.' May aso sila — 'They have a dog.' Notice there's no marker on the noun after may.\n\nMayroon (often shortened to meron in speech) means the same thing but stands on its own or takes little words after it. Use it to answer yes: May kapatid ka ba? — Mayroon. ('Do you have siblings? — I do.') With po: Mayroon po.\n\nWala is the opposite: 'none / don't have / there isn't'. Wala akong kapatid — 'I have no siblings.' As a bare answer: Wala po. Notice wala takes -ng before its noun (walang) — that's the linker you'll formally meet in Unit 5; for now memorize walang + noun and mayroong + noun as chunks.\n\nCommon beginner mistake: using hindi to answer May...? questions. 'Do you have a dog?' — the answer is Wala (none), never Hindi.",
+      "examples": [
+        {"tl": "May dalawang kapatid ako.", "en": "I have two siblings."},
+        {"tl": "May aso ba kayo? — Mayroon po.", "en": "Do you have a dog? — We do."},
+        {"tl": "Wala akong pinsan dito.", "en": "I don't have any cousins here."},
+        {"tl": "Walang klase bukas.", "en": "There's no class tomorrow."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "pamilya", "en": "family", "pos": "noun", "example": {"tl": "Malaki ang pamilya ko.", "en": "My family is big."}},
+    {"tl": "nanay", "en": "mom, mother", "pos": "noun", "note": "Also ina (formal); mama is common too", "example": {"tl": "Ito po si Nanay.", "en": "This is my mom."}},
+    {"tl": "tatay", "en": "dad, father", "pos": "noun", "note": "Also ama (formal); papa is common too", "example": {"tl": "Guro ang tatay ko.", "en": "My dad is a teacher."}},
+    {"tl": "magulang", "en": "parent", "pos": "noun", "example": {"tl": "Taga-Cebu ang mga magulang ko.", "en": "My parents are from Cebu."}},
+    {"tl": "anak", "en": "child (son/daughter)", "pos": "noun", "example": {"tl": "May tatlong anak sila.", "en": "They have three children."}},
+    {"tl": "kapatid", "en": "sibling (brother/sister)", "pos": "noun", "example": {"tl": "May kapatid ka ba?", "en": "Do you have siblings?"}},
+    {"tl": "ate", "en": "older sister", "pos": "noun", "note": "Also used to address any slightly older woman politely", "example": {"tl": "Ito si Ate Liza.", "en": "This is my older sister Liza."}},
+    {"tl": "kuya", "en": "older brother", "pos": "noun", "note": "Also used to address any slightly older man politely", "example": {"tl": "Estudyante pa ang kuya ko.", "en": "My older brother is still a student."}},
+    {"tl": "lolo", "en": "grandfather", "pos": "noun", "example": {"tl": "Iyon si Lolo Ben.", "en": "That over there is Grandpa Ben."}},
+    {"tl": "lola", "en": "grandmother", "pos": "noun", "example": {"tl": "Kumusta po kayo, Lola?", "en": "How are you, Grandma?"}},
+    {"tl": "tito", "en": "uncle", "pos": "noun", "example": {"tl": "Taga-Davao ang tito ko.", "en": "My uncle is from Davao."}},
+    {"tl": "tita", "en": "aunt", "pos": "noun", "example": {"tl": "Ito po si Tita Rosa.", "en": "This is Aunt Rosa."}},
+    {"tl": "pinsan", "en": "cousin", "pos": "noun", "example": {"tl": "Kaklase ko ang pinsan mo.", "en": "Your cousin is my classmate."}},
+    {"tl": "asawa", "en": "spouse (husband/wife)", "pos": "noun", "example": {"tl": "Guro ang asawa niya.", "en": "His/her spouse is a teacher."}},
+    {"tl": "bata", "en": "child; young", "pos": "noun", "example": {"tl": "Sino ang bata?", "en": "Who is the child?"}},
+    {"tl": "lalaki", "en": "man, boy, male", "pos": "noun", "example": {"tl": "Sino ang lalaki? — Kuya ko iyan.", "en": "Who is the man? — That's my older brother."}},
+    {"tl": "babae", "en": "woman, girl, female", "pos": "noun", "example": {"tl": "Kaibigan ko ang babae.", "en": "The woman is my friend."}},
+    {"tl": "kaklase", "en": "classmate", "pos": "noun", "example": {"tl": "Kaklase ko si Kate.", "en": "Kate is my classmate."}},
+    {"tl": "kapitbahay", "en": "neighbor", "pos": "noun", "example": {"tl": "Mabait ang kapitbahay namin.", "en": "Our neighbor is kind."}},
+    {"tl": "aso", "en": "dog", "pos": "noun", "example": {"tl": "May aso ba kayo?", "en": "Do you have a dog?"}},
+    {"tl": "pusa", "en": "cat", "pos": "noun", "example": {"tl": "May dalawang pusa kami.", "en": "We have two cats."}},
+    {"tl": "bahay", "en": "house, home", "pos": "noun", "example": {"tl": "May bahay sila sa Cebu.", "en": "They have a house in Cebu."}},
+    {"tl": "litrato", "en": "photo, picture", "pos": "noun", "example": {"tl": "Litrato ito ng pamilya ko.", "en": "This is a photo of my family."}},
+    {"tl": "ang", "en": "topic marker ('the')", "pos": "particle", "example": {"tl": "Guro ang babae.", "en": "The woman is a teacher."}},
+    {"tl": "sina", "en": "marker before two or more names", "pos": "particle", "example": {"tl": "Kaibigan ko sina Ana at Ben.", "en": "Ana and Ben are my friends."}},
+    {"tl": "ito", "en": "this (near me)", "pos": "pronoun", "example": {"tl": "Ito si Tatay.", "en": "This is my dad."}},
+    {"tl": "iyan", "en": "that (near you)", "pos": "pronoun", "example": {"tl": "Sino iyan?", "en": "Who is that (near you)?"}},
+    {"tl": "iyon", "en": "that (far from both)", "pos": "pronoun", "example": {"tl": "Bahay namin iyon.", "en": "That over there is our house."}},
+    {"tl": "may", "en": "have; there is/are", "pos": "particle", "example": {"tl": "May anak na sila.", "en": "They already have a child."}},
+    {"tl": "mayroon", "en": "have; there is (standalone form)", "pos": "particle", "note": "Shortened to meron in casual speech", "example": {"tl": "May kapatid ka ba? — Mayroon po.", "en": "Do you have siblings? — Yes, I do."}},
+    {"tl": "wala", "en": "none; don't have; there isn't", "pos": "particle", "note": "Takes the linker before a noun: walang aso", "example": {"tl": "Wala kaming aso.", "en": "We don't have a dog."}},
+    {"tl": "sino", "en": "who", "pos": "pronoun", "example": {"tl": "Sino ang guro mo?", "en": "Who is your teacher?"}},
+    {"tl": "at", "en": "and", "pos": "conjunction", "example": {"tl": "Ito sina Nanay at Tatay.", "en": "These are Mom and Dad."}},
+    {"tl": "pa", "en": "still; yet", "pos": "particle", "note": "Pairs with na (already): bata pa = still young", "example": {"tl": "Estudyante pa ako.", "en": "I'm still a student."}}
+  ],
+  "dialogue": {
+    "title": "A family photo",
+    "context": "Ben shows Kate a photo of his family on his phone.",
+    "lines": [
+      {"speaker": "Ben", "tl": "Kate, ito ang litrato ng pamilya ko.", "en": "Kate, this is a photo of my family."},
+      {"speaker": "Kate", "tl": "Ay, malaki ang pamilya mo! Sino ito?", "en": "Oh, your family is big! Who is this?"},
+      {"speaker": "Ben", "tl": "Ito si Nanay, at ito naman si Tatay.", "en": "This is Mom, and this here is Dad."},
+      {"speaker": "Kate", "tl": "Sino iyan? Kapatid mo ba?", "en": "Who is that? Is that your sibling?"},
+      {"speaker": "Ben", "tl": "Oo, ito si Ate Liza. Guro siya.", "en": "Yes, this is my older sister Liza. She's a teacher."},
+      {"speaker": "Kate", "tl": "At sino ang bata?", "en": "And who is the child?"},
+      {"speaker": "Ben", "tl": "Anak ni Ate Liza. Limang taon na siya.", "en": "That's Ate Liza's child. He's five years old."},
+      {"speaker": "Kate", "tl": "Ang cute! May kapatid ka pa ba?", "en": "So cute! Do you have other siblings?"},
+      {"speaker": "Ben", "tl": "Mayroon. Ito si Kuya Carlos. Ikaw, may kapatid ka ba?", "en": "I do. This is my older brother Carlos. How about you, do you have siblings?"},
+      {"speaker": "Kate", "tl": "Wala akong kapatid. Pero may aso kami!", "en": "I don't have siblings. But we have a dog!"},
+      {"speaker": "Ben", "tl": "Talaga? Kami rin! Ito ang aso namin, si Bantay.", "en": "Really? Us too! This is our dog, Bantay."},
+      {"speaker": "Kate", "tl": "Ay, ang cute rin!", "en": "Aw, also cute!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which marker goes before a single person's name?", "choices": ["ang", "si", "sina", "may"], "answer": 1, "explain": "Names take si (Estudyante si Ana); ang is for ordinary nouns and sina is for two or more names."},
+    {"type": "mcq", "prompt": "What does 'ate' mean?", "choices": ["aunt", "grandmother", "older sister", "cousin"], "answer": 2, "explain": "Ate is your older sister — and Filipinos also use it to politely address any slightly older woman."},
+    {"type": "fill", "prompt": "___ si Ana at ito naman si Ben. (Introducing two people one by one: 'This is Ana...')", "answer": "ito", "accept": ["ito"], "explain": "Ito ('this, near me') plus si introduces a person: Ito si Ana."},
+    {"type": "mcq", "prompt": "Your friend is holding a photo. You ask 'Who is that (in your hand)?' Which pointer is right?", "choices": ["Sino ito?", "Sino iyan?", "Sino iyon?", "Sino ang?"], "answer": 1, "explain": "Iyan points at something near the listener; ito is near you, and iyon is far from both of you."},
+    {"type": "fill", "prompt": "Estudyante ___ Ana at Liza. (Ana and Liza are students.)", "answer": "sina", "accept": ["sina"], "explain": "Two or more names take the plural marker sina instead of si."},
+    {"type": "listen", "tl": "May dalawang kapatid ako at isang aso.", "prompt": "What does the speaker have?", "choices": ["Two dogs and one sibling", "Two siblings and one dog", "Three siblings", "One cat and one dog"], "answer": 1, "explain": "May dalawang kapatid = 'I have two siblings', and isang aso = 'one dog'."},
+    {"type": "mcq", "prompt": "May pusa ka ba? You have no cat. Which is the correct answer?", "choices": ["Hindi po.", "Wala po.", "Oo po.", "Sige po."], "answer": 1, "explain": "Questions with may are answered with mayroon (have) or wala (none) — never with hindi."},
+    {"type": "fill", "prompt": "___ akong kapatid, pero may pinsan ako. (I have no siblings, but I have a cousin.)", "answer": "wala", "accept": ["wala"], "explain": "Wala + -ng expresses not having: Wala akong kapatid = 'I don't have siblings'."},
+    {"type": "translate", "direction": "en2tl", "prompt": "This is my mom. She is a teacher.", "answer": "Ito ang nanay ko. Guro siya.", "accept": ["Ito ang nanay ko. Guro siya", "Ito si Nanay. Guro siya", "Ito po ang nanay ko. Guro po siya", "Nanay ko ito. Guro siya"], "explain": "Ito introduces her, ang nanay ko is 'my mom' (ko = my), and Guro siya needs no word for 'is'."},
+    {"type": "listen", "tl": "Sino iyon? — Iyon si Lolo. Matanda na siya.", "prompt": "Who is being pointed out?", "choices": ["The speaker's grandmother, nearby", "The speaker's grandfather, far away", "The speaker's uncle, nearby", "The speaker's father, far away"], "answer": 1, "explain": "Iyon points at someone far from both speakers, and lolo is grandfather."},
+    {"type": "translate", "direction": "tl2en", "prompt": "May tatlong anak sina Tito Ramon at Tita Rosa.", "answer": "Uncle Ramon and Aunt Rosa have three children.", "accept": ["Uncle Ramon and Aunt Rosa have three children", "Tito Ramon and Tita Rosa have three children", "Uncle Ramon and Auntie Rosa have three kids"], "explain": "May tatlong anak = 'have three children'; sina marks the named couple as the ones who have them."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Do you have a dog? — We don't. But we have two cats.", "answer": "May aso ba kayo? — Wala. Pero may dalawang pusa kami.", "accept": ["May aso ba kayo? Wala. Pero may dalawang pusa kami", "May aso ba kayo? Wala po. Pero may dalawang pusa kami", "May aso ka ba? Wala. Pero may dalawang pusa kami", "May aso ba kayo? Wala. May dalawang pusa kami"], "explain": "May + noun asks about having; the negative answer is wala, and may dalawang pusa kami states what you do have."},
+    {"type": "mcq", "prompt": "Which sentence says 'The woman is my neighbor'?", "choices": ["Kapitbahay ko ang babae.", "Ang babae kapitbahay ko.", "Babae ang kapitbahay ko ang.", "Si babae kapitbahay ko."], "answer": 0, "explain": "Description first (kapitbahay ko, 'my neighbor'), then ang babae marks who the sentence is about. Babae is an ordinary noun, so it takes ang, not si."}
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "b1-u03",
+  "title": "Having things done: the causative magpa-, pa--in, ipa-",
+  "objectives": [
+    "Say you had something done or got a service (magpagupit, magpaayos)",
+    "Focus the person you asked or made to do something with pa--in",
+    "Focus the thing you had done with ipa- (ipaayos, ipalinis)",
+    "Handle everyday services: haircuts, repairs, deliveries, laundry"
+  ],
+  "grammar": [
+    {
+      "title": "magpa-: getting things done (and getting a haircut)",
+      "explanation": "When you don't do something yourself but cause someone else to do it — you arrange it, order it, pay for it — Tagalog adds pa- inside the verb. The actor-focus version is magpa-, and the ang-phrase is the causer: the person having it done.\n\nNagpagupit ako means 'I had (my hair) cut', i.e. 'I got a haircut'. You didn't cut it; the barber did, but you caused it. This pattern covers a huge slice of daily life: magpaayos ng kotse (have the car fixed), magpaluto (have someone cook), magpadala (have something sent/delivered), magpalinis (have something cleaned), magpaturo (ask someone to teach you), magpamasahe (get a massage), magpakuha ng litrato (have a photo taken).\n\nAspect works like mag-: nagpagupit, nagpapagupit, magpapagupit. The one who actually does the work, if mentioned, is a sa-phrase (or kay + name): Nagpagupit ako sa bago kong barbero — I got a haircut from my new barber. The thing produced or affected is a ng-phrase: Nagpaluto ako ng pansit kay Nanay — I had Mom cook pansit.",
+      "examples": [
+        {"tl": "Nagpagupit ako kahapon. Kamusta ang bago kong buhok?", "en": "I got a haircut yesterday. How's my new hair?"},
+        {"tl": "Nagpapaayos kami ng bubong bago dumating ang tag-ulan.", "en": "We're having the roof fixed before the rainy season arrives."},
+        {"tl": "Magpapaluto ako ng lechon para sa handaan.", "en": "I'll have a lechon cooked for the party."},
+        {"tl": "Nagpaturo siya ng Ingles sa pinsan niya.", "en": "She had her cousin teach her English."},
+        {"tl": "Nagpadala ang tita ko ng regalo mula sa Canada.", "en": "My aunt sent a gift from Canada."}
+      ]
+    },
+    {
+      "title": "pa--in: the person you have doing it",
+      "explanation": "To put the spotlight on the person being made or asked to do something, use pa- with the -in pattern. Pinaluto ko si Ana ng adobo — I had Ana cook adobo. Now si Ana is the ang-phrase: she's the one who was made to cook.\n\nAspect: pinaluto, pinapaluto, papalutuin. In commands and after gusto/kailangan, use the infinitive: Palutuin natin si Ana — let's have Ana cook.\n\nThis same pattern gives you three verbs so common they feel like basic vocabulary: pakainin (to feed — literally 'cause to eat': Pinakain niya ang mga bata, she fed the children), painumin (to give someone a drink / make someone drink: Painumin mo ng gamot ang lola, have grandma take her medicine), and papasukin (to let someone in: Papasukin mo ang bisita, let the guest in). Notice that last one: pa--in isn't only 'make someone do it' — depending on context it can be 'let/allow someone to do it'. Tagalog doesn't sharply separate making and letting; the causative covers both.",
+      "examples": [
+        {"tl": "Pinaluto ko si Ana ng pansit para sa kaarawan mo.", "en": "I had Ana cook pansit for your birthday."},
+        {"tl": "Pinakain namin ang mga bata bago sila naglaro.", "en": "We fed the children before they played."},
+        {"tl": "Painumin mo ng tubig ang pasyente.", "en": "Have the patient drink some water."},
+        {"tl": "Papasukin mo na ang mga bisita — huwag mo silang patayuin sa labas.", "en": "Let the guests in now — don't keep them standing outside."},
+        {"tl": "Pinatulong ko ang kapatid ko sa paglilinis.", "en": "I had my sibling help with the cleaning."}
+      ]
+    },
+    {
+      "title": "ipa-: the thing you have done",
+      "explanation": "To spotlight the thing being worked on, use ipa-. Ipinaayos ko ang kotse — I had the car fixed. The car is the ang-phrase; the one who fixed it, if you mention them at all, is a sa-phrase: Ipinaayos ko ang kotse sa mekaniko sa may kanto.\n\nAspect follows the i- pattern with pa- inside: ipinaayos, ipinapaayos, ipapaayos. Commands: Ipaayos mo na ang cellphone mo — have your phone repaired already. Other everyday members: ipalinis (have something cleaned), ipadala (have something sent — Ipinadala ko na ang mga dokumento, I had the documents sent / I sent them off), ipagawa (have something made or repaired — Ipinagawa namin ang lamesa sa karpintero, we had the table made by the carpenter), ipalaba (have laundry washed).\n\nChoosing between the three causative focuses works exactly like Unit 1: whatever is definite or emphasized takes ang, and the affix follows. 'I got a haircut' — you're the news: magpa-. 'I had the car fixed' — the car is the point: ipa-. 'I had Ana do it' — Ana is the point: pa--in. One system, one logic.",
+      "examples": [
+        {"tl": "Ipinaayos ko ang sirang aircon sa teknisyan.", "en": "I had the broken air conditioner fixed by the technician."},
+        {"tl": "Ipapadala ko ang package bukas ng umaga.", "en": "I'll have the package sent tomorrow morning."},
+        {"tl": "Ipinagawa namin ang bagong kabinet sa karpintero.", "en": "We had the new cabinet made by the carpenter."},
+        {"tl": "Ipalaba mo na lang ang mga kumot — ang dami kasi.", "en": "Just have the blankets washed — there are so many."},
+        {"tl": "Ipalinis natin ang sofa bago ang Pasko.", "en": "Let's have the sofa cleaned before Christmas."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "magpagupit (magpa-)", "en": "to get a haircut", "pos": "verb", "note": "nagpagupit, nagpapagupit, magpapagupit", "example": {"tl": "Magpapagupit ako bago ang interview ko.", "en": "I'll get a haircut before my interview."}},
+    {"tl": "magpaayos (magpa-)", "en": "to have something fixed", "pos": "verb", "note": "nagpaayos, nagpapaayos, magpapaayos", "example": {"tl": "Nagpaayos kami ng gripo sa tubero.", "en": "We had the faucet fixed by the plumber."}},
+    {"tl": "magpaluto (magpa-)", "en": "to have someone cook", "pos": "verb", "note": "nagpaluto, nagpapaluto, magpapaluto", "example": {"tl": "Nagpaluto ako ng spaghetti kay Ate para sa mga bata.", "en": "I had my big sister cook spaghetti for the kids."}},
+    {"tl": "magpadala (magpa-)", "en": "to send, have something delivered", "pos": "verb", "note": "nagpadala, nagpapadala, magpapadala", "example": {"tl": "Nagpapadala siya ng pera sa pamilya niya buwan-buwan.", "en": "He sends money to his family every month."}},
+    {"tl": "magpalinis (magpa-)", "en": "to have something cleaned", "pos": "verb", "note": "nagpalinis, nagpapalinis, magpapalinis", "example": {"tl": "Nagpalinis kami ng bahay bago lumipat.", "en": "We had the house cleaned before moving in."}},
+    {"tl": "magpaturo (magpa-)", "en": "to ask someone to teach you", "pos": "verb", "note": "nagpaturo, nagpapaturo, magpapaturo", "example": {"tl": "Nagpaturo ako ng Tagalog sa kaibigan kong taga-Maynila.", "en": "I had my friend from Manila teach me Tagalog."}},
+    {"tl": "magpamasahe (magpa-)", "en": "to get a massage", "pos": "verb", "note": "nagpamasahe, nagpapamasahe, magpapamasahe", "example": {"tl": "Nagpamasahe siya pagkatapos ng mahabang biyahe.", "en": "She got a massage after the long trip."}},
+    {"tl": "magpakuha (magpa-)", "en": "to have something taken (a photo)", "pos": "verb", "note": "usually magpakuha ng litrato", "example": {"tl": "Nagpakuha kami ng litrato sa harap ng simbahan.", "en": "We had our photo taken in front of the church."}},
+    {"tl": "palutuin (pa--in)", "en": "to have someone cook", "pos": "verb", "note": "pinaluto, pinapaluto, papalutuin; focuses the cook", "example": {"tl": "Palutuin natin si Kuya ng sinigang.", "en": "Let's have Kuya cook sinigang."}},
+    {"tl": "pakainin (pa--in)", "en": "to feed", "pos": "verb", "note": "pinakain, pinapakain, papakainin", "example": {"tl": "Pinakain muna namin ang mga bisita bago ang programa.", "en": "We fed the guests first before the program."}},
+    {"tl": "painumin (pa--in)", "en": "to give someone a drink, have someone drink", "pos": "verb", "note": "pinainom, pinapainom, papainumin", "example": {"tl": "Painumin mo ng gamot si Lola bago matulog.", "en": "Have Grandma take her medicine before bed."}},
+    {"tl": "papasukin (pa--in)", "en": "to let someone in", "pos": "verb", "note": "pinapasok, pinapapasok, papapasukin", "example": {"tl": "Huwag mong papasukin ang hindi mo kilala.", "en": "Don't let in anyone you don't know."}},
+    {"tl": "patulungin (pa--in)", "en": "to have someone help", "pos": "verb", "note": "pinatulong, pinapatulong, papatulungin", "example": {"tl": "Patulungin mo ang mga bata sa pag-aayos ng mesa.", "en": "Have the kids help set the table."}},
+    {"tl": "ipaayos (ipa-)", "en": "to have something fixed (thing in focus)", "pos": "verb", "note": "ipinaayos, ipinapaayos, ipapaayos", "example": {"tl": "Ipinaayos ko na ang sirang zipper ng bag ko.", "en": "I already had my bag's broken zipper fixed."}},
+    {"tl": "ipagawa (ipa-)", "en": "to have something made or repaired", "pos": "verb", "note": "ipinagawa, ipinapagawa, ipapagawa", "example": {"tl": "Ipapagawa namin ang bagong pinto sa karpintero.", "en": "We'll have the new door made by the carpenter."}},
+    {"tl": "ipadala (ipa-)", "en": "to have something sent", "pos": "verb", "note": "ipinadala, ipinapadala, ipapadala", "example": {"tl": "Ipinadala ko na ang mga dokumento sa opisina ninyo.", "en": "I already sent the documents to your office."}},
+    {"tl": "ipalaba (ipa-)", "en": "to have laundry washed", "pos": "verb", "note": "ipinalaba, ipinapalaba, ipapalaba", "example": {"tl": "Ipinalaba ko ang mga kumot sa labahan sa kanto.", "en": "I had the blankets washed at the corner laundry shop."}},
+    {"tl": "barbero", "en": "barber", "pos": "noun", "example": {"tl": "Matagal na ang barbero kong si Mang Ruben sa aming lugar.", "en": "My barber Mang Ruben has been in our area a long time."}},
+    {"tl": "mekaniko", "en": "mechanic", "pos": "noun", "example": {"tl": "Dinala namin ang kotse sa mekaniko kaninang umaga.", "en": "We brought the car to the mechanic this morning."}},
+    {"tl": "karpintero", "en": "carpenter", "pos": "noun", "example": {"tl": "Magaling ang karpinterong nagpagawa ng aming mesa.", "en": "The carpenter who made our table is skilled."}},
+    {"tl": "tubero", "en": "plumber", "pos": "noun", "example": {"tl": "Tumawag ka ng tubero — tumutulo ang gripo.", "en": "Call a plumber — the faucet is dripping."}},
+    {"tl": "talyer", "en": "auto repair shop", "pos": "noun", "example": {"tl": "Nasa talyer pa ang kotse hanggang Biyernes.", "en": "The car is still at the shop until Friday."}},
+    {"tl": "labahan", "en": "laundry shop", "pos": "noun", "example": {"tl": "Malapit lang ang labahan sa apartment namin.", "en": "The laundry shop is close to our apartment."}},
+    {"tl": "gripo", "en": "faucet, tap", "pos": "noun", "example": {"tl": "Isara mo nang mabuti ang gripo pagkatapos maghugas.", "en": "Close the faucet properly after washing."}},
+    {"tl": "bubong", "en": "roof", "pos": "noun", "example": {"tl": "Tumutulo ang bubong namin kapag malakas ang ulan.", "en": "Our roof leaks when the rain is heavy."}},
+    {"tl": "bayad", "en": "payment, fee", "pos": "noun", "example": {"tl": "Magkano ang bayad sa pagpapaayos ng cellphone?", "en": "How much is the fee for having a cellphone repaired?"}},
+    {"tl": "serbisyo", "en": "service", "pos": "noun", "example": {"tl": "Mabilis at mura ang serbisyo sa talyer na iyon.", "en": "The service at that shop is fast and cheap."}},
+    {"tl": "handaan", "en": "party, feast (with food prepared)", "pos": "noun", "example": {"tl": "May handaan kami sa Sabado para sa kaarawan ni Lolo.", "en": "We're having a party on Saturday for Grandpa's birthday."}}
+  ],
+  "dialogue": {
+    "title": "Paghahanda para sa handaan",
+    "context": "Husband and wife Lito and Mila plan the preparations for their daughter's graduation party.",
+    "lines": [
+      {"speaker": "Mila", "tl": "Lito, isang linggo na lang bago ang handaan. Ano na ang plano?", "en": "Lito, the party is only a week away. What's the plan now?"},
+      {"speaker": "Lito", "tl": "Magpapaluto tayo ng pansit at lechon kay Aling Curing. Sikat ang luto niya.", "en": "We'll have Aling Curing cook pansit and lechon. Her cooking is famous."},
+      {"speaker": "Mila", "tl": "Mabuti. Ipapagawa ko rin ang cake sa panaderya ni Tess.", "en": "Good. I'll also have the cake made at Tess's bakery."},
+      {"speaker": "Lito", "tl": "Sira pa pala ang isang upuan sa sala. Ipaayos natin sa karpintero.", "en": "Oh right, one of the chairs in the living room is still broken. Let's have the carpenter fix it."},
+      {"speaker": "Mila", "tl": "Oo, at magpalinis din tayo ng buong bahay sa Biyernes.", "en": "Yes, and let's also have the whole house cleaned on Friday."},
+      {"speaker": "Lito", "tl": "Ako na ang tatawag. Magpapagupit din ako — mahaba na masyado ang buhok ko.", "en": "I'll make the call. I'll also get a haircut — my hair is way too long."},
+      {"speaker": "Mila", "tl": "Sige. Patulungin natin sina Jun at Ria sa pag-aayos ng mga mesa.", "en": "Okay. Let's have Jun and Ria help arrange the tables."},
+      {"speaker": "Lito", "tl": "Ipadala na rin natin ang mga imbitasyon ngayong araw.", "en": "Let's also send out the invitations today."},
+      {"speaker": "Mila", "tl": "Naipadala ko na kahapon. Huwag mong kalimutan ang mga inumin.", "en": "I already sent them yesterday. Don't forget the drinks."},
+      {"speaker": "Lito", "tl": "Magpapadala ang tindahan ni Aling Nena ng dalawang kahon ng softdrinks.", "en": "Aling Nena's store will deliver two boxes of soft drinks."},
+      {"speaker": "Mila", "tl": "Perpekto. Sa mismong araw, pakainin muna natin ang mga bisita bago ang programa.", "en": "Perfect. On the day itself, let's feed the guests first before the program."},
+      {"speaker": "Lito", "tl": "Tama. At magpakuha tayo ng litrato ng buong pamilya. Bihira tayong kumpleto!", "en": "Right. And let's have a photo taken of the whole family. We're rarely complete!"}
+    ]
+  },
+  "reading": {
+    "title": "Bago ang piyesta",
+    "tl": "Tuwing Mayo, may piyesta sa barangay nina Aling Cely, at ang pamilya nila ang nag-aasikaso ng salu-salo pagkatapos ng prusisyon. Marami silang ipinagagawa bago ang araw na iyon. Noong isang linggo, nagpaayos sila ng bubong dahil tumutulo ito, at ipinalinis nila ang buong bakuran. Ipinagawa rin ni Aling Cely ang mahabang mesa sa karpinterong kapitbahay nila.\n\nSa mismong linggo ng piyesta, nagpaluto siya ng kaldereta at pansit sa kaniyang hipag na mahusay magluto. Pinatulong niya ang kaniyang mga apo sa paglalagay ng mga banderitas sa harap ng bahay. Nagpadala pa ang kapatid niyang nasa Amerika ng pera para sa handaan. Sa araw ng piyesta, pinakain nila ang lahat ng dumaan sa kanilang bahay — kahit mga hindi nila kilala. Ganoon talaga ang piyesta: bukas ang pinto ng bawat bahay.",
+    "en": "Every May there's a fiesta in Aling Cely's barangay, and their family takes care of the gathering after the procession. They have many things done before that day. Last week, they had the roof fixed because it was leaking, and they had the whole yard cleaned. Aling Cely also had the long table made by their carpenter neighbor.\n\nDuring fiesta week itself, she had her sister-in-law, who is an excellent cook, cook kaldereta and pansit. She had her grandchildren help hang the little banners in front of the house. Her sibling in America even sent money for the feast. On the day of the fiesta, they fed everyone who passed by their house — even people they didn't know. That's how fiestas really are: every house's door is open.",
+    "gloss": [
+      {"tl": "nag-aasikaso", "en": "takes care of, attends to"},
+      {"tl": "salu-salo", "en": "gathering with a shared meal"},
+      {"tl": "prusisyon", "en": "religious procession"},
+      {"tl": "bakuran", "en": "yard"},
+      {"tl": "hipag", "en": "sister-in-law"},
+      {"tl": "banderitas", "en": "small fiesta banners"},
+      {"tl": "kaldereta", "en": "Filipino meat stew"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "What does 'Nagpagupit ako' mean?", "choices": ["I cut someone's hair.", "I got a haircut.", "I cut my own hair.", "I want a haircut."], "answer": 1, "explain": "Magpa- means causing someone else to do it: you had your hair cut, i.e. you got a haircut."},
+    {"type": "mcq", "prompt": "You want the car (already mentioned) to be the focus: 'I had the car fixed.' Which is correct?", "choices": ["Nagpaayos ako ng kotse.", "Inayos ko ang kotse.", "Ipinaayos ko ang kotse.", "Pinaayos ako ng kotse."], "answer": 2, "explain": "Ipa- focuses the thing being worked on: ipinaayos ko ang kotse. Choice 1 is fine grammar but focuses you, not the car; choice 2 means you fixed it yourself."},
+    {"type": "fill", "prompt": "___ mo na ang mga bisita — kanina pa sila naghihintay sa labas. (Let the guests in)", "answer": "papasukin", "accept": ["papasukin"], "hint": "pa--in verb from pasok, command form.", "explain": "Papasukin (pa--in) means 'let someone in' — the causative covers both making and letting."},
+    {"type": "fill", "prompt": "Nagpadala ang tita ko ___ regalo mula sa Canada. (My aunt sent a gift...)", "answer": "ng", "accept": ["ng"], "hint": "The thing sent is not in focus.", "explain": "With actor-focus magpa-, the thing sent stays a ng-phrase: nagpadala ng regalo."},
+    {"type": "mcq", "prompt": "'Pinaluto ko si Ben ng adobo.' Who actually cooked?", "choices": ["I did", "Ben did", "Both of us", "Nobody yet"], "answer": 1, "explain": "Pa--in focuses the person made to do it: si Ben is the one who was had to cook. The speaker only caused it."},
+    {"type": "listen", "tl": "Ipapagawa namin ang sirang pinto sa karpintero sa susunod na linggo.", "prompt": "What is the plan?", "choices": ["They will fix the broken door themselves next week", "They will have the carpenter make/fix the broken door next week", "The carpenter broke the door last week", "They will buy a new door from the carpenter"], "answer": 1, "explain": "Ipapagawa (contemplated ipa-) means they'll have it made/fixed by someone else — the carpenter, marked with sa."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I'll get a haircut before the party.", "answer": "Magpapagupit ako bago ang handaan.", "accept": ["Magpapagupit ako bago ang handaan", "Magpapagupit ako bago ang party", "Bago ang handaan, magpapagupit ako"], "explain": "Getting a haircut is magpagupit; the contemplated aspect doubles pa-: magpapagupit."},
+    {"type": "mcq", "prompt": "Which sentence means 'Have Grandma take her medicine'?", "choices": ["Uminom si Lola ng gamot.", "Painumin mo ng gamot si Lola.", "Ininom ni Lola ang gamot.", "Magpainom ka kay Lola."], "answer": 1, "explain": "Painumin (pa--in) focuses the person being made to drink: Painumin mo ng gamot si Lola. The others describe Grandma drinking on her own."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Nagpaluto kami ng pansit kay Aling Curing para sa kaarawan ni Lolo.", "answer": "We had Aling Curing cook pansit for Grandpa's birthday.", "accept": ["We had Aling Curing cook pansit for Grandpa's birthday", "We had pansit cooked by Aling Curing for Grandpa's birthday", "We asked Aling Curing to cook pansit for Grandpa's birthday"], "explain": "Magpa- + sa/kay marks the actual cook (Aling Curing); the causers (kami) are in focus."},
+    {"type": "fill", "prompt": "Marumi na ang mga kumot. ___ na lang natin sa labahan. (Let's just have them washed)", "answer": "ipalaba", "accept": ["ipalaba"], "hint": "ipa- verb from laba, infinitive after natin.", "explain": "The blankets are the definite focus, so ipa-: Ipalaba na lang natin ang mga kumot sa labahan."},
+    {"type": "listen", "tl": "Nagpamasahe ako kahapon kasi masakit ang likod ko pagkatapos ng mahabang biyahe.", "prompt": "Why did the speaker get a massage?", "choices": ["Because they were sleepy", "Because their back hurt after a long trip", "Because the massage was free", "Because a friend recommended it"], "answer": 1, "explain": "Nagpamasahe = got a massage; kasi masakit ang likod (their back hurt) pagkatapos ng mahabang biyahe (after the long trip)."},
+    {"type": "translate", "direction": "en2tl", "prompt": "We will have the whole house cleaned on Friday.", "answer": "Magpapalinis kami ng buong bahay sa Biyernes.", "accept": ["Magpapalinis kami ng buong bahay sa Biyernes", "Ipapalinis namin ang buong bahay sa Biyernes", "Magpapalinis tayo ng buong bahay sa Biyernes", "Ipapalinis natin ang buong bahay sa Biyernes"], "explain": "Either actor causative (magpapalinis kami ng...) or thing-focus causative (ipapalinis namin ang...) works; both mean having the house cleaned by someone else."}
+  ]
+}

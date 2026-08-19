@@ -1,0 +1,107 @@
+{
+  "id": "a2-u09",
+  "title": "Have you ever...? Stories from the past",
+  "objectives": [
+    "Ask and answer 'have you ever' questions with naka-/nakapag- + na ba",
+    "Anchor stories in the past with noong and noon",
+    "Give reasons with kasi and dahil, and contrast with pero/ngunit",
+    "Tell a simple story with biglang, nangyari, and feeling words like natakot"
+  ],
+  "grammar": [
+    {
+      "title": "Naka- and nakapag-: 'have ever' and 'was able to'",
+      "explanation": "To talk about life experience — have you EVER done it? — Tagalog uses naka- forms plus the na...ba combo you know from Unit 5.\n\nFor -um- verbs, replace the infix with naka- on the root: kumain → nakakain, pumunta → nakapunta, sumakay → nakasakay. For mag- verbs, use nakapag-: nag-aral → nakapag-aral, nagtrabaho → nakapagtrabaho.\n\n'Nakapunta ka na ba sa Palawan?' — Have you (ever) been to Palawan?\n'Oo, nakapunta na ako, minsan.' — Yes, I've been, once.\n'Hindi pa ako nakapunta.' — I haven't been (yet). Notice pa keeps the door open — 'not yet' — which is exactly how Filipinos frame it.\n\nThe same forms also mean 'managed to / was able to': 'Nakatulog ka ba kagabi?' — were you able to sleep last night? 'Hindi ako nakapasok kahapon' — I wasn't able to go in yesterday. Context tells you which reading fits.",
+      "examples": [
+        {"tl": "Nakakain ka na ba ng balut?", "en": "Have you ever eaten balut?"},
+        {"tl": "Nakasakay na ako ng eroplano, pero minsan pa lang.", "en": "I've ridden a plane, but only once so far."},
+        {"tl": "Hindi pa ako nakapag-aral ng ibang wika.", "en": "I haven't studied another language yet."},
+        {"tl": "Hindi siya nakapasok kahapon dahil sa lagnat.", "en": "He wasn't able to go in yesterday because of a fever."}
+      ]
+    },
+    {
+      "title": "Noong and noon: setting a story in the past",
+      "explanation": "Kahapon and kanina cover the recent past. For anything further back, the anchor word is noong:\n\nnoong Lunes (last Monday), noong isang linggo (a week ago / last week), noong nakaraang buwan (last month), noong 2020 (in 2020), noong bata ako (when I was a kid).\n\nNoong can also open a whole time clause with a verb: 'Noong nag-aaral ako sa kolehiyo, nakatira ako sa dorm' — when I was studying in college, I lived in a dorm. The main clause uses ordinary completed or incompleted verbs.\n\nOn its own, noon means 'back then / at that time': 'Wala pang cellphone noon' — there were no cellphones back then. A classic storytelling opener is 'Isang araw...' (one day...) followed by completed-aspect verbs, with biglang (suddenly) for the twist: 'Biglang umulan!' — suddenly it rained!",
+      "examples": [
+        {"tl": "Noong bata ako, nakatira kami sa probinsya.", "en": "When I was a kid, we lived in the province."},
+        {"tl": "Nagkita kami noong isang linggo.", "en": "We met up last week."},
+        {"tl": "Mahiyain ako noon, pero madaldal na ako ngayon.", "en": "I was shy back then, but I'm chatty now."},
+        {"tl": "Isang araw, naglalakad ako sa park. Biglang umulan nang malakas!", "en": "One day, I was walking in the park. Suddenly it rained hard!"}
+      ]
+    },
+    {
+      "title": "Kasi, dahil, pero, ngunit: reasons and contrast",
+      "explanation": "Kasi is the everyday 'because'. It can start the reason clause ('Hindi ako sasama, kasi pagod ako') or slip inside it in second position ('Pagod kasi ako'), which is extremely common in Manila speech. Dahil is the slightly more careful 'because'; with a noun it becomes dahil sa: 'dahil sa trapik' — because of the traffic. Before names: dahil kay.\n\nAnswering bakit (why) from A1: 'Bakit ka na-late?' — 'Kasi grabe ang trapik!' or 'Dahil sa trapik po.'\n\nFor contrast you already use pero (but). Ngunit means the same but is formal/written — you'll read it in stories and news, and you can recognize it without needing to say it. In speech, kaso (Unit 5) and pero do the work.\n\nStories also need feeling words, and Tagalog uses na- forms for what happened to you emotionally: natakot ako (I got scared), nagulat ako (I was surprised), natuwa ako (I was delighted), naiyak ako (I was moved to tears). These are completed forms of ma- verbs — just learn them as story vocabulary for now.",
+      "examples": [
+        {"tl": "Hindi kami lumabas kasi umuulan.", "en": "We didn't go out because it was raining."},
+        {"tl": "Na-late ako dahil sa trapik sa EDSA.", "en": "I was late because of the traffic on EDSA."},
+        {"tl": "Gusto kong sumama, ngunit may trabaho ako.", "en": "I want to come along, but I have work. (formal 'but')"},
+        {"tl": "Nagulat ako kasi biglang tumunog ang telepono.", "en": "I was startled because the phone suddenly rang."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "nakapunta na", "en": "have been to", "pos": "phrase", "note": "naka- + punta; hindi pa nakapunta = haven't been", "example": {"tl": "Nakapunta na kami sa Bohol noong 2023.", "en": "We've been to Bohol, back in 2023."}},
+    {"tl": "nakakain na", "en": "have (ever) eaten", "pos": "phrase", "example": {"tl": "Nakakain ka na ba ng durian?", "en": "Have you ever eaten durian?"}},
+    {"tl": "nakasakay na", "en": "have (ever) ridden", "pos": "phrase", "example": {"tl": "Nakasakay na ba kayo ng traysikel?", "en": "Have you ever ridden a tricycle?"}},
+    {"tl": "nakapagtrabaho", "en": "have worked; was able to work", "pos": "phrase", "note": "nakapag- pairs with mag- verbs", "example": {"tl": "Nakapagtrabaho ako sa Singapore noong 2019.", "en": "I worked in Singapore back in 2019."}},
+    {"tl": "noong", "en": "last, back in, when (past)", "pos": "conjunction", "note": "noong Lunes, noong bata ako", "example": {"tl": "Dumating sila noong Sabado.", "en": "They arrived last Saturday."}},
+    {"tl": "noon", "en": "back then, at that time", "pos": "adverb", "example": {"tl": "Mura pa ang pamasahe noon.", "en": "Fares were still cheap back then."}},
+    {"tl": "nakaraan", "en": "past, last (most recent)", "pos": "adjective", "note": "noong nakaraang linggo = last week", "example": {"tl": "Umulan nang malakas noong nakaraang linggo.", "en": "It rained hard last week."}},
+    {"tl": "kasi", "en": "because (casual)", "pos": "conjunction", "note": "often second position: pagod kasi ako", "example": {"tl": "Hindi ako kumain kasi busog pa ako.", "en": "I didn't eat because I was still full."}},
+    {"tl": "dahil", "en": "because", "pos": "conjunction", "note": "dahil sa + noun; dahil kay + name", "example": {"tl": "Na-late kami dahil sa trapik.", "en": "We were late because of the traffic."}},
+    {"tl": "ngunit", "en": "but (formal)", "pos": "conjunction", "note": "written/formal; pero in speech", "example": {"tl": "Mahirap ang trabaho, ngunit masaya ako.", "en": "The work is hard, but I am happy."}},
+    {"tl": "biglang", "en": "suddenly", "pos": "adverb", "note": "bigla + linker; also 'bigla siyang...'", "example": {"tl": "Biglang namatay ang ilaw kagabi.", "en": "The lights suddenly went out last night."}},
+    {"tl": "mangyari (ma)", "en": "to happen", "pos": "verb", "note": "nangyari, nangyayari, mangyayari; Anong nangyari? = what happened?", "example": {"tl": "Anong nangyari sa iyo kahapon?", "en": "What happened to you yesterday?"}},
+    {"tl": "natakot", "en": "got scared", "pos": "verb", "note": "from matakot: natakot, natatakot, matatakot", "example": {"tl": "Natakot ako sa malakas na kulog.", "en": "I got scared by the loud thunder."}},
+    {"tl": "nagulat", "en": "was surprised, startled", "pos": "verb", "note": "from magulat", "example": {"tl": "Nagulat kami sa balita.", "en": "We were surprised by the news."}},
+    {"tl": "natuwa", "en": "was delighted, pleased", "pos": "verb", "note": "from matuwa", "example": {"tl": "Natuwa ang mga bata sa regalo.", "en": "The kids were delighted with the gift."}},
+    {"tl": "nawala", "en": "got lost, disappeared", "pos": "verb", "note": "from mawala; Nawala ang susi ko!", "example": {"tl": "Nawala ang wallet ko sa dyip!", "en": "My wallet disappeared in the jeepney!"}},
+    {"tl": "nahulog", "en": "fell, dropped", "pos": "verb", "note": "from mahulog", "example": {"tl": "Nahulog ang cellphone ko sa hagdan.", "en": "My phone fell down the stairs."}},
+    {"tl": "maalala (ma)", "en": "to remember", "pos": "verb", "note": "naalala, naaalala, maaalala; Naalala ko! = I remember!", "example": {"tl": "Naalala mo ba ang unang araw natin sa trabaho?", "en": "Do you remember our first day at work?"}},
+    {"tl": "karanasan", "en": "experience", "pos": "noun", "example": {"tl": "Magandang karanasan ang pag-aaral sa ibang bansa.", "en": "Studying in another country is a good experience."}},
+    {"tl": "unang beses", "en": "first time", "pos": "phrase", "example": {"tl": "Unang beses kong sumakay ng bangka noon.", "en": "That was my first time riding a boat."}},
+    {"tl": "ibang bansa", "en": "another country, abroad", "pos": "phrase", "note": "sa ibang bansa = abroad", "example": {"tl": "Nagtrabaho ang tatay ko sa ibang bansa noon.", "en": "My dad worked abroad back then."}},
+    {"tl": "eroplano", "en": "airplane", "pos": "noun", "example": {"tl": "Sumakay kami ng eroplano papuntang Davao.", "en": "We took a plane to Davao."}},
+    {"tl": "bangka", "en": "boat", "pos": "noun", "example": {"tl": "Maganda ang isla, pero matagal ang biyahe sa bangka.", "en": "The island is beautiful, but the boat trip takes long."}},
+    {"tl": "biyahe", "en": "trip, journey", "pos": "noun", "note": "magbiyahe = to travel", "example": {"tl": "Kumusta ang biyahe ninyo?", "en": "How was your trip?"}},
+    {"tl": "tabing-dagat", "en": "beach, seaside", "pos": "noun", "example": {"tl": "Nagbakasyon kami sa tabing-dagat noong Abril.", "en": "We vacationed at the beach last April."}},
+    {"tl": "isla", "en": "island", "pos": "noun", "example": {"tl": "Maraming magagandang isla sa Pilipinas.", "en": "There are many beautiful islands in the Philippines."}},
+    {"tl": "totoo", "en": "true, real", "pos": "adjective", "note": "Totoo ba? = really? is it true?", "example": {"tl": "Totoo ang kuwento niya, hindi biro.", "en": "His story is true, not a joke."}},
+    {"tl": "grabe", "en": "extreme, intense; wow", "pos": "adjective", "note": "very common exclamation: Grabe!", "example": {"tl": "Grabe ang init noong Abril!", "en": "The heat last April was intense!"}}
+  ],
+  "dialogue": {
+    "title": "The boat story",
+    "context": "Officemates Cielo and Marco are eating lunch. Cielo just got back from a vacation in Palawan.",
+    "lines": [
+      {"speaker": "Marco", "tl": "Kumusta ang bakasyon mo sa Palawan? Nakapunta na ako doon noong 2022.", "en": "How was your vacation in Palawan? I've been there, back in 2022."},
+      {"speaker": "Cielo", "tl": "Grabe, ang ganda! Pero may nakakatawang nangyari sa amin.", "en": "Wow, so beautiful! But something funny happened to us."},
+      {"speaker": "Marco", "tl": "Talaga? Anong nangyari?", "en": "Really? What happened?"},
+      {"speaker": "Cielo", "tl": "Isang araw, sumakay kami ng bangka papunta sa maliit na isla.", "en": "One day, we took a boat to a small island."},
+      {"speaker": "Cielo", "tl": "Maganda ang panahon noong umalis kami. Pero biglang umulan nang malakas!", "en": "The weather was nice when we left. But suddenly it rained hard!"},
+      {"speaker": "Marco", "tl": "Naku! Natakot ba kayo?", "en": "Oh no! Were you scared?"},
+      {"speaker": "Cielo", "tl": "Natakot ako nang konti, kasi unang beses kong sumakay ng bangka.", "en": "I was a little scared, because it was my first time riding a boat."},
+      {"speaker": "Cielo", "tl": "Tapos, nahulog pa ang tsinelas ko sa dagat!", "en": "Then my flip-flop even fell into the sea!"},
+      {"speaker": "Marco", "tl": "Hala! Tapos, anong ginawa mo?", "en": "Oh no! Then what did you do?"},
+      {"speaker": "Cielo", "tl": "Wala! Naglakad ako sa isla nang nakatsinelas sa isang paa lang. Natawa ang lahat.", "en": "Nothing! I walked around the island wearing a flip-flop on just one foot. Everyone laughed."},
+      {"speaker": "Marco", "tl": "Naalala ko tuloy ang biyahe namin noon. Nawala rin ang sombrero ko sa hangin!", "en": "That reminds me of our trip back then. My hat got lost in the wind too!"},
+      {"speaker": "Cielo", "tl": "Talaga? Pareho pala tayo ng karanasan! Sa susunod, sasama ka sa amin.", "en": "Really? So we've had the same experience! Next time, you're coming with us."},
+      {"speaker": "Marco", "tl": "Sige! Gusto ko nang bumalik doon.", "en": "Deal! I want to go back there already."}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "How do you ask 'Have you ever been to Palawan?'", "choices": ["Pumunta ka ba sa Palawan?", "Nakapunta ka na ba sa Palawan?", "Pupunta ka na ba sa Palawan?", "Puntahan mo ba ang Palawan?"], "answer": 1, "explain": "Experience questions use naka- + na ba: nakapunta ka na ba. Pumunta ka ba just asks about one specific past trip."},
+    {"type": "mcq", "prompt": "The natural way to say 'I haven't tried eating balut yet' is:", "choices": ["Hindi na ako nakakain ng balut.", "Hindi pa ako nakakain ng balut.", "Hindi ako kumain ng balut.", "Ayaw ko ng balut."], "answer": 1, "explain": "Hindi pa + naka- form = not yet in one's experience. Hindi na would mean 'no longer.'"},
+    {"type": "fill", "prompt": "Turn nag-aral into its experiential form: Hindi pa ako ___ ng ibang wika.", "answer": "nakapag-aral", "accept": ["nakapag-aral", "nakapagaral"], "hint": "mag- verbs take nakapag-.", "explain": "Mag- verbs form the experiential/abilitative with nakapag-: nakapag-aral."},
+    {"type": "fill", "prompt": "Dumating sila ___ Sabado. (They arrived last Saturday.)", "answer": "noong", "accept": ["noong"], "explain": "Noong anchors events in the non-recent past: noong Sabado, noong 2020, noong bata ako."},
+    {"type": "mcq", "prompt": "'Wala pang cellphone noon.' What does noon mean here?", "choices": ["later", "back then", "right now", "tomorrow"], "answer": 1, "explain": "Noon on its own means 'at that time / back then' — there were no cellphones yet then."},
+    {"type": "listen", "tl": "Noong bata ako, nakatira kami sa probinsya. Lumipat kami sa Maynila noong 2015.", "prompt": "What does the speaker say?", "choices": ["They lived in the province as a child and moved to Manila in 2015.", "They were born in Manila and moved to the province.", "They will move to Manila in 2015.", "They visit the province every year."], "answer": 0, "explain": "Noong bata ako = when I was a child; lumipat... noong 2015 = we moved to Manila in 2015."},
+    {"type": "fill", "prompt": "Bakit ka na-late? — ___ sa trapik po!", "answer": "Dahil", "accept": ["dahil", "Dahil"], "hint": "because of + noun", "explain": "With a noun, 'because of' is dahil sa: dahil sa trapik. Kasi would need a clause."},
+    {"type": "mcq", "prompt": "Which 'but' would you expect in a written short story rather than casual chat?", "choices": ["kaso", "pero", "ngunit", "naman"], "answer": 2, "explain": "Ngunit is the formal, written 'but'; pero and kaso rule everyday speech."},
+    {"type": "mcq", "prompt": "'Pagod kasi ako.' Where has kasi been placed?", "choices": ["Sentence-initial, which is required", "Second position inside the reason clause — very common in speech", "At the end, which is a mistake", "It replaces the verb"], "answer": 1, "explain": "Kasi loves second position: Pagod kasi ako = (it's) because I'm tired."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Have you ever ridden a plane?", "answer": "Nakasakay ka na ba ng eroplano?", "accept": ["Nakasakay ka na ba ng eroplano", "Nakasakay ka na ba sa eroplano", "Nakasakay na ba kayo ng eroplano"], "explain": "Naka- form of sumakay + na ba asks about life experience; the vehicle takes ng."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Nagulat ako kasi biglang nawala ang ilaw.", "answer": "I was startled because the lights suddenly went out.", "accept": ["I was startled because the lights suddenly went out", "I was surprised because the light suddenly disappeared", "I was surprised because suddenly the lights went out"], "explain": "Nagulat = was startled; kasi gives the reason; biglang nawala = suddenly disappeared/went out."},
+    {"type": "translate", "direction": "en2tl", "prompt": "When I was a kid, we lived in the province.", "answer": "Noong bata ako, nakatira kami sa probinsya.", "accept": ["Noong bata ako, nakatira kami sa probinsya", "Noong bata pa ako, nakatira kami sa probinsya", "Nakatira kami sa probinsya noong bata ako"], "explain": "Noong + clause sets the past time frame; nakatira (residing) describes the ongoing state."},
+    {"type": "mcq", "prompt": "Complete the story naturally: 'Naglalakad ako sa park. ___ umulan nang malakas!'", "choices": ["Biglang", "Kasingbiglang", "Pinakabiglang", "Nakabiglang"], "answer": 0, "explain": "Biglang (suddenly) is the storytelling pivot word: biglang umulan = suddenly it rained."},
+    {"type": "listen", "tl": "Nakapunta na ako sa Bohol, pero hindi pa ako nakapunta sa Siargao.", "prompt": "Which is true of the speaker?", "choices": ["Has been to Bohol, not yet to Siargao", "Has been to Siargao, not yet to Bohol", "Has been to both", "Has been to neither"], "answer": 0, "explain": "Nakapunta na... pero hindi pa nakapunta: Bohol yes, Siargao not yet."}
+  ]
+}

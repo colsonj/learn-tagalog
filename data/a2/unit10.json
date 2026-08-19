@@ -1,0 +1,103 @@
+{
+  "id": "a2-u10",
+  "title": "Giving, planning ahead, and putting it all together",
+  "objectives": [
+    "Use i- verbs lightly: ibigay, ibili, iluto, iabot",
+    "Talk about the future in detail with kapag + contemplated aspect",
+    "Share dreams and plans: mag-ipon, pangarap, balang araw",
+    "Review the whole level: the focus system, particles, and connectors"
+  ],
+  "grammar": [
+    {
+      "title": "The i- verbs: what you hand over, and who you do it for",
+      "explanation": "The last verb family of this level is i-. Its core job: point ang at the thing that gets moved, handed over, or given — grammarians call it the theme.\n\nIbigay (give): 'Ibinigay ko ang libro kay Ana' — I gave the book to Ana. The thing given (ang libro) is the focus; the receiver takes kay/sa. Aspects: ibinigay, ibinibigay, ibibigay. Same shape for iabot (hand over): 'Iniabot niya sa akin ang susi.'\n\nWith some verbs, i- instead points at the person you do something FOR — a benefactive. The star example is ibili: 'Ibili mo ako ng tubig' — buy me some water (literally: buy-for me some water). 'Ibibili ko si Nanay ng regalo' — I'll buy Mom a present. Iluto works the same way in everyday Manila speech: 'Iniluto niya kami ng sinigang' — she cooked sinigang for us.\n\nDon't try to master every i- verb yet — B1 digs deeper. For now, own these four and notice the pattern: the focused ang-phrase is either the thing transferred (ibigay, iabot) or the lucky person (ibili, iluto).",
+      "examples": [
+        {"tl": "Ibinigay ko na ang regalo kay Carla.", "en": "I already gave the gift to Carla."},
+        {"tl": "Iabot mo nga sa akin ang asin.", "en": "Hand me the salt, please."},
+        {"tl": "Ibili mo naman ako ng kape sa kanto.", "en": "Buy me a coffee at the corner, will you?"},
+        {"tl": "Ibibili kita ng pasalubong galing sa Cebu.", "en": "I'll buy you a pasalubong from Cebu."}
+      ]
+    },
+    {
+      "title": "Kapag + contemplated: when X happens, I'll Y",
+      "explanation": "For future 'when/if' situations, use kapag (often shortened to pag in speech) plus verbs in their basic or contemplated form:\n\n'Kapag may pera na ako, bibili ako ng sariling bahay.' — When I have money, I'll buy my own house.\n'Kapag natapos ko ang kurso, magtatrabaho ako sa ibang bansa.' — When I finish the course, I'll work abroad.\n\nKapag is for future or habitual situations; noong (Unit 9) is its past-time mirror. Compare: 'Kapag umuulan, nagbabasa lang ako sa bahay' (whenever it rains — habit) vs 'Noong umulan, nagbasa lang ako' (when it rained — one past event).\n\nRound out your future talk with the phrases Filipinos actually use for plans and dreams: sa susunod na taon (next year), balang araw (someday), 'Pangarap kong...' (it's my dream to...), 'Mag-iipon ako para sa...' (I'll save up for...). And remember balak and gusto + linker from Unit 5: 'Balak kong magsimula ng maliit na negosyo.'",
+      "examples": [
+        {"tl": "Kapag may bakasyon ako, pupuntahan ko ang pamilya ko sa Iloilo.", "en": "When I have vacation time, I'll visit my family in Iloilo."},
+        {"tl": "Pag natuto akong magmaneho, ibibili ko ng kotse ang sarili ko... balang araw!", "en": "Once I learn to drive, I'll buy myself a car... someday!"},
+        {"tl": "Pangarap kong magkaroon ng sariling bahay bago ako mag-40.", "en": "It's my dream to have my own house before I turn 40."},
+        {"tl": "Mag-iipon kami ngayong taon kasi magpapakasal kami sa susunod na taon.", "en": "We're saving up this year because we're getting married next year."}
+      ]
+    },
+    {
+      "title": "The focus system: one event, four ways (level review)",
+      "explanation": "Time to see the whole machine you've built this level. Take one event — I bought a gift for Mom at the market — and watch the verb choose what ang points to:\n\nActor: Bumili ako ng regalo para kay Nanay sa palengke. (I bought a gift...)\nObject: Binili ko ang regalo sa palengke. (the specific gift is the point)\nPlace: Pinuntahan ko ang palengke. (the market is the point)\nBeneficiary: Ibinili ko si Nanay ng regalo. (Mom is the point)\n\nSame trip to the market every time. The verb affix (-um-, -in, -an, i-) is like a spotlight switch, and every phrase not under the spotlight falls back to ng or sa. This is why you cannot translate 'the' and 'a' directly from English — definiteness rides on the focus choice.\n\nHow to choose in practice: start from what the sentence is ABOUT. Talking about what you did? Actor focus. About that thing? Object focus. Answering 'para kanino?' Beneficiary. Most learner errors are just mismatched pronouns — so drill the flip: actor focus takes ako/si, everything else demotes the actor to ko/ni.",
+      "examples": [
+        {"tl": "Nagluto si Ben ng adobo. / Niluto ni Ben ang adobo. / Iniluto ni Ben ng adobo ang mga bisita.", "en": "Ben cooked adobo. / Ben cooked the adobo. / Ben cooked adobo for the guests."},
+        {"tl": "Pumunta ako sa bagong mall. / Pinuntahan ko ang bagong mall.", "en": "I went to a new mall. / I went to the new mall."},
+        {"tl": "Nagbigay kami ng pera sa simbahan. / Ibinigay namin ang pera sa simbahan.", "en": "We gave money to the church. / We gave the money to the church."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "ibigay (i-)", "en": "to give (something)", "pos": "verb", "note": "ibinigay, ibinibigay, ibibigay", "example": {"tl": "Ibibigay ko ito sa iyo bukas.", "en": "I'll give this to you tomorrow."}},
+    {"tl": "iabot (i-)", "en": "to hand over, pass (something)", "pos": "verb", "note": "iniabot, iniaabot, iaabot", "example": {"tl": "Iniabot niya sa akin ang sulat.", "en": "She handed me the letter."}},
+    {"tl": "ibili (i-)", "en": "to buy for (someone)", "pos": "verb", "note": "ibinili, ibinibili, ibibili; Ibili mo ako ng... = buy me...", "example": {"tl": "Ibinili niya ng sapatos ang anak niya.", "en": "She bought her child shoes."}},
+    {"tl": "iluto (i-)", "en": "to cook for (someone)", "pos": "verb", "note": "iniluto, iniluluto, iluluto", "example": {"tl": "Iluluto kita ng pancit sa kaarawan mo.", "en": "I'll cook you pancit on your birthday."}},
+    {"tl": "ituro (i-)", "en": "to teach, to point out", "pos": "verb", "note": "itinuro, itinuturo, ituturo", "example": {"tl": "Ituro mo sa akin ang daan, ha?", "en": "Show me the way, okay?"}},
+    {"tl": "kapag", "en": "when, whenever, if (future/habit)", "pos": "conjunction", "note": "shortened to pag in speech", "example": {"tl": "Kapag Sabado, naglilinis kami ng bahay.", "en": "On Saturdays (whenever it's Saturday), we clean the house."}},
+    {"tl": "balang araw", "en": "someday", "pos": "phrase", "example": {"tl": "Balang araw, pupunta ako sa Japan.", "en": "Someday, I'll go to Japan."}},
+    {"tl": "sa susunod na taon", "en": "next year", "pos": "phrase", "example": {"tl": "Magtatapos ako sa kolehiyo sa susunod na taon.", "en": "I'll graduate from college next year."}},
+    {"tl": "pangarap", "en": "dream, ambition", "pos": "noun", "note": "Pangarap kong... = it's my dream to...", "example": {"tl": "Pangarap kong maging doktor.", "en": "It's my dream to become a doctor."}},
+    {"tl": "mag-ipon (mag)", "en": "to save (money)", "pos": "verb", "note": "nag-ipon, nag-iipon, mag-iipon", "example": {"tl": "Nag-iipon ako para sa bagong laptop.", "en": "I'm saving up for a new laptop."}},
+    {"tl": "magtipid (mag)", "en": "to economize, be thrifty", "pos": "verb", "note": "nagtipid, nagtitipid, magtitipid", "example": {"tl": "Magtitipid muna kami ngayong buwan.", "en": "We'll cut back on spending this month."}},
+    {"tl": "magsimula (mag)", "en": "to start, begin", "pos": "verb", "note": "nagsimula, nagsisimula, magsisimula", "example": {"tl": "Magsisimula ang klase sa Hunyo.", "en": "Classes will start in June."}},
+    {"tl": "matuto (ma)", "en": "to learn", "pos": "verb", "note": "natuto, natututo, matututo", "example": {"tl": "Gusto kong matutong magluto ng kare-kare.", "en": "I want to learn to cook kare-kare."}},
+    {"tl": "lumipat (um)", "en": "to move (house), transfer", "pos": "verb", "note": "lumipat, lumilipat, lilipat", "example": {"tl": "Lilipat kami sa mas malaking bahay.", "en": "We're moving to a bigger house."}},
+    {"tl": "magpakasal (mag)", "en": "to get married", "pos": "verb", "note": "nagpakasal, nagpapakasal, magpapakasal", "example": {"tl": "Magpapakasal sila sa Pebrero.", "en": "They're getting married in February."}},
+    {"tl": "magkaroon (mag)", "en": "to come to have, get", "pos": "verb", "note": "nagkaroon, nagkakaroon, magkakaroon", "example": {"tl": "Gusto naming magkaroon ng sariling tindahan.", "en": "We want to have our own store."}},
+    {"tl": "sarili(ng)", "en": "own (one's own)", "pos": "adjective", "note": "sariling bahay = own house", "example": {"tl": "May sarili na siyang kotse.", "en": "He has his own car now."}},
+    {"tl": "handa", "en": "ready, prepared; food spread", "pos": "adjective", "note": "Handa na ako = I'm ready", "example": {"tl": "Handa ka na ba sa exam?", "en": "Are you ready for the exam?"}},
+    {"tl": "Pasko", "en": "Christmas", "pos": "noun", "note": "Maligayang Pasko! = Merry Christmas!", "example": {"tl": "Uuwi kami sa probinsya tuwing Pasko.", "en": "We go home to the province every Christmas."}},
+    {"tl": "Bagong Taon", "en": "New Year", "pos": "noun", "example": {"tl": "Maraming pagkain tuwing Bagong Taon.", "en": "There's lots of food every New Year."}},
+    {"tl": "aginaldo", "en": "Christmas gift (often money)", "pos": "noun", "note": "elders give aginaldo to kids at Christmas", "example": {"tl": "Nagbigay ng aginaldo si Lolo sa mga apo.", "en": "Grandpa gave the grandkids Christmas money."}},
+    {"tl": "resolusyon", "en": "(New Year's) resolution", "pos": "noun", "example": {"tl": "Ano ang resolusyon mo sa Bagong Taon?", "en": "What's your New Year's resolution?"}},
+    {"tl": "sigurado", "en": "sure, certain", "pos": "adjective", "example": {"tl": "Sigurado ka bang darating siya?", "en": "Are you sure he's coming?"}},
+    {"tl": "magbago (mag)", "en": "to change", "pos": "verb", "note": "nagbago, nagbabago, magbabago", "example": {"tl": "Magbabago na ako ngayong taon!", "en": "I'm going to change this year!"}}
+  ],
+  "dialogue": {
+    "title": "Noche Buena plans and New Year dreams",
+    "context": "It's late December. Cousins Dessa and Miko are preparing for the family's Christmas Eve feast while talking about the coming year.",
+    "lines": [
+      {"speaker": "Dessa", "tl": "Miko, iabot mo nga ang malaking pinggan. Ilalagay ko rito ang pancit.", "en": "Miko, hand me the big plate, please. I'll put the pancit on it."},
+      {"speaker": "Miko", "tl": "Eto. Uy, ang dami mong niluto! Para kanino ang kare-kare?", "en": "Here. Wow, you cooked so much! Who's the kare-kare for?"},
+      {"speaker": "Dessa", "tl": "Iniluto ko ang buong pamilya, siyempre. Pero para talaga kay Lola ang kare-kare. Paborito niya.", "en": "I cooked for the whole family, of course. But the kare-kare is really for Grandma. It's her favorite."},
+      {"speaker": "Miko", "tl": "Ibinili ko naman ng regalo ang lahat ng pamangkin natin. Sampu silang lahat!", "en": "And I bought presents for all our nieces and nephews. There are ten of them!"},
+      {"speaker": "Dessa", "tl": "Naku, gastos! Pero okay lang, minsan lang naman ang Pasko.", "en": "Wow, expensive! But that's fine, Christmas only comes once a year."},
+      {"speaker": "Miko", "tl": "Oo. Pero magtitipid na ako pagkatapos ng Bagong Taon. Iyon ang resolusyon ko.", "en": "Yes. But I'm going to be thrifty after New Year. That's my resolution."},
+      {"speaker": "Dessa", "tl": "Talaga? Bakit naman?", "en": "Really? Why?"},
+      {"speaker": "Miko", "tl": "Mag-iipon ako. Kapag may sapat na akong pera, magsisimula ako ng maliit na negosyo.", "en": "I'm going to save up. When I have enough money, I'll start a small business."},
+      {"speaker": "Dessa", "tl": "Ang galing! Ano ang negosyo?", "en": "That's great! What business?"},
+      {"speaker": "Miko", "tl": "Coffee shop, siguro. Pangarap ko iyon mula pa noong nag-aaral ako sa kolehiyo.", "en": "A coffee shop, maybe. It's been my dream since I was in college."},
+      {"speaker": "Dessa", "tl": "Sige, kapag nagbukas ka na, ituturo ko sa lahat ng kaibigan ko ang tindahan mo!", "en": "Okay, once you open, I'll point all my friends to your shop!"},
+      {"speaker": "Miko", "tl": "At ibibigay ko sa iyo ang unang tasa ng kape. Libre!", "en": "And I'll give you the first cup of coffee. Free!"},
+      {"speaker": "Dessa", "tl": "Deal! O, handa na ang lahat. Tawagin mo na sila. Kakain na tayo!", "en": "Deal! Okay, everything's ready. Call everyone. We're about to eat!"},
+      {"speaker": "Miko", "tl": "Maligayang Pasko, pinsan!", "en": "Merry Christmas, cousin!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "In 'Ibinigay ko ang libro kay Ana', what does ang mark?", "choices": ["The giver", "The thing given", "The receiver", "The place"], "answer": 1, "explain": "I- verbs like ibigay focus the theme — the thing handed over. The receiver takes kay/sa, the giver drops to ko."},
+    {"type": "fill", "prompt": "___ mo ako ng tubig sa tindahan. (Buy me some water at the store.)", "answer": "Ibili", "accept": ["ibili", "Ibili"], "hint": "the benefactive i- verb", "explain": "Ibili points the focus at the person benefited: ibili mo ako = buy (for) me."},
+    {"type": "mcq", "prompt": "Which is the contemplated form of ibigay?", "choices": ["ibinigay", "ibinibigay", "ibibigay", "nagbigay"], "answer": 2, "explain": "Ibibigay = will give. Ibinigay is completed, ibinibigay incompleted, nagbigay is the actor-focus verb."},
+    {"type": "fill", "prompt": "___ may pera na ako, bibili ako ng sariling bahay. (When I have money...)", "answer": "Kapag", "accept": ["kapag", "Kapag", "pag", "Pag"], "explain": "Kapag (or casual pag) sets up a future/habitual 'when'; the main clause uses the contemplated bibili."},
+    {"type": "mcq", "prompt": "Kapag vs noong: which sentence is correct?", "choices": ["Kapag bata ako, nakatira kami sa Cebu.", "Noong bata ako, nakatira kami sa Cebu.", "Noong may pera na ako, bibili ako ng kotse.", "Kapag kahapon, umulan nang malakas."], "answer": 1, "explain": "Past time clauses take noong (noong bata ako); kapag is reserved for future or habitual situations."},
+    {"type": "listen", "tl": "Ibinili ko ng regalo ang lahat ng pamangkin ko noong Pasko.", "prompt": "What did the speaker do?", "choices": ["Bought presents for all their nieces and nephews at Christmas", "Received presents from their nieces and nephews", "Gave money to their grandparents", "Sold gifts at Christmas"], "answer": 0, "explain": "Ibinili focuses the beneficiaries (ang lahat ng pamangkin ko): the speaker bought them all presents."},
+    {"type": "mcq", "prompt": "REVIEW (U2/U6/U10): Same market trip, four verbs. Which one makes 'the market' the focused ang-phrase?", "choices": ["Bumili ako ng regalo sa palengke.", "Binili ko ang regalo sa palengke.", "Pinuntahan ko ang palengke.", "Ibinili ko si Nanay ng regalo."], "answer": 2, "explain": "-an verbs focus the place: pinuntahan ko ANG PALENGKE. The others focus the actor, the object, and the beneficiary."},
+    {"type": "fill", "prompt": "REVIEW (U4): Kailangan ___ mag-ipon para sa negosyo. (I need to save up for the business.)", "answer": "kong", "accept": ["kong"], "explain": "Kailangan takes the ng-form actor plus linker before a verb: kailangan kong mag-ipon."},
+    {"type": "translate", "direction": "en2tl", "prompt": "When I finish the course, I'll work abroad.", "answer": "Kapag natapos ko ang kurso, magtatrabaho ako sa ibang bansa.", "accept": ["Kapag natapos ko ang kurso, magtatrabaho ako sa ibang bansa", "Pag natapos ko ang kurso, magtatrabaho ako sa ibang bansa", "Kapag tapos na ako sa kurso, magtatrabaho ako sa ibang bansa"], "explain": "Kapag + the finishing event, then contemplated magtatrabaho for the future plan; sa ibang bansa = abroad."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Pangarap kong magkaroon ng sariling coffee shop balang araw.", "answer": "It's my dream to have my own coffee shop someday.", "accept": ["It's my dream to have my own coffee shop someday", "My dream is to have my own coffee shop someday", "I dream of having my own coffee shop one day"], "explain": "Pangarap ko + linker + verb frames the ambition; sariling = own; balang araw = someday."},
+    {"type": "mcq", "prompt": "REVIEW (U5): Your friend invites you out but you're busy. The politest decline is:", "choices": ["Ayaw ko.", "Hindi ako sasama, umalis ka na.", "Gusto ko sana, kaso may lakad ako. Sa susunod na lang, ha?", "Bawal ako."], "answer": 2, "explain": "The soft formula from Unit 5: gusto ko sana + reason + sa susunod na lang keeps the friendship warm."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Hand me the salt, please.", "answer": "Pakiabot po ang asin.", "accept": ["Pakiabot po ang asin", "Pakiabot ang asin", "Iabot mo nga ang asin", "Iabot mo sa akin ang asin", "Pakiabot po ng asin"], "explain": "Paki- (Unit 6) or iabot mo nga both work; the i- verb focuses the thing handed over."},
+    {"type": "listen", "tl": "Magtitipid kami ngayong taon kasi magpapakasal kami sa susunod na taon.", "prompt": "Why are they cutting back on spending?", "choices": ["They are moving abroad", "They are getting married next year", "They lost their jobs", "They are building a coffee shop"], "answer": 1, "explain": "Kasi gives the reason: magpapakasal kami sa susunod na taon — they're getting married next year."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I'll give the gift to Grandma when she arrives.", "answer": "Ibibigay ko ang regalo kay Lola kapag dumating siya.", "accept": ["Ibibigay ko ang regalo kay Lola kapag dumating siya", "Ibibigay ko kay Lola ang regalo kapag dumating siya", "Kapag dumating si Lola, ibibigay ko ang regalo sa kaniya", "Kapag dumating si Lola, ibibigay ko sa kaniya ang regalo"], "explain": "Ibibigay (contemplated i- verb) focuses the gift; kay Lola marks the receiver; kapag + dumating sets the future condition."}
+  ]
+}

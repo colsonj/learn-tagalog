@@ -1,0 +1,129 @@
+{
+  "id": "b1-u05",
+  "title": "The little words: nga, pala, yata, kaya, sana, muna, tuloy",
+  "objectives": [
+    "Use nga, pala and yata to confirm, show realization, and hedge",
+    "Wonder aloud with kaya, wish with sana, sequence with muna, show consequence with tuloy",
+    "Stack several particles in the correct order",
+    "Control tone and politeness with particles instead of intonation"
+  ],
+  "grammar": [
+    {
+      "title": "nga, pala, yata",
+      "explanation": "You already use na, pa, lang, din and daw. Here are the next three particles that make speech sound genuinely Filipino.\n\nNga confirms or insists. Oo nga — 'yes indeed, you're right'. Sabi ko nga — 'that's exactly what I said'. In requests it softens and nudges at the same time: Pakiabot mo nga ang asin — 'pass the salt, would you'. And the combination nga pala means 'by the way / oh right, that reminds me': Oo nga pala, may utang pa ako sa iyo.\n\nPala marks surprise or a sudden realization — you just learned something that contradicts what you assumed: Ikaw pala ang bagong kapitbahay! — 'Oh, so YOU'RE the new neighbor!' Ang mahal pala nito — 'oh wow, this is expensive (I didn't realize)'. You met this flavor in daw/pala contrast at A2; now make it active.\n\nYata hedges: 'I think / it seems / if I'm not mistaken'. Wala yata siya sa bahay — 'I don't think she's home'. Sira yata ang aircon — 'the aircon seems to be broken'. It signals honest uncertainty, so it makes statements gentler; overconfident learners should befriend yata early.",
+      "examples": [
+        {"tl": "Oo nga, tama ka. Mahal na talaga ang pamasahe.", "en": "You're right indeed. Fares really are expensive now."},
+        {"tl": "Pakibuksan mo nga ang bintana.", "en": "Open the window, would you."},
+        {"tl": "Oo nga pala, birthday mo bukas! Halos makalimutan ko.", "en": "Oh right, it's your birthday tomorrow! I almost forgot."},
+        {"tl": "Ang galing mo palang magluto!", "en": "Wow, I didn't know you cook this well!"},
+        {"tl": "Umalis na yata sila. Wala nang sasakyan sa garahe.", "en": "I think they've already left. There's no more car in the garage."}
+      ]
+    },
+    {
+      "title": "kaya, sana, muna, tuloy",
+      "explanation": "Kaya as an enclitic particle (different from kaya 'therefore' and kaya 'can', which you know) turns a question into wondering aloud: Sino kaya ang tumawag? — 'I wonder who called?' Uulan kaya bukas? — 'I wonder if it'll rain tomorrow?' It invites the listener to speculate with you.\n\nSana expresses hope or wish: Sana pumasa ako — 'I hope I pass'. Sumama ka sana — 'I wish you'd come along'. With things that didn't happen it becomes regret, which Unit 7 will build into full unreal conditionals. Sana can stand at the front or sit in the enclitic slot.\n\nMuna means 'first / for the time being': Kain muna tayo — 'let's eat first'. Dito ka muna — 'stay here for now'. With huwag it means 'not yet': Huwag mo munang sabihin kay Ana — 'don't tell Ana yet'.\n\nTuloy marks an unwanted consequence: 'as a result / that's why (unfortunately)'. Nagising ako nang tanghali; na-late tuloy ako — 'I woke up late; so of course I ended up late'. It has a rueful flavor — the result is usually something you're not happy about.",
+      "examples": [
+        {"tl": "Ano kaya ang sorpresa nila para sa atin?", "en": "I wonder what their surprise for us is?"},
+        {"tl": "Sana hindi umulan sa piknik natin bukas.", "en": "I hope it doesn't rain on our picnic tomorrow."},
+        {"tl": "Maligo ka muna bago tayo umalis.", "en": "Take a shower first before we leave."},
+        {"tl": "Huwag muna nating buksan ang mga regalo.", "en": "Let's not open the presents yet."},
+        {"tl": "Naiwan ko ang payong; nabasa tuloy ako sa ulan.", "en": "I left my umbrella behind; so of course I got soaked in the rain."}
+      ]
+    },
+    {
+      "title": "Stacking particles: the order of the little words",
+      "explanation": "Particles cluster in the second position of the sentence, right after the first word, and they come in a fixed order. The working rules:\n\n1. Short (one-syllable) pronouns come first: ka, ko, mo. Mabait ka naman — not 'mabait naman ka'.\n2. Then one-syllable particles, roughly in the order na/pa before nga before din/rin before lang, with po and ba near the end of the short group.\n3. Then two-syllable pronouns (ako, kami, siya...) and finally two-syllable particles: naman, kaya, pala, yata, daw/raw, muna, sana, tuloy.\n\nYou don't need the full table — you need the common combinations, which are practically words of their own: na nga (indeed already: Tapos na nga), nga pala (by the way), na naman (again: Umuulan na naman), pa rin (still: Mahal pa rin), na lang (just/instead: Ikaw na lang), na yata (I think already), pa kaya (I wonder if still), ka na ba (Kumain ka na ba?), mo na lang muna (just ... for now: Iwan mo na lang muna diyan).\n\nHear the machinery in one sentence: Ikaw na nga pala ang bagong presidente ng samahan! — 'Oh right, YOU'RE the new president of the association now!' — pronoun ikaw, then na, then nga, then pala, each in its slot.",
+      "examples": [
+        {"tl": "Tapos ka na ba sa trabaho mo?", "en": "Are you done with your work?"},
+        {"tl": "Umuulan na naman. Nakakainis tuloy bumiyahe.", "en": "It's raining again. Commuting is annoying as a result."},
+        {"tl": "Mahal pa rin yata ang mangga sa palengke.", "en": "I think mangoes at the market are still expensive."},
+        {"tl": "Ikaw na lang muna ang magbantay sa tindahan.", "en": "You mind the store for now."},
+        {"tl": "Kumain ka na nga pala? Sayang, nagluto ako.", "en": "Oh right, you've already eaten? Too bad, I cooked."}
+      ]
+    },
+    {
+      "title": "Tone control: what English does with intonation, Tagalog does with particles",
+      "explanation": "English speakers show reluctance, warmth or annoyance mostly by melody; Tagalog packs a lot of it into the particle slot, so the same words with different particles carry a completely different attitude.\n\nCompare: Sige. (Okay.) — plain agreement. Sige na. (Come on / go ahead already.) — urging. Sige na nga. (Oh, fine.) — reluctant surrender, the standard way to give in gracefully: Sige na nga, sasama na ako. Or take teka (hang on): Teka lang — just a second; Teka nga — wait a minute (I want to check that claim).\n\nNaman, which you know as mild contrast, also softens complaints and compliments: Ang ganda naman! (How lovely!) versus Ikaw naman! (Oh, you! / Come on now). Nga makes requests friendlier but insistent; yata keeps you from sounding cocksure; kaya keeps questions from sounding like interrogation.\n\nA note on tampo: when a Filipino friend answers with unusually few particles — flat 'Sige.', 'Okay lang.' — that flatness itself can signal tampo, the quiet sulk of hurt feelings. The little words are warmth; their absence is a message too.",
+      "examples": [
+        {"tl": "Sige na nga, ikaw na ang manalo.", "en": "Fine, fine, have it your way (you win)."},
+        {"tl": "Teka nga — sino ang nagsabi sa iyo niyan?", "en": "Hang on a minute — who told you that?"},
+        {"tl": "Ang bait mo naman! Salamat talaga.", "en": "How kind of you! Thank you so much."},
+        {"tl": "Ikaw naman, hindi na ako nagtampo.", "en": "Oh come on, I wasn't sulking anymore."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "nga", "en": "indeed; really; (softens requests)", "pos": "particle", "note": "confirms, insists, or nudges: oo nga, pakiabot nga", "example": {"tl": "Sabi ko nga sa iyo, masarap dito.", "en": "I told you, didn't I — the food here is good."}},
+    {"tl": "pala", "en": "so it turns out; oh, I see", "pos": "particle", "note": "marks surprise or realization", "example": {"tl": "Kapatid mo pala si Coach Rey!", "en": "So Coach Rey is your brother!"}},
+    {"tl": "yata", "en": "I think; it seems; probably", "pos": "particle", "note": "hedges a statement with uncertainty", "example": {"tl": "May pasok pa yata si Ana ngayong Sabado.", "en": "I think Ana still has work this Saturday."}},
+    {"tl": "kaya", "en": "I wonder (speculative)", "pos": "particle", "note": "different from kaya 'therefore' and kaya 'can'", "example": {"tl": "Magkano kaya ang upa sa apartment na iyon?", "en": "I wonder how much the rent is for that apartment?"}},
+    {"tl": "sana", "en": "hopefully; I hope/wish", "pos": "particle", "example": {"tl": "Sana makarating kayo sa handaan namin.", "en": "I hope you can make it to our party."}},
+    {"tl": "muna", "en": "first; for now; (with huwag) not yet", "pos": "particle", "example": {"tl": "Magpahinga ka muna bago ka magtrabaho ulit.", "en": "Rest first before you work again."}},
+    {"tl": "tuloy", "en": "as a result; that's why (unfortunately)", "pos": "particle", "note": "marks an unwanted consequence", "example": {"tl": "Nasira ang alarm ko; nahuli tuloy ako sa meeting.", "en": "My alarm broke; so of course I was late to the meeting."}},
+    {"tl": "oo nga", "en": "you're right; yes indeed", "pos": "phrase", "example": {"tl": "Oo nga, ang init talaga ngayong Abril.", "en": "You're right, it really is hot this April."}},
+    {"tl": "oo nga pala", "en": "oh right; that reminds me; by the way", "pos": "phrase", "example": {"tl": "Oo nga pala, kumusta ang interview mo?", "en": "Oh right, how did your interview go?"}},
+    {"tl": "sige na nga", "en": "oh, fine; alright then (reluctant)", "pos": "phrase", "example": {"tl": "Sige na nga, isang kanta lang ako.", "en": "Oh fine, I'll sing just one song."}},
+    {"tl": "na lang", "en": "just; instead", "pos": "phrase", "note": "settles for an option: ikaw na lang, bukas na lang", "example": {"tl": "Wala nang tilapia, bangus na lang ang bilhin mo.", "en": "There's no more tilapia, just buy milkfish instead."}},
+    {"tl": "teka", "en": "wait a second; hang on", "pos": "interjection", "note": "informal, from 'hintay ka'; teka lang, teka muna", "example": {"tl": "Teka lang, kukunin ko lang ang susi ko.", "en": "Hang on, I'll just get my key."}},
+    {"tl": "ano nga ulit", "en": "what was it again?", "pos": "phrase", "example": {"tl": "Ano nga ulit ang pangalan ng kapatid mo?", "en": "What was your sibling's name again?"}},
+    {"tl": "mainip (ma-)", "en": "to get impatient, restless", "pos": "verb", "note": "nainip, naiinip, maiinip", "example": {"tl": "Naiinip na ang mga bata sa mahabang biyahe.", "en": "The kids are getting restless on the long trip."}},
+    {"tl": "umidlip (um)", "en": "to take a nap", "pos": "verb", "note": "umidlip, umiidlip, iidlip", "example": {"tl": "Umidlip muna ako bago tayo lumabas mamaya.", "en": "Let me nap first before we go out later."}},
+    {"tl": "makapanood (maka-)", "en": "to get to watch", "pos": "verb", "note": "nakapanood, nakakapanood, makakapanood", "example": {"tl": "Nakapanood ka ba ng laro kagabi?", "en": "Did you get to watch the game last night?"}},
+    {"tl": "balak", "en": "plan, intention", "pos": "noun", "note": "also a verb: binabalak kong... = I'm planning to...", "example": {"tl": "Ano ang balak mo sa mahabang weekend?", "en": "What's your plan for the long weekend?"}},
+    {"tl": "palabas", "en": "show, movie, performance", "pos": "noun", "example": {"tl": "Anong oras kaya magsisimula ang palabas?", "en": "I wonder what time the show starts?"}},
+    {"tl": "pila", "en": "line, queue", "pos": "noun", "example": {"tl": "Ang haba ng pila sa sinehan!", "en": "The line at the cinema is so long!"}},
+    {"tl": "pumila (um)", "en": "to line up, queue", "pos": "verb", "note": "pumila, pumipila, pipila", "example": {"tl": "Pumila na muna ako habang bumibili ka ng popcorn.", "en": "I'll get in line while you buy popcorn."}},
+    {"tl": "tsismis", "en": "gossip", "pos": "noun", "note": "colloquial; magtsismis = to gossip", "example": {"tl": "Huwag kang maniwala agad sa tsismis.", "en": "Don't believe gossip right away."}},
+    {"tl": "kuwento", "en": "story", "pos": "noun", "example": {"tl": "Mahaba ang kuwento — sa merienda ko na lang ikukuwento.", "en": "It's a long story — I'll just tell it over merienda."}},
+    {"tl": "seryoso", "en": "serious", "pos": "adjective", "example": {"tl": "Seryoso ka ba, o nagbibiro ka na naman?", "en": "Are you serious, or are you joking again?"}},
+    {"tl": "libre", "en": "free (no cost); treat", "pos": "adjective", "note": "Libre ko kayo = my treat", "example": {"tl": "Libre ko na lang kayo ng kape — sahod ko ngayon!", "en": "Coffee's on me — it's payday!"}},
+    {"tl": "abala", "en": "busy; bother, inconvenience", "pos": "adjective", "note": "Pasensiya na sa abala = sorry for the bother", "example": {"tl": "Abala pa yata siya sa trabaho kaya hindi sumasagot.", "en": "I think she's still busy with work, that's why she's not answering."}},
+    {"tl": "tampo", "en": "quiet sulk, hurt feelings", "pos": "noun", "note": "magtampo = to sulk; a very Filipino concept, milder than anger", "example": {"tl": "Nagtampo siya kasi hindi mo nabati sa birthday niya.", "en": "She's sulking because you didn't manage to greet her on her birthday."}}
+  ],
+  "dialogue": {
+    "title": "Sabado sana",
+    "context": "Housemates Carla and Jopet try to fix their weekend plans, with several changes of heart.",
+    "lines": [
+      {"speaker": "Carla", "tl": "Jopet, ano nga ulit ang balak natin sa Sabado?", "en": "Jopet, what was our plan for Saturday again?"},
+      {"speaker": "Jopet", "tl": "Manonood tayo ng bagong palabas, di ba? Sana hindi mahaba ang pila.", "en": "We're watching the new movie, right? Hopefully the line isn't long."},
+      {"speaker": "Carla", "tl": "Oo nga pala! Pero uulan yata sa Sabado.", "en": "Oh right! But I think it's going to rain on Saturday."},
+      {"speaker": "Jopet", "tl": "Sa loob naman tayo ng mall. Ligtas tayo sa ulan.", "en": "We'll be inside the mall anyway. We're safe from the rain."},
+      {"speaker": "Carla", "tl": "Tama ka nga. Sino pa kaya ang puwedeng isama natin?", "en": "You're right. I wonder who else we could bring along?"},
+      {"speaker": "Jopet", "tl": "Si Bea? Ay, teka — may trabaho pa yata siya tuwing Sabado.", "en": "Bea? Oh wait — I think she still works on Saturdays."},
+      {"speaker": "Carla", "tl": "Tanungin na lang natin. Oo nga pala, may utang pa ako sa iyo, ano?", "en": "Let's just ask her. Oh right, I still owe you money, don't I?"},
+      {"speaker": "Jopet", "tl": "May utang ka nga. Tatlong daan, kasama ang pizza noong isang linggo.", "en": "You do indeed. Three hundred, including the pizza last week."},
+      {"speaker": "Carla", "tl": "Sige na nga, ako na ang magbabayad ng tiket natin sa Sabado.", "en": "Oh fine, I'll pay for our tickets on Saturday."},
+      {"speaker": "Jopet", "tl": "Ayos! Libre ko naman ang popcorn. Kain muna tayo bago ang palabas, ha?", "en": "Nice! The popcorn's on me then. Let's eat first before the show, okay?"},
+      {"speaker": "Carla", "tl": "Oo, kasi kapag gutom ako, naiinip ako at nagiging masungit.", "en": "Yes, because when I'm hungry I get restless and grumpy."},
+      {"speaker": "Jopet", "tl": "Alam ko. Noong isang buwan, nagtampo ka tuloy sa akin dahil late ang hapunan.", "en": "I know. Last month you ended up sulking at me because dinner was late."}
+    ]
+  },
+  "reading": {
+    "title": "Linggo ng katamaran",
+    "tl": "Nagising ako kaninang alas-diyes na pala ng umaga. Sabado kasi kagabi, kaya nanood ako ng pelikula hanggang hatinggabi; inantok tuloy ako nang sobra. Balak ko sanang maglinis ng kuwarto ngayon, pero sabi ko sa sarili ko, magpahinga muna ako.\n\nHabang nagkakape ako, tumawag ang kaibigan kong si Mika. May tsismis daw siya tungkol sa kaklase namin noon. Teka nga, sabi ko, seryoso ba ito o biro lang? Seryoso pala: ikakasal na raw ang dati naming kaklase na si Ramil. Oo nga pala, sampung taon na kaming hindi nagkikita-kita. Ang bilis ng panahon.\n\nMamayang hapon, iidlip muna ako, tapos maglilinis na talaga ako. Sana nga matapos ko bago gumabi. Bukas kaya, ano ang lulutuin ko para sa baon ko? Adobo na lang yata ulit.",
+    "en": "I woke up this morning and it was already ten a.m., it turned out. It was Saturday last night, you see, so I watched a movie until midnight; as a result I got terribly sleepy. I had been planning to clean my room today, but I told myself, let me rest first.\n\nWhile I was having coffee, my friend Mika called. She said she had gossip about our old classmate. Hang on, I said, is this serious or just a joke? It was serious, it turns out: our former classmate Ramil is getting married, they say. Come to think of it, it's been ten years since we all saw each other. How time flies.\n\nThis afternoon I'll nap first, then I'll really clean. I do hope I finish before it gets dark. And tomorrow, I wonder what I should cook for my packed lunch? Probably just adobo again.",
+    "gloss": [
+      {"tl": "katamaran", "en": "laziness"},
+      {"tl": "hatinggabi", "en": "midnight"},
+      {"tl": "inantok", "en": "got sleepy"},
+      {"tl": "nagkikita-kita", "en": "seeing one another"},
+      {"tl": "gumabi", "en": "to become night"},
+      {"tl": "baon", "en": "packed food/lunch"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Your friend says the new café is expensive. You agree emphatically: 'You're right, it really is.' Which particle?", "choices": ["Oo pala", "Oo nga", "Oo yata", "Oo kaya"], "answer": 1, "explain": "Nga confirms and agrees emphatically: oo nga. Pala would mark surprise, yata uncertainty."},
+    {"type": "mcq", "prompt": "'Kapatid mo ___ si Coach Rey!' — you just found out, to your surprise. Which particle fits?", "choices": ["nga", "pala", "muna", "sana"], "answer": 1, "explain": "Pala marks new, surprising information that corrects what you assumed."},
+    {"type": "fill", "prompt": "Wala ___ siya sa bahay — madilim ang mga bintana. (I think she's not home)", "answer": "yata", "accept": ["yata"], "hint": "The hedging particle for 'it seems / I think'.", "explain": "Yata hedges the statement: 'she's not home, I think'."},
+    {"type": "fill", "prompt": "Uulan ___ bukas? Magdadala na lang ako ng payong. (I wonder if it will rain tomorrow?)", "answer": "kaya", "accept": ["kaya"], "hint": "The wondering-aloud particle.", "explain": "Enclitic kaya turns the question into speculation: 'I wonder if it'll rain'."},
+    {"type": "mcq", "prompt": "Which sentence has the particles in the correct order?", "choices": ["Kumain na ka ba?", "Kumain ka na ba?", "Kumain ba ka na?", "Kumain ka ba na?"], "answer": 1, "explain": "The short pronoun ka comes first, then na, with ba at the end of the cluster: Kumain ka na ba?"},
+    {"type": "listen", "tl": "Naiwan ko na naman ang telepono ko sa bahay; hindi tuloy ako makatawag.", "prompt": "What is the speaker's situation?", "choices": ["They left their phone at home again, so they can't call", "They found their phone at home and made a call", "Someone keeps calling their home phone", "They will leave their phone at home on purpose"], "answer": 0, "explain": "Na naman = 'again'; tuloy marks the unwanted result: hindi tuloy ako makatawag — 'so now I can't call'."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Let's eat first before the movie.", "answer": "Kumain muna tayo bago ang palabas.", "accept": ["Kumain muna tayo bago ang palabas", "Kain muna tayo bago ang palabas", "Kumain muna tayo bago ang pelikula", "Kain muna tayo bago ang sine"], "explain": "Muna sits right after the verb (and before tayo would be wrong — pronoun rules put tayo after muna here since tayo is two syllables): Kumain muna tayo."},
+    {"type": "mcq", "prompt": "You've been refusing to sing all night, but your friends won't stop. You give in: 'Oh, fine, just one song.'", "choices": ["Sige pala, isang kanta lang.", "Sige na nga, isang kanta lang.", "Sige yata, isang kanta lang.", "Sige kaya, isang kanta lang."], "answer": 1, "explain": "Sige na nga is the set phrase for reluctant surrender — 'oh, alright then'."},
+    {"type": "fill", "prompt": "Wala nang tilapia. Bangus ___ ___ ang bilhin natin. (Let's just buy milkfish instead — two words)", "answer": "na lang", "accept": ["na lang"], "hint": "The 'settle for it' combination.", "explain": "Na lang marks settling for an alternative: bangus na lang."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Oo nga pala, kumusta na ang bago mong trabaho?", "answer": "Oh right, how's your new job now?", "accept": ["Oh right, how's your new job now", "Oh right, how is your new job", "By the way, how's your new job going", "That reminds me, how is your new job"], "explain": "Oo nga pala signals a sudden remembering — 'oh right / that reminds me' — before changing topic."},
+    {"type": "listen", "tl": "Sana makapanood tayo ng palabas sa Sabado, pero mahaba yata ang pila.", "prompt": "What does the speaker say?", "choices": ["They hope to watch the show Saturday, but they think the line will be long", "They watched the show Saturday and the line was long", "They can't watch Saturday because tickets are sold out", "They wonder whether the show is good"], "answer": 0, "explain": "Sana + makapanood = hoping to get to watch; yata hedges the worry about the long line."},
+    {"type": "mcq", "prompt": "Put the particles in order: 'Ikaw ___ ang magbantay sa tindahan.' (You mind the store for now — just you)", "choices": ["muna na lang", "na lang muna", "lang na muna", "muna lang na"], "answer": 1, "explain": "One-syllable particles (na, lang) precede two-syllable muna: Ikaw na lang muna."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I hope you can come to our party on Saturday.", "answer": "Sana makapunta kayo sa handaan namin sa Sabado.", "accept": ["Sana makapunta kayo sa handaan namin sa Sabado", "Sana makapunta ka sa handaan namin sa Sabado", "Sana makarating kayo sa handaan namin sa Sabado", "Sana makarating ka sa party namin sa Sabado"], "explain": "Sana + maka- verb: hoping someone manages to come. Namin (exclusive 'our') because the listener is invited, not hosting."}
+  ]
+}

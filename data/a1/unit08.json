@@ -1,0 +1,117 @@
+{
+  "id": "a1-u08",
+  "title": "Shopping and money",
+  "objectives": [
+    "Ask and understand prices with magkano and piso",
+    "Buy things with bumili and pabili po, and pay with magbayad",
+    "Use quantities: kilo, dosena, piraso, bote",
+    "Bargain politely with tawad, and use ordinal numbers (una, pangalawa...)"
+  ],
+  "grammar": [
+    {
+      "title": "Asking prices: magkano, piso — and a little bargaining",
+      "explanation": "Magkano means 'how much (money)'. Point it at anything: Magkano ito? — 'How much is this?' Magkano ang mangga? — 'How much are the mangoes?' Magkano po lahat? — 'How much is everything?'\n\nThe peso is piso in Tagalog: dalawampung piso = twenty pesos. In real markets you'll hear Spanish numbers for prices constantly: beinte (20), singkwenta (50), syento (100) — Beinte pesos po means the same as dalawampung piso. You don't need to produce these yet, but train your ear to catch beinte and singkwenta.\n\nMahal means expensive, mura means cheap. In a wet market (not a mall!) light bargaining is normal and friendly: Mahal naman po! May tawad po ba? — 'That's a bit expensive! Is there a discount?' Tawad is the haggled-off amount. The seller might answer: Sige, singkwenta na lang — 'Fine, just fifty then.'",
+      "examples": [
+        {"tl": "Magkano po ito? — Limampung piso po.", "en": "How much is this? — Fifty pesos."},
+        {"tl": "Magkano po lahat? — Sandaang piso po.", "en": "How much is everything? — One hundred pesos."},
+        {"tl": "Mahal naman po! May tawad po ba?", "en": "That's expensive! Any discount?"},
+        {"tl": "Mura ang gulay sa palengke.", "en": "Vegetables are cheap at the market."}
+      ]
+    },
+    {
+      "title": "Buying and paying: bumili, magbayad, pabili po",
+      "explanation": "Bumili (to buy) is an -um- verb, so its three aspects follow Unit 7 exactly: bumili (bought), bumibili (buys / is buying), bibili (will buy). What you buy takes ng, where you buy takes sa: Bumili ako ng bigas sa palengke — 'I bought rice at the market.'\n\nMagbayad (to pay) is a mag- verb: nagbayad (paid), nagbabayad (is paying), magbabayad (will pay). Nagbayad ako ng sandaang piso — 'I paid one hundred pesos.'\n\nAt a sari-sari store you don't browse — you call your order through the window with pabili po: Pabili po ng itlog! — 'I'd like to buy eggs, please!' It's the buying cousin of pahingi po from Unit 4. Money words to know when paying: pera (money), barya (coins/small change), sukli (the change you get back): May barya po ba kayo? Heto po ang sukli ninyo.",
+      "examples": [
+        {"tl": "Bumili si Nanay ng isda kanina.", "en": "Mom bought fish earlier."},
+        {"tl": "Bibili ako ng bagong sapatos bukas.", "en": "I'll buy new shoes tomorrow."},
+        {"tl": "Pabili po ng dalawang itlog!", "en": "Two eggs, please!"},
+        {"tl": "Heto po ang sukli ninyo — dalawampung piso.", "en": "Here's your change — twenty pesos."}
+      ]
+    },
+    {
+      "title": "Quantities: kilo, dosena, piraso, bote",
+      "explanation": "Market quantities follow one pattern: number + linker + measure + ng + thing. Isang kilo ng kamatis — 'one kilo of tomatoes.' Dalawang dosena ng itlog — 'two dozen eggs.' Tatlong piraso ng saging — 'three pieces of banana.' Isang bote ng tubig — 'one bottle of water.'\n\nPiraso (piece) is the all-purpose counter when you just want a few of something: Pahingi po ng limang piraso — 'Five pieces, please.' Prices are often quoted per measure: Magkano po ang isang kilo? — 'How much per kilo?'\n\nSmall cultural note: bigas is uncooked rice (what you buy), kanin is cooked rice (what you eat, from Unit 4). Buy bigas, eat kanin — mixing them up is a classic learner slip Filipinos find charming.",
+      "examples": [
+        {"tl": "Isang kilo ng kamatis po.", "en": "One kilo of tomatoes, please."},
+        {"tl": "Bumili kami ng dalawang dosena ng itlog.", "en": "We bought two dozen eggs."},
+        {"tl": "Magkano po ang isang kilo ng bigas?", "en": "How much is a kilo of rice?"},
+        {"tl": "Pabili po ng isang bote ng tubig.", "en": "One bottle of water, please."}
+      ]
+    },
+    {
+      "title": "Ordinal numbers: una, pangalawa, pangatlo...",
+      "explanation": "To say first, second, third, Tagalog puts pang- in front of the number, with small sound changes: una (first — a Spanish loan, the odd one out), pangalawa (second), pangatlo (third), pang-apat (fourth), panglima (fifth), pang-anim (sixth), and so on up: pampito, pangwalo... At A1, una to panglima cover almost everything you'll say.\n\nThey work like adjectives, linker and all: ang unang anak (the first child), ang pangalawang bahay (the second house). Ito ang unang araw ko sa Pilipinas — 'This is my first day in the Philippines.'\n\nHandy shopping use: sa pangalawang tindahan — 'at the second store.' Mas mura sa pangalawang tindahan — 'It's cheaper at the second store' (mas + adjective = more/-er).",
+      "examples": [
+        {"tl": "Ito ang unang anak nila.", "en": "This is their first child."},
+        {"tl": "Nasa pangalawang mesa ang bag mo.", "en": "Your bag is on the second table."},
+        {"tl": "Pangatlo akong anak.", "en": "I'm the third child."},
+        {"tl": "Mas mura ang saging sa pangalawang tindahan.", "en": "The bananas are cheaper at the second store."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "magkano", "en": "how much (price)", "pos": "adverb", "example": {"tl": "Magkano po ang mangga?", "en": "How much are the mangoes?"}},
+    {"tl": "piso", "en": "peso", "pos": "noun", "note": "Sampung piso = ten pesos; you'll also hear 'pesos'", "example": {"tl": "Limampung piso po ito.", "en": "This is fifty pesos."}},
+    {"tl": "pera", "en": "money", "pos": "noun", "example": {"tl": "Wala akong pera ngayon.", "en": "I have no money right now."}},
+    {"tl": "barya", "en": "coins, small change", "pos": "noun", "example": {"tl": "May barya po ba kayo?", "en": "Do you have small change?"}},
+    {"tl": "sukli", "en": "change (money returned)", "pos": "noun", "example": {"tl": "Heto po ang sukli ninyo.", "en": "Here's your change."}},
+    {"tl": "mahal", "en": "expensive", "pos": "adjective", "note": "Also means 'dear/beloved' — context decides", "example": {"tl": "Mahal ang prutas dito.", "en": "Fruit is expensive here."}},
+    {"tl": "mura", "en": "cheap", "pos": "adjective", "example": {"tl": "Mura ang gulay sa palengke.", "en": "Vegetables are cheap at the market."}},
+    {"tl": "bumili (um)", "en": "to buy", "pos": "verb", "note": "bumili, bumibili, bibili", "example": {"tl": "Bumili ako ng tinapay kanina.", "en": "I bought bread earlier."}},
+    {"tl": "magbayad (mag)", "en": "to pay", "pos": "verb", "note": "nagbayad, nagbabayad, magbabayad", "example": {"tl": "Magbabayad ako sa tindera.", "en": "I'll pay the vendor."}},
+    {"tl": "magkano po lahat", "en": "how much is everything?", "pos": "phrase", "example": {"tl": "Magkano po lahat? — Otsenta pesos po.", "en": "How much for everything? — Eighty pesos."}},
+    {"tl": "pabili po", "en": "I'd like to buy... (at a store window)", "pos": "phrase", "example": {"tl": "Pabili po ng dalawang itlog!", "en": "Two eggs, please!"}},
+    {"tl": "tawad", "en": "discount, haggled reduction", "pos": "noun", "example": {"tl": "May tawad po ba?", "en": "Is there a discount?"}},
+    {"tl": "tindera / tindero", "en": "vendor (female / male)", "pos": "noun", "note": "Regular customers are called suki and often get better prices", "example": {"tl": "Mabait ang tindera sa kanto.", "en": "The vendor at the corner is nice."}},
+    {"tl": "kilo", "en": "kilo(gram)", "pos": "noun", "example": {"tl": "Isang kilo ng kamatis po.", "en": "One kilo of tomatoes, please."}},
+    {"tl": "dosena", "en": "dozen", "pos": "noun", "example": {"tl": "Bumili siya ng isang dosena ng itlog.", "en": "She bought a dozen eggs."}},
+    {"tl": "piraso", "en": "piece", "pos": "noun", "example": {"tl": "Tatlong piraso ng saging po.", "en": "Three bananas, please."}},
+    {"tl": "bote", "en": "bottle", "pos": "noun", "example": {"tl": "Pabili po ng isang bote ng tubig.", "en": "A bottle of water, please."}},
+    {"tl": "bigas", "en": "rice (uncooked)", "pos": "noun", "note": "Cooked rice is kanin", "example": {"tl": "Bibili kami ng bigas bukas.", "en": "We'll buy rice tomorrow."}},
+    {"tl": "kamatis", "en": "tomato", "pos": "noun", "example": {"tl": "Mura ang kamatis ngayon.", "en": "Tomatoes are cheap right now."}},
+    {"tl": "mangga", "en": "mango", "pos": "noun", "example": {"tl": "Masarap ang manggang dilaw.", "en": "Yellow (ripe) mangoes are delicious."}},
+    {"tl": "una", "en": "first", "pos": "number", "example": {"tl": "Ito ang unang araw ko dito.", "en": "This is my first day here."}},
+    {"tl": "pangalawa", "en": "second", "pos": "number", "example": {"tl": "Nasa pangalawang kuwarto siya.", "en": "He's in the second room."}},
+    {"tl": "pangatlo", "en": "third", "pos": "number", "example": {"tl": "Pangatlo akong anak.", "en": "I'm the third child."}},
+    {"tl": "pang-apat", "en": "fourth", "pos": "number", "note": "Then panglima 5th, pang-anim 6th...", "example": {"tl": "Ito ang pang-apat na bahay sa kanto.", "en": "It's the fourth house from the corner."}},
+    {"tl": "lahat", "en": "all, everything", "pos": "pronoun", "example": {"tl": "Mura lahat dito!", "en": "Everything is cheap here!"}},
+    {"tl": "mas", "en": "more (comparisons)", "pos": "adverb", "note": "mas mura = cheaper; mas malaki = bigger", "example": {"tl": "Mas mura ang saging kaysa mansanas.", "en": "Bananas are cheaper than apples."}},
+    {"tl": "beinte", "en": "twenty (Spanish set, common for prices)", "pos": "number", "example": {"tl": "Beinte pesos po ang isang piraso.", "en": "Twenty pesos each."}},
+    {"tl": "singkwenta", "en": "fifty (Spanish set, common for prices)", "pos": "number", "example": {"tl": "Singkwenta po lahat.", "en": "Fifty for everything."}},
+    {"tl": "heto po", "en": "here you go (handing something over)", "pos": "phrase", "example": {"tl": "Heto po ang bayad ko.", "en": "Here's my payment."}},
+    {"tl": "kanto", "en": "street corner", "pos": "noun", "example": {"tl": "May tindahan sa kanto.", "en": "There's a store at the corner."}}
+  ],
+  "dialogue": {
+    "title": "At the fruit stall",
+    "context": "Kate practices her market Tagalog at Aling Cora's fruit stall. Ana watches, amused.",
+    "lines": [
+      {"speaker": "Kate", "tl": "Magandang umaga po! Magkano po ang mangga?", "en": "Good morning! How much are the mangoes?"},
+      {"speaker": "Aling Cora", "tl": "Magandang umaga! Sandaang piso po ang isang kilo.", "en": "Good morning! One hundred pesos a kilo."},
+      {"speaker": "Kate", "tl": "Sandaan? Mahal naman po! May tawad po ba?", "en": "A hundred? That's expensive! Any discount?"},
+      {"speaker": "Aling Cora", "tl": "Ay, marunong ka na! Sige, nubenta na lang po.", "en": "Oh, you already know how it works! Fine, just ninety."},
+      {"speaker": "Kate", "tl": "Sige po. Isang kilo ng mangga at isang kilo ng saging.", "en": "Alright. One kilo of mangoes and one kilo of bananas."},
+      {"speaker": "Aling Cora", "tl": "Ang saging, beinte pesos lang po ang isang kilo. Mura!", "en": "The bananas are just twenty pesos a kilo. Cheap!"},
+      {"speaker": "Ana", "tl": "Kate, bibili rin ako ng kamatis. Magkano po ang kamatis?", "en": "Kate, I'll buy tomatoes too. How much are the tomatoes?"},
+      {"speaker": "Aling Cora", "tl": "Singkwenta po ang isang kilo.", "en": "Fifty a kilo."},
+      {"speaker": "Ana", "tl": "Isang kilo po. Magkano po lahat?", "en": "One kilo, please. How much is everything?"},
+      {"speaker": "Aling Cora", "tl": "Nubenta, beinte, singkwenta... Isang daan at animnapung piso po lahat.", "en": "Ninety, twenty, fifty... One hundred sixty pesos for everything."},
+      {"speaker": "Kate", "tl": "Heto po ang dalawang daan. May barya po ba kayo?", "en": "Here's two hundred. Do you have change?"},
+      {"speaker": "Aling Cora", "tl": "Mayroon po. Heto ang sukli ninyo — apatnapung piso. Salamat po, suki!", "en": "I do. Here's your change — forty pesos. Thank you, dear customer!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "How do you ask the price of something you're pointing at?", "choices": ["Ilang taon ito?", "Magkano ito?", "Nasaan ito?", "Ano ito?"], "answer": 1, "explain": "Magkano asks specifically about price; ano asks what it is, nasaan where it is."},
+    {"type": "mcq", "prompt": "What is the opposite of mahal (expensive)?", "choices": ["malaki", "mura", "marumi", "maliit"], "answer": 1, "explain": "Mura = cheap. Mahal ang mangga, pero mura ang saging."},
+    {"type": "fill", "prompt": "___ po ang isang kilo ng bigas? (How much is a kilo of rice?)", "answer": "magkano", "accept": ["magkano"], "explain": "Magkano + ang + item asks its price; per-measure prices use isang kilo ng..."},
+    {"type": "mcq", "prompt": "You're at a sari-sari store window and want two eggs. What do you call out?", "choices": ["Pahingi po ng sukli!", "Pabili po ng dalawang itlog!", "Magbabayad po ng itlog!", "May tawad po ba?"], "answer": 1, "explain": "Pabili po ng + item is the set phrase for buying at a store window; pahingi is for asking to be handed something."},
+    {"type": "fill", "prompt": "'I bought fish at the market' — ___ ako ng isda sa palengke.", "answer": "bumili", "accept": ["bumili"], "hint": "The completed form of the -um- verb 'to buy'.", "explain": "Bili takes -um- after its first consonant for the completed aspect: b-um-ili = bought."},
+    {"type": "listen", "tl": "Magkano po ito? — Singkwenta pesos po. — Ay, mahal! May tawad po ba?", "prompt": "What is happening?", "choices": ["The buyer thinks 50 pesos is cheap and pays.", "The buyer thinks 50 pesos is expensive and asks for a discount.", "The vendor refuses to sell.", "The buyer asks where the store is."], "answer": 1, "explain": "Singkwenta = 50; the buyer says mahal (expensive) and asks May tawad po ba? — 'any discount?'"},
+    {"type": "fill", "prompt": "One kilo OF tomatoes: isang kilo ___ kamatis.", "answer": "ng", "accept": ["ng", "nang"], "explain": "Measures connect to their noun with ng: isang kilo ng kamatis, isang bote ng tubig."},
+    {"type": "mcq", "prompt": "Which is 'third' in Tagalog?", "choices": ["tatlo", "pangatlo", "pangalawa", "pang-apat"], "answer": 1, "explain": "Ordinals take pang-: pangatlo = third. Tatlo is plain 'three'; pangalawa and pang-apat are second and fourth."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I will buy one dozen eggs tomorrow.", "answer": "Bibili ako ng isang dosena ng itlog bukas.", "accept": ["Bibili ako ng isang dosena ng itlog bukas", "Bukas, bibili ako ng isang dosena ng itlog", "Bibili ako bukas ng isang dosena ng itlog"], "explain": "Future = contemplated bibili (no -um-); the quantity chains as isang dosena ng itlog."},
+    {"type": "listen", "tl": "Heto po ang dalawang daang piso. — Salamat po. Heto ang sukli ninyo, singkwenta pesos.", "prompt": "How much change does the customer get?", "choices": ["Twenty pesos", "Two hundred pesos", "Fifty pesos", "No change"], "answer": 2, "explain": "The customer hands over 200 (dalawang daan), and the vendor returns sukli of singkwenta — fifty pesos."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Mas mura ang gulay sa palengke, pero mas malapit ang tindahan sa kanto.", "answer": "Vegetables are cheaper at the market, but the store on the corner is closer.", "accept": ["Vegetables are cheaper at the market, but the store on the corner is closer", "The vegetables are cheaper at the market but the corner store is nearer", "Vegetables are cheaper in the market, but the store at the corner is closer"], "explain": "Mas + adjective makes a comparison: mas mura = cheaper, mas malapit = closer."},
+    {"type": "translate", "direction": "en2tl", "prompt": "How much is everything? — One hundred pesos. Here's my payment.", "answer": "Magkano po lahat? — Sandaang piso po. Heto po ang bayad ko.", "accept": ["Magkano po lahat? Sandaang piso po. Heto po ang bayad ko", "Magkano lahat? Sandaang piso. Heto ang bayad ko", "Magkano po lahat? Isang daang piso po. Heto po ang bayad ko"], "explain": "Magkano po lahat totals the bill; sandaan (or isang daan) is 100; heto po hands something over politely."},
+    {"type": "mcq", "prompt": "Kate is the second child in her family. Which is correct?", "choices": ["Dalawa siyang anak.", "Pangalawa siyang anak.", "Pangatlo siyang anak.", "Dalawang anak siya."], "answer": 1, "explain": "Pangalawa = second (ordinal); dalawa would just mean 'two'. The linker -ng joins it to anak through siya."}
+  ]
+}

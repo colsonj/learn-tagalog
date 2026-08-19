@@ -1,0 +1,120 @@
+{
+  "id": "b1-u07",
+  "title": "If and when: kung, kapag, and time clauses",
+  "objectives": [
+    "Choose correctly between kung and kapag",
+    "Express unreal past conditions with kung + sana (regrets and what-ifs)",
+    "Give advice with kung ako sa iyo",
+    "Link events in time with habang, hanggang, simula and tuwing"
+  ],
+  "grammar": [
+    {
+      "title": "kung vs kapag: the real difference",
+      "explanation": "You've used both since A2; now pin down the contrast, because Tagalog enforces it more strictly than English 'if/when'.\n\nKapag introduces conditions treated as normal, expected, or recurring — whenever-situations: Kapag umuulan, hindi kami lumalabas — when(ever) it rains, we don't go out. Kapag gutom ako, masungit ako. It also covers a future event you treat as certain: Kapag dumating si Tatay, kakain na tayo — when Dad arrives (and he will), we'll eat.\n\nKung marks genuine uncertainty — maybe yes, maybe no: Kung uulan bukas, kanselado ang piknik — if it rains tomorrow (it may not), the picnic is off. Kung may oras ka, tulungan mo ako — if you have time.\n\nRule of thumb: if English 'when(ever)' works, use kapag; if only 'if' works, use kung. For future conditions, kung usually takes the contemplated aspect (kung uulan, kung darating), while kapag with habits takes the incompleted (kapag umuulan). Saying kung umuulan for a habit, or kapag for a doubtful maybe, is the classic B1 slip.",
+      "examples": [
+        {"tl": "Kapag Biyernes, maaga kaming umuuwi.", "en": "On Fridays (whenever it's Friday), we go home early."},
+        {"tl": "Kapag natapos ka na, tawagan mo ako.", "en": "When you're done (expected), call me."},
+        {"tl": "Kung matapos ako nang maaga, dadaan ako sa inyo.", "en": "If I finish early (not sure), I'll drop by your place."},
+        {"tl": "Kung mahal ang tiket, hindi na lang ako sasama.", "en": "If the ticket is expensive, I just won't come along."},
+        {"tl": "Kung sakaling ma-late ako, umorder na kayo.", "en": "In case I'm late, go ahead and order."}
+      ]
+    },
+    {
+      "title": "The road not taken: kung + completed + sana",
+      "explanation": "To talk about how things could have gone differently — regrets, near-misses, what-ifs — Tagalog combines kung with a completed-aspect verb in the condition, and sana with a completed verb in the result: Kung nag-aral ako, nakapasa sana ako — if I had studied, I would have passed. The completed aspect signals we're rewriting the past; sana marks the result as unreal.\n\nSana can sit in the result clause (nakapasa sana ako), in the kung clause (kung nag-aral sana ako), or both — all natural. The abilitative naka- forms from Unit 2 are frequent in results because 'would have managed to' is usually the point: Kung umalis tayo nang maaga, hindi sana tayo naabutan ng trapiko.\n\nWith no verb at all, sana still builds wishes about the present: Sana ay mas mahaba ang bakasyon — I wish the vacation were longer. And for advice, the fixed frame kung ako sa iyo ('if I were you') is followed by a contemplated verb: Kung ako sa iyo, tatanggapin ko ang trabaho — if I were you, I'd take the job.",
+      "examples": [
+        {"tl": "Kung nakinig ka sa akin, hindi sana ito nangyari.", "en": "If you had listened to me, this wouldn't have happened."},
+        {"tl": "Kung nagdala sana ako ng payong, hindi ako nabasa.", "en": "If only I had brought an umbrella, I wouldn't have gotten soaked."},
+        {"tl": "Kung bumili tayo kahapon, nakatipid sana tayo ng limandaan.", "en": "If we had bought yesterday, we would have saved five hundred."},
+        {"tl": "Kung ako sa iyo, magsisimula na akong mag-ipon ngayon.", "en": "If I were you, I'd start saving now."},
+        {"tl": "Sana ay mas malapit ang opisina ko sa bahay.", "en": "I wish my office were closer to home."}
+      ]
+    },
+    {
+      "title": "While, until, since, every time: habang, hanggang, simula, tuwing",
+      "explanation": "Four connectors complete your time toolkit.\n\nHabang — 'while', two things running at once: Habang nagluluto ako, nag-aayos siya ng mesa. Note the incompleted aspect on both verbs: the actions are in progress. Habang also builds 'while still' advice: Mag-ipon ka habang bata ka pa — save while you're still young.\n\nHanggang — 'until': Maghihintay ako hanggang alas-singko — I'll wait until five. Before a verb it usually appears as hanggang sa: Nag-usap kami hanggang sa makatulog kami — we talked until we fell asleep. You know hanggang from directions (hanggang sa kanto); this is the time use.\n\nSimula — 'since/starting': simula noong + past time (simula noong Enero, since January); simula nang + completed verb (simula nang lumipat sila, since they moved); simula bukas (starting tomorrow) for the future.\n\nTuwing — 'every time / whenever': Tuwing umuulan, may baha sa amin. Tuwing plus a day or occasion means 'every': tuwing Sabado, tuwing Pasko. Tuwing overlaps with kapag for habits; tuwing insists on 'each and every time'.",
+      "examples": [
+        {"tl": "Habang naghihintay kami, nagkuwentuhan muna kami.", "en": "While we were waiting, we swapped stories."},
+        {"tl": "Mag-ipon ka habang maaga pa.", "en": "Save while it's still early."},
+        {"tl": "Hindi ako aalis hanggang hindi mo sinasabi ang totoo.", "en": "I'm not leaving until you tell the truth."},
+        {"tl": "Naglaro ang mga bata hanggang sa gumabi.", "en": "The kids played until night fell."},
+        {"tl": "Simula nang mag-ehersisyo ako, mas maganda ang tulog ko.", "en": "Since I started exercising, my sleep has been better."},
+        {"tl": "Tuwing sweldo, nagbabayad muna ako ng mga utang.", "en": "Every payday, I pay my debts first."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "kung sakali", "en": "in case, if ever", "pos": "phrase", "note": "often kung sakaling + verb", "example": {"tl": "Kung sakaling umulan, may payong ako sa bag.", "en": "In case it rains, I have an umbrella in my bag."}},
+    {"tl": "kung ako sa iyo", "en": "if I were you", "pos": "phrase", "note": "followed by a contemplated verb", "example": {"tl": "Kung ako sa iyo, hindi ko na papatagalin ang problema.", "en": "If I were you, I wouldn't let the problem drag on."}},
+    {"tl": "habang", "en": "while; as long as", "pos": "conjunction", "example": {"tl": "Huwag kang gumamit ng cellphone habang nagmamaneho.", "en": "Don't use your phone while driving."}},
+    {"tl": "hanggang", "en": "until", "pos": "conjunction", "note": "hanggang sa + verb", "example": {"tl": "Nanood kami ng pelikula hanggang hatinggabi.", "en": "We watched movies until midnight."}},
+    {"tl": "simula", "en": "since, starting from; beginning", "pos": "conjunction", "note": "simula noong + past time; simula nang + completed verb; simula bukas = starting tomorrow", "example": {"tl": "Simula noong Marso, wala na siyang bisyo.", "en": "Since March, he's been free of his vice."}},
+    {"tl": "tuwing", "en": "every time, whenever; every (+ day/occasion)", "pos": "conjunction", "example": {"tl": "Tuwing Linggo, kumakain kami sa bahay ni Lola.", "en": "Every Sunday, we eat at Grandma's house."}},
+    {"tl": "mag-ipon (mag-)", "en": "to save money, save up", "pos": "verb", "note": "nag-ipon, nag-iipon, mag-iipon", "example": {"tl": "Nag-iipon kami para sa bakasyon sa Palawan.", "en": "We're saving up for a vacation in Palawan."}},
+    {"tl": "ipon", "en": "savings", "pos": "noun", "example": {"tl": "Naubos ang ipon ko nang magkasakit ako.", "en": "My savings ran out when I got sick."}},
+    {"tl": "gumastos (um)", "en": "to spend (money)", "pos": "verb", "note": "gumastos, gumagastos, gagastos", "example": {"tl": "Gumastos kami nang malaki para sa kasal.", "en": "We spent a lot on the wedding."}},
+    {"tl": "magtipid (mag-)", "en": "to economize, be thrifty", "pos": "verb", "note": "nagtipid, nagtitipid, magtitipid", "example": {"tl": "Kailangan nating magtipid hanggang sa susunod na sweldo.", "en": "We need to economize until the next payday."}},
+    {"tl": "utang", "en": "debt", "pos": "noun", "note": "umutang = to borrow money; may utang ako sa iyo = I owe you", "example": {"tl": "Binayaran ko na ang lahat ng utang ko.", "en": "I've paid off all my debts."}},
+    {"tl": "sweldo", "en": "salary, pay", "pos": "noun", "note": "also 'sahod'; tuwing sweldo = every payday", "example": {"tl": "Kailan ang susunod mong sweldo?", "en": "When is your next payday?"}},
+    {"tl": "badyet", "en": "budget", "pos": "noun", "example": {"tl": "Maliit lang ang badyet namin ngayong buwan.", "en": "Our budget is small this month."}},
+    {"tl": "pangarap", "en": "dream, ambition", "pos": "noun", "example": {"tl": "Pangarap kong makapagtayo ng sariling negosyo.", "en": "It's my dream to be able to build my own business."}},
+    {"tl": "matupad (ma-)", "en": "to be fulfilled, come true", "pos": "verb", "note": "natupad, natutupad, matutupad", "example": {"tl": "Sana matupad ang pangarap mong makapag-abroad.", "en": "I hope your dream of going abroad comes true."}},
+    {"tl": "tagumpay", "en": "success", "pos": "noun", "note": "magtagumpay = to succeed", "example": {"tl": "Walang tagumpay nang walang pagod.", "en": "There's no success without hard work."}},
+    {"tl": "mabigo (ma-)", "en": "to fail, be disappointed", "pos": "verb", "note": "nabigo, nabibigo, mabibigo", "example": {"tl": "Nabigo siya sa unang exam, pero hindi siya sumuko.", "en": "He failed the first exam, but he didn't give up."}},
+    {"tl": "pagkakamali", "en": "mistake, error", "pos": "noun", "example": {"tl": "Natuto ako sa mga pagkakamali ko.", "en": "I learned from my mistakes."}},
+    {"tl": "magsisi (mag-)", "en": "to regret", "pos": "verb", "note": "nagsisi, nagsisisi, magsisisi", "example": {"tl": "Baka magsisi ka kung hindi mo susubukan.", "en": "You might regret it if you don't try."}},
+    {"tl": "mag-ingat (mag-)", "en": "to be careful", "pos": "verb", "note": "nag-ingat, nag-iingat, mag-iingat; Ingat! = take care!", "example": {"tl": "Mag-ingat ka sa mga nagbebenta ng pekeng tiket.", "en": "Be careful of people selling fake tickets."}},
+    {"tl": "payo", "en": "advice", "pos": "noun", "note": "magpayo = to give advice", "example": {"tl": "Sinunod ko ang payo ng lola ko, at tama siya.", "en": "I followed my grandmother's advice, and she was right."}},
+    {"tl": "kalusugan", "en": "health", "pos": "noun", "example": {"tl": "Mas mahalaga ang kalusugan kaysa sa anumang yaman.", "en": "Health is more important than any wealth."}},
+    {"tl": "mag-ehersisyo (mag-)", "en": "to exercise", "pos": "verb", "note": "nag-ehersisyo, nag-eehersisyo, mag-eehersisyo", "example": {"tl": "Nag-eehersisyo ako tuwing umaga bago mag-almusal.", "en": "I exercise every morning before breakfast."}},
+    {"tl": "bawasan (-an)", "en": "to reduce, cut down on", "pos": "verb", "note": "binawasan, binabawasan, babawasan", "example": {"tl": "Binawasan ko na ang kape ko — isang tasa na lang kada araw.", "en": "I've cut down on my coffee — just one cup a day now."}},
+    {"tl": "bisyo", "en": "vice, bad habit", "pos": "noun", "example": {"tl": "Mahirap iwanan ang bisyo, pero posible.", "en": "It's hard to leave a vice behind, but it's possible."}},
+    {"tl": "masanay (ma-)", "en": "to get used to", "pos": "verb", "note": "nasanay, nasasanay, masasanay; cause takes sa", "example": {"tl": "Nasanay na ako sa maagang gising simula nang magtrabaho ako.", "en": "I've gotten used to waking early since I started working."}},
+    {"tl": "yumaman (um)", "en": "to become rich", "pos": "verb", "note": "yumaman, yumayaman, yayaman", "example": {"tl": "Hindi ka yayaman sa sweldo lang, sabi ng tito ko.", "en": "You won't get rich on salary alone, my uncle says."}}
+  ],
+  "dialogue": {
+    "title": "Payo tungkol sa ipon",
+    "context": "Liza asks her older cousin Marvin for advice about money after her savings ran out.",
+    "lines": [
+      {"speaker": "Liza", "tl": "Kuya Marvin, naubos na naman ang ipon ko bago ang sweldo. Ano kaya ang mali?", "en": "Kuya Marvin, my savings ran out again before payday. I wonder what's wrong?"},
+      {"speaker": "Marvin", "tl": "Aba, klasiko iyan. Saan ka ba madalas gumastos?", "en": "Well, that's a classic. Where do you usually spend?"},
+      {"speaker": "Liza", "tl": "Sa kape at sa food delivery. Tuwing stressed ako, umoorder ako.", "en": "On coffee and food delivery. Every time I'm stressed, I order."},
+      {"speaker": "Marvin", "tl": "Kapag ganiyan ang ugali, mauubos talaga ang pera. Kung ako sa iyo, gagawa ako ng badyet.", "en": "With a habit like that, money will really run out. If I were you, I'd make a budget."},
+      {"speaker": "Liza", "tl": "Sinubukan ko na noong Enero, pero hindi ko nasunod.", "en": "I tried back in January, but I couldn't stick to it."},
+      {"speaker": "Marvin", "tl": "Kung ginawa mo sana itong awtomatiko, hindi ka na sana nag-iisip pa.", "en": "If you had made it automatic, you wouldn't have had to think about it."},
+      {"speaker": "Liza", "tl": "Paano iyon?", "en": "How does that work?"},
+      {"speaker": "Marvin", "tl": "Tuwing sweldo, ilipat mo agad ang sampung porsiyento sa hiwalay na account.", "en": "Every payday, immediately move ten percent to a separate account."},
+      {"speaker": "Liza", "tl": "Ah, mag-iipon muna ako bago gumastos, hindi pagkatapos.", "en": "Ah, so I save first before spending, not after."},
+      {"speaker": "Marvin", "tl": "Tama. At habang bata ka pa, mas madali kang masasanay.", "en": "Right. And while you're still young, it's easier to get used to it."},
+      {"speaker": "Liza", "tl": "Sige, susubukan ko simula sa susunod na sweldo. Sana matupad ko ito.", "en": "Okay, I'll try starting next payday. I hope I can pull it off."},
+      {"speaker": "Marvin", "tl": "Kapag nagtiyaga ka, hindi ka magsisisi. Baka pagkatapos ng limang taon, ikaw pa ang magpapayo sa akin.", "en": "If you persevere, you won't regret it. Maybe in five years, you'll be the one advising me."}
+    ]
+  },
+  "reading": {
+    "title": "Ang aral ng bagyo",
+    "tl": "May kuwento si Mang Andres na ibinabahagi niya tuwing may nagtatanong tungkol sa pag-iipon. Noong bata pa raw siya, malakas siyang gumastos. Tuwing sweldo, bago pa man siya makauwi, ubos na ang kalahati ng pera niya. Sabi ng kaniyang ama, mag-ipon ka habang maaga pa, pero hindi siya nakinig.\n\nIsang taon, sinalanta ng malakas na bagyo ang kanilang bayan. Nasira ang bubong ng bahay niya, at wala siyang pambayad sa pagpapaayos. Umutang siya, at tatlong taon siyang nagbayad habang nagtitipid nang sobra. Kung nakinig sana ako sa tatay ko, sabi niya, hindi sana ako umabot sa ganoon.\n\nSimula nang mangyari iyon, nagbago siya. Tuwing sweldo, inilipat muna niya ang ikasampung bahagi sa ipon bago gumastos. Ngayon, may maliit na siyang tindahan. Hindi siya mayaman, pero kapag may bagyo, hindi na siya natatakot.",
+    "en": "Mang Andres has a story he shares every time someone asks about saving. When he was young, he says, he was a big spender. Every payday, before he even got home, half his money was gone. His father said, save while it's still early, but he didn't listen.\n\nOne year, a powerful typhoon devastated their town. The roof of his house was destroyed, and he had nothing to pay for repairs. He borrowed money, and for three years he paid it off while scrimping hard. If only I had listened to my father, he says, I would never have ended up like that.\n\nSince that happened, he changed. Every payday, he first moved a tenth into savings before spending. Now he has a small store of his own. He isn't rich, but when a typhoon comes, he isn't afraid anymore.",
+    "gloss": [
+      {"tl": "ibinabahagi", "en": "shares (with others)"},
+      {"tl": "sinalanta", "en": "devastated (by a storm)"},
+      {"tl": "pambayad", "en": "money for paying"},
+      {"tl": "umabot sa ganoon", "en": "to reach that point"},
+      {"tl": "ikasampung bahagi", "en": "a tenth part"},
+      {"tl": "bagyo", "en": "typhoon"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "'___ umuulan, hindi kami lumalabas ng bahay.' (Whenever it rains, we don't leave the house.)", "choices": ["Kung", "Kapag", "Sana", "Hanggang"], "answer": 1, "explain": "A habitual whenever-situation takes kapag with the incompleted aspect. Kung would suggest real doubt about whether it ever rains."},
+    {"type": "mcq", "prompt": "'___ uulan bukas, kanselado ang piknik.' (If it rains tomorrow — maybe it won't — the picnic is off.)", "choices": ["Kapag", "Tuwing", "Kung", "Habang"], "answer": 2, "explain": "Genuine uncertainty about tomorrow takes kung, usually with the contemplated aspect (uulan)."},
+    {"type": "fill", "prompt": "Kung nag-aral ka, nakapasa ___ ka. (If you had studied, you would have passed.)", "answer": "sana", "accept": ["sana"], "hint": "The particle that marks the unreal result.", "explain": "Unreal past conditionals pair kung + completed verb with sana in the result clause."},
+    {"type": "fill", "prompt": "Mag-ipon ka ___ bata ka pa. (Save while you're still young.)", "answer": "habang", "accept": ["habang"], "hint": "'While / as long as'.", "explain": "Habang covers both 'while (at the same time)' and 'while still (a condition lasts)'."},
+    {"type": "mcq", "prompt": "Which sentence correctly says 'Since they moved, the house has been quiet'?", "choices": ["Tuwing lumipat sila, tahimik ang bahay.", "Simula nang lumipat sila, tahimik na ang bahay.", "Hanggang lumipat sila, tahimik ang bahay.", "Kapag lumipat sila, tahimik ang bahay."], "answer": 1, "explain": "'Since + event' is simula nang + completed verb: simula nang lumipat sila."},
+    {"type": "listen", "tl": "Kung bumili sana tayo ng tiket kahapon, nakatipid sana tayo ng limandaang piso.", "prompt": "What is the speaker saying?", "choices": ["They saved five hundred pesos by buying yesterday", "If they had bought tickets yesterday, they would have saved five hundred pesos", "They will save five hundred pesos if they buy tomorrow", "Tickets went down by five hundred pesos yesterday"], "answer": 1, "explain": "Kung + completed (bumili) + sana marks an unreal past: the buying didn't happen, so the saving didn't either."},
+    {"type": "translate", "direction": "en2tl", "prompt": "If I were you, I'd start saving now.", "answer": "Kung ako sa iyo, magsisimula na akong mag-ipon ngayon.", "accept": ["Kung ako sa iyo, magsisimula na akong mag-ipon ngayon", "Kung ako sa'yo, magsisimula na akong mag-ipon ngayon", "Kung ako sa iyo, mag-iipon na ako ngayon", "Kung ako sa iyo mag-iipon na ako ngayon"], "explain": "The advice frame kung ako sa iyo takes a contemplated verb for what you would do."},
+    {"type": "fill", "prompt": "Naglaro ang mga bata ___ sa gumabi. (The kids played until night fell.)", "answer": "hanggang", "accept": ["hanggang"], "hint": "'Until', used with sa before a verb.", "explain": "Hanggang sa + verb marks the endpoint in time: hanggang sa gumabi."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Tuwing sweldo, nagbabayad muna ako ng utang bago ako gumastos.", "answer": "Every payday, I pay my debts first before I spend.", "accept": ["Every payday, I pay my debts first before I spend", "Every payday I pay off debt first before spending", "Each payday, I first pay my debts before spending money"], "explain": "Tuwing sweldo = every payday; muna sequences the paying before the spending."},
+    {"type": "mcq", "prompt": "Your friend regrets not bringing an umbrella and got soaked. Which sentence expresses that?", "choices": ["Kapag nagdala ako ng payong, hindi ako nababasa.", "Kung magdadala ako ng payong, hindi ako mababasa.", "Kung nagdala sana ako ng payong, hindi sana ako nabasa.", "Tuwing nagdadala ako ng payong, hindi ako nabasa."], "answer": 2, "explain": "Regret about the past needs kung + completed + sana in both clauses: the bringing didn't happen, the staying dry didn't either."},
+    {"type": "listen", "tl": "Simula nang mag-ehersisyo ako tuwing umaga, mas maganda na ang tulog ko.", "prompt": "What changed for the speaker?", "choices": ["They sleep worse since exercising", "Since they started exercising every morning, they sleep better", "They exercise at night to sleep better", "They stopped exercising because of bad sleep"], "answer": 1, "explain": "Simula nang + completed verb = since the exercising began; mas maganda ang tulog = better sleep."},
+    {"type": "translate", "direction": "en2tl", "prompt": "In case it rains, I have an umbrella in my bag.", "answer": "Kung sakaling umulan, may payong ako sa bag.", "accept": ["Kung sakaling umulan, may payong ako sa bag", "Kung sakali, may payong ako sa bag", "Kung sakaling umulan may payong ako sa bag ko", "Kung sakaling umulan, may payong ako sa bag ko"], "explain": "Kung sakali(ng) covers precautionary 'in case': the event is possible but not expected."}
+  ]
+}

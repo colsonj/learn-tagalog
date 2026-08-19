@@ -1,0 +1,108 @@
+{
+  "id": "a2-u04",
+  "title": "Can, may, must: ability and obligation",
+  "objectives": [
+    "Say what you know how to do with marunong and what you're able to do with kaya",
+    "Ask for and give permission with puwede; forbid with bawal and huwag",
+    "Express need and obligation with kailangan and dapat",
+    "Control which pronoun form (ako vs ko) each of these words takes"
+  ],
+  "grammar": [
+    {
+      "title": "Marunong, kaya, alam: three kinds of 'can/know'",
+      "explanation": "English 'can' and 'know' split three ways in Tagalog.\n\nMarunong = know how to, have the skill. It takes an ang-form actor plus the linker, then the basic verb form: 'Marunong akong lumangoy' — I know how to swim. 'Marunong ka bang magmaneho?' — Do you know how to drive? With a language or subject it takes ng: 'Marunong siya ng Ingles.'\n\nKaya = can manage it, be physically or practically able. It takes a NG-form actor: 'Kaya kong buhatin ito' — I can lift this. 'Hindi ko kaya' — I can't (manage it). Kaya is about capacity in the moment; marunong is about learned skill. You may be marunong lumangoy but, exhausted, hindi mo kayang lumangoy ngayon.\n\nAlam = know a fact or piece of information, never a skill: 'Alam ko ang sagot' — I know the answer. 'Alam mo ba kung nasaan siya?' — Do you know where he is? Mixing these up is a classic learner error: for skills use marunong, for facts use alam.",
+      "examples": [
+        {"tl": "Marunong akong magluto ng adobo.", "en": "I know how to cook adobo."},
+        {"tl": "Hindi ko kayang buhatin ang kahon. Ang bigat!", "en": "I can't lift the box. It's so heavy!"},
+        {"tl": "Alam ko ang pangalan niya, pero hindi ko alam ang trabaho niya.", "en": "I know his name, but I don't know his job."},
+        {"tl": "Marunong ka ba ng Tagalog? — Konti lang po.", "en": "Do you know Tagalog? — Just a little."}
+      ]
+    },
+    {
+      "title": "Puwede, bawal, huwag: permission and prohibition",
+      "explanation": "Puwede (often spelled pwede) covers 'may' and 'is it okay': 'Puwede ba akong umupo dito?' — May I sit here? 'Puwede mo bang buksan ang bintana?' — Could you open the window? Notice both patterns: with an actor-focus verb the actor is ang-form (puwede AKONG umupo); with an object-focus verb the actor is ng-form (puwede MO bang...). Answers: 'Puwede' / 'Oo, puwede naman' or 'Hindi puwede.'\n\nBawal means forbidden — you see it on signs all over Manila: 'Bawal tumawid' (no crossing), 'Bawal pumarada dito' (no parking here), 'Bawal ang pagkain sa loob' (no food inside). Structure: bawal + basic verb, or bawal ang + noun.\n\nHuwag is the word for negative commands — 'don't'. It replaces hindi in commands and takes the linker on the pronoun: 'Huwag kang tumakbo!' — Don't run! 'Huwag mong kainin iyan!' — Don't eat that! Using hindi for a command ('Hindi ka tumakbo') is a common mistake; commands need huwag.",
+      "examples": [
+        {"tl": "Puwede po ba akong pumasok?", "en": "May I come in?"},
+        {"tl": "Bawal magparada dito. May towing.", "en": "No parking here. There's towing."},
+        {"tl": "Huwag kang mag-ingay, natutulog ang baby.", "en": "Don't be noisy, the baby is sleeping."},
+        {"tl": "Puwede mo bang hintayin ako? — Sige, puwede.", "en": "Can you wait for me? — Sure, no problem."}
+      ]
+    },
+    {
+      "title": "Kailangan and dapat: need and should",
+      "explanation": "Kailangan = need/must. With a verb, the actor takes the NG-form plus linker: 'Kailangan kong mag-aral' — I need to study. 'Kailangan mong umuwi na' — you need to go home now. With a noun, kailangan takes ng like gusto did in A1: 'Kailangan ko ng tulong' — I need help. 'Kailangan namin ng tatlong upuan.'\n\nDapat = should/ought to, a matter of what is right or advisable rather than hard necessity. It takes an ANG-form actor with the linker: 'Dapat kang magpahinga' — you should rest. 'Dapat akong matulog nang maaga.' In practice you will also hear 'dapat ay' and bare 'dapat + verb' ('Dapat mag-aral ka'); all are fine.\n\nA quick map of which pronoun form these little words take with verbs: ng-form (ko/mo/niya): gusto, ayaw, kaya, kailangan. Ang-form (ako/ka/siya): puwede, marunong, dapat. When in doubt, notice the pattern in examples rather than translating from English.",
+      "examples": [
+        {"tl": "Kailangan kong tapusin ito bago mag-alas-singko.", "en": "I need to finish this before five o'clock."},
+        {"tl": "Kailangan namin ng mas malaking mesa.", "en": "We need a bigger table."},
+        {"tl": "Dapat kang uminom ng maraming tubig araw-araw.", "en": "You should drink lots of water every day."},
+        {"tl": "Hindi mo dapat kainin iyan. Sira na yata.", "en": "You shouldn't eat that. It seems spoiled."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "marunong", "en": "know how to, skilled at", "pos": "adjective", "note": "marunong + ang-actor + linker + verb", "example": {"tl": "Marunong akong magbisikleta.", "en": "I know how to ride a bike."}},
+    {"tl": "kaya", "en": "can, able to manage", "pos": "particle", "note": "kaya + ng-actor: kaya ko, kaya mo", "example": {"tl": "Kaya mo iyan!", "en": "You can do it!"}},
+    {"tl": "puwede", "en": "can, may, possible", "pos": "particle", "note": "also spelled pwede", "example": {"tl": "Puwede ba akong umupo dito?", "en": "May I sit here?"}},
+    {"tl": "kailangan", "en": "need, must", "pos": "particle", "note": "kailangan ko ng + noun; kailangan kong + verb", "example": {"tl": "Kailangan ko ng bagong sapatos.", "en": "I need new shoes."}},
+    {"tl": "dapat", "en": "should, ought to", "pos": "particle", "note": "dapat + ang-actor + linker + verb", "example": {"tl": "Dapat kang matulog nang maaga.", "en": "You should sleep early."}},
+    {"tl": "bawal", "en": "forbidden, not allowed", "pos": "adjective", "note": "common on signs: Bawal tumawid", "example": {"tl": "Bawal kumain sa loob ng jeep.", "en": "Eating inside the jeep is not allowed."}},
+    {"tl": "huwag", "en": "don't (negative command)", "pos": "particle", "note": "huwag kang..., huwag mong...", "example": {"tl": "Huwag kang malungkot.", "en": "Don't be sad."}},
+    {"tl": "alam", "en": "know (a fact)", "pos": "particle", "note": "alam ko, alam mo — never for skills", "example": {"tl": "Hindi ko alam ang sagot.", "en": "I don't know the answer."}},
+    {"tl": "lumangoy (um)", "en": "to swim", "pos": "verb", "note": "lumangoy, lumalangoy, lalangoy", "example": {"tl": "Marunong ka bang lumangoy?", "en": "Do you know how to swim?"}},
+    {"tl": "magmaneho (mag)", "en": "to drive", "pos": "verb", "note": "nagmaneho, nagmamaneho, magmamaneho", "example": {"tl": "Nagmamaneho siya papunta sa trabaho.", "en": "He drives to work."}},
+    {"tl": "magbisikleta (mag)", "en": "to ride a bike", "pos": "verb", "note": "nagbisikleta, nagbibisikleta, magbibisikleta", "example": {"tl": "Nagbibisikleta kami tuwing Linggo.", "en": "We ride bikes every Sunday."}},
+    {"tl": "buhatin (-in)", "en": "to lift, carry (something)", "pos": "verb", "note": "binuhat, binubuhat, bubuhatin", "example": {"tl": "Binuhat niya ang mabigat na kahon.", "en": "He lifted the heavy box."}},
+    {"tl": "magsalita (mag)", "en": "to speak", "pos": "verb", "note": "nagsalita, nagsasalita, magsasalita", "example": {"tl": "Marunong siyang magsalita ng tatlong wika.", "en": "She knows how to speak three languages."}},
+    {"tl": "sumayaw (um)", "en": "to dance", "pos": "verb", "note": "sumayaw, sumasayaw, sasayaw", "example": {"tl": "Hindi ako marunong sumayaw.", "en": "I don't know how to dance."}},
+    {"tl": "tumugtog (um)", "en": "to play (an instrument)", "pos": "verb", "note": "tumugtog, tumutugtog, tutugtog", "example": {"tl": "Marunong siyang tumugtog ng gitara.", "en": "He knows how to play the guitar."}},
+    {"tl": "tumawid (um)", "en": "to cross (the street)", "pos": "verb", "note": "tumawid, tumatawid, tatawid", "example": {"tl": "Bawal tumawid dito. Doon sa tulay.", "en": "You can't cross here. Over there at the footbridge."}},
+    {"tl": "tumulong (um)", "en": "to help", "pos": "verb", "note": "tumulong, tumutulong, tutulong", "example": {"tl": "Puwede ka bang tumulong sa akin?", "en": "Can you help me?"}},
+    {"tl": "subukan (-in)", "en": "to try (something)", "pos": "verb", "note": "sinubukan, sinusubukan, susubukan", "example": {"tl": "Subukan mo ang sinigang namin!", "en": "Try our sinigang!"}},
+    {"tl": "tulong", "en": "help", "pos": "noun", "example": {"tl": "Salamat sa tulong mo.", "en": "Thanks for your help."}},
+    {"tl": "lisensya", "en": "license", "pos": "noun", "example": {"tl": "Wala pa akong lisensya sa pagmamaneho.", "en": "I don't have a driver's license yet."}},
+    {"tl": "wika", "en": "language", "pos": "noun", "example": {"tl": "Ilang wika ang alam mo?", "en": "How many languages do you know?"}},
+    {"tl": "gitara", "en": "guitar", "pos": "noun", "example": {"tl": "May gitara ba kayo sa bahay?", "en": "Do you have a guitar at home?"}},
+    {"tl": "kahon", "en": "box", "pos": "noun", "example": {"tl": "Ang bigat ng kahong ito!", "en": "This box is so heavy!"}},
+    {"tl": "mabigat", "en": "heavy", "pos": "adjective", "example": {"tl": "Mabigat ang bag ko ngayon.", "en": "My bag is heavy today."}},
+    {"tl": "magaan", "en": "light (in weight)", "pos": "adjective", "example": {"tl": "Magaan lang ito. Kaya ko.", "en": "This is light. I can manage it."}},
+    {"tl": "mag-ingat (mag)", "en": "to be careful", "pos": "verb", "note": "Ingat! = Take care! (common goodbye)", "example": {"tl": "Mag-ingat ka sa daan, ha?", "en": "Be careful on the road, okay?"}},
+    {"tl": "mag-ingay (mag)", "en": "to make noise", "pos": "verb", "note": "nag-ingay, nag-iingay, mag-iingay", "example": {"tl": "Huwag kayong mag-ingay sa library.", "en": "Don't make noise in the library."}},
+    {"tl": "sandali", "en": "a moment; wait a second", "pos": "noun", "note": "Sandali lang po = just a moment", "example": {"tl": "Sandali lang, tatapusin ko lang ito.", "en": "Just a moment, I'll just finish this."}}
+  ],
+  "dialogue": {
+    "title": "At the community pool",
+    "context": "Ramon brings his officemate Grace to the neighborhood pool for the first time.",
+    "lines": [
+      {"speaker": "Grace", "tl": "Wow, ang ganda ng pool! Puwede ba tayong lumangoy agad?", "en": "Wow, the pool is beautiful! Can we swim right away?"},
+      {"speaker": "Ramon", "tl": "Sandali lang. Kailangan muna nating magbayad sa counter.", "en": "Just a moment. We need to pay at the counter first."},
+      {"speaker": "Grace", "tl": "Ah, sige. Magkano ba?", "en": "Ah, okay. How much is it?"},
+      {"speaker": "Ramon", "tl": "Singkwenta pesos lang. O, marunong ka bang lumangoy?", "en": "Just fifty pesos. So, do you know how to swim?"},
+      {"speaker": "Grace", "tl": "Konti lang. Hindi ko kayang lumangoy sa malalim.", "en": "Just a little. I can't swim in the deep part."},
+      {"speaker": "Ramon", "tl": "Okay lang. Dapat kang manatili sa mababaw na parte.", "en": "That's fine. You should stay in the shallow part."},
+      {"speaker": "Grace", "tl": "May mga bawal ba dito?", "en": "Are there rules here — things not allowed?"},
+      {"speaker": "Ramon", "tl": "Oo. Bawal tumakbo sa gilid ng pool, at bawal kumain sa tubig.", "en": "Yes. No running at the poolside, and no eating in the water."},
+      {"speaker": "Grace", "tl": "Puwede bang magdala ng pagkain sa mga mesa doon?", "en": "Can we bring food to the tables over there?"},
+      {"speaker": "Ramon", "tl": "Puwede naman. Pero huwag mong iwanan ang gamit mo. Walang bantay.", "en": "That's allowed. But don't leave your things. There's no attendant."},
+      {"speaker": "Grace", "tl": "Sige. Ay, kailangan ko pala ng swimming cap!", "en": "Okay. Oh, it turns out I need a swimming cap!"},
+      {"speaker": "Ramon", "tl": "May tindahan sa tabi ng counter. Bumili ka muna doon.", "en": "There's a shop next to the counter. Go buy one there first."},
+      {"speaker": "Grace", "tl": "Salamat! Tapos, tuturuan mo ako, ha? Gusto kong matutong lumangoy.", "en": "Thanks! Then you'll teach me, okay? I want to learn to swim."},
+      {"speaker": "Ramon", "tl": "Oo naman. Kaya mo iyan!", "en": "Of course. You can do it!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which word means 'know how to (a skill)'?", "choices": ["alam", "marunong", "kaya", "dapat"], "answer": 1, "explain": "Marunong is for learned skills; alam is for facts; kaya is about capacity to manage something."},
+    {"type": "fill", "prompt": "Marunong ___ lumangoy. (I know how to swim.)", "answer": "akong", "accept": ["akong"], "hint": "ang-form pronoun + linker.", "explain": "Marunong takes an ang-form actor with the linker -ng: marunong akong lumangoy."},
+    {"type": "mcq", "prompt": "How do you say 'I can't lift this' (it's too heavy)?", "choices": ["Hindi akong buhatin ito.", "Hindi ko kayang buhatin ito.", "Hindi marunong akong buhatin ito.", "Bawal kong buhatin ito."], "answer": 1, "explain": "Physical capacity is kaya with a ng-form actor: hindi ko kayang buhatin ito."},
+    {"type": "fill", "prompt": "___ ko ang sagot, pero hindi ako marunong magpaliwanag. (I KNOW the answer...)", "answer": "Alam", "accept": ["alam", "Alam"], "explain": "Knowing a fact is alam; marunong is reserved for skills."},
+    {"type": "mcq", "prompt": "You want to ask permission to sit down. Which is correct?", "choices": ["Puwede ba akong umupo dito?", "Puwede ba kong umupo dito?", "Kaya ba akong umupo dito?", "Dapat ba akong umupo dito?"], "answer": 0, "explain": "Puwede takes an ang-form actor: puwede ba akong umupo. Kaya would question your physical ability, dapat your obligation."},
+    {"type": "listen", "tl": "Bawal pumarada dito. May towing po.", "prompt": "What does the sign/speaker say?", "choices": ["No smoking here.", "No parking here — cars get towed.", "No crossing here.", "Parking is free here."], "answer": 1, "explain": "Bawal pumarada = parking is forbidden; may towing warns that vehicles are towed."},
+    {"type": "fill", "prompt": "___ kang tumakbo sa gilid ng pool! (Don't run at the poolside!)", "answer": "Huwag", "accept": ["huwag", "Huwag"], "hint": "Negative commands don't use hindi.", "explain": "Commands are negated with huwag, and the pronoun takes the linker: huwag kang tumakbo."},
+    {"type": "mcq", "prompt": "'Kailangan ko ___ tulong' vs 'Kailangan ko ___ umalis'. Choose the pair of missing words.", "choices": ["ng / ng", "-ng / ng", "ng / -ng (kong)", "ang / na"], "answer": 2, "explain": "With a noun, kailangan takes ng (kailangan ko ng tulong); with a verb, the actor gets the linker: kailangan kong umalis."},
+    {"type": "translate", "direction": "en2tl", "prompt": "You should drink lots of water every day.", "answer": "Dapat kang uminom ng maraming tubig araw-araw.", "accept": ["Dapat kang uminom ng maraming tubig araw-araw", "Dapat kang uminom ng maraming tubig", "Dapat uminom ka ng maraming tubig araw-araw", "Araw-araw dapat kang uminom ng maraming tubig"], "explain": "Dapat takes an ang-form actor with the linker: dapat kang uminom; maraming tubig = lots of water."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Hindi ako marunong sumayaw, pero marunong akong kumanta.", "answer": "I don't know how to dance, but I know how to sing.", "accept": ["I don't know how to dance, but I know how to sing", "I can't dance but I can sing", "I don't know how to dance but I can sing"], "explain": "Marunong + verb = know how to; pero contrasts the two skills."},
+    {"type": "mcq", "prompt": "Your friend looks exhausted. The most natural advice is:", "choices": ["Bawal kang magpahinga.", "Dapat kang magpahinga.", "Marunong kang magpahinga.", "Kaya kong magpahinga."], "answer": 1, "explain": "Dapat gives advice: you should rest. Bawal would forbid it; marunong/kaya talk about skill and capacity."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Can you help me? I need to finish this before five.", "answer": "Puwede ka bang tumulong sa akin? Kailangan kong tapusin ito bago mag-alas-singko.", "accept": ["Puwede ka bang tumulong sa akin? Kailangan kong tapusin ito bago mag-alas-singko", "Puwede mo ba akong tulungan? Kailangan kong tapusin ito bago mag-alas-singko", "Pwede ka bang tumulong sa akin? Kailangan kong tapusin ito bago mag-alas-singko"], "explain": "Puwede + ang-actor (ka) + ba + linker for the request; kailangan + ng-actor with linker (kong) + object-focus tapusin for the deadline."},
+    {"type": "fill", "prompt": "Marunong siyang ___ ng gitara. (She knows how to play the guitar.)", "answer": "tumugtog", "accept": ["tumugtog"], "explain": "After marunong + linker the verb appears in its basic -um- form: tumugtog ng gitara."},
+    {"type": "mcq", "prompt": "Which sentence is wrong, and would make a Tagalog speaker do a double take?", "choices": ["Kailangan kong mag-aral.", "Puwede akong pumunta bukas.", "Kaya akong magmaneho.", "Dapat siyang mag-ingat."], "answer": 2, "explain": "Kaya takes a ng-form actor: kaya KONG magmaneho. The other three correctly pair puwede/dapat with ang-forms and kailangan with the ng-form."}
+  ]
+}

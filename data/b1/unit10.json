@@ -1,0 +1,122 @@
+{
+  "id": "b1-u10",
+  "title": "Sa opisina: work, phone calls, and the professional register",
+  "objectives": [
+    "Handle a formal phone call: asking for someone, leaving a message",
+    "Schedule, move and cancel meetings politely",
+    "Manage a job interview: experience, skills, and polite answers",
+    "Control register: when adults use po/ho, kayo, and formal vocabulary"
+  ],
+  "grammar": [
+    {
+      "title": "Po, ho and kayo between adults: professional respect",
+      "explanation": "At A1 you learned po for elders. In adult professional life the rules are subtler. Po (and its softer variant ho) marks respect and formality, not just age. Use po with: customers and clients (both directions — the clerk says po to you, you may say po back), officials and security guards, interviewers, senior colleagues and bosses (until told otherwise), and anyone on the phone whose status you don't know yet. Opo/oho replace oo in these contexts; hindi po replaces plain hindi.\n\nHo is slightly more relaxed and homey than po; you'll hear it from market vendors and older speakers. As a learner, defaulting to po is always safe.\n\nAlongside po comes the respectful plural: address one respected person as kayo/ninyo/inyo instead of ka/mo/iyo. Kumusta po kayo? — how are you (sir/ma'am)? Ano po ang pangalan ninyo? Titles matter too: Ginoo (G.) for Mr., Ginang (Gng.) for Mrs., Binibini (Bb.) for Miss — though in real offices you'll mostly hear Sir/Ma'am borrowed from English: Sir Ramos, Ma'am Liza.\n\nJust as important is knowing when to switch off: among peers and teammates, constant po sounds stiff and even sarcastic. Filipinos calibrate fast — match your interlocutor. When a boss says 'huwag mo na akong i-po', drop the po but keep the politeness in your particles: nga, naman, sana.",
+      "examples": [
+        {"tl": "Magandang umaga po. May appointment po ako kay Gng. Reyes.", "en": "Good morning. I have an appointment with Mrs. Reyes."},
+        {"tl": "Kumusta po kayo, Sir Ramos?", "en": "How are you, Sir Ramos?"},
+        {"tl": "Opo, natanggap ko po ang email ninyo kahapon.", "en": "Yes, I received your email yesterday."},
+        {"tl": "Salamat ho. Babalik ho ako bukas ng umaga.", "en": "Thank you. I'll come back tomorrow morning."},
+        {"tl": "Huwag mo na akong i-po — magkasing-edad lang tayo!", "en": "Don't 'po' me — we're the same age!"}
+      ]
+    },
+    {
+      "title": "On the phone: makausap and the call formulas",
+      "explanation": "Phone Tagalog runs on a small set of formulas built around makausap (ma- + kausap), 'to get to speak with': Puwede ko po bang makausap si Gng. Reyes? — may I speak with Mrs. Reyes? The answering side asks: Sino po sila? / Sino po ang tumatawag? — who's calling, please? (Note the respectful sila — 'they' — for a caller whose identity is unknown; it's the politest possible pronoun.)\n\nOther fixed moves: Sandali lang po — one moment please. Pakihintay po sandali — please hold. Wala po siya sa mesa niya ngayon — he's not at his desk right now. Gusto po ba ninyong mag-iwan ng mensahe? — would you like to leave a message? Pakisabi na lang po na tumawag si Cameron — please just say Cameron called. Tatawag na lang po ulit ako — I'll just call again.\n\nWhen it's your call, state your business with a pa- or maki- softener plus your Unit 5 particles: Tatanong ko lang po sana kung... — I was just hoping to ask whether... Sana with tatanong marks the request as tentative — exactly the polite hedge professional Tagalog loves. Ending: Maraming salamat po. Sige po. Ingat po kayo.",
+      "examples": [
+        {"tl": "Magandang hapon po. Puwede ko po bang makausap si G. Santos?", "en": "Good afternoon. May I speak with Mr. Santos?"},
+        {"tl": "Sino po sila? — Si Ana po ito ng ABC Trading.", "en": "Who's calling, please? — This is Ana from ABC Trading."},
+        {"tl": "Nasa pulong po siya. Gusto po ba ninyong mag-iwan ng mensahe?", "en": "He's in a meeting. Would you like to leave a message?"},
+        {"tl": "Pakisabi po na tumawag ako tungkol sa kontrata.", "en": "Please tell him I called about the contract."},
+        {"tl": "Tatawag na lang po ako ulit bukas ng umaga. Salamat po.", "en": "I'll just call again tomorrow morning. Thank you."}
+      ]
+    },
+    {
+      "title": "Scheduling: setting, moving, and canceling",
+      "explanation": "The scheduling verbs are old friends in professional clothes. To propose: Puwede po ba tayong magpulong sa Martes? — could we meet on Tuesday? Kailan po kayo bakante? — when are you free? To set: magtakda — Nagtakda kami ng pulong sa alas-diyes — we set a meeting for ten. To move: ilipat (your Unit 8 verb, new use) — Puwede po bang ilipat ang pulong sa Huwebes? — could the meeting be moved to Thursday? To postpone: ipagpaliban (Unit 8) — Ipagpapaliban po namin ang panayam — we'll postpone the interview. To cancel: kanselahin — Kinansela nila ang biyahe.\n\nConfirming and hedging use the machinery you have: Sige po, kita po tayo sa Lunes (see you Monday); Kung sakaling may magbago, tatawagan ko po kayo (if anything changes, I'll call you — kung sakali from Unit 7); Baka po ma-late ako nang kaunti (I might be a bit late).\n\nOne cultural note: 'Filipino time' jokes aside, in professional contexts punctuality is expected, and the polite way to warn of delay is early and with an apology: Pasensiya na po, natrapik po ako — sorry, I got stuck in traffic. Better yet, arrive early — dumating nang maaga — and mention it humbly with lang: kararating ko lang po — I just got here.",
+      "examples": [
+        {"tl": "Kailan po kayo bakante ngayong linggo?", "en": "When are you free this week?"},
+        {"tl": "Magtakda po tayo ng oras para sa panayam ninyo.", "en": "Let's set a time for your interview."},
+        {"tl": "Puwede po bang ilipat sa Biyernes ang pulong natin?", "en": "Could our meeting be moved to Friday?"},
+        {"tl": "Kinansela po ng kliyente ang order, kaya libre na ang Martes ko.", "en": "The client canceled the order, so my Tuesday is free now."},
+        {"tl": "Kung sakaling may magbago, ipagbibigay-alam ko po agad sa inyo.", "en": "If anything changes, I'll inform you right away."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "makausap (ma-)", "en": "to get to speak with", "pos": "verb", "note": "nakausap, nakakausap, makakausap", "example": {"tl": "Nakausap mo na ba ang bagong manedyer?", "en": "Have you gotten to speak with the new manager?"}},
+    {"tl": "tawagan (-an)", "en": "to call someone (person in focus)", "pos": "verb", "note": "tinawagan, tinatawagan, tatawagan", "example": {"tl": "Tatawagan ko po kayo bago mag-alas-singko.", "en": "I'll call you before five o'clock."}},
+    {"tl": "mag-iwan ng mensahe", "en": "to leave a message", "pos": "phrase", "example": {"tl": "Gusto po ba ninyong mag-iwan ng mensahe?", "en": "Would you like to leave a message?"}},
+    {"tl": "sandali lang po", "en": "one moment please", "pos": "phrase", "example": {"tl": "Sandali lang po, ikokonekta ko kayo sa opisina niya.", "en": "One moment please, I'll connect you to his office."}},
+    {"tl": "kausap", "en": "the person one is talking to", "pos": "noun", "note": "Sino ang kausap mo? = who are you talking to?", "example": {"tl": "Ang kausap ko kanina ay ang may-ari mismo ng kompanya.", "en": "The person I was talking to earlier was the company owner himself."}},
+    {"tl": "panayam", "en": "interview", "pos": "noun", "note": "in daily speech, the English loan 'interbyu' is very common", "example": {"tl": "May panayam ako sa Lunes para sa bagong posisyon.", "en": "I have an interview on Monday for the new position."}},
+    {"tl": "aplikante", "en": "applicant", "pos": "noun", "example": {"tl": "Sampung aplikante ang pumasa sa unang panayam.", "en": "Ten applicants passed the first interview."}},
+    {"tl": "mag-aplay (mag-)", "en": "to apply (for a job)", "pos": "verb", "note": "nag-aplay, nag-aaplay, mag-aaplay", "example": {"tl": "Nag-aplay siya sa tatlong kompanya noong isang buwan.", "en": "She applied to three companies last month."}},
+    {"tl": "karanasan", "en": "experience", "pos": "noun", "example": {"tl": "Limang taon na ang karanasan ko sa pagtuturo.", "en": "I have five years of experience in teaching."}},
+    {"tl": "kasanayan", "en": "skill", "pos": "noun", "example": {"tl": "Mahalagang kasanayan ang pakikipag-usap sa kliyente.", "en": "Talking with clients is an important skill."}},
+    {"tl": "kompanya", "en": "company", "pos": "noun", "example": {"tl": "Malaki ang kompanyang pinapasukan niya ngayon.", "en": "The company he works for now is big."}},
+    {"tl": "posisyon", "en": "position, post", "pos": "noun", "example": {"tl": "Bakante pa po ba ang posisyon na nasa anunsiyo?", "en": "Is the position in the announcement still vacant?"}},
+    {"tl": "manedyer", "en": "manager", "pos": "noun", "example": {"tl": "Ipinakilala kami sa bagong manedyer kaninang umaga.", "en": "We were introduced to the new manager this morning."}},
+    {"tl": "kliyente", "en": "client, customer", "pos": "noun", "example": {"tl": "Darating ang mahalagang kliyente natin sa alas-dos.", "en": "Our important client is arriving at two."}},
+    {"tl": "iskedyul", "en": "schedule", "pos": "noun", "example": {"tl": "Puno na ang iskedyul ko sa Huwebes.", "en": "My Thursday schedule is already full."}},
+    {"tl": "pulong", "en": "meeting", "pos": "noun", "note": "the English loan 'miting' is also common", "example": {"tl": "Nagsimula nang maaga ang pulong ng mga manedyer.", "en": "The managers' meeting started early."}},
+    {"tl": "magtakda (mag-)", "en": "to set (a time, date)", "pos": "verb", "note": "nagtakda, nagtatakda, magtatakda", "example": {"tl": "Magtakda tayo ng petsa para sa susunod na pulong.", "en": "Let's set a date for the next meeting."}},
+    {"tl": "ilipat (i-)", "en": "to move, transfer (a meeting, an item)", "pos": "verb", "note": "inilipat, inililipat, ililipat", "example": {"tl": "Inilipat nila sa Biyernes ang panayam ko.", "en": "They moved my interview to Friday."}},
+    {"tl": "kanselahin (-in)", "en": "to cancel", "pos": "verb", "note": "kinansela, kinakansela, kakanselahin", "example": {"tl": "Kinansela po ba ang pulong ngayong hapon?", "en": "Was this afternoon's meeting canceled?"}},
+    {"tl": "bakante", "en": "vacant, free (of time or a post)", "pos": "adjective", "example": {"tl": "Bakante ako pagkatapos ng alas-tres.", "en": "I'm free after three o'clock."}},
+    {"tl": "pirmahan (-an)", "en": "to sign", "pos": "verb", "note": "pinirmahan, pinipirmahan, pipirmahan", "example": {"tl": "Pakipirmahan po ang dalawang kopya ng kontrata.", "en": "Please sign the two copies of the contract."}},
+    {"tl": "dokumento", "en": "document", "pos": "noun", "example": {"tl": "Kumpleto na po ang mga dokumentong hiningi ninyo.", "en": "The documents you requested are complete."}},
+    {"tl": "kontrata", "en": "contract", "pos": "noun", "example": {"tl": "Binasa ko nang mabuti ang kontrata bago ako pumirma.", "en": "I read the contract carefully before I signed."}},
+    {"tl": "opo / oho", "en": "yes (polite)", "pos": "particle", "note": "opo is the safe default; oho is a softer, homier variant", "example": {"tl": "Opo, ako po si Cameron. Nandito po ako para sa panayam.", "en": "Yes, I'm Cameron. I'm here for the interview."}},
+    {"tl": "Ginoo / Ginang / Binibini", "en": "Mr. / Mrs. / Miss", "pos": "noun", "note": "abbreviated G., Gng., Bb.; offices often use English Sir/Ma'am instead", "example": {"tl": "Si Gng. Reyes po ang hepe ng aming departamento.", "en": "Mrs. Reyes is the head of our department."}},
+    {"tl": "pasok", "en": "work/school day; attendance", "pos": "noun", "note": "may pasok = there's work/class; papasok ako = I'm going in", "example": {"tl": "May pasok pa ba tayo sa Sabado o wala na?", "en": "Do we still have work on Saturday or not anymore?"}},
+    {"tl": "alok", "en": "offer", "pos": "noun", "note": "job offer: alok na trabaho", "example": {"tl": "Tinanggap niya agad ang alok ng mas mataas na sahod.", "en": "He immediately accepted the offer of a higher salary."}},
+    {"tl": "tanggapin (-in)", "en": "to accept", "pos": "verb", "note": "tinanggap, tinatanggap, tatanggapin", "example": {"tl": "Tatanggapin ko po ang posisyon kung papayag kayo sa hiling kong iskedyul.", "en": "I'll accept the position if you agree to my requested schedule."}},
+    {"tl": "magbitiw (mag-)", "en": "to resign", "pos": "verb", "note": "nagbitiw, nagbibitiw, magbibitiw; also 'mag-resign' in casual speech", "example": {"tl": "Nagbitiw siya para mag-alaga sa kaniyang ina.", "en": "She resigned to care for her mother."}}
+  ],
+  "dialogue": {
+    "title": "Tawag sa opisina",
+    "context": "Cameron calls Santos Trading to follow up a job application; the receptionist answers.",
+    "lines": [
+      {"speaker": "Receptionist", "tl": "Magandang umaga po, Santos Trading. Ano po ang maitutulong ko?", "en": "Good morning, Santos Trading. How may I help you?"},
+      {"speaker": "Cameron", "tl": "Magandang umaga po. Puwede ko po bang makausap si Gng. Reyes ng HR?", "en": "Good morning. May I speak with Mrs. Reyes of HR?"},
+      {"speaker": "Receptionist", "tl": "Sino po sila?", "en": "Who's calling, please?"},
+      {"speaker": "Cameron", "tl": "Si Cameron po ito. Nag-aplay po ako sa posisyong translator noong isang linggo.", "en": "This is Cameron. I applied for the translator position last week."},
+      {"speaker": "Receptionist", "tl": "Ah, opo. Sandali lang po, titingnan ko kung bakante siya.", "en": "Ah, yes. One moment please, I'll check if she's free."},
+      {"speaker": "Receptionist", "tl": "Sir, nasa pulong pa po siya. Gusto po ba ninyong mag-iwan ng mensahe?", "en": "Sir, she's still in a meeting. Would you like to leave a message?"},
+      {"speaker": "Cameron", "tl": "Sige po. Tatanong ko lang po sana kung kailan ang panayam para sa mga aplikante.", "en": "Yes please. I was just hoping to ask when the interview for applicants will be."},
+      {"speaker": "Receptionist", "tl": "Naka-iskedyul po iyon sa Huwebes, alas-nuwebe ng umaga.", "en": "That's scheduled for Thursday, nine in the morning."},
+      {"speaker": "Cameron", "tl": "Naku, may doktor po ako sa Huwebes ng umaga. Puwede po kayang ilipat sa hapon?", "en": "Oh no, I have a doctor's appointment Thursday morning. Could it possibly be moved to the afternoon?"},
+      {"speaker": "Receptionist", "tl": "Itatanong ko po kay Gng. Reyes. Pakibigay po ang numero ninyo, tatawagan po namin kayo.", "en": "I'll ask Mrs. Reyes. Please give your number and we'll call you."},
+      {"speaker": "Cameron", "tl": "0917-555-8123 po. Maraming salamat po sa tulong ninyo.", "en": "0917-555-8123. Thank you very much for your help."},
+      {"speaker": "Receptionist", "tl": "Walang anuman po. Magandang araw po sa inyo!", "en": "You're welcome. Have a good day!"}
+    ]
+  },
+  "reading": {
+    "title": "Ang panayam ni Sofia",
+    "tl": "Kinabahan si Sofia noong araw ng kaniyang panayam sa isang kompanya sa Makati. Dumating siya nang maaga, nakasuot ng maayos na damit, at dala ang lahat ng dokumentong hiningi. Sa lobby, binati niya ang guwardiya: magandang umaga po. Maliit na bagay iyon, pero ayon sa tita niya, ang aplikanteng magalang sa lahat — hindi lang sa manedyer — ang naaalala ng mga tao.\n\nSa loob, tinanong siya ni G. Santos tungkol sa kaniyang karanasan at mga kasanayan. Sinagot niya ang lahat nang mahinahon. Nang tanungin siya kung bakit siya nagbitiw sa dati niyang trabaho, hindi siya nagsinungaling: gusto raw niya ng posisyong may mas malaking hamon. Nagtanong din siya tungkol sa iskedyul at benepisyo.\n\nPagkalabas ng gusali, tumawag agad siya sa nanay niya. Makalipas ang tatlong araw, tinawagan siya ng kompanya: tinanggap siya. Ang payo niya ngayon: maghanda ka, maging totoo ka, at huwag kalimutan ang po at opo.",
+    "en": "Sofia was nervous on the day of her interview at a company in Makati. She arrived early, dressed neatly, and brought all the documents requested. In the lobby, she greeted the guard: good morning po. It was a small thing, but according to her aunt, the applicant who is polite to everyone — not just the manager — is the one people remember.\n\nInside, Mr. Santos asked her about her experience and skills. She answered everything calmly. When she was asked why she resigned from her previous job, she didn't lie: she said she wanted a position with a bigger challenge. She also asked about the schedule and benefits.\n\nAs soon as she stepped out of the building, she called her mother right away. After three days, the company called her: she was accepted. Her advice now: prepare, be honest, and don't forget your po and opo.",
+    "gloss": [
+      {"tl": "kinabahan", "en": "got nervous"},
+      {"tl": "binati", "en": "greeted (from batiin)"},
+      {"tl": "magalang", "en": "polite, respectful"},
+      {"tl": "mahinahon", "en": "calm, composed"},
+      {"tl": "hamon", "en": "challenge"},
+      {"tl": "benepisyo", "en": "benefits"},
+      {"tl": "makalipas", "en": "after (a period of time)"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "On the phone, the receptionist asks 'Sino po sila?'. Why sila?", "choices": ["She thinks several people are calling", "Sila is the politest way to refer to an unknown caller", "She is asking about Mr. Santos", "It's a mistake learners should avoid"], "answer": 1, "explain": "The respectful third-person plural sila is the politest possible pronoun for someone whose identity and status you don't yet know."},
+    {"type": "mcq", "prompt": "Which is the appropriate way to ask for Mrs. Reyes on a business call?", "choices": ["Nasaan si Reyes?", "Puwede ko po bang makausap si Gng. Reyes?", "Si Gng. Reyes, kausapin ko!", "Tawagan mo ako ni Gng. Reyes."], "answer": 1, "explain": "The formula is puwede + po + ba + makausap: 'may I speak with...'. The others are blunt or garbled."},
+    {"type": "fill", "prompt": "___ , natanggap ko po ang email ninyo. (Yes — polite form)", "answer": "opo", "accept": ["opo", "oho"], "hint": "The polite yes.", "explain": "In formal contexts opo (or oho) replaces plain oo."},
+    {"type": "fill", "prompt": "Wala po siya sa mesa niya. Gusto po ba ninyong ___ ng mensahe? (leave a message)", "answer": "mag-iwan", "accept": ["mag-iwan", "magiwan"], "hint": "The mag- verb from iwan.", "explain": "The set phone phrase is mag-iwan ng mensahe — to leave a message."},
+    {"type": "mcq", "prompt": "Your teammate, same age as you, says 'Huwag mo na akong i-po.' What should you do?", "choices": ["Keep using po to be safe", "Switch to plain speech but stay polite with particles like nga and naman", "Stop talking to them", "Use opo instead of po"], "answer": 1, "explain": "Constant po among peers sounds stiff; when invited, drop po but keep courtesy through particles and tone."},
+    {"type": "listen", "tl": "Nasa pulong pa po si Gng. Reyes. Puwede po ba kayong tumawag ulit pagkatapos ng alas-tres?", "prompt": "What is the caller told?", "choices": ["Mrs. Reyes is on leave today", "Mrs. Reyes is still in a meeting; please call again after three", "Mrs. Reyes will call after three", "The meeting is at three o'clock"], "answer": 1, "explain": "Nasa pulong pa = still in a meeting; the request is tumawag ulit pagkatapos ng alas-tres — call again after three."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Could our meeting be moved to Friday? (polite, with po)", "answer": "Puwede po bang ilipat sa Biyernes ang pulong natin?", "accept": ["Puwede po bang ilipat sa Biyernes ang pulong natin", "Puwede po bang ilipat ang pulong natin sa Biyernes", "Maaari po bang ilipat ang pulong natin sa Biyernes", "Puwede po bang ilipat ang miting natin sa Biyernes"], "explain": "Ilipat (i- focus) because the definite meeting is what's being moved; puwede po ba frames the polite request."},
+    {"type": "fill", "prompt": "Kailan po kayo ___ ngayong linggo? (When are you free this week?)", "answer": "bakante", "accept": ["bakante"], "hint": "Free/vacant.", "explain": "Bakante covers both a free time slot and a vacant position; here it asks when the person is free."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Pakisabi po kay G. Santos na tumawag ako tungkol sa kontrata.", "answer": "Please tell Mr. Santos that I called about the contract.", "accept": ["Please tell Mr. Santos that I called about the contract", "Please tell Mr. Santos I called regarding the contract", "Kindly tell Mr. Santos that I called about the contract"], "explain": "Paki- + sabi is the polite relay request; na tumawag ako reports your own call, Unit 9 style."},
+    {"type": "mcq", "prompt": "In an interview you're asked why you left your last job. Which answer is honest, polite, and natural?", "choices": ["Ayoko na po doon.", "Naghanap po ako ng posisyong may mas malaking hamon.", "Masama po ang boss ko.", "Sikreto ko po iyon."], "answer": 1, "explain": "Framing the move positively — seeking a bigger challenge — is the professional register; the others are blunt, negative, or evasive."},
+    {"type": "listen", "tl": "Magtakda po tayo ng oras para sa panayam ninyo. Bakante po ba kayo sa Huwebes ng umaga?", "prompt": "What is being arranged?", "choices": ["A contract signing on Thursday afternoon", "Setting a time for the listener's interview, proposing Thursday morning", "Canceling Thursday's interview", "A meeting with a client on Wednesday"], "answer": 1, "explain": "Magtakda ng oras = set a time; para sa panayam ninyo = for your interview; the proposal is Huwebes ng umaga."},
+    {"type": "translate", "direction": "en2tl", "prompt": "If anything changes, I will call you right away. (formal, with po)", "answer": "Kung sakaling may magbago, tatawagan ko po kayo agad.", "accept": ["Kung sakaling may magbago, tatawagan ko po kayo agad", "Kung sakaling may magbago tatawagan ko po kayo kaagad", "Kung may magbago po, tatawagan ko kayo agad", "Kung sakaling may magbago, tatawagan ko po kayo kaagad"], "explain": "Kung sakali(ng) for the contingency (Unit 7), tawagan for calling a person, kayo for respectful 'you'."}
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "b1-u09",
+  "title": "He said, she said: reported speech and hearsay",
+  "objectives": [
+    "Report statements with sabi ni X and sinabi niyang...",
+    "Master daw/raw: hearsay, relaying messages, and distancing",
+    "Use the ask-and-answer verbs: magtanong, itanong, tanungin, sumagot, sagutin",
+    "Retell a whole conversation in order"
+  ],
+  "grammar": [
+    {
+      "title": "Reporting frames: sabi ni X, sinabi niyang...",
+      "explanation": "The workhorse of reported speech is the noun-like sabi: Sabi ni Ana, aalis siya bukas — Ana said she's leaving tomorrow. The sayer attaches with ni/ng or a possessive: sabi niya, sabi ng doktor, ang sabi ng nanay ko. In speech you'll constantly hear it doubled around the quote: Sabi niya, 'ayoko raw' — with daw/raw reinforcing it (more on that below).\n\nMore formal is the full verb sabihin (object focus): sinabi, sinasabi, sasabihin. The reported clause attaches with the linker na/-ng: Sinabi niyang lilipat sila sa Enero — she said they're moving in January. Note what happens to aspect: Tagalog keeps the aspect the original speaker would have used, unlike English backshifting. 'She said she WILL move' and 'she said she WOULD move' both come out as sinabi niyang lilipat siya.\n\nTo report commands and requests, use pa- forms of sabi or simply sabihan + na: Sinabihan niya akong maghintay — she told me to wait. Sabihan (-an focus) targets the person told: Sabihan mo si Ben na kumain na kami — tell Ben we've already eaten. For 'according to', use ayon kay/sa: Ayon sa balita, may paparating na bagyo — according to the news, a typhoon is coming.",
+      "examples": [
+        {"tl": "Sabi ni Ana, aalis daw siya bukas ng umaga.", "en": "Ana said she's leaving tomorrow morning."},
+        {"tl": "Sinabi niyang hindi siya makakarating sa miting.", "en": "He said he can't make it to the meeting."},
+        {"tl": "Ang sabi ng doktor, kailangan mong magpahinga.", "en": "The doctor said you need to rest."},
+        {"tl": "Sinabihan kami ng guwardiyang maghintay sa labas.", "en": "The guard told us to wait outside."},
+        {"tl": "Ayon sa lola ko, mas masarap daw ang lutong probinsya.", "en": "According to my grandma, provincial cooking tastes better."}
+      ]
+    },
+    {
+      "title": "daw/raw in depth: hearsay, relay, distance",
+      "explanation": "You met daw/raw at A2 as 'reportedly'. At B1, make it do full work. Form first: daw after consonants, raw after vowels and w/y — sabi daw, aalis raw. It sits in the enclitic slot with the other particles (after short pronouns: hindi ka raw sasama).\n\nUse one: pure hearsay, no source named. Malamig daw sa Baguio ngayon — apparently it's cold in Baguio. The speaker signals: I didn't verify this.\n\nUse two: relaying messages — hugely common in Filipino households. Kain na raw kayo, sabi ni Nanay — Mom says come and eat now. Even a one-word relay works: Uwi na raw! — (someone says) time to go home! When you pass on a question, daw rides along: Sasama ka raw ba? — (she's asking) are you coming?\n\nUse three: distancing or doubt. Because daw disclaims responsibility, it can flavor a sentence with skepticism: Mayaman daw sila — they're supposedly rich. Said with a raised eyebrow, the doubt is the point.\n\nFinally, Ano raw? is the standard 'What did he/she say?' — ask it whenever you miss something someone relayed. Don't confuse it with Ano nga ulit? (what was it again?), which asks the same speaker to repeat themselves.",
+      "examples": [
+        {"tl": "May pasok daw bukas kahit bagyo. Sino ang nagsabi?", "en": "They say there are classes tomorrow despite the typhoon. Who said so?"},
+        {"tl": "Tawag ka raw ni Boss sa opisina niya.", "en": "The boss is calling for you in his office (someone relayed)."},
+        {"tl": "Kain na raw tayo — handa na ang hapunan.", "en": "They said let's eat now — dinner is ready."},
+        {"tl": "Aalis ka raw ba bukas? Iyon ang tanong ni Mika.", "en": "Are you leaving tomorrow? That's what Mika is asking."},
+        {"tl": "Libre raw ang tiket... pero hindi ako naniniwala.", "en": "The ticket is supposedly free... but I don't believe it."}
+      ]
+    },
+    {
+      "title": "Asking and answering: the tanong and sagot verbs",
+      "explanation": "'Ask' splits into three verbs along familiar focus lines. Actor focus magtanong — to ask (in general): Nagtanong ako sa guro — I asked the teacher. Object focus itanong — the question itself in focus: Itinanong ko kung saan ang banyo — I asked where the bathroom was. Directional tanungin — the person asked in focus: Tinanong ko ang guro tungkol sa exam — I asked the teacher about the exam. Notice how reported questions plug in the kung-clauses from Unit 8: itanong mo kung kailan, tinanong niya ako kung sino...\n\n'Answer' mirrors it: sumagot (actor: Walang sumagot — nobody answered), sagutin (the question or person in focus: Sinagot niya agad ang tanong ko — he answered my question right away).\n\nFor retelling stories: magkuwento (to tell stories, actor) and ikuwento (to recount something specific): Ikuwento mo nga sa akin ang nangyari — tell me what happened. To relay news: ibalita. To find out: malaman — Nalaman kong nagsinungaling siya — I found out he lied. To remind: ipaalala — Ipaalala mo sa akin bukas — remind me tomorrow.\n\nWith these plus sabi and daw, you can now narrate a whole exchange: Tinanong ko siya kung galit siya. Sabi niya hindi raw. Pero nalaman ko kinabukasan na hindi totoo iyon. — I asked her if she was angry. She said no. But I found out the next day that wasn't true.",
+      "examples": [
+        {"tl": "Nagtanong siya tungkol sa presyo ng kuwarto.", "en": "He asked about the price of the room."},
+        {"tl": "Itinanong ko kung anong oras magbubukas ang tindahan.", "en": "I asked what time the store opens."},
+        {"tl": "Tinanong ako ng pulis kung saan ako nakatira.", "en": "The policeman asked me where I live."},
+        {"tl": "Tinawag ko siya kagabi pero walang sumagot.", "en": "I called him last night but nobody answered."},
+        {"tl": "Ikuwento mo nga kung ano ang sinabi niya sa iyo.", "en": "Do tell me what she said to you."},
+        {"tl": "Nalaman naming kasal na pala sila noon pa.", "en": "We found out they had actually been married for a while."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "sabihin (-in)", "en": "to say, tell (object focus)", "pos": "verb", "note": "sinabi, sinasabi, sasabihin", "example": {"tl": "Sinabi niyang huwag na kaming maghintay.", "en": "She said we shouldn't wait anymore."}},
+    {"tl": "sabihan (-an)", "en": "to tell someone (person in focus)", "pos": "verb", "note": "sinabihan, sinasabihan, sasabihan", "example": {"tl": "Sabihan mo ang mga bisita na alis na tayo.", "en": "Tell the guests we're leaving now."}},
+    {"tl": "ayon kay / ayon sa", "en": "according to", "pos": "phrase", "example": {"tl": "Ayon sa lider ng barangay, ayos na ang tubig bukas.", "en": "According to the barangay leader, the water will be fixed tomorrow."}},
+    {"tl": "magtanong (mag-)", "en": "to ask (a question), inquire", "pos": "verb", "note": "nagtanong, nagtatanong, magtatanong", "example": {"tl": "Huwag kang mahiyang magtanong kung may hindi ka maintindihan.", "en": "Don't be shy to ask if there's something you don't understand."}},
+    {"tl": "itanong (i-)", "en": "to ask (the question in focus)", "pos": "verb", "note": "itinanong, itinatanong, itatanong", "example": {"tl": "Itinanong ko sa kanila kung bakit sarado ang daan.", "en": "I asked them why the road was closed."}},
+    {"tl": "tanungin (-in)", "en": "to ask (the person in focus)", "pos": "verb", "note": "tinanong, tinatanong, tatanungin", "example": {"tl": "Tanungin natin ang drayber kung dadaan siya sa palengke.", "en": "Let's ask the driver if he'll pass by the market."}},
+    {"tl": "sumagot (um)", "en": "to answer, reply", "pos": "verb", "note": "sumagot, sumasagot, sasagot", "example": {"tl": "Tumawag ako nang tatlong beses pero walang sumagot.", "en": "I called three times but nobody answered."}},
+    {"tl": "sagutin (-in)", "en": "to answer (the question/person in focus)", "pos": "verb", "note": "sinagot, sinasagot, sasagutin", "example": {"tl": "Sinagot niya ang lahat ng tanong ng mga bata.", "en": "She answered all the children's questions."}},
+    {"tl": "magkuwento (mag-)", "en": "to tell stories, narrate", "pos": "verb", "note": "nagkuwento, nagkukuwento, magkukuwento", "example": {"tl": "Mahilig magkuwento ang lolo ko tungkol sa kabataan niya.", "en": "My grandfather loves telling stories about his youth."}},
+    {"tl": "ikuwento (i-)", "en": "to recount, tell (something specific)", "pos": "verb", "note": "ikinuwento, ikinukuwento, ikukuwento", "example": {"tl": "Ikinuwento niya sa akin ang buong pangyayari.", "en": "He recounted the whole incident to me."}},
+    {"tl": "ibalita (i-)", "en": "to relay news, report", "pos": "verb", "note": "ibinalita, ibinabalita, ibabalita", "example": {"tl": "Ibinalita niya agad sa pamilya ang magandang resulta.", "en": "She immediately relayed the good result to the family."}},
+    {"tl": "balita", "en": "news", "pos": "noun", "note": "Anong balita? = what's the news?", "example": {"tl": "May balita ka ba tungkol sa mga kaklase natin?", "en": "Do you have news about our classmates?"}},
+    {"tl": "magpaalam (mag-)", "en": "to say goodbye; to ask permission", "pos": "verb", "note": "nagpaalam, nagpapaalam, magpapaalam", "example": {"tl": "Nagpaalam siya sa mga magulang niya bago umalis.", "en": "He said goodbye to his parents before leaving."}},
+    {"tl": "ipaalala (i-)", "en": "to remind", "pos": "verb", "note": "ipinaalala, ipinapaalala, ipapaalala", "example": {"tl": "Ipaalala mo sa akin ang miting natin sa Lunes.", "en": "Remind me about our meeting on Monday."}},
+    {"tl": "paalala", "en": "reminder", "pos": "noun", "example": {"tl": "Salamat sa paalala — muntik ko nang makalimutan.", "en": "Thanks for the reminder — I almost forgot."}},
+    {"tl": "mensahe", "en": "message", "pos": "noun", "example": {"tl": "May iniwan siyang mensahe para sa iyo sa mesa.", "en": "She left a message for you on the table."}},
+    {"tl": "pangako", "en": "promise", "pos": "noun", "note": "tuparin ang pangako = keep a promise", "example": {"tl": "Pangako niya, huling beses na raw iyon.", "en": "He promised that was the last time."}},
+    {"tl": "magsinungaling (mag-)", "en": "to lie", "pos": "verb", "note": "nagsinungaling, nagsisinungaling, magsisinungaling", "example": {"tl": "Huwag kang magsinungaling sa akin — alam ko ang totoo.", "en": "Don't lie to me — I know the truth."}},
+    {"tl": "kasinungalingan", "en": "a lie", "pos": "noun", "example": {"tl": "Lumabas na kasinungalingan pala ang tsismis.", "en": "The gossip turned out to be a lie."}},
+    {"tl": "aminin (-in)", "en": "to admit", "pos": "verb", "note": "inamin, inaamin, aamining", "example": {"tl": "Inamin niya sa wakas na siya ang nakabasag ng plato.", "en": "He finally admitted he was the one who broke the plate."}},
+    {"tl": "ulitin (-in)", "en": "to repeat", "pos": "verb", "note": "inulit, inuulit, uulitin", "example": {"tl": "Pakiulit nga ang sinabi mo — maingay kasi dito.", "en": "Please repeat what you said — it's noisy here."}},
+    {"tl": "usapan", "en": "conversation; agreement", "pos": "noun", "note": "Ano ang usapan? = what was agreed?", "example": {"tl": "Ang usapan natin, magkikita tayo nang alas-sais.", "en": "Our agreement was to meet at six."}},
+    {"tl": "malaman (ma--an)", "en": "to find out, learn (information)", "pos": "verb", "note": "nalaman, nalalaman, malalaman", "example": {"tl": "Nalaman ko sa kapitbahay na lilipat na kayo.", "en": "I found out from the neighbor that you're moving."}},
+    {"tl": "Ano raw?", "en": "What did he/she say?", "pos": "phrase", "note": "asks for a relay of what was said; Ano nga ulit? asks the same speaker to repeat", "example": {"tl": "Ano raw? Hindi ko narinig ang anunsiyo.", "en": "What did they say? I didn't hear the announcement."}},
+    {"tl": "totoo", "en": "true", "pos": "adjective", "note": "Totoo ba? = really? is it true?", "example": {"tl": "Totoo bang ikakasal na si Ramil?", "en": "Is it true that Ramil is getting married?"}},
+    {"tl": "biyenan", "en": "parent-in-law", "pos": "noun", "example": {"tl": "Sabi ng biyenan ko, masarap daw ang luto ko. Sana totoo!", "en": "My mother-in-law said my cooking is good. I hope it's true!"}}
+  ],
+  "dialogue": {
+    "title": "Ano raw ang sabi ni Tita?",
+    "context": "Nena just got off the phone with their aunt; her brother Carlo wants the full report.",
+    "lines": [
+      {"speaker": "Carlo", "tl": "Sino ang kausap mo kanina? Ang tagal ninyo ah.", "en": "Who were you talking to earlier? You took so long."},
+      {"speaker": "Nena", "tl": "Si Tita Baby. May mga ibinalita siya tungkol sa reunion sa Disyembre.", "en": "Tita Baby. She had news about the reunion in December."},
+      {"speaker": "Carlo", "tl": "Ano raw? Ikuwento mo nga sa akin.", "en": "What did she say? Tell me."},
+      {"speaker": "Nena", "tl": "Sa bahay daw nila gaganapin, hindi na sa beach. Mas mura raw.", "en": "It'll be held at their house, she says, not at the beach anymore. Cheaper, apparently."},
+      {"speaker": "Carlo", "tl": "Sayang! Tinanong mo ba kung bakit hindi na lang sa resort?", "en": "Too bad! Did you ask why not just at the resort?"},
+      {"speaker": "Nena", "tl": "Itinanong ko nga. Sabi niya, tumaas daw nang sobra ang presyo ngayong peak season.", "en": "I did ask. She said the prices went up a lot this peak season."},
+      {"speaker": "Carlo", "tl": "Ah, ganoon ba. E si Kuya Jun, sasama raw ba?", "en": "Ah, I see. And Kuya Jun, is he coming, did she say?"},
+      {"speaker": "Nena", "tl": "Hindi pa raw sigurado. May pangako raw kasi siyang duty sa ospital.", "en": "Not sure yet, she says. Apparently he has a promised hospital duty."},
+      {"speaker": "Carlo", "tl": "Sabihan mo siyang mag-file na ng leave. Isang beses lang ito sa isang taon!", "en": "Tell him to file a leave. This happens only once a year!"},
+      {"speaker": "Nena", "tl": "Sinabihan ko na! Sumagot lang siya ng 'titingnan ko'.", "en": "I already told him! He only answered 'I'll see'."},
+      {"speaker": "Carlo", "tl": "Ipaalala mo ulit sa kaniya sa Lunes. Ay — huwag mong sabihing galing sa akin.", "en": "Remind him again on Monday. Oh — don't say it came from me."},
+      {"speaker": "Nena", "tl": "Bakit naman? Sige na nga. Sasabihin kong utos daw ni Tita Baby!", "en": "Why not? Oh fine. I'll say it's Tita Baby's orders!"}
+    ]
+  },
+  "reading": {
+    "title": "Ang tsismis sa aming kalye",
+    "tl": "Isang umaga, may kumalat na tsismis sa aming kalye: ibebenta raw ni Aling Marta ang kaniyang panaderya. Ayon sa ilang kapitbahay, may nakakita raw ng dayuhang kausap niya sa loob ng tindahan. Sabi pa ng iba, uuwi na raw siya sa probinsya dahil pagod na siya.\n\nNalungkot ang maraming suki. Dalawampung taon nang bahagi ng umaga namin ang mainit niyang pandesal. Kaya isang hapon, naglakas-loob akong magtanong. Tinanong ko si Aling Marta kung totoo ang balita. Tumawa siya nang malakas. Ang totoo raw, ang dayuhang nakita nila ay ang asawa ng pamangkin niya, at ang pinag-uusapan nila ay ang pagpapaayos ng lumang pugon. Hindi raw niya ibebenta ang panaderya kahit kailan.\n\nKinabukasan, ikinuwento ko sa lahat ang nalaman ko. Natuwa ang mga tao, pero may natutunan din kami: bago maniwala sa sabi-sabi, magtanong muna sa pinag-uusapan mismo.",
+    "en": "One morning, a rumor spread down our street: Aling Marta was supposedly selling her bakery. According to some neighbors, someone had seen her talking with a foreigner inside the shop. Others even said she was going home to the province because she was tired.\n\nMany regular customers were saddened. For twenty years her warm pandesal had been part of our mornings. So one afternoon, I gathered the courage to ask. I asked Aling Marta whether the news was true. She laughed out loud. The truth, she said, was that the foreigner they saw was her niece's husband, and what they were discussing was the repair of the old oven. She would never sell the bakery, she said.\n\nThe next day, I told everyone what I had learned. People were happy, but we also learned something: before believing hearsay, first ask the person being talked about.",
+    "gloss": [
+      {"tl": "kumalat", "en": "spread (of news, rumors)"},
+      {"tl": "naglakas-loob", "en": "gathered the courage"},
+      {"tl": "pamangkin", "en": "niece/nephew"},
+      {"tl": "pugon", "en": "oven"},
+      {"tl": "kahit kailan", "en": "ever, at any time (with negative: never)"},
+      {"tl": "sabi-sabi", "en": "hearsay, word going around"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "Which correctly reports 'Ana said she is moving in January'?", "choices": ["Sinabi ni Ana na lilipat siya sa Enero.", "Sinabi ni Ana kung lilipat siya sa Enero.", "Sabi ni Ana ba lilipat siya sa Enero.", "Sinabi si Ana na lilipat siya sa Enero."], "answer": 0, "explain": "Reported statements attach with na/-ng: sinabi ni Ana na lilipat siya. Kung would make it 'whether'; choice 4 wrongly promotes Ana with si after an object-focus verb."},
+    {"type": "mcq", "prompt": "After a vowel, 'reportedly' takes which form? 'Aalis ___ siya bukas.'", "choices": ["daw", "raw", "din", "rin"], "answer": 1, "explain": "Daw becomes raw after vowels (and w/y): aalis raw siya. Same sound rule as din/rin."},
+    {"type": "fill", "prompt": "Kain na ___ kayo, sabi ni Nanay. (Mom says come and eat now.)", "answer": "raw", "accept": ["raw", "daw"], "hint": "The relay particle.", "explain": "When you pass along someone else's words, daw/raw marks the relay: kain na raw kayo."},
+    {"type": "fill", "prompt": "___ ako ng pulis kung saan ako nakatira. (The policeman asked me where I live.)", "answer": "tinanong", "accept": ["tinanong"], "hint": "The person asked (ako) is in focus.", "explain": "When the person asked is the focus, use tanungin: tinanong ako ng pulis. Itanong would focus the question itself."},
+    {"type": "mcq", "prompt": "You missed what the announcer just said and want someone to relay it. You say:", "choices": ["Ano nga ulit?", "Ano raw?", "Ano kaya?", "Ano pala?"], "answer": 1, "explain": "Ano raw? asks someone to relay another person's words. Ano nga ulit? asks the same speaker to repeat themselves."},
+    {"type": "listen", "tl": "Sabi ng biyenan ko, masarap daw ang niluto kong sinigang, pero parang hindi siya kumain nang marami.", "prompt": "What does the speaker report?", "choices": ["Their in-law said the sinigang was delicious, but didn't seem to eat much", "Their in-law refused to taste the sinigang", "Their in-law cooked delicious sinigang", "Their in-law asked for the sinigang recipe"], "answer": 0, "explain": "Sabi ng biyenan ko + daw reports the compliment; pero parang hedges the observation that she didn't eat much — polite doubt."},
+    {"type": "translate", "direction": "en2tl", "prompt": "He said he can't come to the party.", "answer": "Sinabi niyang hindi siya makakapunta sa handaan.", "accept": ["Sinabi niyang hindi siya makakapunta sa handaan", "Sabi niya, hindi raw siya makakapunta sa handaan", "Sinabi niya na hindi siya makakapunta sa party", "Sabi niya hindi raw siya makakarating sa handaan"], "explain": "Sinabi niyang + reported clause; 'can't come' is the maka- abilitative makakapunta from Unit 2."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Tinanong ko siya kung galit siya, pero sabi niya hindi raw.", "answer": "I asked her if she was angry, but she said she wasn't.", "accept": ["I asked her if she was angry, but she said she wasn't", "I asked him if he was angry, but he said no", "I asked her whether she was mad but she said no"], "explain": "Tanungin + kung for a reported yes/no question; hindi raw relays her denial."},
+    {"type": "fill", "prompt": "___ mo nga sa akin ang buong nangyari kahapon. (Recount the whole thing to me — the story in focus)", "answer": "ikuwento", "accept": ["ikuwento"], "hint": "The i- verb for telling something specific.", "explain": "The specific story is in focus, so i-: ikuwento mo. Nga softens the request, Unit 5 style."},
+    {"type": "mcq", "prompt": "'Sabihan mo si Ben na maghintay sa labas.' What are you being asked to do?", "choices": ["Wait outside with Ben", "Tell Ben to wait outside", "Ask Ben whether to wait outside", "Remind Ben you waited outside"], "answer": 1, "explain": "Sabihan focuses the person told: tell Ben. The instruction attaches with na + infinitive: na maghintay."},
+    {"type": "listen", "tl": "Nalaman ko sa kapitbahay na ibebenta raw nila ang bahay, pero hindi ko pa alam kung totoo.", "prompt": "What is the speaker's situation?", "choices": ["They confirmed the house is for sale", "They heard from a neighbor the house will supposedly be sold, but don't know yet if it's true", "They are selling their own house", "The neighbor bought their house"], "answer": 1, "explain": "Nalaman ko sa kapitbahay = found out from the neighbor; raw marks hearsay; kung totoo = whether it's true."},
+    {"type": "translate", "direction": "en2tl", "prompt": "Remind him about our agreement on Monday.", "answer": "Ipaalala mo sa kaniya ang usapan natin sa Lunes.", "accept": ["Ipaalala mo sa kaniya ang usapan natin sa Lunes", "Ipaalala mo sa kanya ang usapan natin sa Lunes", "Ipaalala mo ang usapan natin sa kaniya sa Lunes"], "explain": "Ipaalala (i-) focuses the thing reminded about; the person reminded takes sa: sa kaniya."}
+  ]
+}

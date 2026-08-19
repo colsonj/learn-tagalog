@@ -1,0 +1,104 @@
+{
+  "id": "a2-u08",
+  "title": "Taller, kindest, just like Mom: comparisons",
+  "objectives": [
+    "Compare two things with mas ... kaysa",
+    "Express the superlative with pinaka-",
+    "Say two things are equal with kasing- and alike with gaya ng / tulad ng",
+    "Describe people's appearance and personality"
+  ],
+  "grammar": [
+    {
+      "title": "Mas ... kaysa: comparing two things",
+      "explanation": "To compare, put mas (more) before the adjective: 'Mas mura ito' — this is cheaper. To name what you're comparing against, add kaysa: kaysa sa + common noun, kaysa kay + personal name.\n\n'Mas matangkad si Ben kaysa kay Carlo.' — Ben is taller than Carlo.\n'Mas masarap ang mangga kaysa sa saging.' — Mangoes are tastier than bananas.\n\nIn relaxed speech you'll also hear kaysa dropped to plain sa ('Mas matangkad si Ben sa akin') or kesa — all fine, but learn the full kaysa sa / kaysa kay pattern first.\n\nThe 'less' direction usually flips the adjective rather than using a 'less' word: instead of 'less tall', say mas pandak (shorter). To soften a comparison: medyo (somewhat) — 'Medyo mas mahal dito.'",
+      "examples": [
+        {"tl": "Mas mura ang gulay sa palengke kaysa sa supermarket.", "en": "Vegetables are cheaper at the market than at the supermarket."},
+        {"tl": "Mas matanda ako kaysa sa kapatid ko, pero mas matangkad siya!", "en": "I'm older than my sibling, but he's taller!"},
+        {"tl": "Mas gusto ko ang kape kaysa sa tsaa.", "en": "I like coffee more than tea."}
+      ]
+    },
+    {
+      "title": "Pinaka-: the superlative",
+      "explanation": "The superlative is a prefix: pinaka- + adjective (the ma- usually stays): pinakamaganda (most beautiful), pinakamatalino (smartest), pinakamura (cheapest), pinakamalaki (biggest).\n\n'Si Ana ang pinakamatalino sa klase.' — Ana is the smartest in the class. Notice the frame: ang pinaka- phrase names the champion, and sa + group tells you the field of competition (sa klase, sa pamilya, sa lahat — of all).\n\nA very common conversational move puts the pinaka- phrase up front with ang: 'Ito ang pinakamasarap na adobo sa Maynila!' — This is the tastiest adobo in Manila! Don't forget the linker (-ng/na) when the superlative modifies a noun: pinakamasarap NA adobo, pinakamalaking kuwarto.",
+      "examples": [
+        {"tl": "Ito ang pinakamurang cellphone sa tindahan.", "en": "This is the cheapest cellphone in the store."},
+        {"tl": "Si Lola ang pinakamabait sa pamilya namin.", "en": "Grandma is the kindest in our family."},
+        {"tl": "Ano ang pinakamataas na bundok sa Pilipinas?", "en": "What is the tallest mountain in the Philippines?"}
+      ]
+    },
+    {
+      "title": "Kasing-, gaya ng, tulad ng: as ... as, and 'like'",
+      "explanation": "To say two things are EQUAL, prefix kasing- to the adjective root (the ma- falls off): kasingtangkad (as tall as), kasingganda (as beautiful as), kasingbait (as kind as). The standard of comparison takes ng-marking: ni before names, ng before nouns:\n\n'Kasingtangkad ako ni Ben.' — I'm as tall as Ben.\n'Hindi kasingtamis ng mangga ang papaya.' — Papaya isn't as sweet as mango.\n\nTo say 'like/similar to' without an adjective, use gaya ng or tulad ng (they're interchangeable): gaya ng nanay ko (like my mom), tulad ng sabi ko (like I said). Before names: gaya ni / tulad ni.\n\n'Gaya ng tatay ko, mahilig ako sa basketball.' — Like my dad, I'm into basketball. Related and very handy: mukhang + adjective/noun = 'looks like/seems': 'Mukhang pagod ka' — you look tired. 'Mukhang uulan' — looks like rain. And magkamukha = (two people) look alike: 'Magkamukha kayo ng kapatid mo!'",
+      "examples": [
+        {"tl": "Kasingbait niya ang nanay niya.", "en": "His mom is as kind as he is."},
+        {"tl": "Tulad ng lola ko, madaldal din ako.", "en": "Like my grandma, I'm also talkative."},
+        {"tl": "Mukhang masaya ka ngayon, ah!", "en": "You look happy today!"},
+        {"tl": "Magkamukha talaga kayo ng ate mo.", "en": "You and your big sister really look alike."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"tl": "mas", "en": "more (comparative)", "pos": "particle", "example": {"tl": "Mas malamig sa Baguio kaysa sa Maynila.", "en": "It's colder in Baguio than in Manila."}},
+    {"tl": "kaysa", "en": "than", "pos": "conjunction", "note": "kaysa sa + noun, kaysa kay + name", "example": {"tl": "Mas mabilis ang MRT kaysa sa bus.", "en": "The MRT is faster than the bus."}},
+    {"tl": "pinaka-", "en": "the most (superlative prefix)", "pos": "particle", "example": {"tl": "Ito ang pinakamasarap na halo-halo dito.", "en": "This is the most delicious halo-halo here."}},
+    {"tl": "kasing-", "en": "as ... as (equality prefix)", "pos": "particle", "note": "kasing + adjective root: kasingtangkad ni Ben", "example": {"tl": "Kasingtangkad na ng tatay niya ang anak.", "en": "The son is now as tall as his dad."}},
+    {"tl": "gaya ng", "en": "like, the same as", "pos": "phrase", "note": "gaya ni before names", "example": {"tl": "Gaya ng nanay ko, mahilig akong magluto.", "en": "Like my mom, I love to cook."}},
+    {"tl": "tulad ng", "en": "like, similar to", "pos": "phrase", "note": "tulad ni before names", "example": {"tl": "Tulad ng sabi ko, darating ako nang maaga.", "en": "Like I said, I'll arrive early."}},
+    {"tl": "matangkad", "en": "tall (person)", "pos": "adjective", "example": {"tl": "Matangkad ang bagong kasamahan namin.", "en": "Our new workmate is tall."}},
+    {"tl": "pandak", "en": "short (person)", "pos": "adjective", "note": "can be teasing; maliit is gentler", "example": {"tl": "Mas pandak ako kaysa sa kapatid ko.", "en": "I'm shorter than my sibling."}},
+    {"tl": "payat", "en": "thin, slim", "pos": "adjective", "example": {"tl": "Payat siya noong bata siya.", "en": "He was thin when he was a kid."}},
+    {"tl": "mataba", "en": "fat, heavy-set", "pos": "adjective", "note": "blunt; use with care", "example": {"tl": "Mataba ang pusa namin. Kain nang kain!", "en": "Our cat is fat. It just eats and eats!"}},
+    {"tl": "guwapo", "en": "handsome", "pos": "adjective", "note": "for women: maganda", "example": {"tl": "Guwapo raw ang bagong titser. Totoo ba?", "en": "They say the new teacher is handsome. Is it true?"}},
+    {"tl": "buhok", "en": "hair", "pos": "noun", "example": {"tl": "Mahaba ang buhok ni Carla.", "en": "Carla's hair is long."}},
+    {"tl": "kulot", "en": "curly", "pos": "adjective", "example": {"tl": "Kulot ang buhok ng anak nila.", "en": "Their child's hair is curly."}},
+    {"tl": "tuwid", "en": "straight", "pos": "adjective", "note": "tuwid na buhok = straight hair", "example": {"tl": "Tuwid at maikli ang buhok niya ngayon.", "en": "Her hair is straight and short now."}},
+    {"tl": "mukha", "en": "face", "pos": "noun", "example": {"tl": "Hugasan mo ang mukha mo. May sauce!", "en": "Wash your face. There's sauce on it!"}},
+    {"tl": "mukhang", "en": "looks like, seems", "pos": "particle", "note": "mukha + linker: mukhang pagod, mukhang uulan", "example": {"tl": "Mukhang masarap ang niluluto mo!", "en": "What you're cooking looks delicious!"}},
+    {"tl": "magkamukha", "en": "looking alike", "pos": "adjective", "example": {"tl": "Magkamukha ang magkapatid na iyon.", "en": "Those siblings look alike."}},
+    {"tl": "masipag", "en": "hardworking", "pos": "adjective", "example": {"tl": "Pinakamasipag si Nena sa opisina namin.", "en": "Nena is the most hardworking in our office."}},
+    {"tl": "tamad", "en": "lazy", "pos": "adjective", "example": {"tl": "Medyo tamad ako tuwing Linggo.", "en": "I'm a bit lazy on Sundays."}},
+    {"tl": "matalino", "en": "intelligent, smart", "pos": "adjective", "example": {"tl": "Matalino at masipag ang estudyanteng iyon.", "en": "That student is smart and hardworking."}},
+    {"tl": "masayahin", "en": "cheerful (by nature)", "pos": "adjective", "note": "-in suffix = 'tends to be'", "example": {"tl": "Masayahin ang lola ko kahit matanda na siya.", "en": "My grandma is cheerful even though she's old now."}},
+    {"tl": "mahiyain", "en": "shy", "pos": "adjective", "example": {"tl": "Mahiyain ang anak ko sa mga bago niyang kaklase.", "en": "My child is shy around her new classmates."}},
+    {"tl": "madaldal", "en": "talkative, chatty", "pos": "adjective", "example": {"tl": "Ang daldal mo naman! Makinig ka muna.", "en": "You're so chatty! Listen first."}},
+    {"tl": "tahimik", "en": "quiet", "pos": "adjective", "example": {"tl": "Tahimik siya sa klase pero madaldal sa bahay.", "en": "She's quiet in class but chatty at home."}},
+    {"tl": "palakaibigan", "en": "friendly, sociable", "pos": "adjective", "example": {"tl": "Palakaibigan ang mga kapitbahay namin.", "en": "Our neighbors are friendly."}},
+    {"tl": "suplada", "en": "snobbish, aloof (female)", "pos": "adjective", "note": "suplado for a man; casual Manila word", "example": {"tl": "Hindi siya suplada; mahiyain lang talaga siya.", "en": "She's not a snob; she's really just shy."}},
+    {"tl": "mahilig sa", "en": "fond of, into", "pos": "phrase", "note": "mahilig sa + noun; mahilig + linker + verb", "example": {"tl": "Mahilig ako sa mga lumang kanta.", "en": "I'm into old songs."}},
+    {"tl": "medyo", "en": "somewhat, a bit", "pos": "adverb", "example": {"tl": "Medyo mahal dito, pero masarap.", "en": "It's a bit pricey here, but delicious."}}
+  ],
+  "dialogue": {
+    "title": "Which sister is which?",
+    "context": "Nina shows her officemate Paulo a photo from her sister's graduation, and Paulo tries to guess who's who.",
+    "lines": [
+      {"speaker": "Paulo", "tl": "Uy, sino ito sa picture? Kapatid mo ba?", "en": "Hey, who's this in the picture? Your sister?"},
+      {"speaker": "Nina", "tl": "Oo, sila ang dalawa kong kapatid, sina Joy at Karen.", "en": "Yes, those are my two sisters, Joy and Karen."},
+      {"speaker": "Paulo", "tl": "Naku, magkamukha kayong tatlo! Sino ang mas matanda?", "en": "Wow, the three of you look alike! Who's older?"},
+      {"speaker": "Nina", "tl": "Si Joy, iyong may mahabang kulot na buhok. Mas matanda siya sa akin.", "en": "Joy, the one with long curly hair. She's older than me."},
+      {"speaker": "Paulo", "tl": "At si Karen iyong matangkad na may tuwid na buhok?", "en": "And Karen is the tall one with straight hair?"},
+      {"speaker": "Nina", "tl": "Tama! Pinakamatangkad siya sa aming tatlo, kahit siya ang bunso.", "en": "Right! She's the tallest of us three, even though she's the youngest."},
+      {"speaker": "Paulo", "tl": "Pareho ba kayo ng ugali?", "en": "Do you all have the same personality?"},
+      {"speaker": "Nina", "tl": "Hindi! Madaldal ako, pero tahimik at mahiyain si Karen.", "en": "No! I'm chatty, but Karen is quiet and shy."},
+      {"speaker": "Nina", "tl": "Si Joy naman ang pinakamasipag sa amin. Gaya ng nanay namin, mahilig siyang magluto.", "en": "Joy is the most hardworking of us. Like our mom, she loves to cook."},
+      {"speaker": "Paulo", "tl": "Mukhang masaya ang pamilya ninyo, ah.", "en": "Your family seems fun."},
+      {"speaker": "Nina", "tl": "Oo naman! Pero ako pa rin ang pinakamagandang kapatid, ha!", "en": "Of course! But I'm still the prettiest sibling, okay!"},
+      {"speaker": "Paulo", "tl": "Hindi ako sasagot diyan. Baka magalit ang mga kapatid mo!", "en": "I'm not answering that. Your sisters might get mad!"}
+    ]
+  },
+  "exercises": [
+    {"type": "mcq", "prompt": "How do you say 'Ben is taller than Carlo'?", "choices": ["Matangkad si Ben kay Carlo.", "Mas matangkad si Ben kaysa kay Carlo.", "Pinakamatangkad si Ben kay Carlo.", "Kasingtangkad si Ben ni Carlo."], "answer": 1, "explain": "Mas + adjective for the comparison, kaysa kay before a personal name."},
+    {"type": "fill", "prompt": "Mas mura ang gulay sa palengke ___ sa supermarket. (than at the supermarket)", "answer": "kaysa", "accept": ["kaysa"], "explain": "Kaysa sa + common noun: cheaper than at the supermarket."},
+    {"type": "mcq", "prompt": "Which means 'the smartest in the class'?", "choices": ["mas matalino sa klase", "kasingtalino sa klase", "ang pinakamatalino sa klase", "matalinong klase"], "answer": 2, "explain": "Pinaka- forms the superlative; sa klase names the group being compared."},
+    {"type": "fill", "prompt": "Si Lola ang ___mabait sa pamilya namin. (Grandma is the kindest in our family.)", "answer": "pinaka", "accept": ["pinaka", "pinaka-"], "explain": "The superlative prefix pinaka- attaches to the adjective: pinakamabait."},
+    {"type": "mcq", "prompt": "'Kasingtangkad ako ni Ben' means:", "choices": ["I'm taller than Ben.", "I'm as tall as Ben.", "Ben is the tallest.", "I look like Ben."], "answer": 1, "explain": "Kasing- + root expresses equality, with the standard marked by ni before a name."},
+    {"type": "mcq", "prompt": "What happens to the adjective in kasing- forms? (maganda → ?)", "choices": ["kasingmaganda", "kasingganda", "kasinggandang", "gandakasing"], "answer": 1, "explain": "The ma- prefix drops before kasing-: kasingganda, kasingtangkad, kasingbait."},
+    {"type": "listen", "tl": "Mas matanda si Joy kaysa kay Karen, pero mas matangkad si Karen.", "prompt": "Which is true?", "choices": ["Joy is older; Karen is taller.", "Karen is older; Joy is taller.", "They are the same age.", "Joy is both older and taller."], "answer": 0, "explain": "Mas matanda si Joy (Joy is older) kaysa kay Karen; pero mas matangkad si Karen (but Karen is taller)."},
+    {"type": "fill", "prompt": "___ ng tatay ko, mahilig ako sa basketball. (Like my dad, I'm into basketball.)", "answer": "Gaya", "accept": ["gaya", "Gaya", "tulad", "Tulad"], "explain": "Gaya ng and tulad ng both mean 'like/similar to' and are interchangeable here."},
+    {"type": "mcq", "prompt": "Your friend arrives yawning with messy hair. The natural comment is:", "choices": ["Mukhang pagod ka.", "Kasingpagod ka.", "Pinakapagod ka.", "Magkamukha ka."], "answer": 0, "explain": "Mukhang + adjective = 'you look/seem...': mukhang pagod ka, you look tired."},
+    {"type": "translate", "direction": "en2tl", "prompt": "This is the cheapest cellphone in the store.", "answer": "Ito ang pinakamurang cellphone sa tindahan.", "accept": ["Ito ang pinakamurang cellphone sa tindahan", "Ang pinakamurang cellphone sa tindahan ay ito", "Ito ang pinakamurang cellphone dito sa tindahan"], "explain": "Pinaka- + mura + linker -ng before the noun: pinakamurang cellphone."},
+    {"type": "translate", "direction": "tl2en", "prompt": "Tahimik siya sa opisina, pero madaldal siya sa mga kaibigan niya.", "answer": "He is quiet at the office, but talkative with his friends.", "accept": ["He is quiet at the office, but talkative with his friends", "She is quiet at the office but chatty with her friends", "He's quiet at the office but talkative around his friends"], "explain": "Tahimik = quiet, madaldal = talkative; pero contrasts the two settings."},
+    {"type": "translate", "direction": "en2tl", "prompt": "I like coffee more than tea.", "answer": "Mas gusto ko ang kape kaysa sa tsaa.", "accept": ["Mas gusto ko ang kape kaysa sa tsaa", "Mas gusto ko ng kape kaysa sa tsaa", "Mas gusto ko ang kape kesa sa tsaa"], "explain": "Mas gusto ko + the preferred thing, kaysa sa + the runner-up."},
+    {"type": "mcq", "prompt": "Someone describes a new neighbor: 'Hindi siya suplada; mahiyain lang siya.' What are they saying?", "choices": ["She's snobbish and shy.", "She's not a snob — she's just shy.", "She's neither snobbish nor shy.", "She's only friendly at home."], "answer": 1, "explain": "Hindi suplada rejects 'snobbish'; mahiyain lang (just shy) offers the kinder explanation, with lang from Unit 5."},
+    {"type": "fill", "prompt": "Describe someone cheerful by nature: ___ ang lola ko kahit matanda na siya.", "answer": "Masayahin", "accept": ["masayahin", "Masayahin"], "hint": "The -in suffix on masaya means 'tends to be'.", "explain": "Masayahin means characteristically cheerful — a personality trait, not just a mood (masaya)."}
+  ]
+}
