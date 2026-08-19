@@ -1,7 +1,25 @@
-# TagTrain 🇵🇭
+# TagTrain — Free Open-Source Tagalog Course 🇵🇭
 
-A fully self-contained Windows app that teaches Tagalog from complete beginner
-to CEFR B2, with a milestone exam gating each level.
+**Learn Tagalog from complete beginner (A1) to upper-intermediate (B2),
+entirely offline.**
+
+TagTrain is a complete, self-contained course in **Tagalog** — also known as
+**Filipino**, the national language of the Philippines — packed into a single
+Windows executable. It takes an English speaker from zero knowledge to CEFR
+B2, with a milestone exam gating each level. No account, no subscription, no
+ads, no internet connection needed.
+
+- **Full curriculum**: 44 structured units across four CEFR levels
+  (A1 → A2 → B1 → B2) — grammar lessons, dialogues, and reading passages
+- **1,271 vocabulary items**, every one with an example sentence and audio
+- **Native-quality Filipino audio**: 3,522 embedded recordings of a male
+  Filipino neural voice, with Google-Translate-style slow replay
+- **Spaced-repetition flashcards** (SM-2, Anki-style) built from every unit
+  you study
+- **731 exercises and exam questions** — multiple choice, fill-in,
+  translation, and listening
+- **CEFR-aligned milestone exams**: timed, scored, and required to unlock the
+  next level
 
 > **Status: as-is / not maintained.** This project is published in a finished
 > state and there will likely not be any further updates, fixes, or responses
@@ -36,7 +54,7 @@ the audio after editing the curriculum, run `python3 gen_audio.py`
 any older version still running in the background and takes over, so you
 always see the build you double-clicked.
 
-## Structure of the course
+## Course structure: Tagalog from A1 to B2
 
 - **A1 Foundations** — 10 units: greetings and po/opo, numbers and time,
   family, food, adjectives and linkers, location, first verbs (mag-/-um- and
