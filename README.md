@@ -21,9 +21,9 @@ ads, no internet connection needed.
 - **CEFR-aligned milestone exams**: timed, scored, and required to unlock the
   next level
 
-> **Status: as-is / not maintained.** This project is published in a finished
-> state and there will likely not be any further updates, fixes, or responses
-> to issues and pull requests. Feel free to fork it.
+> **TagTrain v1.0 is feature-complete and published as a finished project.**
+> Active maintenance and support are not currently planned. Feel free to fork
+> it.
 
 **Download:** grab `TagTrain.exe` from the
 [latest release](../../releases/latest) — no install needed, just run it.
