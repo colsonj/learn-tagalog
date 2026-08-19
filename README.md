@@ -71,3 +71,23 @@ Requires Go 1.21+ and Python 3 (for validation only):
 
 Curriculum content lives in `data/<level>/` as JSON; the format is documented
 in `data/SCHEMA.md`. The exe embeds `data/` and `web/` at compile time.
+
+## License, attributions and disclaimers
+
+- **Code** (Go server, web UI, scripts): [MIT](LICENSE).
+- **Curriculum content** (`data/` — lessons, vocabulary, dialogues, readings,
+  exercises, exams): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  — reuse it freely for any learning material, with attribution.
+- **Audio** (`web/audio/`): synthesized with Microsoft's *fil-PH-AngeloNeural*
+  neural text-to-speech voice via the open-source
+  [edge-tts](https://github.com/rany2/edge-tts) tool. These recordings remain
+  subject to Microsoft's terms and are **not** covered by the licenses above;
+  they are included for personal and educational use. See `LICENSE` for
+  details and `gen_audio.py` to regenerate audio with a service you control.
+- **Flashcard scheduling** uses the SM-2 spaced-repetition algorithm by
+  Piotr Woźniak (SuperMemo, 1987).
+- **CEFR**: the Common European Framework of Reference for Languages is a
+  framework of the Council of Europe. This project is not affiliated with or
+  endorsed by the Council of Europe; level milestones and exams are
+  self-assessments aligned to the CEFR can-do descriptors, not official
+  certification.
